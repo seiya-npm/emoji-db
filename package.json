@@ -5,7 +5,7 @@
     "directories": {
         "doc": "docs"
     },
-    "main": "emoji-db.js",
+    "main": "src/emoji-db.js",
     "author": "Seiya Dev.",
     "license": "MIT",
     "homepage": "https://github.com/seiya-npm/emoji-db#README",

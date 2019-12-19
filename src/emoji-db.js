@@ -1,7 +1,7 @@
 const fs = require('fs');
 const EmojiSearcher = require('./emoji-searcher');
 
-function initDb({ dbDir }){
+function initDb({ dbDir, ignoreUnqualified }){
     // default db filenames
     const filePrefx = 'emojilist_';
     const fileSuffx = '.json';
@@ -29,6 +29,9 @@ function initDb({ dbDir }){
     // load dbs
     let emojiDbData = {};
     for (const dbFile of dbFiles) {
+        if(ignoreUnqualified && dbFile.match(/unqualified/)){
+            continue;
+        }
         let loadEmojiDbData = require(dbDir + filePrefx + dbFile + fileSuffx);
         emojiDbData = Object.assign({}, emojiDbData, loadEmojiDbData);
     }
@@ -37,14 +40,14 @@ function initDb({ dbDir }){
 }
 
 class EmojiDb {
-    constructor({ useDefaultDb, dbDir }) {
+    constructor({ useDefaultDb, dbDir, ignoreUnqualified }) {
         // set defaults
         this.codePointSeparator = '-';
         this.dbData = {};
         // empty db
         if(useDefaultDb && !dbDir){
             dbDir = __dirname + '/database/';
-            this.dbData = initDb({ useDefaultDb, dbDir });
+            this.dbData = initDb({ dbDir, ignoreUnqualified });
         }
         else if(!useDefaultDb && dbDir){
             this.dbData = initDb({ dbDir });
