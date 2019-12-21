@@ -82,8 +82,15 @@ class EmojiDb {
         }
         return codePointArray.join(separator || this.codePointSeparator);
     }
-    fromCodePoint(codePoint){
-        codePoint = typeof codePoint === 'string' ? parseInt(codePoint, 16) : codePoint;
+    fromCodePoint(codePoint, separator){
+        separator = separator || this.codePointSeparator;
+        if(typeof codePoint === 'string'){
+            let codePointArray = codePoint.split(separator);
+            for (let c in codePointArray) {
+                codePointArray[c] = String.fromCodePoint(parseInt(codePointArray[c], 16));
+            }
+            return codePointArray.join('');
+        }
         return String.fromCodePoint(codePoint);
     }
     toCodePointArray(emojiArray, separator){

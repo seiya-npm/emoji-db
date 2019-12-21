@@ -20,6 +20,7 @@
         "codepoints": [
             "U+1F970"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -28,7 +29,10 @@
             ],
             "folder_id": "237",
             "file_name": "smiling-face-with-smiling-eyes-and-three-hearts_1f970.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Affection",
+        "skin_mode": false
     },
     "1f975": {
         "code": "1f975",
@@ -51,6 +55,7 @@
         "codepoints": [
             "U+1F975"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -59,7 +64,10 @@
             ],
             "folder_id": "237",
             "file_name": "overheated-face_1f975.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Unwell",
+        "skin_mode": false
     },
     "1f976": {
         "code": "1f976",
@@ -82,6 +90,7 @@
         "codepoints": [
             "U+1F976"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -90,7 +99,10 @@
             ],
             "folder_id": "237",
             "file_name": "freezing-face_1f976.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Unwell",
+        "skin_mode": false
     },
     "1f974": {
         "code": "1f974",
@@ -114,6 +126,7 @@
         "codepoints": [
             "U+1F974"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -122,7 +135,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-with-uneven-eyes-and-wavy-mouth_1f974.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Unwell",
+        "skin_mode": false
     },
     "1f973": {
         "code": "1f973",
@@ -145,6 +161,7 @@
         "codepoints": [
             "U+1F973"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -153,7 +170,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-with-party-horn-and-party-hat_1f973.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Hat",
+        "skin_mode": false
     },
     "1f97a": {
         "code": "1f97a",
@@ -174,6 +194,7 @@
         "codepoints": [
             "U+1F97A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -182,7 +203,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-with-pleading-eyes_1f97a.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Concerned",
+        "skin_mode": false
     },
     "1f9b5": {
         "code": "1f9b5",
@@ -200,6 +224,14 @@
         "codepoints": [
             "U+1F9B5"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -208,7 +240,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_1f9b5.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": false
     },
     "1f9b5-1f3fb": {
         "code": "1f9b5-1f3fb",
@@ -228,6 +263,14 @@
             "U+1F9B5",
             "U+1F3FB"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -236,7 +279,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_emoji-modifier-fitzpatrick-type-1-2_1f9b5-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b5-1f3fc": {
         "code": "1f9b5-1f3fc",
@@ -256,6 +302,14 @@
             "U+1F9B5",
             "U+1F3FC"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -264,7 +318,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_emoji-modifier-fitzpatrick-type-3_1f9b5-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b5-1f3fd": {
         "code": "1f9b5-1f3fd",
@@ -284,6 +341,14 @@
             "U+1F9B5",
             "U+1F3FD"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -292,7 +357,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_emoji-modifier-fitzpatrick-type-4_1f9b5-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b5-1f3fe": {
         "code": "1f9b5-1f3fe",
@@ -312,6 +380,14 @@
             "U+1F9B5",
             "U+1F3FE"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -320,7 +396,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_emoji-modifier-fitzpatrick-type-5_1f9b5-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b5-1f3ff": {
         "code": "1f9b5-1f3ff",
@@ -340,6 +419,14 @@
             "U+1F9B5",
             "U+1F3FF"
         ],
+        "related": [
+            "1f9b5",
+            "1f9b5-1f3fb",
+            "1f9b5-1f3fc",
+            "1f9b5-1f3fd",
+            "1f9b5-1f3fe",
+            "1f9b5-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -348,7 +435,10 @@
             ],
             "folder_id": "237",
             "file_name": "leg_emoji-modifier-fitzpatrick-type-6_1f9b5-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b6": {
         "code": "1f9b6",
@@ -366,6 +456,14 @@
         "codepoints": [
             "U+1F9B6"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -374,7 +472,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_1f9b6.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": false
     },
     "1f9b6-1f3fb": {
         "code": "1f9b6-1f3fb",
@@ -394,6 +495,14 @@
             "U+1F9B6",
             "U+1F3FB"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -402,7 +511,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_emoji-modifier-fitzpatrick-type-1-2_1f9b6-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b6-1f3fc": {
         "code": "1f9b6-1f3fc",
@@ -422,6 +534,14 @@
             "U+1F9B6",
             "U+1F3FC"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -430,7 +550,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_emoji-modifier-fitzpatrick-type-3_1f9b6-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b6-1f3fd": {
         "code": "1f9b6-1f3fd",
@@ -450,6 +573,14 @@
             "U+1F9B6",
             "U+1F3FD"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -458,7 +589,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_emoji-modifier-fitzpatrick-type-4_1f9b6-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b6-1f3fe": {
         "code": "1f9b6-1f3fe",
@@ -478,6 +612,14 @@
             "U+1F9B6",
             "U+1F3FE"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -486,7 +628,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_emoji-modifier-fitzpatrick-type-5_1f9b6-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b6-1f3ff": {
         "code": "1f9b6-1f3ff",
@@ -506,6 +651,14 @@
             "U+1F9B6",
             "U+1F3FF"
         ],
+        "related": [
+            "1f9b6",
+            "1f9b6-1f3fb",
+            "1f9b6-1f3fc",
+            "1f9b6-1f3fd",
+            "1f9b6-1f3fe",
+            "1f9b6-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -514,7 +667,10 @@
             ],
             "folder_id": "237",
             "file_name": "foot_emoji-modifier-fitzpatrick-type-6_1f9b6-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": true
     },
     "1f9b7": {
         "code": "1f9b7",
@@ -531,6 +687,7 @@
         "codepoints": [
             "U+1F9B7"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -539,7 +696,10 @@
             ],
             "folder_id": "237",
             "file_name": "tooth_1f9b7.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": false
     },
     "1f9b4": {
         "code": "1f9b4",
@@ -556,6 +716,7 @@
         "codepoints": [
             "U+1F9B4"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -564,7 +725,10 @@
             ],
             "folder_id": "237",
             "file_name": "bone_1f9b4.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Body Parts",
+        "skin_mode": false
     },
     "1f468-200d-1f9b0": {
         "code": "1f468-200d-1f9b0",
@@ -588,6 +752,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -596,7 +780,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired_1f468-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f468-1f3fb-200d-1f9b0": {
         "code": "1f468-1f3fb-200d-1f9b0",
@@ -618,6 +805,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -626,7 +833,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired-light-skin-tone_1f468-1f3fb-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fc-200d-1f9b0": {
         "code": "1f468-1f3fc-200d-1f9b0",
@@ -648,6 +858,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -656,7 +886,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fd-200d-1f9b0": {
         "code": "1f468-1f3fd-200d-1f9b0",
@@ -678,6 +911,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -686,7 +939,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fe-200d-1f9b0": {
         "code": "1f468-1f3fe-200d-1f9b0",
@@ -708,6 +964,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -716,7 +992,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3ff-200d-1f9b0": {
         "code": "1f468-1f3ff-200d-1f9b0",
@@ -738,6 +1017,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -746,7 +1045,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-red-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-200d-1f9b1": {
         "code": "1f468-200d-1f9b1",
@@ -768,6 +1070,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -776,7 +1098,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired_1f468-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f468-1f3fb-200d-1f9b1": {
         "code": "1f468-1f3fb-200d-1f9b1",
@@ -798,6 +1123,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -806,7 +1151,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired-light-skin-tone_1f468-1f3fb-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fc-200d-1f9b1": {
         "code": "1f468-1f3fc-200d-1f9b1",
@@ -828,6 +1176,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -836,7 +1204,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fd-200d-1f9b1": {
         "code": "1f468-1f3fd-200d-1f9b1",
@@ -858,6 +1229,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -866,7 +1257,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fe-200d-1f9b1": {
         "code": "1f468-1f3fe-200d-1f9b1",
@@ -888,6 +1282,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -896,7 +1310,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3ff-200d-1f9b1": {
         "code": "1f468-1f3ff-200d-1f9b1",
@@ -918,6 +1335,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -926,7 +1363,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-curly-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-200d-1f9b3": {
         "code": "1f468-200d-1f9b3",
@@ -948,6 +1388,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -956,7 +1416,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired_1f468-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f468-1f3fb-200d-1f9b3": {
         "code": "1f468-1f3fb-200d-1f9b3",
@@ -978,6 +1441,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -986,7 +1469,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired-light-skin-tone_1f468-1f3fb-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fc-200d-1f9b3": {
         "code": "1f468-1f3fc-200d-1f9b3",
@@ -1008,6 +1494,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1016,7 +1522,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fd-200d-1f9b3": {
         "code": "1f468-1f3fd-200d-1f9b3",
@@ -1038,6 +1547,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1046,7 +1575,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fe-200d-1f9b3": {
         "code": "1f468-1f3fe-200d-1f9b3",
@@ -1068,6 +1600,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1076,7 +1628,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3ff-200d-1f9b3": {
         "code": "1f468-1f3ff-200d-1f9b3",
@@ -1098,6 +1653,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1106,7 +1681,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-white-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-200d-1f9b2": {
         "code": "1f468-200d-1f9b2",
@@ -1128,6 +1706,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1136,7 +1734,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald_1f468-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f468-1f3fb-200d-1f9b2": {
         "code": "1f468-1f3fb-200d-1f9b2",
@@ -1158,6 +1759,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1166,7 +1787,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald-light-skin-tone_1f468-1f3fb-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fc-200d-1f9b2": {
         "code": "1f468-1f3fc-200d-1f9b2",
@@ -1188,6 +1812,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1196,7 +1840,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald-medium-light-skin-tone_1f468-1f3fc-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fd-200d-1f9b2": {
         "code": "1f468-1f3fd-200d-1f9b2",
@@ -1218,6 +1865,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1226,7 +1893,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald-medium-skin-tone_1f468-1f3fd-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3fe-200d-1f9b2": {
         "code": "1f468-1f3fe-200d-1f9b2",
@@ -1248,6 +1918,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1256,7 +1946,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f468-1f3ff-200d-1f9b2": {
         "code": "1f468-1f3ff-200d-1f9b2",
@@ -1278,6 +1971,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1286,7 +1999,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-bald-dark-skin-tone_1f468-1f3ff-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-200d-1f9b0": {
         "code": "1f469-200d-1f9b0",
@@ -1310,6 +2026,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1318,7 +2054,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired_1f469-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f469-1f3fb-200d-1f9b0": {
         "code": "1f469-1f3fb-200d-1f9b0",
@@ -1340,6 +2079,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1348,7 +2107,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired-light-skin-tone_1f469-1f3fb-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fc-200d-1f9b0": {
         "code": "1f469-1f3fc-200d-1f9b0",
@@ -1370,6 +2132,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1378,7 +2160,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fd-200d-1f9b0": {
         "code": "1f469-1f3fd-200d-1f9b0",
@@ -1400,6 +2185,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1408,7 +2213,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fe-200d-1f9b0": {
         "code": "1f469-1f3fe-200d-1f9b0",
@@ -1430,6 +2238,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1438,7 +2266,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3ff-200d-1f9b0": {
         "code": "1f469-1f3ff-200d-1f9b0",
@@ -1460,6 +2291,26 @@
             "U+200D",
             "U+1F9B0"
         ],
+        "related": [
+            "1f468-200d-1f9b0",
+            "1f468-1f3fb-200d-1f9b0",
+            "1f468-1f3fc-200d-1f9b0",
+            "1f468-1f3fd-200d-1f9b0",
+            "1f468-1f3fe-200d-1f9b0",
+            "1f468-1f3ff-200d-1f9b0",
+            "1f469-200d-1f9b0",
+            "1f469-1f3fb-200d-1f9b0",
+            "1f469-1f3fc-200d-1f9b0",
+            "1f469-1f3fd-200d-1f9b0",
+            "1f469-1f3fe-200d-1f9b0",
+            "1f469-1f3ff-200d-1f9b0",
+            "1f9d1-200d-1f9b0",
+            "1f9d1-1f3fb-200d-1f9b0",
+            "1f9d1-1f3fc-200d-1f9b0",
+            "1f9d1-1f3fd-200d-1f9b0",
+            "1f9d1-1f3fe-200d-1f9b0",
+            "1f9d1-1f3ff-200d-1f9b0"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1468,7 +2319,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-red-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b0.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-200d-1f9b1": {
         "code": "1f469-200d-1f9b1",
@@ -1490,6 +2344,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1498,7 +2372,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired_1f469-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f469-1f3fb-200d-1f9b1": {
         "code": "1f469-1f3fb-200d-1f9b1",
@@ -1520,6 +2397,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1528,7 +2425,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired-light-skin-tone_1f469-1f3fb-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fc-200d-1f9b1": {
         "code": "1f469-1f3fc-200d-1f9b1",
@@ -1550,6 +2450,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1558,7 +2478,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fd-200d-1f9b1": {
         "code": "1f469-1f3fd-200d-1f9b1",
@@ -1580,6 +2503,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1588,7 +2531,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fe-200d-1f9b1": {
         "code": "1f469-1f3fe-200d-1f9b1",
@@ -1610,6 +2556,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1618,7 +2584,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3ff-200d-1f9b1": {
         "code": "1f469-1f3ff-200d-1f9b1",
@@ -1640,6 +2609,26 @@
             "U+200D",
             "U+1F9B1"
         ],
+        "related": [
+            "1f468-200d-1f9b1",
+            "1f468-1f3fb-200d-1f9b1",
+            "1f468-1f3fc-200d-1f9b1",
+            "1f468-1f3fd-200d-1f9b1",
+            "1f468-1f3fe-200d-1f9b1",
+            "1f468-1f3ff-200d-1f9b1",
+            "1f469-200d-1f9b1",
+            "1f469-1f3fb-200d-1f9b1",
+            "1f469-1f3fc-200d-1f9b1",
+            "1f469-1f3fd-200d-1f9b1",
+            "1f469-1f3fe-200d-1f9b1",
+            "1f469-1f3ff-200d-1f9b1",
+            "1f9d1-200d-1f9b1",
+            "1f9d1-1f3fb-200d-1f9b1",
+            "1f9d1-1f3fc-200d-1f9b1",
+            "1f9d1-1f3fd-200d-1f9b1",
+            "1f9d1-1f3fe-200d-1f9b1",
+            "1f9d1-1f3ff-200d-1f9b1"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1648,7 +2637,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-curly-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b1.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-200d-1f9b3": {
         "code": "1f469-200d-1f9b3",
@@ -1670,6 +2662,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1678,7 +2690,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired_1f469-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f469-1f3fb-200d-1f9b3": {
         "code": "1f469-1f3fb-200d-1f9b3",
@@ -1700,6 +2715,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1708,7 +2743,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired-light-skin-tone_1f469-1f3fb-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fc-200d-1f9b3": {
         "code": "1f469-1f3fc-200d-1f9b3",
@@ -1730,6 +2768,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1738,7 +2796,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fd-200d-1f9b3": {
         "code": "1f469-1f3fd-200d-1f9b3",
@@ -1760,6 +2821,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1768,7 +2849,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fe-200d-1f9b3": {
         "code": "1f469-1f3fe-200d-1f9b3",
@@ -1790,6 +2874,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1798,7 +2902,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3ff-200d-1f9b3": {
         "code": "1f469-1f3ff-200d-1f9b3",
@@ -1820,6 +2927,26 @@
             "U+200D",
             "U+1F9B3"
         ],
+        "related": [
+            "1f468-200d-1f9b3",
+            "1f468-1f3fb-200d-1f9b3",
+            "1f468-1f3fc-200d-1f9b3",
+            "1f468-1f3fd-200d-1f9b3",
+            "1f468-1f3fe-200d-1f9b3",
+            "1f468-1f3ff-200d-1f9b3",
+            "1f469-200d-1f9b3",
+            "1f469-1f3fb-200d-1f9b3",
+            "1f469-1f3fc-200d-1f9b3",
+            "1f469-1f3fd-200d-1f9b3",
+            "1f469-1f3fe-200d-1f9b3",
+            "1f469-1f3ff-200d-1f9b3",
+            "1f9d1-200d-1f9b3",
+            "1f9d1-1f3fb-200d-1f9b3",
+            "1f9d1-1f3fc-200d-1f9b3",
+            "1f9d1-1f3fd-200d-1f9b3",
+            "1f9d1-1f3fe-200d-1f9b3",
+            "1f9d1-1f3ff-200d-1f9b3"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1828,7 +2955,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-white-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b3.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-200d-1f9b2": {
         "code": "1f469-200d-1f9b2",
@@ -1850,6 +2980,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1858,7 +3008,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald_1f469-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": false
     },
     "1f469-1f3fb-200d-1f9b2": {
         "code": "1f469-1f3fb-200d-1f9b2",
@@ -1880,6 +3033,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1888,7 +3061,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald-light-skin-tone_1f469-1f3fb-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fc-200d-1f9b2": {
         "code": "1f469-1f3fc-200d-1f9b2",
@@ -1910,6 +3086,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1918,7 +3114,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald-medium-light-skin-tone_1f469-1f3fc-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fd-200d-1f9b2": {
         "code": "1f469-1f3fd-200d-1f9b2",
@@ -1940,6 +3139,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1948,7 +3167,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald-medium-skin-tone_1f469-1f3fd-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3fe-200d-1f9b2": {
         "code": "1f469-1f3fe-200d-1f9b2",
@@ -1970,6 +3192,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1978,7 +3220,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f469-1f3ff-200d-1f9b2": {
         "code": "1f469-1f3ff-200d-1f9b2",
@@ -2000,6 +3245,26 @@
             "U+200D",
             "U+1F9B2"
         ],
+        "related": [
+            "1f468-200d-1f9b2",
+            "1f468-1f3fb-200d-1f9b2",
+            "1f468-1f3fc-200d-1f9b2",
+            "1f468-1f3fd-200d-1f9b2",
+            "1f468-1f3fe-200d-1f9b2",
+            "1f468-1f3ff-200d-1f9b2",
+            "1f469-200d-1f9b2",
+            "1f469-1f3fb-200d-1f9b2",
+            "1f469-1f3fc-200d-1f9b2",
+            "1f469-1f3fd-200d-1f9b2",
+            "1f469-1f3fe-200d-1f9b2",
+            "1f469-1f3ff-200d-1f9b2",
+            "1f9d1-200d-1f9b2",
+            "1f9d1-1f3fb-200d-1f9b2",
+            "1f9d1-1f3fc-200d-1f9b2",
+            "1f9d1-1f3fd-200d-1f9b2",
+            "1f9d1-1f3fe-200d-1f9b2",
+            "1f9d1-1f3ff-200d-1f9b2"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2008,7 +3273,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-bald-dark-skin-tone_1f469-1f3ff-200d-1f9b2.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person",
+        "skin_mode": true
     },
     "1f9b8": {
         "code": "1f9b8",
@@ -2028,6 +3296,26 @@
         "codepoints": [
             "U+1F9B8"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2036,7 +3324,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_1f9b8.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b8-1f3fb": {
         "code": "1f9b8-1f3fb",
@@ -2058,6 +3349,26 @@
             "U+1F9B8",
             "U+1F3FB"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2066,7 +3377,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_emoji-modifier-fitzpatrick-type-1-2_1f9b8-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fc": {
         "code": "1f9b8-1f3fc",
@@ -2088,6 +3402,26 @@
             "U+1F9B8",
             "U+1F3FC"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2096,7 +3430,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_emoji-modifier-fitzpatrick-type-3_1f9b8-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fd": {
         "code": "1f9b8-1f3fd",
@@ -2118,6 +3455,26 @@
             "U+1F9B8",
             "U+1F3FD"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2126,7 +3483,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_emoji-modifier-fitzpatrick-type-4_1f9b8-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fe": {
         "code": "1f9b8-1f3fe",
@@ -2148,6 +3508,26 @@
             "U+1F9B8",
             "U+1F3FE"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2156,7 +3536,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_emoji-modifier-fitzpatrick-type-5_1f9b8-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3ff": {
         "code": "1f9b8-1f3ff",
@@ -2178,6 +3561,26 @@
             "U+1F9B8",
             "U+1F3FF"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2186,7 +3589,10 @@
             ],
             "folder_id": "237",
             "file_name": "superhero_emoji-modifier-fitzpatrick-type-6_1f9b8-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-200d-2642-fe0f": {
         "code": "1f9b8-200d-2642-fe0f",
@@ -2209,6 +3615,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2217,7 +3643,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero_1f9b8-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b8-1f3fb-200d-2642-fe0f": {
         "code": "1f9b8-1f3fb-200d-2642-fe0f",
@@ -2242,6 +3671,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2250,7 +3699,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero-light-skin-tone_1f9b8-1f3fb-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fc-200d-2642-fe0f": {
         "code": "1f9b8-1f3fc-200d-2642-fe0f",
@@ -2275,6 +3727,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2283,7 +3755,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fd-200d-2642-fe0f": {
         "code": "1f9b8-1f3fd-200d-2642-fe0f",
@@ -2308,6 +3783,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2316,7 +3811,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fe-200d-2642-fe0f": {
         "code": "1f9b8-1f3fe-200d-2642-fe0f",
@@ -2341,6 +3839,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2349,7 +3867,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3ff-200d-2642-fe0f": {
         "code": "1f9b8-1f3ff-200d-2642-fe0f",
@@ -2374,6 +3895,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2382,7 +3923,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-200d-2640-fe0f": {
         "code": "1f9b8-200d-2640-fe0f",
@@ -2406,6 +3950,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2414,7 +3978,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero_1f9b8-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b8-1f3fb-200d-2640-fe0f": {
         "code": "1f9b8-1f3fb-200d-2640-fe0f",
@@ -2440,6 +4007,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2448,7 +4035,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero-light-skin-tone_1f9b8-1f3fb-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fc-200d-2640-fe0f": {
         "code": "1f9b8-1f3fc-200d-2640-fe0f",
@@ -2474,6 +4064,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2482,7 +4092,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fd-200d-2640-fe0f": {
         "code": "1f9b8-1f3fd-200d-2640-fe0f",
@@ -2508,6 +4121,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2516,7 +4149,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3fe-200d-2640-fe0f": {
         "code": "1f9b8-1f3fe-200d-2640-fe0f",
@@ -2542,6 +4178,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2550,7 +4206,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b8-1f3ff-200d-2640-fe0f": {
         "code": "1f9b8-1f3ff-200d-2640-fe0f",
@@ -2576,6 +4235,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b8",
+            "1f9b8-1f3fb",
+            "1f9b8-1f3fc",
+            "1f9b8-1f3fd",
+            "1f9b8-1f3fe",
+            "1f9b8-1f3ff",
+            "1f9b8-200d-2642-fe0f",
+            "1f9b8-1f3fb-200d-2642-fe0f",
+            "1f9b8-1f3fc-200d-2642-fe0f",
+            "1f9b8-1f3fd-200d-2642-fe0f",
+            "1f9b8-1f3fe-200d-2642-fe0f",
+            "1f9b8-1f3ff-200d-2642-fe0f",
+            "1f9b8-200d-2640-fe0f",
+            "1f9b8-1f3fb-200d-2640-fe0f",
+            "1f9b8-1f3fc-200d-2640-fe0f",
+            "1f9b8-1f3fd-200d-2640-fe0f",
+            "1f9b8-1f3fe-200d-2640-fe0f",
+            "1f9b8-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2584,7 +4263,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9": {
         "code": "1f9b9",
@@ -2604,6 +4286,26 @@
         "codepoints": [
             "U+1F9B9"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2612,7 +4314,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_1f9b9.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b9-1f3fb": {
         "code": "1f9b9-1f3fb",
@@ -2634,6 +4339,26 @@
             "U+1F9B9",
             "U+1F3FB"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2642,7 +4367,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_emoji-modifier-fitzpatrick-type-1-2_1f9b9-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fc": {
         "code": "1f9b9-1f3fc",
@@ -2664,6 +4392,26 @@
             "U+1F9B9",
             "U+1F3FC"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2672,7 +4420,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_emoji-modifier-fitzpatrick-type-3_1f9b9-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fd": {
         "code": "1f9b9-1f3fd",
@@ -2694,6 +4445,26 @@
             "U+1F9B9",
             "U+1F3FD"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2702,7 +4473,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_emoji-modifier-fitzpatrick-type-4_1f9b9-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fe": {
         "code": "1f9b9-1f3fe",
@@ -2724,6 +4498,26 @@
             "U+1F9B9",
             "U+1F3FE"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2732,7 +4526,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_emoji-modifier-fitzpatrick-type-5_1f9b9-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3ff": {
         "code": "1f9b9-1f3ff",
@@ -2754,6 +4551,26 @@
             "U+1F9B9",
             "U+1F3FF"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2762,7 +4579,10 @@
             ],
             "folder_id": "237",
             "file_name": "supervillain_emoji-modifier-fitzpatrick-type-6_1f9b9-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-200d-2642-fe0f": {
         "code": "1f9b9-200d-2642-fe0f",
@@ -2786,6 +4606,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2794,7 +4634,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain_1f9b9-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b9-1f3fb-200d-2642-fe0f": {
         "code": "1f9b9-1f3fb-200d-2642-fe0f",
@@ -2820,6 +4663,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2828,7 +4691,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fc-200d-2642-fe0f": {
         "code": "1f9b9-1f3fc-200d-2642-fe0f",
@@ -2854,6 +4720,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2862,7 +4748,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fd-200d-2642-fe0f": {
         "code": "1f9b9-1f3fd-200d-2642-fe0f",
@@ -2888,6 +4777,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2896,7 +4805,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fe-200d-2642-fe0f": {
         "code": "1f9b9-1f3fe-200d-2642-fe0f",
@@ -2922,6 +4834,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2930,7 +4862,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3ff-200d-2642-fe0f": {
         "code": "1f9b9-1f3ff-200d-2642-fe0f",
@@ -2956,6 +4891,26 @@
             "U+2642",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2964,7 +4919,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2642-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-200d-2640-fe0f": {
         "code": "1f9b9-200d-2640-fe0f",
@@ -2988,6 +4946,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2996,7 +4974,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain_1f9b9-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f9b9-1f3fb-200d-2640-fe0f": {
         "code": "1f9b9-1f3fb-200d-2640-fe0f",
@@ -3022,6 +5003,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3030,7 +5031,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fc-200d-2640-fe0f": {
         "code": "1f9b9-1f3fc-200d-2640-fe0f",
@@ -3056,6 +5060,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3064,7 +5088,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fd-200d-2640-fe0f": {
         "code": "1f9b9-1f3fd-200d-2640-fe0f",
@@ -3090,6 +5117,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3098,7 +5145,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3fe-200d-2640-fe0f": {
         "code": "1f9b9-1f3fe-200d-2640-fe0f",
@@ -3124,6 +5174,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3132,7 +5202,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f9b9-1f3ff-200d-2640-fe0f": {
         "code": "1f9b9-1f3ff-200d-2640-fe0f",
@@ -3158,6 +5231,26 @@
             "U+2640",
             "U+FE0F"
         ],
+        "related": [
+            "1f9b9",
+            "1f9b9-1f3fb",
+            "1f9b9-1f3fc",
+            "1f9b9-1f3fd",
+            "1f9b9-1f3fe",
+            "1f9b9-1f3ff",
+            "1f9b9-200d-2642-fe0f",
+            "1f9b9-1f3fb-200d-2642-fe0f",
+            "1f9b9-1f3fc-200d-2642-fe0f",
+            "1f9b9-1f3fd-200d-2642-fe0f",
+            "1f9b9-1f3fe-200d-2642-fe0f",
+            "1f9b9-1f3ff-200d-2642-fe0f",
+            "1f9b9-200d-2640-fe0f",
+            "1f9b9-1f3fb-200d-2640-fe0f",
+            "1f9b9-1f3fc-200d-2640-fe0f",
+            "1f9b9-1f3fd-200d-2640-fe0f",
+            "1f9b9-1f3fe-200d-2640-fe0f",
+            "1f9b9-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3166,7 +5259,10 @@
             ],
             "folder_id": "237",
             "file_name": "woman-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2640-fe0f.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f99d": {
         "code": "1f99d",
@@ -3184,6 +5280,7 @@
         "codepoints": [
             "U+1F99D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3192,7 +5289,10 @@
             ],
             "folder_id": "237",
             "file_name": "raccoon_1f99d.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f999": {
         "code": "1f999",
@@ -3214,6 +5314,7 @@
         "codepoints": [
             "U+1F999"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3222,7 +5323,10 @@
             ],
             "folder_id": "237",
             "file_name": "llama_1f999.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f99b": {
         "code": "1f99b",
@@ -3241,6 +5345,7 @@
         "codepoints": [
             "U+1F99B"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3249,7 +5354,10 @@
             ],
             "folder_id": "237",
             "file_name": "hippopotamus_1f99b.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f998": {
         "code": "1f998",
@@ -3266,11 +5374,13 @@
             "joey",
             "jump",
             "kangaroo",
-            "marsupial"
+            "marsupial",
+            "Australia"
         ],
         "codepoints": [
             "U+1F998"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3279,7 +5389,10 @@
             ],
             "folder_id": "237",
             "file_name": "kangaroo_1f998.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f9a1": {
         "code": "1f9a1",
@@ -3297,6 +5410,7 @@
         "codepoints": [
             "U+1F9A1"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3305,7 +5419,10 @@
             ],
             "folder_id": "237",
             "file_name": "badger_1f9a1.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f9a2": {
         "code": "1f9a2",
@@ -3324,6 +5441,7 @@
         "codepoints": [
             "U+1F9A2"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3332,7 +5450,10 @@
             ],
             "folder_id": "237",
             "file_name": "swan_1f9a2.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f99a": {
         "code": "1f99a",
@@ -3352,6 +5473,7 @@
         "codepoints": [
             "U+1F99A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3360,7 +5482,10 @@
             ],
             "folder_id": "237",
             "file_name": "peacock_1f99a.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f99c": {
         "code": "1f99c",
@@ -3379,6 +5504,7 @@
         "codepoints": [
             "U+1F99C"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3387,7 +5513,10 @@
             ],
             "folder_id": "237",
             "file_name": "parrot_1f99c.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f99f": {
         "code": "1f99f",
@@ -3408,6 +5537,7 @@
         "codepoints": [
             "U+1F99F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3416,7 +5546,10 @@
             ],
             "folder_id": "237",
             "file_name": "mosquito_1f99f.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bug",
+        "skin_mode": false
     },
     "1f9a0": {
         "code": "1f9a0",
@@ -3439,6 +5572,7 @@
         "codepoints": [
             "U+1F9A0"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3447,7 +5581,10 @@
             ],
             "folder_id": "237",
             "file_name": "microbe_1f9a0.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bug",
+        "skin_mode": false
     },
     "1f96d": {
         "code": "1f96d",
@@ -3465,6 +5602,7 @@
         "codepoints": [
             "U+1F96D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3473,7 +5611,10 @@
             ],
             "folder_id": "237",
             "file_name": "mango_1f96d.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Fruit",
+        "skin_mode": false
     },
     "1f96c": {
         "code": "1f96c",
@@ -3499,6 +5640,7 @@
         "codepoints": [
             "U+1F96C"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3507,7 +5649,10 @@
             ],
             "folder_id": "237",
             "file_name": "leafy-green_1f96c.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f96f": {
         "code": "1f96f",
@@ -3526,6 +5671,7 @@
         "codepoints": [
             "U+1F96F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3534,7 +5680,10 @@
             ],
             "folder_id": "237",
             "file_name": "bagel_1f96f.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f9c2": {
         "code": "1f9c2",
@@ -3554,6 +5703,7 @@
         "codepoints": [
             "U+1F9C2"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3562,7 +5712,10 @@
             ],
             "folder_id": "237",
             "file_name": "salt-shaker_1f9c2.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f96e": {
         "code": "1f96e",
@@ -3583,6 +5736,7 @@
         "codepoints": [
             "U+1F96E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3591,7 +5745,10 @@
             ],
             "folder_id": "237",
             "file_name": "moon-cake_1f96e.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Asian",
+        "skin_mode": false
     },
     "1f99e": {
         "code": "1f99e",
@@ -3610,6 +5767,7 @@
         "codepoints": [
             "U+1F99E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3618,7 +5776,10 @@
             ],
             "folder_id": "237",
             "file_name": "lobster_1f99e.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Marine",
+        "skin_mode": false
     },
     "1f9c1": {
         "code": "1f9c1",
@@ -3638,6 +5799,7 @@
         "codepoints": [
             "U+1F9C1"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3646,7 +5808,10 @@
             ],
             "folder_id": "237",
             "file_name": "cupcake_1f9c1.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Sweet",
+        "skin_mode": false
     },
     "1f9ed": {
         "code": "1f9ed",
@@ -3665,6 +5830,7 @@
         "codepoints": [
             "U+1F9ED"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3673,7 +5839,10 @@
             ],
             "folder_id": "237",
             "file_name": "compass_1f9ed.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Place Map",
+        "skin_mode": false
     },
     "1f9f1": {
         "code": "1f9f1",
@@ -3695,6 +5864,7 @@
         "codepoints": [
             "U+1F9F1"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3703,7 +5873,10 @@
             ],
             "folder_id": "237",
             "file_name": "brick_1f9f1.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "skin_mode": false
     },
     "1f6f9": {
         "code": "1f6f9",
@@ -3720,6 +5893,7 @@
         "codepoints": [
             "U+1F6F9"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3728,7 +5902,10 @@
             ],
             "folder_id": "237",
             "file_name": "skateboard_1f6f9.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "skin_mode": false
     },
     "1f9f3": {
         "code": "1f9f3",
@@ -3748,6 +5925,7 @@
         "codepoints": [
             "U+1F9F3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3756,7 +5934,10 @@
             ],
             "folder_id": "237",
             "file_name": "luggage_1f9f3.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Hotel",
+        "skin_mode": false
     },
     "1f9e8": {
         "code": "1f9e8",
@@ -3777,6 +5958,7 @@
         "codepoints": [
             "U+1F9E8"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3785,7 +5967,10 @@
             ],
             "folder_id": "237",
             "file_name": "firecracker_1f9e8.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Event",
+        "skin_mode": false
     },
     "1f9e7": {
         "code": "1f9e7",
@@ -3812,6 +5997,7 @@
         "codepoints": [
             "U+1F9E7"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3820,7 +6006,10 @@
             ],
             "folder_id": "237",
             "file_name": "red-gift-envelope_1f9e7.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Event",
+        "skin_mode": false
     },
     "1f94e": {
         "code": "1f94e",
@@ -3839,6 +6028,7 @@
         "codepoints": [
             "U+1F94E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3847,7 +6037,10 @@
             ],
             "folder_id": "237",
             "file_name": "softball_1f94e.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f94f": {
         "code": "1f94f",
@@ -3864,6 +6057,7 @@
         "codepoints": [
             "U+1F94F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3872,7 +6066,10 @@
             ],
             "folder_id": "237",
             "file_name": "flying-disc_1f94f.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f94d": {
         "code": "1f94d",
@@ -3893,6 +6090,7 @@
         "codepoints": [
             "U+1F94D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3901,7 +6099,10 @@
             ],
             "folder_id": "237",
             "file_name": "lacrosse-stick-and-ball_1f94d.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f9ff": {
         "code": "1f9ff",
@@ -3925,6 +6126,7 @@
         "codepoints": [
             "U+1F9FF"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3933,7 +6135,10 @@
             ],
             "folder_id": "237",
             "file_name": "nazar-amulet_1f9ff.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Game",
+        "skin_mode": false
     },
     "1f9e9": {
         "code": "1f9e9",
@@ -3955,6 +6160,7 @@
         "codepoints": [
             "U+1F9E9"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3963,7 +6169,10 @@
             ],
             "folder_id": "237",
             "file_name": "jigsaw-puzzle-piece_1f9e9.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Game",
+        "skin_mode": false
     },
     "1f9f8": {
         "code": "1f9f8",
@@ -3985,6 +6194,7 @@
         "codepoints": [
             "U+1F9F8"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3993,7 +6203,10 @@
             ],
             "folder_id": "237",
             "file_name": "teddy-bear_1f9f8.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Game",
+        "skin_mode": false
     },
     "265f-fe0f": {
         "code": "265f-fe0f",
@@ -4015,6 +6228,7 @@
             "U+265F",
             "U+FE0F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4023,7 +6237,10 @@
             ],
             "folder_id": "237",
             "file_name": "black-chess-pawn_265f.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Game",
+        "skin_mode": false
     },
     "1f9f5": {
         "code": "1f9f5",
@@ -4045,6 +6262,7 @@
         "codepoints": [
             "U+1F9F5"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4053,7 +6271,10 @@
             ],
             "folder_id": "237",
             "file_name": "spool-of-thread_1f9f5.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Arts & Crafts",
+        "skin_mode": false
     },
     "1f9f6": {
         "code": "1f9f6",
@@ -4074,6 +6295,7 @@
         "codepoints": [
             "U+1F9F6"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4082,7 +6304,10 @@
             ],
             "folder_id": "237",
             "file_name": "ball-of-yarn_1f9f6.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Arts & Crafts",
+        "skin_mode": false
     },
     "1f97d": {
         "code": "1f97d",
@@ -4101,6 +6326,7 @@
         "codepoints": [
             "U+1F97D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4109,7 +6335,10 @@
             ],
             "folder_id": "237",
             "file_name": "goggles_1f97d.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "skin_mode": false
     },
     "1f97c": {
         "code": "1f97c",
@@ -4128,6 +6357,7 @@
         "codepoints": [
             "U+1F97C"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4136,7 +6366,10 @@
             ],
             "folder_id": "237",
             "file_name": "lab-coat_1f97c.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "skin_mode": false
     },
     "1f97e": {
         "code": "1f97e",
@@ -4155,6 +6388,7 @@
         "codepoints": [
             "U+1F97E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4163,7 +6397,10 @@
             ],
             "folder_id": "237",
             "file_name": "hiking-boot_1f97e.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "skin_mode": false
     },
     "1f97f": {
         "code": "1f97f",
@@ -4182,6 +6419,7 @@
         "codepoints": [
             "U+1F97F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4190,7 +6428,10 @@
             ],
             "folder_id": "237",
             "file_name": "flat-shoe_1f97f.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "skin_mode": false
     },
     "1f9ee": {
         "code": "1f9ee",
@@ -4207,6 +6448,7 @@
         "codepoints": [
             "U+1F9EE"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4215,7 +6457,10 @@
             ],
             "folder_id": "237",
             "file_name": "abacus_1f9ee.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Computer",
+        "skin_mode": false
     },
     "1f9fe": {
         "code": "1f9fe",
@@ -4235,6 +6480,7 @@
         "codepoints": [
             "U+1F9FE"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4243,7 +6489,10 @@
             ],
             "folder_id": "237",
             "file_name": "receipt_1f9fe.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Money",
+        "skin_mode": false
     },
     "1f9f0": {
         "code": "1f9f0",
@@ -4262,6 +6511,7 @@
         "codepoints": [
             "U+1F9F0"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4270,7 +6520,10 @@
             ],
             "folder_id": "237",
             "file_name": "toolbox_1f9f0.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Tool",
+        "skin_mode": false
     },
     "1f9f2": {
         "code": "1f9f2",
@@ -4289,6 +6542,7 @@
         "codepoints": [
             "U+1F9F2"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4297,7 +6551,10 @@
             ],
             "folder_id": "237",
             "file_name": "magnet_1f9f2.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Tool",
+        "skin_mode": false
     },
     "1f9ea": {
         "code": "1f9ea",
@@ -4318,6 +6575,7 @@
         "codepoints": [
             "U+1F9EA"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4326,7 +6584,10 @@
             ],
             "folder_id": "237",
             "file_name": "test-tube_1f9ea.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Science",
+        "skin_mode": false
     },
     "1f9eb": {
         "code": "1f9eb",
@@ -4347,6 +6608,7 @@
         "codepoints": [
             "U+1F9EB"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4355,7 +6617,10 @@
             ],
             "folder_id": "237",
             "file_name": "petri-dish_1f9eb.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Science",
+        "skin_mode": false
     },
     "1f9ec": {
         "code": "1f9ec",
@@ -4378,6 +6643,7 @@
         "codepoints": [
             "U+1F9EC"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4386,7 +6652,10 @@
             ],
             "folder_id": "237",
             "file_name": "dna-double-helix_1f9ec.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Science",
+        "skin_mode": false
     },
     "1f9f4": {
         "code": "1f9f4",
@@ -4406,6 +6675,7 @@
         "codepoints": [
             "U+1F9F4"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4414,7 +6684,10 @@
             ],
             "folder_id": "237",
             "file_name": "lotion-bottle_1f9f4.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9f7": {
         "code": "1f9f7",
@@ -4432,6 +6705,7 @@
         "codepoints": [
             "U+1F9F7"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4440,7 +6714,10 @@
             ],
             "folder_id": "237",
             "file_name": "safety-pin_1f9f7.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9f9": {
         "code": "1f9f9",
@@ -4462,6 +6739,7 @@
         "codepoints": [
             "U+1F9F9"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4470,7 +6748,10 @@
             ],
             "folder_id": "237",
             "file_name": "broom_1f9f9.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9fa": {
         "code": "1f9fa",
@@ -4489,6 +6770,7 @@
         "codepoints": [
             "U+1F9FA"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4497,7 +6779,10 @@
             ],
             "folder_id": "237",
             "file_name": "basket_1f9fa.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9fb": {
         "code": "1f9fb",
@@ -4517,6 +6802,7 @@
         "codepoints": [
             "U+1F9FB"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4525,7 +6811,10 @@
             ],
             "folder_id": "237",
             "file_name": "roll-of-paper_1f9fb.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9fc": {
         "code": "1f9fc",
@@ -4548,6 +6837,7 @@
         "codepoints": [
             "U+1F9FC"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4556,7 +6846,10 @@
             ],
             "folder_id": "237",
             "file_name": "bar-of-soap_1f9fc.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9fd": {
         "code": "1f9fd",
@@ -4575,6 +6868,7 @@
         "codepoints": [
             "U+1F9FD"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4583,7 +6877,10 @@
             ],
             "folder_id": "237",
             "file_name": "sponge_1f9fd.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "1f9ef": {
         "code": "1f9ef",
@@ -4602,6 +6899,7 @@
         "codepoints": [
             "U+1F9EF"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4610,7 +6908,10 @@
             ],
             "folder_id": "237",
             "file_name": "fire-extinguisher_1f9ef.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "267e-fe0f": {
         "code": "267e-fe0f",
@@ -4632,6 +6933,7 @@
             "U+267E",
             "U+FE0F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4640,7 +6942,10 @@
             ],
             "folder_id": "237",
             "file_name": "permanent-paper-sign_267e.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Math",
+        "skin_mode": false
     },
     "1f3f4-200d-2620-fe0f": {
         "code": "1f3f4-200d-2620-fe0f",
@@ -4657,7 +6962,8 @@
             "pirate",
             "pirate flag",
             "plunder",
-            "treasure"
+            "treasure",
+            "Jolly Roger"
         ],
         "codepoints": [
             "U+1F3F4",
@@ -4665,6 +6971,7 @@
             "U+2620",
             "U+FE0F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4673,6 +6980,9 @@
             ],
             "folder_id": "237",
             "file_name": "pirate-flag_1f3f4-200d-2620-fe0f.png"
-        }
+        },
+        "category": "Flags",
+        "sub_category": "Flag",
+        "skin_mode": false
     }
 }

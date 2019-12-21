@@ -20,6 +20,7 @@
         "codepoints": [
             "U+1F923"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -28,7 +29,10 @@
             ],
             "folder_id": "237",
             "file_name": "rolling-on-the-floor-laughing_1f923.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Smiling",
+        "skin_mode": false
     },
     "1f925": {
         "code": "1f925",
@@ -51,6 +55,7 @@
         "codepoints": [
             "U+1F925"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -59,7 +64,10 @@
             ],
             "folder_id": "237",
             "file_name": "lying-face_1f925.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Neutral-Skeptical",
+        "skin_mode": false
     },
     "1f924": {
         "code": "1f924",
@@ -78,6 +86,7 @@
         "codepoints": [
             "U+1F924"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -86,7 +95,10 @@
             ],
             "folder_id": "237",
             "file_name": "drooling-face_1f924.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Sleepy",
+        "skin_mode": false
     },
     "1f922": {
         "code": "1f922",
@@ -108,6 +120,7 @@
         "codepoints": [
             "U+1F922"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -116,7 +129,10 @@
             ],
             "folder_id": "237",
             "file_name": "nauseated-face_1f922.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Unwell",
+        "skin_mode": false
     },
     "1f927": {
         "code": "1f927",
@@ -137,6 +153,7 @@
         "codepoints": [
             "U+1F927"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -145,7 +162,10 @@
             ],
             "folder_id": "237",
             "file_name": "sneezing-face_1f927.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Unwell",
+        "skin_mode": false
     },
     "1f920": {
         "code": "1f920",
@@ -168,6 +188,7 @@
         "codepoints": [
             "U+1F920"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -176,7 +197,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-with-cowboy-hat_1f920.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Hat",
+        "skin_mode": false
     },
     "1f921": {
         "code": "1f921",
@@ -197,6 +221,7 @@
         "codepoints": [
             "U+1F921"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -205,7 +230,10 @@
             ],
             "folder_id": "237",
             "file_name": "clown-face_1f921.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Face Costume",
+        "skin_mode": false
     },
     "1f5a4": {
         "code": "1f5a4",
@@ -226,6 +254,7 @@
         "codepoints": [
             "U+1F5A4"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -234,7 +263,10 @@
             ],
             "folder_id": "237",
             "file_name": "black-heart_1f5a4.png"
-        }
+        },
+        "category": "Smileys & Emotion",
+        "sub_category": "Emotion",
+        "skin_mode": false
     },
     "1f91a": {
         "code": "1f91a",
@@ -255,6 +287,14 @@
         "codepoints": [
             "U+1F91A"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -263,7 +303,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_1f91a.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": false
     },
     "1f91a-1f3fb": {
         "code": "1f91a-1f3fb",
@@ -283,6 +326,14 @@
             "U+1F91A",
             "U+1F3FB"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -291,7 +342,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-1-2_1f91a-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": true
     },
     "1f91a-1f3fc": {
         "code": "1f91a-1f3fc",
@@ -311,6 +365,14 @@
             "U+1F91A",
             "U+1F3FC"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -319,7 +381,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-3_1f91a-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": true
     },
     "1f91a-1f3fd": {
         "code": "1f91a-1f3fd",
@@ -339,6 +404,14 @@
             "U+1F91A",
             "U+1F3FD"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -347,7 +420,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-4_1f91a-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": true
     },
     "1f91a-1f3fe": {
         "code": "1f91a-1f3fe",
@@ -367,6 +443,14 @@
             "U+1F91A",
             "U+1F3FE"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -375,7 +459,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-5_1f91a-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": true
     },
     "1f91a-1f3ff": {
         "code": "1f91a-1f3ff",
@@ -395,6 +482,14 @@
             "U+1F91A",
             "U+1F3FF"
         ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -403,7 +498,10 @@
             ],
             "folder_id": "237",
             "file_name": "raised-back-of-hand_emoji-modifier-fitzpatrick-type-6_1f91a-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Open",
+        "skin_mode": true
     },
     "1f91e": {
         "code": "1f91e",
@@ -427,6 +525,14 @@
         "codepoints": [
             "U+1F91E"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -435,7 +541,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_1f91e.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": false
     },
     "1f91e-1f3fb": {
         "code": "1f91e-1f3fb",
@@ -457,6 +566,14 @@
             "U+1F91E",
             "U+1F3FB"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -465,7 +582,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-1-2_1f91e-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f91e-1f3fc": {
         "code": "1f91e-1f3fc",
@@ -487,6 +607,14 @@
             "U+1F91E",
             "U+1F3FC"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -495,7 +623,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-3_1f91e-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f91e-1f3fd": {
         "code": "1f91e-1f3fd",
@@ -517,6 +648,14 @@
             "U+1F91E",
             "U+1F3FD"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -525,7 +664,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-4_1f91e-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f91e-1f3fe": {
         "code": "1f91e-1f3fe",
@@ -547,6 +689,14 @@
             "U+1F91E",
             "U+1F3FE"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -555,7 +705,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-5_1f91e-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f91e-1f3ff": {
         "code": "1f91e-1f3ff",
@@ -577,6 +730,14 @@
             "U+1F91E",
             "U+1F3FF"
         ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -585,7 +746,10 @@
             ],
             "folder_id": "237",
             "file_name": "hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-6_1f91e-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f919": {
         "code": "1f919",
@@ -607,6 +771,14 @@
         "codepoints": [
             "U+1F919"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -615,7 +787,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_1f919.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": false
     },
     "1f919-1f3fb": {
         "code": "1f919-1f3fb",
@@ -635,6 +810,14 @@
             "U+1F919",
             "U+1F3FB"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -643,7 +826,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_emoji-modifier-fitzpatrick-type-1-2_1f919-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f919-1f3fc": {
         "code": "1f919-1f3fc",
@@ -663,6 +849,14 @@
             "U+1F919",
             "U+1F3FC"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -671,7 +865,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_emoji-modifier-fitzpatrick-type-3_1f919-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f919-1f3fd": {
         "code": "1f919-1f3fd",
@@ -691,6 +888,14 @@
             "U+1F919",
             "U+1F3FD"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -699,7 +904,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_emoji-modifier-fitzpatrick-type-4_1f919-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f919-1f3fe": {
         "code": "1f919-1f3fe",
@@ -719,6 +927,14 @@
             "U+1F919",
             "U+1F3FE"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -727,7 +943,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_emoji-modifier-fitzpatrick-type-5_1f919-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f919-1f3ff": {
         "code": "1f919-1f3ff",
@@ -747,6 +966,14 @@
             "U+1F919",
             "U+1F3FF"
         ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -755,7 +982,10 @@
             ],
             "folder_id": "237",
             "file_name": "call-me-hand_emoji-modifier-fitzpatrick-type-6_1f919-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Partial",
+        "skin_mode": true
     },
     "1f91b": {
         "code": "1f91b",
@@ -775,6 +1005,14 @@
         "codepoints": [
             "U+1F91B"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -783,7 +1021,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_1f91b.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": false
     },
     "1f91b-1f3fb": {
         "code": "1f91b-1f3fb",
@@ -803,6 +1044,14 @@
             "U+1F91B",
             "U+1F3FB"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -811,7 +1060,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_emoji-modifier-fitzpatrick-type-1-2_1f91b-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91b-1f3fc": {
         "code": "1f91b-1f3fc",
@@ -831,6 +1083,14 @@
             "U+1F91B",
             "U+1F3FC"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -839,7 +1099,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_emoji-modifier-fitzpatrick-type-3_1f91b-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91b-1f3fd": {
         "code": "1f91b-1f3fd",
@@ -859,6 +1122,14 @@
             "U+1F91B",
             "U+1F3FD"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -867,7 +1138,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_emoji-modifier-fitzpatrick-type-4_1f91b-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91b-1f3fe": {
         "code": "1f91b-1f3fe",
@@ -887,6 +1161,14 @@
             "U+1F91B",
             "U+1F3FE"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -895,7 +1177,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_emoji-modifier-fitzpatrick-type-5_1f91b-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91b-1f3ff": {
         "code": "1f91b-1f3ff",
@@ -915,6 +1200,14 @@
             "U+1F91B",
             "U+1F3FF"
         ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -923,7 +1216,10 @@
             ],
             "folder_id": "237",
             "file_name": "left-facing-fist_emoji-modifier-fitzpatrick-type-6_1f91b-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91c": {
         "code": "1f91c",
@@ -943,6 +1239,14 @@
         "codepoints": [
             "U+1F91C"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -951,7 +1255,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_1f91c.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": false
     },
     "1f91c-1f3fb": {
         "code": "1f91c-1f3fb",
@@ -971,6 +1278,14 @@
             "U+1F91C",
             "U+1F3FB"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -979,7 +1294,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_emoji-modifier-fitzpatrick-type-1-2_1f91c-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91c-1f3fc": {
         "code": "1f91c-1f3fc",
@@ -999,6 +1317,14 @@
             "U+1F91C",
             "U+1F3FC"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1007,7 +1333,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_emoji-modifier-fitzpatrick-type-3_1f91c-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91c-1f3fd": {
         "code": "1f91c-1f3fd",
@@ -1027,6 +1356,14 @@
             "U+1F91C",
             "U+1F3FD"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1035,7 +1372,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_emoji-modifier-fitzpatrick-type-4_1f91c-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91c-1f3fe": {
         "code": "1f91c-1f3fe",
@@ -1055,6 +1395,14 @@
             "U+1F91C",
             "U+1F3FE"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1063,7 +1411,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_emoji-modifier-fitzpatrick-type-5_1f91c-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91c-1f3ff": {
         "code": "1f91c-1f3ff",
@@ -1083,6 +1434,14 @@
             "U+1F91C",
             "U+1F3FF"
         ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1091,7 +1450,10 @@
             ],
             "folder_id": "237",
             "file_name": "right-facing-fist_emoji-modifier-fitzpatrick-type-6_1f91c-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Fingers-Closed",
+        "skin_mode": true
     },
     "1f91d": {
         "code": "1f91d",
@@ -1113,6 +1475,14 @@
         "codepoints": [
             "U+1F91D"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1121,7 +1491,10 @@
             ],
             "folder_id": "237",
             "file_name": "handshake_1f91d.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": false
     },
     "1f91d-1f3fb": {
         "code": "1f91d-1f3fb",
@@ -1136,6 +1509,14 @@
             "U+1F91D",
             "U+1F3FB"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -1144,7 +1525,10 @@
             ],
             "folder_id": "223",
             "file_name": "handshake_emoji-modifier-fitzpatrick-type-1-2_1f91d-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": true
     },
     "1f91d-1f3fc": {
         "code": "1f91d-1f3fc",
@@ -1159,6 +1543,14 @@
             "U+1F91D",
             "U+1F3FC"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -1167,7 +1559,10 @@
             ],
             "folder_id": "223",
             "file_name": "handshake_emoji-modifier-fitzpatrick-type-3_1f91d-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": true
     },
     "1f91d-1f3fd": {
         "code": "1f91d-1f3fd",
@@ -1182,6 +1577,14 @@
             "U+1F91D",
             "U+1F3FD"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -1190,7 +1593,10 @@
             ],
             "folder_id": "223",
             "file_name": "handshake_emoji-modifier-fitzpatrick-type-4_1f91d-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": true
     },
     "1f91d-1f3fe": {
         "code": "1f91d-1f3fe",
@@ -1205,6 +1611,14 @@
             "U+1F91D",
             "U+1F3FE"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -1213,7 +1627,10 @@
             ],
             "folder_id": "223",
             "file_name": "handshake_emoji-modifier-fitzpatrick-type-5_1f91d-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": true
     },
     "1f933": {
         "code": "1f933",
@@ -1234,6 +1651,14 @@
         "codepoints": [
             "U+1F933"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1242,7 +1667,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_1f933.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": false
     },
     "1f91d-1f3ff": {
         "code": "1f91d-1f3ff",
@@ -1257,6 +1685,14 @@
             "U+1F91D",
             "U+1F3FF"
         ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -1265,7 +1701,10 @@
             ],
             "folder_id": "223",
             "file_name": "handshake_emoji-modifier-fitzpatrick-type-6_1f91d-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hands",
+        "skin_mode": true
     },
     "1f933-1f3fb": {
         "code": "1f933-1f3fb",
@@ -1285,6 +1724,14 @@
             "U+1F933",
             "U+1F3FB"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1293,7 +1740,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_emoji-modifier-fitzpatrick-type-1-2_1f933-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": true
     },
     "1f933-1f3fc": {
         "code": "1f933-1f3fc",
@@ -1313,6 +1763,14 @@
             "U+1F933",
             "U+1F3FC"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1321,7 +1779,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_emoji-modifier-fitzpatrick-type-3_1f933-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": true
     },
     "1f933-1f3fd": {
         "code": "1f933-1f3fd",
@@ -1341,6 +1802,14 @@
             "U+1F933",
             "U+1F3FD"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1349,7 +1818,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_emoji-modifier-fitzpatrick-type-4_1f933-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": true
     },
     "1f933-1f3fe": {
         "code": "1f933-1f3fe",
@@ -1369,6 +1841,14 @@
             "U+1F933",
             "U+1F3FE"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1377,7 +1857,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_emoji-modifier-fitzpatrick-type-5_1f933-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": true
     },
     "1f933-1f3ff": {
         "code": "1f933-1f3ff",
@@ -1397,6 +1880,14 @@
             "U+1F933",
             "U+1F3FF"
         ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1405,7 +1896,10 @@
             ],
             "folder_id": "237",
             "file_name": "selfie_emoji-modifier-fitzpatrick-type-6_1f933-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Hand Prop",
+        "skin_mode": true
     },
     "1f926": {
         "code": "1f926",
@@ -1432,6 +1926,26 @@
         "codepoints": [
             "U+1F926"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1440,7 +1954,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_1f926.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": false
     },
     "1f926-1f3fb": {
         "code": "1f926-1f3fb",
@@ -1462,6 +1979,26 @@
             "U+1F926",
             "U+1F3FB"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1470,7 +2007,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_emoji-modifier-fitzpatrick-type-1-2_1f926-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f926-1f3fc": {
         "code": "1f926-1f3fc",
@@ -1492,6 +2032,26 @@
             "U+1F926",
             "U+1F3FC"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1500,7 +2060,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_emoji-modifier-fitzpatrick-type-3_1f926-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f926-1f3fd": {
         "code": "1f926-1f3fd",
@@ -1522,6 +2085,26 @@
             "U+1F926",
             "U+1F3FD"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1530,7 +2113,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_emoji-modifier-fitzpatrick-type-4_1f926-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f926-1f3fe": {
         "code": "1f926-1f3fe",
@@ -1552,6 +2138,26 @@
             "U+1F926",
             "U+1F3FE"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1560,7 +2166,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_emoji-modifier-fitzpatrick-type-5_1f926-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f926-1f3ff": {
         "code": "1f926-1f3ff",
@@ -1582,6 +2191,26 @@
             "U+1F926",
             "U+1F3FF"
         ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1590,7 +2219,10 @@
             ],
             "folder_id": "237",
             "file_name": "face-palm_emoji-modifier-fitzpatrick-type-6_1f926-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f937": {
         "code": "1f937",
@@ -1615,6 +2247,26 @@
         "codepoints": [
             "U+1F937"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1623,7 +2275,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_1f937.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": false
     },
     "1f937-1f3fb": {
         "code": "1f937-1f3fb",
@@ -1645,6 +2300,26 @@
             "U+1F937",
             "U+1F3FB"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1653,7 +2328,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_emoji-modifier-fitzpatrick-type-1-2_1f937-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f937-1f3fc": {
         "code": "1f937-1f3fc",
@@ -1675,6 +2353,26 @@
             "U+1F937",
             "U+1F3FC"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1683,7 +2381,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_emoji-modifier-fitzpatrick-type-3_1f937-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f937-1f3fd": {
         "code": "1f937-1f3fd",
@@ -1705,6 +2406,26 @@
             "U+1F937",
             "U+1F3FD"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1713,7 +2434,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_emoji-modifier-fitzpatrick-type-4_1f937-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f937-1f3fe": {
         "code": "1f937-1f3fe",
@@ -1735,6 +2459,26 @@
             "U+1F937",
             "U+1F3FE"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1743,7 +2487,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_emoji-modifier-fitzpatrick-type-5_1f937-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f937-1f3ff": {
         "code": "1f937-1f3ff",
@@ -1765,6 +2512,26 @@
             "U+1F937",
             "U+1F3FF"
         ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1773,7 +2540,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrug_emoji-modifier-fitzpatrick-type-6_1f937-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Gesture",
+        "skin_mode": true
     },
     "1f934": {
         "code": "1f934",
@@ -1789,6 +2559,20 @@
         "codepoints": [
             "U+1F934"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1797,7 +2581,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_1f934.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": false
     },
     "1f934-1f3fb": {
         "code": "1f934-1f3fb",
@@ -1815,6 +2602,20 @@
             "U+1F934",
             "U+1F3FB"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1823,7 +2624,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_emoji-modifier-fitzpatrick-type-1-2_1f934-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f934-1f3fc": {
         "code": "1f934-1f3fc",
@@ -1841,6 +2645,20 @@
             "U+1F934",
             "U+1F3FC"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1849,7 +2667,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_emoji-modifier-fitzpatrick-type-3_1f934-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f934-1f3fd": {
         "code": "1f934-1f3fd",
@@ -1867,6 +2688,20 @@
             "U+1F934",
             "U+1F3FD"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1875,7 +2710,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_emoji-modifier-fitzpatrick-type-4_1f934-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f934-1f3fe": {
         "code": "1f934-1f3fe",
@@ -1893,6 +2731,20 @@
             "U+1F934",
             "U+1F3FE"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1901,7 +2753,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_emoji-modifier-fitzpatrick-type-5_1f934-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f934-1f3ff": {
         "code": "1f934-1f3ff",
@@ -1919,6 +2774,20 @@
             "U+1F934",
             "U+1F3FF"
         ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1927,7 +2796,10 @@
             ],
             "folder_id": "237",
             "file_name": "prince_emoji-modifier-fitzpatrick-type-6_1f934-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f935": {
         "code": "1f935",
@@ -1944,10 +2816,20 @@
             "groom",
             "man",
             "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "person",
+            "person in tuxedo"
         ],
         "codepoints": [
             "U+1F935"
+        ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
         ],
         "image": {
             "brand": "apple",
@@ -1957,7 +2839,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_1f935.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": false
     },
     "1f935-1f3fb": {
         "code": "1f935-1f3fb",
@@ -1978,6 +2863,14 @@
             "U+1F935",
             "U+1F3FB"
         ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -1986,7 +2879,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-1-2_1f935-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f935-1f3fc": {
         "code": "1f935-1f3fc",
@@ -2007,6 +2903,14 @@
             "U+1F935",
             "U+1F3FC"
         ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2015,7 +2919,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-3_1f935-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f935-1f3fd": {
         "code": "1f935-1f3fd",
@@ -2036,6 +2943,14 @@
             "U+1F935",
             "U+1F3FD"
         ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2044,7 +2959,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-4_1f935-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f935-1f3fe": {
         "code": "1f935-1f3fe",
@@ -2065,6 +2983,14 @@
             "U+1F935",
             "U+1F3FE"
         ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2073,7 +2999,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-5_1f935-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f935-1f3ff": {
         "code": "1f935-1f3ff",
@@ -2094,6 +3023,14 @@
             "U+1F935",
             "U+1F3FF"
         ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2102,7 +3039,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-in-tuxedo_emoji-modifier-fitzpatrick-type-6_1f935-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f930": {
         "code": "1f930",
@@ -2122,6 +3062,14 @@
         "codepoints": [
             "U+1F930"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2130,7 +3078,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_1f930.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": false
     },
     "1f930-1f3fb": {
         "code": "1f930-1f3fb",
@@ -2149,6 +3100,14 @@
             "U+1F930",
             "U+1F3FB"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2157,7 +3116,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_emoji-modifier-fitzpatrick-type-1-2_1f930-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f930-1f3fc": {
         "code": "1f930-1f3fc",
@@ -2176,6 +3138,14 @@
             "U+1F930",
             "U+1F3FC"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2184,7 +3154,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_emoji-modifier-fitzpatrick-type-3_1f930-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f930-1f3fd": {
         "code": "1f930-1f3fd",
@@ -2203,6 +3176,14 @@
             "U+1F930",
             "U+1F3FD"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2211,7 +3192,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_emoji-modifier-fitzpatrick-type-4_1f930-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f930-1f3fe": {
         "code": "1f930-1f3fe",
@@ -2230,6 +3214,14 @@
             "U+1F930",
             "U+1F3FE"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2238,7 +3230,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_emoji-modifier-fitzpatrick-type-5_1f930-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f930-1f3ff": {
         "code": "1f930-1f3ff",
@@ -2257,6 +3252,14 @@
             "U+1F930",
             "U+1F3FF"
         ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2265,7 +3268,10 @@
             ],
             "folder_id": "237",
             "file_name": "pregnant-woman_emoji-modifier-fitzpatrick-type-6_1f930-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Role",
+        "skin_mode": true
     },
     "1f936": {
         "code": "1f936",
@@ -2284,10 +3290,27 @@
             "claus",
             "mother",
             "mrs.",
-            "mrs. claus"
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
         ],
         "codepoints": [
             "U+1F936"
+        ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
         ],
         "image": {
             "brand": "apple",
@@ -2297,7 +3320,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_1f936.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": false
     },
     "1f936-1f3fb": {
         "code": "1f936-1f3fb",
@@ -2320,6 +3346,20 @@
             "U+1F936",
             "U+1F3FB"
         ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2328,7 +3368,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_emoji-modifier-fitzpatrick-type-1-2_1f936-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f936-1f3fc": {
         "code": "1f936-1f3fc",
@@ -2351,6 +3394,20 @@
             "U+1F936",
             "U+1F3FC"
         ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2359,7 +3416,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_emoji-modifier-fitzpatrick-type-3_1f936-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f936-1f3fd": {
         "code": "1f936-1f3fd",
@@ -2382,6 +3442,20 @@
             "U+1F936",
             "U+1F3FD"
         ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2390,7 +3464,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_emoji-modifier-fitzpatrick-type-4_1f936-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f936-1f3fe": {
         "code": "1f936-1f3fe",
@@ -2413,6 +3490,20 @@
             "U+1F936",
             "U+1F3FE"
         ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2421,7 +3512,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_emoji-modifier-fitzpatrick-type-5_1f936-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f936-1f3ff": {
         "code": "1f936-1f3ff",
@@ -2444,6 +3538,20 @@
             "U+1F936",
             "U+1F3FF"
         ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2452,7 +3560,10 @@
             ],
             "folder_id": "237",
             "file_name": "mother-christmas_emoji-modifier-fitzpatrick-type-6_1f936-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Fantasy",
+        "skin_mode": true
     },
     "1f57a": {
         "code": "1f57a",
@@ -2473,6 +3584,20 @@
         "codepoints": [
             "U+1F57A"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2481,7 +3606,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_1f57a.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": false
     },
     "1f57a-1f3fb": {
         "code": "1f57a-1f3fb",
@@ -2501,6 +3629,20 @@
             "U+1F57A",
             "U+1F3FB"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2509,7 +3651,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_emoji-modifier-fitzpatrick-type-1-2_1f57a-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": true
     },
     "1f57a-1f3fc": {
         "code": "1f57a-1f3fc",
@@ -2529,6 +3674,20 @@
             "U+1F57A",
             "U+1F3FC"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2537,7 +3696,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_emoji-modifier-fitzpatrick-type-3_1f57a-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": true
     },
     "1f57a-1f3fd": {
         "code": "1f57a-1f3fd",
@@ -2557,6 +3719,20 @@
             "U+1F57A",
             "U+1F3FD"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2565,7 +3741,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_emoji-modifier-fitzpatrick-type-4_1f57a-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": true
     },
     "1f57a-1f3fe": {
         "code": "1f57a-1f3fe",
@@ -2585,6 +3764,20 @@
             "U+1F57A",
             "U+1F3FE"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2593,7 +3786,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_emoji-modifier-fitzpatrick-type-5_1f57a-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": true
     },
     "1f57a-1f3ff": {
         "code": "1f57a-1f3ff",
@@ -2613,6 +3809,20 @@
             "U+1F57A",
             "U+1F3FF"
         ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2621,7 +3831,10 @@
             ],
             "folder_id": "237",
             "file_name": "man-dancing_emoji-modifier-fitzpatrick-type-6_1f57a-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Activity",
+        "skin_mode": true
     },
     "1f93a": {
         "code": "1f93a",
@@ -2642,6 +3855,7 @@
         "codepoints": [
             "U+1F93A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2650,7 +3864,10 @@
             ],
             "folder_id": "237",
             "file_name": "fencer_1f93a.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f938": {
         "code": "1f938",
@@ -2673,6 +3890,26 @@
         "codepoints": [
             "U+1F938"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2681,7 +3918,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_1f938.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f938-1f3fb": {
         "code": "1f938-1f3fb",
@@ -2701,6 +3941,26 @@
             "U+1F938",
             "U+1F3FB"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2709,7 +3969,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-1-2_1f938-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f938-1f3fc": {
         "code": "1f938-1f3fc",
@@ -2729,6 +3992,26 @@
             "U+1F938",
             "U+1F3FC"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2737,7 +4020,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-3_1f938-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f938-1f3fd": {
         "code": "1f938-1f3fd",
@@ -2757,6 +4043,26 @@
             "U+1F938",
             "U+1F3FD"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2765,7 +4071,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-4_1f938-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f938-1f3fe": {
         "code": "1f938-1f3fe",
@@ -2785,6 +4094,26 @@
             "U+1F938",
             "U+1F3FE"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2793,7 +4122,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-5_1f938-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f938-1f3ff": {
         "code": "1f938-1f3ff",
@@ -2813,6 +4145,26 @@
             "U+1F938",
             "U+1F3FF"
         ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2821,7 +4173,10 @@
             ],
             "folder_id": "237",
             "file_name": "person-doing-cartwheel_emoji-modifier-fitzpatrick-type-6_1f938-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93c": {
         "code": "1f93c",
@@ -2843,6 +4198,26 @@
         "codepoints": [
             "U+1F93C"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2851,7 +4226,10 @@
             ],
             "folder_id": "237",
             "file_name": "wrestlers_1f93c.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f93d": {
         "code": "1f93d",
@@ -2872,6 +4250,26 @@
         "codepoints": [
             "U+1F93D"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2880,7 +4278,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_1f93d.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f93d-1f3fb": {
         "code": "1f93d-1f3fb",
@@ -2900,6 +4301,26 @@
             "U+1F93D",
             "U+1F3FB"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2908,7 +4329,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_emoji-modifier-fitzpatrick-type-1-2_1f93d-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93d-1f3fc": {
         "code": "1f93d-1f3fc",
@@ -2928,6 +4352,26 @@
             "U+1F93D",
             "U+1F3FC"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2936,7 +4380,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_emoji-modifier-fitzpatrick-type-3_1f93d-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93d-1f3fd": {
         "code": "1f93d-1f3fd",
@@ -2956,6 +4403,26 @@
             "U+1F93D",
             "U+1F3FD"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2964,7 +4431,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_emoji-modifier-fitzpatrick-type-4_1f93d-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93d-1f3fe": {
         "code": "1f93d-1f3fe",
@@ -2984,6 +4454,26 @@
             "U+1F93D",
             "U+1F3FE"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -2992,7 +4482,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_emoji-modifier-fitzpatrick-type-5_1f93d-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93d-1f3ff": {
         "code": "1f93d-1f3ff",
@@ -3012,6 +4505,26 @@
             "U+1F93D",
             "U+1F3FF"
         ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3020,7 +4533,10 @@
             ],
             "folder_id": "237",
             "file_name": "water-polo_emoji-modifier-fitzpatrick-type-6_1f93d-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93e": {
         "code": "1f93e",
@@ -3041,6 +4557,26 @@
         "codepoints": [
             "U+1F93E"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3049,7 +4585,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_1f93e.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f93e-1f3fb": {
         "code": "1f93e-1f3fb",
@@ -3069,6 +4608,26 @@
             "U+1F93E",
             "U+1F3FB"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3077,7 +4636,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_emoji-modifier-fitzpatrick-type-1-2_1f93e-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93e-1f3fc": {
         "code": "1f93e-1f3fc",
@@ -3097,6 +4659,26 @@
             "U+1F93E",
             "U+1F3FC"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3105,7 +4687,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_emoji-modifier-fitzpatrick-type-3_1f93e-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93e-1f3fd": {
         "code": "1f93e-1f3fd",
@@ -3125,6 +4710,26 @@
             "U+1F93E",
             "U+1F3FD"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3133,7 +4738,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_emoji-modifier-fitzpatrick-type-4_1f93e-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93e-1f3fe": {
         "code": "1f93e-1f3fe",
@@ -3153,6 +4761,26 @@
             "U+1F93E",
             "U+1F3FE"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3161,7 +4789,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_emoji-modifier-fitzpatrick-type-5_1f93e-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93e-1f3ff": {
         "code": "1f93e-1f3ff",
@@ -3181,6 +4812,26 @@
             "U+1F93E",
             "U+1F3FF"
         ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3189,7 +4840,10 @@
             ],
             "folder_id": "237",
             "file_name": "handball_emoji-modifier-fitzpatrick-type-6_1f93e-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f939": {
         "code": "1f939",
@@ -3213,6 +4867,26 @@
         "codepoints": [
             "U+1F939"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3221,7 +4895,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_1f939.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": false
     },
     "1f939-1f3fb": {
         "code": "1f939-1f3fb",
@@ -3243,6 +4920,26 @@
             "U+1F939",
             "U+1F3FB"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3251,7 +4948,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_emoji-modifier-fitzpatrick-type-1-2_1f939-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f939-1f3fc": {
         "code": "1f939-1f3fc",
@@ -3273,6 +4973,26 @@
             "U+1F939",
             "U+1F3FC"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3281,7 +5001,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_emoji-modifier-fitzpatrick-type-3_1f939-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f939-1f3fd": {
         "code": "1f939-1f3fd",
@@ -3303,6 +5026,26 @@
             "U+1F939",
             "U+1F3FD"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3311,7 +5054,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_emoji-modifier-fitzpatrick-type-4_1f939-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f939-1f3fe": {
         "code": "1f939-1f3fe",
@@ -3333,6 +5079,26 @@
             "U+1F939",
             "U+1F3FE"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3341,7 +5107,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_emoji-modifier-fitzpatrick-type-5_1f939-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f939-1f3ff": {
         "code": "1f939-1f3ff",
@@ -3363,6 +5132,26 @@
             "U+1F939",
             "U+1F3FF"
         ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3371,7 +5160,10 @@
             ],
             "folder_id": "237",
             "file_name": "juggling_emoji-modifier-fitzpatrick-type-6_1f939-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f98d": {
         "code": "1f98d",
@@ -3387,6 +5179,7 @@
         "codepoints": [
             "U+1F98D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3395,7 +5188,10 @@
             ],
             "folder_id": "237",
             "file_name": "gorilla_1f98d.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f98a": {
         "code": "1f98a",
@@ -3414,6 +5210,7 @@
         "codepoints": [
             "U+1F98A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3422,7 +5219,10 @@
             ],
             "folder_id": "237",
             "file_name": "fox-face_1f98a.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f98c": {
         "code": "1f98c",
@@ -3442,6 +5242,7 @@
         "codepoints": [
             "U+1F98C"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3450,7 +5251,10 @@
             ],
             "folder_id": "237",
             "file_name": "deer_1f98c.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f98f": {
         "code": "1f98f",
@@ -3468,6 +5272,7 @@
         "codepoints": [
             "U+1F98F"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3476,7 +5281,10 @@
             ],
             "folder_id": "237",
             "file_name": "rhinoceros_1f98f.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f987": {
         "code": "1f987",
@@ -3495,6 +5303,7 @@
         "codepoints": [
             "U+1F987"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3503,7 +5312,10 @@
             ],
             "folder_id": "237",
             "file_name": "bat_1f987.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "skin_mode": false
     },
     "1f985": {
         "code": "1f985",
@@ -3522,6 +5334,7 @@
         "codepoints": [
             "U+1F985"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3530,7 +5343,10 @@
             ],
             "folder_id": "237",
             "file_name": "eagle_1f985.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f986": {
         "code": "1f986",
@@ -3547,6 +5363,7 @@
         "codepoints": [
             "U+1F986"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3555,7 +5372,10 @@
             ],
             "folder_id": "237",
             "file_name": "duck_1f986.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f989": {
         "code": "1f989",
@@ -3573,6 +5393,7 @@
         "codepoints": [
             "U+1F989"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3581,7 +5402,10 @@
             ],
             "folder_id": "237",
             "file_name": "owl_1f989.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "skin_mode": false
     },
     "1f98e": {
         "code": "1f98e",
@@ -3600,6 +5424,7 @@
         "codepoints": [
             "U+1F98E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3608,7 +5433,10 @@
             ],
             "folder_id": "237",
             "file_name": "lizard_1f98e.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Reptile",
+        "skin_mode": false
     },
     "1f988": {
         "code": "1f988",
@@ -3627,6 +5455,7 @@
         "codepoints": [
             "U+1F988"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3635,7 +5464,10 @@
             ],
             "folder_id": "237",
             "file_name": "shark_1f988.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Marine",
+        "skin_mode": false
     },
     "1f98b": {
         "code": "1f98b",
@@ -3653,6 +5485,7 @@
         "codepoints": [
             "U+1F98B"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3661,7 +5494,10 @@
             ],
             "folder_id": "237",
             "file_name": "butterfly_1f98b.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bug",
+        "skin_mode": false
     },
     "1f940": {
         "code": "1f940",
@@ -3682,6 +5518,7 @@
         "codepoints": [
             "U+1F940"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3690,7 +5527,10 @@
             ],
             "folder_id": "237",
             "file_name": "wilted-flower_1f940.png"
-        }
+        },
+        "category": "Animals & Nature",
+        "sub_category": "Plant Flower",
+        "skin_mode": false
     },
     "1f95d": {
         "code": "1f95d",
@@ -3712,6 +5552,7 @@
         "codepoints": [
             "U+1F95D"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3720,7 +5561,10 @@
             ],
             "folder_id": "237",
             "file_name": "kiwifruit_1f95d.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Fruit",
+        "skin_mode": false
     },
     "1f951": {
         "code": "1f951",
@@ -3738,6 +5582,7 @@
         "codepoints": [
             "U+1F951"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3746,7 +5591,10 @@
             ],
             "folder_id": "237",
             "file_name": "avocado_1f951.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f954": {
         "code": "1f954",
@@ -3767,6 +5615,7 @@
         "codepoints": [
             "U+1F954"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3775,7 +5624,10 @@
             ],
             "folder_id": "237",
             "file_name": "potato_1f954.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f955": {
         "code": "1f955",
@@ -3793,6 +5645,7 @@
         "codepoints": [
             "U+1F955"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3801,7 +5654,10 @@
             ],
             "folder_id": "237",
             "file_name": "carrot_1f955.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f952": {
         "code": "1f952",
@@ -3823,6 +5679,7 @@
         "codepoints": [
             "U+1F952"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3831,7 +5688,10 @@
             ],
             "folder_id": "237",
             "file_name": "cucumber_1f952.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f95c": {
         "code": "1f95c",
@@ -3853,6 +5713,7 @@
         "codepoints": [
             "U+1F95C"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3861,7 +5722,10 @@
             ],
             "folder_id": "237",
             "file_name": "peanuts_1f95c.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "skin_mode": false
     },
     "1f950": {
         "code": "1f950",
@@ -3882,6 +5746,7 @@
         "codepoints": [
             "U+1F950"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3890,7 +5755,10 @@
             ],
             "folder_id": "237",
             "file_name": "croissant_1f950.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f956": {
         "code": "1f956",
@@ -3912,6 +5780,7 @@
         "codepoints": [
             "U+1F956"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3920,7 +5789,10 @@
             ],
             "folder_id": "237",
             "file_name": "baguette-bread_1f956.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f95e": {
         "code": "1f95e",
@@ -3944,6 +5816,7 @@
         "codepoints": [
             "U+1F95E"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3952,7 +5825,10 @@
             ],
             "folder_id": "237",
             "file_name": "pancakes_1f95e.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f953": {
         "code": "1f953",
@@ -3973,6 +5849,7 @@
         "codepoints": [
             "U+1F953"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -3981,7 +5858,10 @@
             ],
             "folder_id": "237",
             "file_name": "bacon_1f953.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f959": {
         "code": "1f959",
@@ -4007,6 +5887,7 @@
         "codepoints": [
             "U+1F959"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4015,7 +5896,10 @@
             ],
             "folder_id": "237",
             "file_name": "stuffed-flatbread_1f959.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f95a": {
         "code": "1f95a",
@@ -4033,6 +5917,7 @@
         "codepoints": [
             "U+1F95A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4041,7 +5926,10 @@
             ],
             "folder_id": "237",
             "file_name": "egg_1f95a.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f958": {
         "code": "1f958",
@@ -4065,6 +5953,7 @@
         "codepoints": [
             "U+1F958"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4073,7 +5962,10 @@
             ],
             "folder_id": "237",
             "file_name": "shallow-pan-of-food_1f958.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f957": {
         "code": "1f957",
@@ -4093,6 +5985,7 @@
         "codepoints": [
             "U+1F957"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4101,7 +5994,10 @@
             ],
             "folder_id": "237",
             "file_name": "green-salad_1f957.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "skin_mode": false
     },
     "1f990": {
         "code": "1f990",
@@ -4122,6 +6018,7 @@
         "codepoints": [
             "U+1F990"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4130,7 +6027,10 @@
             ],
             "folder_id": "237",
             "file_name": "shrimp_1f990.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Marine",
+        "skin_mode": false
     },
     "1f991": {
         "code": "1f991",
@@ -4148,6 +6048,7 @@
         "codepoints": [
             "U+1F991"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4156,7 +6057,10 @@
             ],
             "folder_id": "237",
             "file_name": "squid_1f991.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Food Marine",
+        "skin_mode": false
     },
     "1f93c-1f3fb": {
         "code": "1f93c-1f3fb",
@@ -4171,6 +6075,26 @@
             "U+1F93C",
             "U+1F3FB"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -4179,7 +6103,10 @@
             ],
             "folder_id": "223",
             "file_name": "wrestlers_emoji-modifier-fitzpatrick-type-1-2_1f93c-1f3fb_1f3fb.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93c-1f3fc": {
         "code": "1f93c-1f3fc",
@@ -4194,6 +6121,26 @@
             "U+1F93C",
             "U+1F3FC"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -4202,7 +6149,10 @@
             ],
             "folder_id": "223",
             "file_name": "wrestlers_emoji-modifier-fitzpatrick-type-3_1f93c-1f3fc_1f3fc.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93c-1f3fd": {
         "code": "1f93c-1f3fd",
@@ -4217,6 +6167,26 @@
             "U+1F93C",
             "U+1F3FD"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -4225,7 +6195,10 @@
             ],
             "folder_id": "223",
             "file_name": "wrestlers_emoji-modifier-fitzpatrick-type-4_1f93c-1f3fd_1f3fd.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93c-1f3fe": {
         "code": "1f93c-1f3fe",
@@ -4240,6 +6213,26 @@
             "U+1F93C",
             "U+1F3FE"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -4248,7 +6241,10 @@
             ],
             "folder_id": "223",
             "file_name": "wrestlers_emoji-modifier-fitzpatrick-type-5_1f93c-1f3fe_1f3fe.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f93c-1f3ff": {
         "code": "1f93c-1f3ff",
@@ -4263,6 +6259,26 @@
             "U+1F93C",
             "U+1F3FF"
         ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f",
+            "1f93c-1f3fb",
+            "1f93c-1f3fc",
+            "1f93c-1f3fd",
+            "1f93c-1f3fe",
+            "1f93c-1f3ff",
+            "1f93c-1f3fb-200d-2642-fe0f",
+            "1f93c-1f3fc-200d-2642-fe0f",
+            "1f93c-1f3fd-200d-2642-fe0f",
+            "1f93c-1f3fe-200d-2642-fe0f",
+            "1f93c-1f3ff-200d-2642-fe0f",
+            "1f93c-1f3fb-200d-2640-fe0f",
+            "1f93c-1f3fc-200d-2640-fe0f",
+            "1f93c-1f3fd-200d-2640-fe0f",
+            "1f93c-1f3fe-200d-2640-fe0f",
+            "1f93c-1f3ff-200d-2640-fe0f"
+        ],
         "image": {
             "brand": "google",
             "platform": [
@@ -4271,7 +6287,10 @@
             ],
             "folder_id": "223",
             "file_name": "wrestlers_emoji-modifier-fitzpatrick-type-6_1f93c-1f3ff_1f3ff.png"
-        }
+        },
+        "category": "People & Body",
+        "sub_category": "Person Sport",
+        "skin_mode": true
     },
     "1f95b": {
         "code": "1f95b",
@@ -4292,6 +6311,7 @@
         "codepoints": [
             "U+1F95B"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4300,7 +6320,10 @@
             ],
             "folder_id": "237",
             "file_name": "glass-of-milk_1f95b.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "skin_mode": false
     },
     "1f942": {
         "code": "1f942",
@@ -4324,6 +6347,7 @@
         "codepoints": [
             "U+1F942"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4332,7 +6356,10 @@
             ],
             "folder_id": "237",
             "file_name": "clinking-glasses_1f942.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "skin_mode": false
     },
     "1f943": {
         "code": "1f943",
@@ -4358,6 +6385,7 @@
         "codepoints": [
             "U+1F943"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4366,7 +6394,10 @@
             ],
             "folder_id": "237",
             "file_name": "tumbler-glass_1f943.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "skin_mode": false
     },
     "1f944": {
         "code": "1f944",
@@ -4383,6 +6414,7 @@
         "codepoints": [
             "U+1F944"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4391,7 +6423,10 @@
             ],
             "folder_id": "237",
             "file_name": "spoon_1f944.png"
-        }
+        },
+        "category": "Food & Drink",
+        "sub_category": "Dishware",
+        "skin_mode": false
     },
     "1f6f5": {
         "code": "1f6f5",
@@ -4412,6 +6447,7 @@
         "codepoints": [
             "U+1F6F5"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4420,7 +6456,10 @@
             ],
             "folder_id": "237",
             "file_name": "motor-scooter_1f6f5.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "skin_mode": false
     },
     "1f6f4": {
         "code": "1f6f4",
@@ -4439,6 +6478,7 @@
         "codepoints": [
             "U+1F6F4"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4447,7 +6487,10 @@
             ],
             "folder_id": "237",
             "file_name": "scooter_1f6f4.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "skin_mode": false
     },
     "1f6d1": {
         "code": "1f6d1",
@@ -4467,6 +6510,7 @@
         "codepoints": [
             "U+1F6D1"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4475,7 +6519,10 @@
             ],
             "folder_id": "237",
             "file_name": "octagonal-sign_1f6d1.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "skin_mode": false
     },
     "1f6f6": {
         "code": "1f6f6",
@@ -4492,6 +6539,7 @@
         "codepoints": [
             "U+1F6F6"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4500,7 +6548,10 @@
             ],
             "folder_id": "237",
             "file_name": "canoe_1f6f6.png"
-        }
+        },
+        "category": "Travel & Places",
+        "sub_category": "Transport Water",
+        "skin_mode": false
     },
     "1f947": {
         "code": "1f947",
@@ -4522,6 +6573,7 @@
         "codepoints": [
             "U+1F947"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4530,7 +6582,10 @@
             ],
             "folder_id": "237",
             "file_name": "first-place-medal_1f947.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Award Medal",
+        "skin_mode": false
     },
     "1f948": {
         "code": "1f948",
@@ -4552,6 +6607,7 @@
         "codepoints": [
             "U+1F948"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4560,7 +6616,10 @@
             ],
             "folder_id": "237",
             "file_name": "second-place-medal_1f948.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Award Medal",
+        "skin_mode": false
     },
     "1f949": {
         "code": "1f949",
@@ -4582,6 +6641,7 @@
         "codepoints": [
             "U+1F949"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4590,7 +6650,10 @@
             ],
             "folder_id": "237",
             "file_name": "third-place-medal_1f949.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Award Medal",
+        "skin_mode": false
     },
     "1f94a": {
         "code": "1f94a",
@@ -4607,6 +6670,7 @@
         "codepoints": [
             "U+1F94A"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4615,7 +6679,10 @@
             ],
             "folder_id": "237",
             "file_name": "boxing-glove_1f94a.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f94b": {
         "code": "1f94b",
@@ -4638,6 +6705,7 @@
         "codepoints": [
             "U+1F94B"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4646,7 +6714,10 @@
             ],
             "folder_id": "237",
             "file_name": "martial-arts-uniform_1f94b.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f945": {
         "code": "1f945",
@@ -4663,6 +6734,7 @@
         "codepoints": [
             "U+1F945"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4671,7 +6743,10 @@
             ],
             "folder_id": "237",
             "file_name": "goal-net_1f945.png"
-        }
+        },
+        "category": "Activities",
+        "sub_category": "Sport",
+        "skin_mode": false
     },
     "1f941": {
         "code": "1f941",
@@ -4691,6 +6766,7 @@
         "codepoints": [
             "U+1F941"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4699,7 +6775,10 @@
             ],
             "folder_id": "237",
             "file_name": "drum-with-drumsticks_1f941.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Musical Instrument",
+        "skin_mode": false
     },
     "1f6d2": {
         "code": "1f6d2",
@@ -4719,6 +6798,7 @@
         "codepoints": [
             "U+1F6D2"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4727,7 +6807,10 @@
             ],
             "folder_id": "237",
             "file_name": "shopping-trolley_1f6d2.png"
-        }
+        },
+        "category": "Objects",
+        "sub_category": "Household",
+        "skin_mode": false
     },
     "0023-fe0f-20e3": {
         "code": "0023-fe0f-20e3",
@@ -4745,12 +6828,15 @@
             ":hash:"
         ],
         "description": "A hash key, sometimes referred to as a pound key in the United States. Most commonly used online to make a <a href=\"http://en.wikipedia.org/wiki/Hashtag\">hashtag</a> (or <a href=\"http://hashfla.gs\">hash flag</a>) on social media sites.\n\nThe Keycap Number Sign emoji is a sequence of the <a href=\"https://emojipedia.org/number-sign/\"># Number Sign</a> and <a href=\"https://emojipedia.org/combining-enclosing-keycap/\">⃣ Combining Enclosing Keycap</a> emojis. These display as a single emoji on supported platforms.\n\n<em>Keycap Number Sign</em> was approved as part of <a href=\"https://emojipedia.org/unicode-3.0/\">Unicode 3.0</a> in 1999 and added to <a href=\"https://emojipedia.org/emoji-3.0/\">Emoji 3.0</a> in 2016.",
-        "tags": [],
+        "tags": [
+            "keycap"
+        ],
         "codepoints": [
             "U+23",
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4759,7 +6845,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-number-sign_23-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "002a-fe0f-20e3": {
         "code": "002a-fe0f-20e3",
@@ -4779,6 +6868,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4787,7 +6877,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-asterisk_2a-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0030-fe0f-20e3": {
         "code": "0030-fe0f-20e3",
@@ -4807,6 +6900,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4815,7 +6909,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-zero_30-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0031-fe0f-20e3": {
         "code": "0031-fe0f-20e3",
@@ -4835,6 +6932,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4843,7 +6941,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-one_31-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0032-fe0f-20e3": {
         "code": "0032-fe0f-20e3",
@@ -4863,6 +6964,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4871,7 +6973,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-two_32-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0033-fe0f-20e3": {
         "code": "0033-fe0f-20e3",
@@ -4891,6 +6996,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4899,7 +7005,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-three_33-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0034-fe0f-20e3": {
         "code": "0034-fe0f-20e3",
@@ -4919,6 +7028,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4927,7 +7037,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-four_34-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0035-fe0f-20e3": {
         "code": "0035-fe0f-20e3",
@@ -4947,6 +7060,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4955,7 +7069,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-five_35-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0036-fe0f-20e3": {
         "code": "0036-fe0f-20e3",
@@ -4975,6 +7092,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -4983,7 +7101,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-six_36-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0037-fe0f-20e3": {
         "code": "0037-fe0f-20e3",
@@ -5003,6 +7124,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -5011,7 +7133,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-seven_37-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0038-fe0f-20e3": {
         "code": "0038-fe0f-20e3",
@@ -5031,6 +7156,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -5039,7 +7165,10 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-eight_38-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     },
     "0039-fe0f-20e3": {
         "code": "0039-fe0f-20e3",
@@ -5059,6 +7188,7 @@
             "U+FE0F",
             "U+20E3"
         ],
+        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -5067,6 +7197,9 @@
             ],
             "folder_id": "237",
             "file_name": "keycap-digit-nine_39-fe0f-20e3.png"
-        }
+        },
+        "category": "Symbols",
+        "sub_category": "Keycap",
+        "skin_mode": false
     }
 }
