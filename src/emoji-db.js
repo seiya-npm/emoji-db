@@ -39,7 +39,7 @@ function initDb({ dbDir, ignoreUnqualified }){
             if(dbFile.match(/xdd/) && emojiDbData[e.code]){
                 emojiDbData[e.code].description = e.description;
             }
-            else if(dbFile.match(/xdd/)){
+            if(dbFile.match(/xdd/)){
                 continue;
             }
             if(emojiDbData[e.code]){
@@ -69,7 +69,7 @@ class EmojiDb {
         // empty db
         if(useDefaultDb && !dbDir){
             const dbDefDir = __dirname + '/database/';
-            this.dbData = initDb({ dbDefDir, ignoreUnqualified });
+            this.dbData = initDb({ dbDir: dbDefDir, ignoreUnqualified });
         }
         else if(!useDefaultDb && dbDir){
             this.dbData = initDb({ dbDir });
