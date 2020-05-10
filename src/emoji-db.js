@@ -68,8 +68,8 @@ class EmojiDb {
         this.dbData = {};
         // empty db
         if(useDefaultDb && !dbDir){
-            dbDir = __dirname + '/database/';
-            this.dbData = initDb({ dbDir, ignoreUnqualified });
+            const dbDefDir = __dirname + '/database/';
+            this.dbData = initDb({ dbDefDir, ignoreUnqualified });
         }
         else if(!useDefaultDb && dbDir){
             this.dbData = initDb({ dbDir });
