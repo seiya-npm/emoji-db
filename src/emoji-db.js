@@ -22,25 +22,47 @@ function initDb({ dbDir, ignoreUnqualified }){
     });
     // sort dbs
     dbFiles.sort((a, b) => {
-        a = !a.match(/unqualified/) ? parseFloat(a) : Infinity;
-        b = !b.match(/unqualified/) ? parseFloat(b) : Infinity;
+        a = !a.match(/nfq|xdd/) ? parseFloat(a) : Infinity;
+        b = !b.match(/nfq|xdd/) ? parseFloat(b) : Infinity;
         return a - b;
     });
+    // log
+    console.log('[LOG] Emoji versions:', dbFiles.join(', '));
     // load dbs
     let emojiDbData = {};
     for (const dbFile of dbFiles) {
-        if(ignoreUnqualified && dbFile.match(/unqualified/)){
+        if(ignoreUnqualified && dbFile.match(/nfq/)){
             continue;
         }
         let loadEmojiDbData = require(dbDir + filePrefx + dbFile + fileSuffx);
-        emojiDbData = Object.assign({}, emojiDbData, loadEmojiDbData);
+        for(let e of loadEmojiDbData){
+            if(dbFile.match(/xdd/) && emojiDbData[e.code]){
+                emojiDbData[e.code].description = e.description;
+            }
+            else if(dbFile.match(/xdd/)){
+                continue;
+            }
+            if(emojiDbData[e.code]){
+                console.log('[WARN] DUBLICATE ENTRY IN DB:', dbFile, e.code);
+            }
+            emojiDbData[e.code] = e;
+        }
     }
     // return db
+    console.log('[LOG] EmojiDB loaded %s entries.', Object.keys(emojiDbData).length);
     return emojiDbData;
 }
 
 class EmojiDb {
-    constructor({ useDefaultDb, dbDir, ignoreUnqualified }) {
+    constructor(opts) {
+        // reset to object
+        if(typeof opts != 'object'){
+            opts = {};
+        }
+        // set undefined
+        const useDefaultDb      = opts.useDefaultDb || undefined;
+        const dbDir             = opts.dbDir || undefined;
+        const ignoreUnqualified = opts.ignoreUnqualified || undefined;
         // set defaults
         this.codePointSeparator = '-';
         this.dbData = {};
