@@ -1,9 +1,8 @@
 ﻿[
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Affection",
         "code": "1f929",
-        "url": "star-struck",
         "emoji": "🤩",
         "title": "Star-Struck",
         "aliases": [
@@ -14,7 +13,11 @@
             "Face With Starry Eyes",
             "Grinning Face with Star Eyes"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":star_struck:",
+            ":star-struck:",
+            ":grinning_face_with_star_eyes:"
+        ],
         "tags": [
             "eyes",
             "face",
@@ -40,10 +43,9 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Tongue",
         "code": "1f92a",
-        "url": "zany-face",
         "emoji": "🤪",
         "title": "Zany Face",
         "aliases": [
@@ -53,7 +55,10 @@
             "Goofy Face",
             "Grinning Face with One Large and One Small Eye"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":zany_face:",
+            ":grinning_face_with_one_large_and_one_small_eye:"
+        ],
         "tags": [
             "eye",
             "goofy",
@@ -64,7 +69,6 @@
         "codepoints": [
             "U+1F92A"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -76,17 +80,20 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Hand",
         "code": "1f92d",
-        "url": "face-with-hand-over-mouth",
         "emoji": "🤭",
         "title": "Face with Hand Over Mouth",
         "aliases": [
             "Blushing Face With Hand Over Mouth",
             "Smiling Face with Smiling Eyes and Hand Covering Mouth"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":face_with_hand_over_mouth:",
+            ":hand_over_mouth:",
+            ":smiling_face_with_smiling_eyes_and_hand_covering_mouth:"
+        ],
         "tags": [
             "face with hand over mouth",
             "whoops",
@@ -97,7 +104,6 @@
         "codepoints": [
             "U+1F92D"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -109,10 +115,9 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Hand",
         "code": "1f92b",
-        "url": "shushing-face",
         "emoji": "🤫",
         "title": "Shushing Face",
         "aliases": [
@@ -121,7 +126,10 @@
             "Shh",
             "Face with Finger Covering Closed Lips"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":shushing_face:",
+            ":face_with_finger_covering_closed_lips:"
+        ],
         "tags": [
             "quiet",
             "shush",
@@ -130,7 +138,6 @@
         "codepoints": [
             "U+1F92B"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -142,10 +149,9 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1f928",
-        "url": "face-with-raised-eyebrow",
         "emoji": "🤨",
         "title": "Face with Raised Eyebrow",
         "aliases": [
@@ -154,7 +160,11 @@
             "Face With Raised Eyebrow",
             "Face with One Eyebrow Raised"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":face_with_raised_eyebrow:",
+            ":raised_eyebrow:",
+            ":face_with_one_eyebrow_raised:"
+        ],
         "tags": [
             "distrust",
             "face with raised eyebrow",
@@ -167,7 +177,6 @@
         "codepoints": [
             "U+1F928"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -179,10 +188,9 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Unwell",
         "code": "1f92e",
-        "url": "face-vomiting",
         "emoji": "🤮",
         "title": "Face Vomiting",
         "aliases": [
@@ -192,7 +200,11 @@
             "Vomiting Face",
             "Face with Open Mouth Vomiting"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":face_vomiting:",
+            ":vomiting_face:",
+            ":face_with_open_mouth_vomiting:"
+        ],
         "tags": [
             "face vomiting",
             "sick",
@@ -201,7 +213,6 @@
         "codepoints": [
             "U+1F92E"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -213,17 +224,19 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Unwell",
         "code": "1f92f",
-        "url": "exploding-head",
         "emoji": "🤯",
         "title": "Exploding Head",
         "aliases": [
             "Mind Blown",
             "Shocked Face with Exploding Head"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":exploding_head:",
+            ":shocked_face_with_exploding_head:"
+        ],
         "tags": [
             "exploding head",
             "mind blown",
@@ -232,7 +245,6 @@
         "codepoints": [
             "U+1F92F"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -244,16 +256,18 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Glasses",
         "code": "1f9d0",
-        "url": "face-with-monocle",
         "emoji": "🧐",
         "title": "Face with Monocle",
         "aliases": [
             "Face With Monocle"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":face_with_monocle:",
+            ":monocle_face:"
+        ],
         "tags": [
             "face with monocle",
             "stuffy",
@@ -262,7 +276,6 @@
         "codepoints": [
             "U+1F9D0"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -274,10 +287,9 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "People",
         "sub_category": "Face Negative",
         "code": "1f92c",
-        "url": "face-with-symbols-on-mouth",
         "emoji": "🤬",
         "title": "Face with Symbols on Mouth",
         "aliases": [
@@ -288,7 +300,11 @@
             "Face With Symbols Over Mouth",
             "Serious Face with Symbols Covering Mouth"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":cursing_face:",
+            ":face_with_symbols_on_mouth:",
+            ":serious_face_with_symbols_covering_mouth:"
+        ],
         "tags": [
             "face with symbols on mouth",
             "swearing",
@@ -297,7 +313,6 @@
         "codepoints": [
             "U+1F92C"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -309,14 +324,14 @@
         }
     },
     {
-        "category": "Smileys & Emotion",
+        "category": "Symbols & Flags",
         "sub_category": "Emotion",
         "code": "1f9e1",
-        "url": "orange-heart",
         "emoji": "🧡",
         "title": "Orange Heart",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":orange_heart:"
+        ],
         "tags": [
             "orange",
             "orange heart"
@@ -324,7 +339,6 @@
         "codepoints": [
             "U+1F9E1"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -336,16 +350,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f",
-        "url": "love-you-gesture",
         "emoji": "🤟",
         "title": "Love-You Gesture",
         "aliases": [
             "I Love You Hand Sign"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture:",
+            ":i_love_you_hand_sign:"
+        ],
         "tags": [
             "hand",
             "ily",
@@ -374,14 +390,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f-1f3fb",
-        "url": "love-you-gesture-light-skin-tone",
         "emoji": "🤟🏻",
         "title": "Love-You Gesture: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture_light_skin_tone:"
+        ],
         "tags": [
             "hand",
             "ily",
@@ -393,7 +409,6 @@
             "U+1F91F",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f91f",
         "related": [
             "1f91f",
@@ -414,14 +429,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f-1f3fc",
-        "url": "love-you-gesture-medium-light-skin-tone",
         "emoji": "🤟🏼",
         "title": "Love-You Gesture: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture_medium_light_skin_tone:"
+        ],
         "tags": [
             "hand",
             "ily",
@@ -433,7 +448,6 @@
             "U+1F91F",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f91f",
         "related": [
             "1f91f",
@@ -454,14 +468,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f-1f3fd",
-        "url": "love-you-gesture-medium-skin-tone",
         "emoji": "🤟🏽",
         "title": "Love-You Gesture: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture_medium_skin_tone:"
+        ],
         "tags": [
             "hand",
             "ily",
@@ -473,7 +487,6 @@
             "U+1F91F",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f91f",
         "related": [
             "1f91f",
@@ -494,14 +507,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f-1f3fe",
-        "url": "love-you-gesture-medium-dark-skin-tone",
         "emoji": "🤟🏾",
         "title": "Love-You Gesture: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture_medium_dark_skin_tone:"
+        ],
         "tags": [
             "hand",
             "ily",
@@ -513,7 +526,6 @@
             "U+1F91F",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f91f",
         "related": [
             "1f91f",
@@ -534,14 +546,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f91f-1f3ff",
-        "url": "love-you-gesture-dark-skin-tone",
         "emoji": "🤟🏿",
         "title": "Love-You Gesture: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":love_you_gesture_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "hand",
@@ -553,7 +565,6 @@
             "U+1F91F",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f91f",
         "related": [
             "1f91f",
@@ -574,17 +585,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932",
-        "url": "palms-up-together",
         "emoji": "🤲",
         "title": "Palms Up Together",
         "aliases": [
             "Dua",
             "Palms Together Facing Up"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together:"
+        ],
         "tags": [
             "palms up together",
             "prayer",
@@ -612,14 +624,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932-1f3fb",
-        "url": "palms-up-together-light-skin-tone",
         "emoji": "🤲🏻",
         "title": "Palms Up Together: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "palms up together",
@@ -630,7 +642,6 @@
             "U+1F932",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f932",
         "related": [
             "1f932",
@@ -651,14 +662,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932-1f3fc",
-        "url": "palms-up-together-medium-light-skin-tone",
         "emoji": "🤲🏼",
         "title": "Palms Up Together: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "palms up together",
@@ -669,7 +680,6 @@
             "U+1F932",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f932",
         "related": [
             "1f932",
@@ -690,14 +700,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932-1f3fd",
-        "url": "palms-up-together-medium-skin-tone",
         "emoji": "🤲🏽",
         "title": "Palms Up Together: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "palms up together",
@@ -708,7 +718,6 @@
             "U+1F932",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f932",
         "related": [
             "1f932",
@@ -729,14 +738,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932-1f3fe",
-        "url": "palms-up-together-medium-dark-skin-tone",
         "emoji": "🤲🏾",
         "title": "Palms Up Together: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "palms up together",
@@ -747,7 +756,6 @@
             "U+1F932",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f932",
         "related": [
             "1f932",
@@ -768,14 +776,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Hands",
         "code": "1f932-1f3ff",
-        "url": "palms-up-together-dark-skin-tone",
         "emoji": "🤲🏿",
         "title": "Palms Up Together: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":palms_up_together_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "palms up together",
@@ -786,7 +794,6 @@
             "U+1F932",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f932",
         "related": [
             "1f932",
@@ -807,14 +814,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Body Parts",
         "code": "1f9e0",
-        "url": "brain",
         "emoji": "🧠",
         "title": "Brain",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":brain:"
+        ],
         "tags": [
             "brain",
             "intelligent"
@@ -822,7 +829,6 @@
         "codepoints": [
             "U+1F9E0"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -834,16 +840,17 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2",
-        "url": "child",
         "emoji": "🧒",
         "title": "Child",
         "aliases": [
             "Gender Neutral Child"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child:"
+        ],
         "tags": [
             "child",
             "gender-neutral",
@@ -884,14 +891,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2-1f3fb",
-        "url": "child-light-skin-tone",
         "emoji": "🧒🏻",
         "title": "Child: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child_light_skin_tone:"
+        ],
         "tags": [
             "child",
             "gender-neutral",
@@ -903,7 +910,6 @@
             "U+1F9D2",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d2",
         "related": [
             "1f9d2",
@@ -936,14 +942,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2-1f3fc",
-        "url": "child-medium-light-skin-tone",
         "emoji": "🧒🏼",
         "title": "Child: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child_medium_light_skin_tone:"
+        ],
         "tags": [
             "child",
             "gender-neutral",
@@ -955,7 +961,6 @@
             "U+1F9D2",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d2",
         "related": [
             "1f9d2",
@@ -988,14 +993,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2-1f3fd",
-        "url": "child-medium-skin-tone",
         "emoji": "🧒🏽",
         "title": "Child: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child_medium_skin_tone:"
+        ],
         "tags": [
             "child",
             "gender-neutral",
@@ -1007,7 +1012,6 @@
             "U+1F9D2",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d2",
         "related": [
             "1f9d2",
@@ -1040,14 +1044,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2-1f3fe",
-        "url": "child-medium-dark-skin-tone",
         "emoji": "🧒🏾",
         "title": "Child: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child_medium_dark_skin_tone:"
+        ],
         "tags": [
             "child",
             "gender-neutral",
@@ -1059,7 +1063,6 @@
             "U+1F9D2",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d2",
         "related": [
             "1f9d2",
@@ -1092,14 +1095,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d2-1f3ff",
-        "url": "child-dark-skin-tone",
         "emoji": "🧒🏿",
         "title": "Child: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":child_dark_skin_tone:"
+        ],
         "tags": [
             "child",
             "dark skin tone",
@@ -1111,7 +1114,6 @@
             "U+1F9D2",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d2",
         "related": [
             "1f9d2",
@@ -1144,17 +1146,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1",
-        "url": "person",
         "emoji": "🧑",
         "title": "Person",
         "aliases": [
             "Gender Neutral Adult",
             "Adult"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":adult:",
+            ":person:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1195,14 +1199,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1-1f3fb",
-        "url": "person-light-skin-tone",
         "emoji": "🧑🏻",
         "title": "Person: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_light_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1214,7 +1218,6 @@
             "U+1F9D1",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d1",
         "related": [
             "1f9d1",
@@ -1247,14 +1250,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1-1f3fc",
-        "url": "person-medium-light-skin-tone",
         "emoji": "🧑🏼",
         "title": "Person: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_medium_light_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1266,7 +1269,6 @@
             "U+1F9D1",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d1",
         "related": [
             "1f9d1",
@@ -1299,14 +1301,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1-1f3fd",
-        "url": "person-medium-skin-tone",
         "emoji": "🧑🏽",
         "title": "Person: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_medium_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1318,7 +1320,6 @@
             "U+1F9D1",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d1",
         "related": [
             "1f9d1",
@@ -1351,14 +1352,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1-1f3fe",
-        "url": "person-medium-dark-skin-tone",
         "emoji": "🧑🏾",
         "title": "Person: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_medium_dark_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1370,7 +1371,6 @@
             "U+1F9D1",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d1",
         "related": [
             "1f9d1",
@@ -1403,14 +1403,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d1-1f3ff",
-        "url": "person-dark-skin-tone",
         "emoji": "🧑🏿",
         "title": "Person: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_dark_skin_tone:"
+        ],
         "tags": [
             "adult",
             "dark skin tone",
@@ -1422,7 +1422,6 @@
             "U+1F9D1",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d1",
         "related": [
             "1f9d1",
@@ -1455,10 +1454,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4",
-        "url": "man-beard",
         "emoji": "🧔",
         "title": "Man: Beard",
         "aliases": [
@@ -1466,7 +1464,10 @@
             "Bearded Man",
             "Bearded Person"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":bearded_person:",
+            ":man_beard:"
+        ],
         "tags": [
             "beard",
             "man",
@@ -1496,14 +1497,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4-1f3fb",
-        "url": "man-light-skin-tone-beard",
         "emoji": "🧔🏻",
         "title": "Man: Light Skin Tone, Beard",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_light_skin_tone_beard:"
+        ],
         "tags": [
             "beard",
             "light skin tone",
@@ -1516,7 +1517,6 @@
             "U+1F9D4",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d4",
         "related": [
             "1f9d4",
@@ -1537,14 +1537,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4-1f3fc",
-        "url": "man-medium-light-skin-tone-beard",
         "emoji": "🧔🏼",
         "title": "Man: Medium-Light Skin Tone, Beard",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_medium_light_skin_tone_beard:"
+        ],
         "tags": [
             "beard",
             "man",
@@ -1557,7 +1557,6 @@
             "U+1F9D4",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d4",
         "related": [
             "1f9d4",
@@ -1578,14 +1577,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4-1f3fd",
-        "url": "man-medium-skin-tone-beard",
         "emoji": "🧔🏽",
         "title": "Man: Medium Skin Tone, Beard",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_medium_skin_tone_beard:"
+        ],
         "tags": [
             "beard",
             "man",
@@ -1598,7 +1597,6 @@
             "U+1F9D4",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d4",
         "related": [
             "1f9d4",
@@ -1619,14 +1617,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4-1f3fe",
-        "url": "man-medium-dark-skin-tone-beard",
         "emoji": "🧔🏾",
         "title": "Man: Medium-Dark Skin Tone, Beard",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_medium_dark_skin_tone_beard:"
+        ],
         "tags": [
             "beard",
             "man",
@@ -1639,7 +1637,6 @@
             "U+1F9D4",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d4",
         "related": [
             "1f9d4",
@@ -1660,14 +1657,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d4-1f3ff",
-        "url": "man-dark-skin-tone-beard",
         "emoji": "🧔🏿",
         "title": "Man: Dark Skin Tone, Beard",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_dark_skin_tone_beard:"
+        ],
         "tags": [
             "beard",
             "dark skin tone",
@@ -1680,7 +1677,6 @@
             "U+1F9D4",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d4",
         "related": [
             "1f9d4",
@@ -1701,17 +1697,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3",
-        "url": "older-person",
         "emoji": "🧓",
         "title": "Older Person",
         "aliases": [
             "Gender Neutral Older Adult",
             "Older Adult"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_adult:",
+            ":older_person:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1753,14 +1751,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3-1f3fb",
-        "url": "older-person-light-skin-tone",
         "emoji": "🧓🏻",
         "title": "Older Person: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_person_light_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1773,7 +1771,6 @@
             "U+1F9D3",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d3",
         "related": [
             "1f9d3",
@@ -1806,14 +1803,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3-1f3fc",
-        "url": "older-person-medium-light-skin-tone",
         "emoji": "🧓🏼",
         "title": "Older Person: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_person_medium_light_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1826,7 +1823,6 @@
             "U+1F9D3",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d3",
         "related": [
             "1f9d3",
@@ -1859,14 +1855,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3-1f3fd",
-        "url": "older-person-medium-skin-tone",
         "emoji": "🧓🏽",
         "title": "Older Person: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_person_medium_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1879,7 +1875,6 @@
             "U+1F9D3",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d3",
         "related": [
             "1f9d3",
@@ -1912,14 +1907,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3-1f3fe",
-        "url": "older-person-medium-dark-skin-tone",
         "emoji": "🧓🏾",
         "title": "Older Person: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_person_medium_dark_skin_tone:"
+        ],
         "tags": [
             "adult",
             "gender-neutral",
@@ -1932,7 +1927,6 @@
             "U+1F9D3",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d3",
         "related": [
             "1f9d3",
@@ -1965,14 +1959,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person",
         "code": "1f9d3-1f3ff",
-        "url": "older-person-dark-skin-tone",
         "emoji": "🧓🏿",
         "title": "Older Person: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":older_person_dark_skin_tone:"
+        ],
         "tags": [
             "adult",
             "dark skin tone",
@@ -1985,7 +1979,6 @@
             "U+1F9D3",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d3",
         "related": [
             "1f9d3",
@@ -2018,10 +2011,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5",
-        "url": "person-with-headscarf",
         "emoji": "🧕",
         "title": "Woman with Headscarf",
         "aliases": [
@@ -2029,7 +2021,10 @@
             "Woman With Headscarf",
             "Person with Headscarf"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf:",
+            ":person_with_headscarf:"
+        ],
         "tags": [
             "headscarf",
             "hijab",
@@ -2061,14 +2056,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5-1f3fb",
-        "url": "person-with-headscarf-light-skin-tone",
         "emoji": "🧕🏻",
         "title": "Woman with Headscarf: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf_light_skin_tone:"
+        ],
         "tags": [
             "headscarf",
             "hijab",
@@ -2083,7 +2078,6 @@
             "U+1F9D5",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d5",
         "related": [
             "1f9d5",
@@ -2104,14 +2098,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5-1f3fc",
-        "url": "person-with-headscarf-medium-light-skin-tone",
         "emoji": "🧕🏼",
         "title": "Woman with Headscarf: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf_medium_light_skin_tone:"
+        ],
         "tags": [
             "headscarf",
             "hijab",
@@ -2126,7 +2120,6 @@
             "U+1F9D5",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d5",
         "related": [
             "1f9d5",
@@ -2147,14 +2140,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5-1f3fd",
-        "url": "person-with-headscarf-medium-skin-tone",
         "emoji": "🧕🏽",
         "title": "Woman with Headscarf: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf_medium_skin_tone:"
+        ],
         "tags": [
             "headscarf",
             "hijab",
@@ -2169,7 +2162,6 @@
             "U+1F9D5",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d5",
         "related": [
             "1f9d5",
@@ -2190,14 +2182,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5-1f3fe",
-        "url": "person-with-headscarf-medium-dark-skin-tone",
         "emoji": "🧕🏾",
         "title": "Woman with Headscarf: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf_medium_dark_skin_tone:"
+        ],
         "tags": [
             "headscarf",
             "hijab",
@@ -2212,7 +2204,6 @@
             "U+1F9D5",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d5",
         "related": [
             "1f9d5",
@@ -2233,14 +2224,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f9d5-1f3ff",
-        "url": "person-with-headscarf-dark-skin-tone",
         "emoji": "🧕🏿",
         "title": "Woman with Headscarf: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_with_headscarf_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "headscarf",
@@ -2255,7 +2246,6 @@
             "U+1F9D5",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d5",
         "related": [
             "1f9d5",
@@ -2276,16 +2266,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931",
-        "url": "breast-feeding",
         "emoji": "🤱",
         "title": "Breast-Feeding",
         "aliases": [
             "Breastfeeding"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding:",
+            ":breast-feeding:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2314,14 +2306,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931-1f3fb",
-        "url": "breast-feeding-light-skin-tone",
         "emoji": "🤱🏻",
         "title": "Breast-Feeding: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding_light_skin_tone:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2333,7 +2325,6 @@
             "U+1F931",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f931",
         "related": [
             "1f931",
@@ -2354,14 +2345,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931-1f3fc",
-        "url": "breast-feeding-medium-light-skin-tone",
         "emoji": "🤱🏼",
         "title": "Breast-Feeding: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding_medium_light_skin_tone:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2373,7 +2364,6 @@
             "U+1F931",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f931",
         "related": [
             "1f931",
@@ -2394,14 +2384,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931-1f3fd",
-        "url": "breast-feeding-medium-skin-tone",
         "emoji": "🤱🏽",
         "title": "Breast-Feeding: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding_medium_skin_tone:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2413,7 +2403,6 @@
             "U+1F931",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f931",
         "related": [
             "1f931",
@@ -2434,14 +2423,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931-1f3fe",
-        "url": "breast-feeding-medium-dark-skin-tone",
         "emoji": "🤱🏾",
         "title": "Breast-Feeding: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding_medium_dark_skin_tone:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2453,7 +2442,6 @@
             "U+1F931",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f931",
         "related": [
             "1f931",
@@ -2474,14 +2462,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Role",
         "code": "1f931-1f3ff",
-        "url": "breast-feeding-dark-skin-tone",
         "emoji": "🤱🏿",
         "title": "Breast-Feeding: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":breast_feeding_dark_skin_tone:"
+        ],
         "tags": [
             "baby",
             "breast",
@@ -2493,7 +2481,6 @@
             "U+1F931",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f931",
         "related": [
             "1f931",
@@ -2514,10 +2501,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9",
-        "url": "mage",
         "emoji": "🧙",
         "title": "Mage",
         "aliases": [
@@ -2526,7 +2512,9 @@
             "Witch",
             "Wizard"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage:"
+        ],
         "tags": [
             "mage",
             "sorcerer",
@@ -2568,14 +2556,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fb",
-        "url": "mage-light-skin-tone",
         "emoji": "🧙🏻",
         "title": "Mage: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "mage",
@@ -2588,7 +2576,6 @@
             "U+1F9D9",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d9",
         "related": [
             "1f9d9",
@@ -2621,14 +2608,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fc",
-        "url": "mage-medium-light-skin-tone",
         "emoji": "🧙🏼",
         "title": "Mage: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_medium_light_skin_tone:"
+        ],
         "tags": [
             "mage",
             "medium-light skin tone",
@@ -2641,7 +2628,6 @@
             "U+1F9D9",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d9",
         "related": [
             "1f9d9",
@@ -2674,14 +2660,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fd",
-        "url": "mage-medium-skin-tone",
         "emoji": "🧙🏽",
         "title": "Mage: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_medium_skin_tone:"
+        ],
         "tags": [
             "mage",
             "medium skin tone",
@@ -2694,7 +2680,6 @@
             "U+1F9D9",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d9",
         "related": [
             "1f9d9",
@@ -2727,14 +2712,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fe",
-        "url": "mage-medium-dark-skin-tone",
         "emoji": "🧙🏾",
         "title": "Mage: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_medium_dark_skin_tone:"
+        ],
         "tags": [
             "mage",
             "medium-dark skin tone",
@@ -2747,7 +2732,6 @@
             "U+1F9D9",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d9",
         "related": [
             "1f9d9",
@@ -2780,14 +2764,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3ff",
-        "url": "mage-dark-skin-tone",
         "emoji": "🧙🏿",
         "title": "Mage: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "mage",
@@ -2800,7 +2784,6 @@
             "U+1F9D9",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d9",
         "related": [
             "1f9d9",
@@ -2833,16 +2816,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-200d-2642-fe0f",
-        "url": "man-mage",
         "emoji": "🧙‍♂️",
         "title": "Man Mage",
         "aliases": [
             "Wizard"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_man:",
+            ":man_mage:",
+            ":male_mage:"
+        ],
         "tags": [
             "man mage",
             "sorcerer",
@@ -2885,14 +2871,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fb-200d-2642-fe0f",
-        "url": "man-mage-light-skin-tone",
         "emoji": "🧙🏻‍♂️",
         "title": "Man Mage: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_mage_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "man mage",
@@ -2906,7 +2892,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2642-fe0f",
         "related": [
             "1f9d9",
@@ -2939,14 +2924,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fc-200d-2642-fe0f",
-        "url": "man-mage-medium-light-skin-tone",
         "emoji": "🧙🏼‍♂️",
         "title": "Man Mage: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_mage_medium_light_skin_tone:"
+        ],
         "tags": [
             "man mage",
             "medium-light skin tone",
@@ -2960,7 +2945,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2642-fe0f",
         "related": [
             "1f9d9",
@@ -2993,14 +2977,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fd-200d-2642-fe0f",
-        "url": "man-mage-medium-skin-tone",
         "emoji": "🧙🏽‍♂️",
         "title": "Man Mage: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_mage_medium_skin_tone:"
+        ],
         "tags": [
             "man mage",
             "medium skin tone",
@@ -3014,7 +2998,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2642-fe0f",
         "related": [
             "1f9d9",
@@ -3047,14 +3030,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fe-200d-2642-fe0f",
-        "url": "man-mage-medium-dark-skin-tone",
         "emoji": "🧙🏾‍♂️",
         "title": "Man Mage: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_mage_medium_dark_skin_tone:"
+        ],
         "tags": [
             "man mage",
             "medium-dark skin tone",
@@ -3068,7 +3051,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2642-fe0f",
         "related": [
             "1f9d9",
@@ -3101,14 +3083,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3ff-200d-2642-fe0f",
-        "url": "man-mage-dark-skin-tone",
         "emoji": "🧙🏿‍♂️",
         "title": "Man Mage: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_mage_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "man mage",
@@ -3122,7 +3104,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2642-fe0f",
         "related": [
             "1f9d9",
@@ -3155,17 +3136,20 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-200d-2640-fe0f",
-        "url": "woman-mage",
         "emoji": "🧙‍♀️",
         "title": "Woman Mage",
         "aliases": [
             "Witch",
             "Sorceress"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mage_woman:",
+            ":woman_mage:",
+            ":female_mage:"
+        ],
         "tags": [
             "sorceress",
             "witch",
@@ -3208,14 +3192,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fb-200d-2640-fe0f",
-        "url": "woman-mage-light-skin-tone",
         "emoji": "🧙🏻‍♀️",
         "title": "Woman Mage: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_mage_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "sorceress",
@@ -3229,7 +3213,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2640-fe0f",
         "related": [
             "1f9d9",
@@ -3262,14 +3245,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fc-200d-2640-fe0f",
-        "url": "woman-mage-medium-light-skin-tone",
         "emoji": "🧙🏼‍♀️",
         "title": "Woman Mage: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_mage_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "sorceress",
@@ -3283,7 +3266,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2640-fe0f",
         "related": [
             "1f9d9",
@@ -3316,14 +3298,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fd-200d-2640-fe0f",
-        "url": "woman-mage-medium-skin-tone",
         "emoji": "🧙🏽‍♀️",
         "title": "Woman Mage: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_mage_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "sorceress",
@@ -3337,7 +3319,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2640-fe0f",
         "related": [
             "1f9d9",
@@ -3370,14 +3351,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3fe-200d-2640-fe0f",
-        "url": "woman-mage-medium-dark-skin-tone",
         "emoji": "🧙🏾‍♀️",
         "title": "Woman Mage: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_mage_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "sorceress",
@@ -3391,7 +3372,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2640-fe0f",
         "related": [
             "1f9d9",
@@ -3424,14 +3404,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9d9-1f3ff-200d-2640-fe0f",
-        "url": "woman-mage-dark-skin-tone",
         "emoji": "🧙🏿‍♀️",
         "title": "Woman Mage: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_mage_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "sorceress",
@@ -3445,7 +3425,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d9-200d-2640-fe0f",
         "related": [
             "1f9d9",
@@ -3478,16 +3457,17 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da",
-        "url": "fairy",
         "emoji": "🧚",
         "title": "Fairy",
         "aliases": [
             "Woman Fairy"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy:"
+        ],
         "tags": [
             "fairy",
             "oberon",
@@ -3531,14 +3511,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fb",
-        "url": "fairy-light-skin-tone",
         "emoji": "🧚🏻",
         "title": "Fairy: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_light_skin_tone:"
+        ],
         "tags": [
             "fairy",
             "light skin tone",
@@ -3553,7 +3533,6 @@
             "U+1F9DA",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9da",
         "related": [
             "1f9da",
@@ -3586,14 +3565,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fc",
-        "url": "fairy-medium-light-skin-tone",
         "emoji": "🧚🏼",
         "title": "Fairy: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_medium_light_skin_tone:"
+        ],
         "tags": [
             "fairy",
             "medium-light skin tone",
@@ -3608,7 +3587,6 @@
             "U+1F9DA",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9da",
         "related": [
             "1f9da",
@@ -3641,14 +3619,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fd",
-        "url": "fairy-medium-skin-tone",
         "emoji": "🧚🏽",
         "title": "Fairy: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_medium_skin_tone:"
+        ],
         "tags": [
             "fairy",
             "medium skin tone",
@@ -3663,7 +3641,6 @@
             "U+1F9DA",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9da",
         "related": [
             "1f9da",
@@ -3696,14 +3673,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fe",
-        "url": "fairy-medium-dark-skin-tone",
         "emoji": "🧚🏾",
         "title": "Fairy: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_medium_dark_skin_tone:"
+        ],
         "tags": [
             "fairy",
             "medium-dark skin tone",
@@ -3718,7 +3695,6 @@
             "U+1F9DA",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9da",
         "related": [
             "1f9da",
@@ -3751,14 +3727,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3ff",
-        "url": "fairy-dark-skin-tone",
         "emoji": "🧚🏿",
         "title": "Fairy: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "fairy",
@@ -3773,7 +3749,6 @@
             "U+1F9DA",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9da",
         "related": [
             "1f9da",
@@ -3806,14 +3781,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-200d-2642-fe0f",
-        "url": "man-fairy",
         "emoji": "🧚‍♂️",
         "title": "Man Fairy",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_man:",
+            ":man_fairy:",
+            ":male_fairy:"
+        ],
         "tags": [
             "man fairy",
             "oberon",
@@ -3858,14 +3835,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fb-200d-2642-fe0f",
-        "url": "man-fairy-light-skin-tone",
         "emoji": "🧚🏻‍♂️",
         "title": "Man Fairy: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_fairy_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "man fairy",
@@ -3881,7 +3858,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2642-fe0f",
         "related": [
             "1f9da",
@@ -3914,14 +3890,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fc-200d-2642-fe0f",
-        "url": "man-fairy-medium-light-skin-tone",
         "emoji": "🧚🏼‍♂️",
         "title": "Man Fairy: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_fairy_medium_light_skin_tone:"
+        ],
         "tags": [
             "man fairy",
             "medium-light skin tone",
@@ -3937,7 +3913,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2642-fe0f",
         "related": [
             "1f9da",
@@ -3970,14 +3945,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fd-200d-2642-fe0f",
-        "url": "man-fairy-medium-skin-tone",
         "emoji": "🧚🏽‍♂️",
         "title": "Man Fairy: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_fairy_medium_skin_tone:"
+        ],
         "tags": [
             "man fairy",
             "medium skin tone",
@@ -3993,7 +3968,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2642-fe0f",
         "related": [
             "1f9da",
@@ -4026,14 +4000,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fe-200d-2642-fe0f",
-        "url": "man-fairy-medium-dark-skin-tone",
         "emoji": "🧚🏾‍♂️",
         "title": "Man Fairy: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_fairy_medium_dark_skin_tone:"
+        ],
         "tags": [
             "man fairy",
             "medium-dark skin tone",
@@ -4049,7 +4023,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2642-fe0f",
         "related": [
             "1f9da",
@@ -4082,14 +4055,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3ff-200d-2642-fe0f",
-        "url": "man-fairy-dark-skin-tone",
         "emoji": "🧚🏿‍♂️",
         "title": "Man Fairy: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_fairy_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "man fairy",
@@ -4105,7 +4078,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2642-fe0f",
         "related": [
             "1f9da",
@@ -4138,14 +4110,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-200d-2640-fe0f",
-        "url": "woman-fairy",
         "emoji": "🧚‍♀️",
         "title": "Woman Fairy",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fairy_woman:",
+            ":woman_fairy:",
+            ":female_fairy:"
+        ],
         "tags": [
             "titania",
             "woman fairy",
@@ -4188,14 +4162,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fb-200d-2640-fe0f",
-        "url": "woman-fairy-light-skin-tone",
         "emoji": "🧚🏻‍♀️",
         "title": "Woman Fairy: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_fairy_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "titania",
@@ -4209,7 +4183,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2640-fe0f",
         "related": [
             "1f9da",
@@ -4242,14 +4215,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fc-200d-2640-fe0f",
-        "url": "woman-fairy-medium-light-skin-tone",
         "emoji": "🧚🏼‍♀️",
         "title": "Woman Fairy: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_fairy_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "titania",
@@ -4263,7 +4236,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2640-fe0f",
         "related": [
             "1f9da",
@@ -4296,14 +4268,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fd-200d-2640-fe0f",
-        "url": "woman-fairy-medium-skin-tone",
         "emoji": "🧚🏽‍♀️",
         "title": "Woman Fairy: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_fairy_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "titania",
@@ -4317,7 +4289,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2640-fe0f",
         "related": [
             "1f9da",
@@ -4350,14 +4321,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3fe-200d-2640-fe0f",
-        "url": "woman-fairy-medium-dark-skin-tone",
         "emoji": "🧚🏾‍♀️",
         "title": "Woman Fairy: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_fairy_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "titania",
@@ -4371,7 +4342,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2640-fe0f",
         "related": [
             "1f9da",
@@ -4404,14 +4374,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9da-1f3ff-200d-2640-fe0f",
-        "url": "woman-fairy-dark-skin-tone",
         "emoji": "🧚🏿‍♀️",
         "title": "Woman Fairy: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_fairy_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "titania",
@@ -4425,7 +4395,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9da-200d-2640-fe0f",
         "related": [
             "1f9da",
@@ -4458,17 +4427,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db",
-        "url": "vampire",
         "emoji": "🧛",
         "title": "Vampire",
         "aliases": [
             "Dracula",
             "Woman Vampire"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire:"
+        ],
         "tags": [
             "dracula",
             "undead",
@@ -4509,14 +4479,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fb",
-        "url": "vampire-light-skin-tone",
         "emoji": "🧛🏻",
         "title": "Vampire: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_light_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "light skin tone",
@@ -4528,7 +4498,6 @@
             "U+1F9DB",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9db",
         "related": [
             "1f9db",
@@ -4561,14 +4530,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fc",
-        "url": "vampire-medium-light-skin-tone",
         "emoji": "🧛🏼",
         "title": "Vampire: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_medium_light_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "medium-light skin tone",
@@ -4580,7 +4549,6 @@
             "U+1F9DB",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9db",
         "related": [
             "1f9db",
@@ -4613,14 +4581,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fd",
-        "url": "vampire-medium-skin-tone",
         "emoji": "🧛🏽",
         "title": "Vampire: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_medium_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "medium skin tone",
@@ -4632,7 +4600,6 @@
             "U+1F9DB",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9db",
         "related": [
             "1f9db",
@@ -4665,14 +4632,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fe",
-        "url": "vampire-medium-dark-skin-tone",
         "emoji": "🧛🏾",
         "title": "Vampire: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_medium_dark_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "medium-dark skin tone",
@@ -4684,7 +4651,6 @@
             "U+1F9DB",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9db",
         "related": [
             "1f9db",
@@ -4717,14 +4683,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3ff",
-        "url": "vampire-dark-skin-tone",
         "emoji": "🧛🏿",
         "title": "Vampire: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "dracula",
@@ -4736,7 +4702,6 @@
             "U+1F9DB",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9db",
         "related": [
             "1f9db",
@@ -4769,16 +4734,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-200d-2642-fe0f",
-        "url": "man-vampire",
         "emoji": "🧛‍♂️",
         "title": "Man Vampire",
         "aliases": [
             "Dracula"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire:",
+            ":vampire_man:",
+            ":male_vampire:"
+        ],
         "tags": [
             "dracula",
             "man vampire",
@@ -4822,14 +4790,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fb-200d-2642-fe0f",
-        "url": "man-vampire-light-skin-tone",
         "emoji": "🧛🏻‍♂️",
         "title": "Man Vampire: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire_light_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "light skin tone",
@@ -4844,7 +4812,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2642-fe0f",
         "related": [
             "1f9db",
@@ -4877,14 +4844,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fc-200d-2642-fe0f",
-        "url": "man-vampire-medium-light-skin-tone",
         "emoji": "🧛🏼‍♂️",
         "title": "Man Vampire: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire_medium_light_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "man vampire",
@@ -4899,7 +4866,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2642-fe0f",
         "related": [
             "1f9db",
@@ -4932,14 +4898,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fd-200d-2642-fe0f",
-        "url": "man-vampire-medium-skin-tone",
         "emoji": "🧛🏽‍♂️",
         "title": "Man Vampire: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire_medium_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "man vampire",
@@ -4954,7 +4920,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2642-fe0f",
         "related": [
             "1f9db",
@@ -4987,14 +4952,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fe-200d-2642-fe0f",
-        "url": "man-vampire-medium-dark-skin-tone",
         "emoji": "🧛🏾‍♂️",
         "title": "Man Vampire: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire_medium_dark_skin_tone:"
+        ],
         "tags": [
             "dracula",
             "man vampire",
@@ -5009,7 +4974,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2642-fe0f",
         "related": [
             "1f9db",
@@ -5042,14 +5006,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3ff-200d-2642-fe0f",
-        "url": "man-vampire-dark-skin-tone",
         "emoji": "🧛🏿‍♂️",
         "title": "Man Vampire: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_vampire_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "dracula",
@@ -5064,7 +5028,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2642-fe0f",
         "related": [
             "1f9db",
@@ -5097,14 +5060,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-200d-2640-fe0f",
-        "url": "woman-vampire",
         "emoji": "🧛‍♀️",
         "title": "Woman Vampire",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":vampire_woman:",
+            ":woman_vampire:",
+            ":female_vampire:"
+        ],
         "tags": [
             "undead",
             "woman vampire"
@@ -5146,14 +5111,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fb-200d-2640-fe0f",
-        "url": "woman-vampire-light-skin-tone",
         "emoji": "🧛🏻‍♀️",
         "title": "Woman Vampire: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_vampire_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "undead",
@@ -5166,7 +5131,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2640-fe0f",
         "related": [
             "1f9db",
@@ -5199,14 +5163,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fc-200d-2640-fe0f",
-        "url": "woman-vampire-medium-light-skin-tone",
         "emoji": "🧛🏼‍♀️",
         "title": "Woman Vampire: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_vampire_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "undead",
@@ -5219,7 +5183,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2640-fe0f",
         "related": [
             "1f9db",
@@ -5252,14 +5215,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fd-200d-2640-fe0f",
-        "url": "woman-vampire-medium-skin-tone",
         "emoji": "🧛🏽‍♀️",
         "title": "Woman Vampire: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_vampire_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "undead",
@@ -5272,7 +5235,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2640-fe0f",
         "related": [
             "1f9db",
@@ -5305,14 +5267,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3fe-200d-2640-fe0f",
-        "url": "woman-vampire-medium-dark-skin-tone",
         "emoji": "🧛🏾‍♀️",
         "title": "Woman Vampire: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_vampire_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "undead",
@@ -5325,7 +5287,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2640-fe0f",
         "related": [
             "1f9db",
@@ -5358,14 +5319,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9db-1f3ff-200d-2640-fe0f",
-        "url": "woman-vampire-dark-skin-tone",
         "emoji": "🧛🏿‍♀️",
         "title": "Woman Vampire: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_vampire_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "undead",
@@ -5378,7 +5339,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9db-200d-2640-fe0f",
         "related": [
             "1f9db",
@@ -5411,10 +5371,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc",
-        "url": "merperson",
         "emoji": "🧜",
         "title": "Merperson",
         "aliases": [
@@ -5423,7 +5382,9 @@
             "Mermaid",
             "Merman"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson:"
+        ],
         "tags": [
             "mermaid",
             "merman",
@@ -5464,14 +5425,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fb",
-        "url": "merperson-light-skin-tone",
         "emoji": "🧜🏻",
         "title": "Merperson: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "mermaid",
@@ -5483,7 +5444,6 @@
             "U+1F9DC",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9dc",
         "related": [
             "1f9dc",
@@ -5516,14 +5476,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fc",
-        "url": "merperson-medium-light-skin-tone",
         "emoji": "🧜🏼",
         "title": "Merperson: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "mermaid",
@@ -5535,7 +5495,6 @@
             "U+1F9DC",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9dc",
         "related": [
             "1f9dc",
@@ -5568,14 +5527,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fd",
-        "url": "merperson-medium-skin-tone",
         "emoji": "🧜🏽",
         "title": "Merperson: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "mermaid",
@@ -5587,7 +5546,6 @@
             "U+1F9DC",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9dc",
         "related": [
             "1f9dc",
@@ -5620,14 +5578,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fe",
-        "url": "merperson-medium-dark-skin-tone",
         "emoji": "🧜🏾",
         "title": "Merperson: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "mermaid",
@@ -5639,7 +5597,6 @@
             "U+1F9DC",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9dc",
         "related": [
             "1f9dc",
@@ -5672,14 +5629,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3ff",
-        "url": "merperson-dark-skin-tone",
         "emoji": "🧜🏿",
         "title": "Merperson: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merperson_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "mermaid",
@@ -5691,7 +5648,6 @@
             "U+1F9DC",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9dc",
         "related": [
             "1f9dc",
@@ -5724,14 +5680,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-200d-2642-fe0f",
-        "url": "merman",
         "emoji": "🧜‍♂️",
         "title": "Merman",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman:"
+        ],
         "tags": [
             "merman",
             "triton",
@@ -5774,14 +5730,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fb-200d-2642-fe0f",
-        "url": "merman-light-skin-tone",
         "emoji": "🧜🏻‍♂️",
         "title": "Merman: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "merman",
@@ -5795,7 +5751,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2642-fe0f",
         "related": [
             "1f9dc",
@@ -5828,14 +5783,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fc-200d-2642-fe0f",
-        "url": "merman-medium-light-skin-tone",
         "emoji": "🧜🏼‍♂️",
         "title": "Merman: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "merman",
@@ -5849,7 +5804,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2642-fe0f",
         "related": [
             "1f9dc",
@@ -5882,14 +5836,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fd-200d-2642-fe0f",
-        "url": "merman-medium-skin-tone",
         "emoji": "🧜🏽‍♂️",
         "title": "Merman: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "merman",
@@ -5903,7 +5857,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2642-fe0f",
         "related": [
             "1f9dc",
@@ -5936,14 +5889,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fe-200d-2642-fe0f",
-        "url": "merman-medium-dark-skin-tone",
         "emoji": "🧜🏾‍♂️",
         "title": "Merman: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "merman",
@@ -5957,7 +5910,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2642-fe0f",
         "related": [
             "1f9dc",
@@ -5990,14 +5942,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3ff-200d-2642-fe0f",
-        "url": "merman-dark-skin-tone",
         "emoji": "🧜🏿‍♂️",
         "title": "Merman: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":merman_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "merman",
@@ -6011,7 +5963,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2642-fe0f",
         "related": [
             "1f9dc",
@@ -6044,14 +5995,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-200d-2640-fe0f",
-        "url": "mermaid",
         "emoji": "🧜‍♀️",
         "title": "Mermaid",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid:"
+        ],
         "tags": [
             "mermaid",
             "merwoman"
@@ -6093,14 +6044,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fb-200d-2640-fe0f",
-        "url": "mermaid-light-skin-tone",
         "emoji": "🧜🏻‍♀️",
         "title": "Mermaid: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "mermaid",
@@ -6113,7 +6064,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2640-fe0f",
         "related": [
             "1f9dc",
@@ -6146,14 +6096,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fc-200d-2640-fe0f",
-        "url": "mermaid-medium-light-skin-tone",
         "emoji": "🧜🏼‍♀️",
         "title": "Mermaid: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "mermaid",
@@ -6166,7 +6116,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2640-fe0f",
         "related": [
             "1f9dc",
@@ -6199,14 +6148,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fd-200d-2640-fe0f",
-        "url": "mermaid-medium-skin-tone",
         "emoji": "🧜🏽‍♀️",
         "title": "Mermaid: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "mermaid",
@@ -6219,7 +6168,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2640-fe0f",
         "related": [
             "1f9dc",
@@ -6252,14 +6200,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3fe-200d-2640-fe0f",
-        "url": "mermaid-medium-dark-skin-tone",
         "emoji": "🧜🏾‍♀️",
         "title": "Mermaid: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "mermaid",
@@ -6272,7 +6220,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2640-fe0f",
         "related": [
             "1f9dc",
@@ -6305,14 +6252,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dc-1f3ff-200d-2640-fe0f",
-        "url": "mermaid-dark-skin-tone",
         "emoji": "🧜🏿‍♀️",
         "title": "Mermaid: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":mermaid_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "mermaid",
@@ -6325,7 +6272,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dc-200d-2640-fe0f",
         "related": [
             "1f9dc",
@@ -6358,17 +6304,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd",
-        "url": "elf",
         "emoji": "🧝",
         "title": "Elf",
         "aliases": [
             "Legolas",
             "Man Elf"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf:"
+        ],
         "tags": [
             "elf",
             "magical",
@@ -6408,14 +6355,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fb",
-        "url": "elf-light-skin-tone",
         "emoji": "🧝🏻",
         "title": "Elf: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_light_skin_tone:"
+        ],
         "tags": [
             "elf",
             "light skin tone",
@@ -6426,7 +6373,6 @@
             "U+1F9DD",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9dd",
         "related": [
             "1f9dd",
@@ -6459,14 +6405,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fc",
-        "url": "elf-medium-light-skin-tone",
         "emoji": "🧝🏼",
         "title": "Elf: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_medium_light_skin_tone:"
+        ],
         "tags": [
             "elf",
             "magical",
@@ -6477,7 +6423,6 @@
             "U+1F9DD",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9dd",
         "related": [
             "1f9dd",
@@ -6510,14 +6455,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fd",
-        "url": "elf-medium-skin-tone",
         "emoji": "🧝🏽",
         "title": "Elf: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_medium_skin_tone:"
+        ],
         "tags": [
             "elf",
             "magical",
@@ -6528,7 +6473,6 @@
             "U+1F9DD",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9dd",
         "related": [
             "1f9dd",
@@ -6561,14 +6505,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fe",
-        "url": "elf-medium-dark-skin-tone",
         "emoji": "🧝🏾",
         "title": "Elf: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_medium_dark_skin_tone:"
+        ],
         "tags": [
             "elf",
             "magical",
@@ -6579,7 +6523,6 @@
             "U+1F9DD",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9dd",
         "related": [
             "1f9dd",
@@ -6612,14 +6555,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3ff",
-        "url": "elf-dark-skin-tone",
         "emoji": "🧝🏿",
         "title": "Elf: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "elf",
@@ -6630,7 +6573,6 @@
             "U+1F9DD",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9dd",
         "related": [
             "1f9dd",
@@ -6663,14 +6605,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-200d-2642-fe0f",
-        "url": "man-elf",
         "emoji": "🧝‍♂️",
         "title": "Man Elf",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_man:",
+            ":man_elf:",
+            ":male_elf:"
+        ],
         "tags": [
             "magical",
             "man elf"
@@ -6712,14 +6656,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fb-200d-2642-fe0f",
-        "url": "man-elf-light-skin-tone",
         "emoji": "🧝🏻‍♂️",
         "title": "Man Elf: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_elf_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "magical",
@@ -6732,7 +6676,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2642-fe0f",
         "related": [
             "1f9dd",
@@ -6765,14 +6708,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fc-200d-2642-fe0f",
-        "url": "man-elf-medium-light-skin-tone",
         "emoji": "🧝🏼‍♂️",
         "title": "Man Elf: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_elf_medium_light_skin_tone:"
+        ],
         "tags": [
             "magical",
             "man elf",
@@ -6785,7 +6728,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2642-fe0f",
         "related": [
             "1f9dd",
@@ -6818,14 +6760,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fd-200d-2642-fe0f",
-        "url": "man-elf-medium-skin-tone",
         "emoji": "🧝🏽‍♂️",
         "title": "Man Elf: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_elf_medium_skin_tone:"
+        ],
         "tags": [
             "magical",
             "man elf",
@@ -6838,7 +6780,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2642-fe0f",
         "related": [
             "1f9dd",
@@ -6871,14 +6812,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fe-200d-2642-fe0f",
-        "url": "man-elf-medium-dark-skin-tone",
         "emoji": "🧝🏾‍♂️",
         "title": "Man Elf: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_elf_medium_dark_skin_tone:"
+        ],
         "tags": [
             "magical",
             "man elf",
@@ -6891,7 +6832,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2642-fe0f",
         "related": [
             "1f9dd",
@@ -6924,14 +6864,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3ff-200d-2642-fe0f",
-        "url": "man-elf-dark-skin-tone",
         "emoji": "🧝🏿‍♂️",
         "title": "Man Elf: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_elf_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "magical",
@@ -6944,7 +6884,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2642-fe0f",
         "related": [
             "1f9dd",
@@ -6977,14 +6916,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-200d-2640-fe0f",
-        "url": "woman-elf",
         "emoji": "🧝‍♀️",
         "title": "Woman Elf",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":elf_woman:",
+            ":woman_elf:",
+            ":female_elf:"
+        ],
         "tags": [
             "magical",
             "woman elf"
@@ -7026,14 +6967,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fb-200d-2640-fe0f",
-        "url": "woman-elf-light-skin-tone",
         "emoji": "🧝🏻‍♀️",
         "title": "Woman Elf: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_elf_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "magical",
@@ -7046,7 +6987,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2640-fe0f",
         "related": [
             "1f9dd",
@@ -7079,14 +7019,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fc-200d-2640-fe0f",
-        "url": "woman-elf-medium-light-skin-tone",
         "emoji": "🧝🏼‍♀️",
         "title": "Woman Elf: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_elf_medium_light_skin_tone:"
+        ],
         "tags": [
             "magical",
             "medium-light skin tone",
@@ -7099,7 +7039,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2640-fe0f",
         "related": [
             "1f9dd",
@@ -7132,14 +7071,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fd-200d-2640-fe0f",
-        "url": "woman-elf-medium-skin-tone",
         "emoji": "🧝🏽‍♀️",
         "title": "Woman Elf: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_elf_medium_skin_tone:"
+        ],
         "tags": [
             "magical",
             "medium skin tone",
@@ -7152,7 +7091,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2640-fe0f",
         "related": [
             "1f9dd",
@@ -7185,14 +7123,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3fe-200d-2640-fe0f",
-        "url": "woman-elf-medium-dark-skin-tone",
         "emoji": "🧝🏾‍♀️",
         "title": "Woman Elf: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_elf_medium_dark_skin_tone:"
+        ],
         "tags": [
             "magical",
             "medium-dark skin tone",
@@ -7205,7 +7143,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2640-fe0f",
         "related": [
             "1f9dd",
@@ -7238,14 +7175,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9dd-1f3ff-200d-2640-fe0f",
-        "url": "woman-elf-dark-skin-tone",
         "emoji": "🧝🏿‍♀️",
         "title": "Woman Elf: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_elf_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "magical",
@@ -7258,7 +7195,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9dd-200d-2640-fe0f",
         "related": [
             "1f9dd",
@@ -7291,10 +7227,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9de",
-        "url": "genie",
         "emoji": "🧞",
         "title": "Genie",
         "aliases": [
@@ -7302,7 +7237,9 @@
             "Jinni",
             "Man Genie"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":genie:"
+        ],
         "tags": [
             "djinn",
             "genie",
@@ -7327,14 +7264,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9de-200d-2642-fe0f",
-        "url": "man-genie",
         "emoji": "🧞‍♂️",
         "title": "Man Genie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":genie_man:",
+            ":man_genie:",
+            ":male_genie:"
+        ],
         "tags": [
             "djinn",
             "man genie"
@@ -7361,14 +7300,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9de-200d-2640-fe0f",
-        "url": "woman-genie",
         "emoji": "🧞‍♀️",
         "title": "Woman Genie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":genie_woman:",
+            ":woman_genie:",
+            ":female_genie:"
+        ],
         "tags": [
             "djinn",
             "woman genie"
@@ -7395,16 +7336,17 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9df",
-        "url": "zombie",
         "emoji": "🧟",
         "title": "Zombie",
         "aliases": [
             "Man Zombie"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":zombie:"
+        ],
         "tags": [
             "undead",
             "walking dead",
@@ -7430,14 +7372,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9df-200d-2642-fe0f",
-        "url": "man-zombie",
         "emoji": "🧟‍♂️",
         "title": "Man Zombie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_zombie:",
+            ":zombie_man:",
+            ":male_zombie:"
+        ],
         "tags": [
             "man zombie",
             "undead",
@@ -7465,14 +7409,16 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Fantasy",
         "code": "1f9df-200d-2640-fe0f",
-        "url": "woman-zombie",
         "emoji": "🧟‍♀️",
         "title": "Woman Zombie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_zombie:",
+            ":zombie_woman:",
+            ":female_zombie:"
+        ],
         "tags": [
             "undead",
             "walking dead",
@@ -7500,17 +7446,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6",
-        "url": "person-in-steamy-room",
         "emoji": "🧖",
         "title": "Person in Steamy Room",
         "aliases": [
             "Sauna",
             "Man in Sauna"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room:",
+            ":sauna_person:"
+        ],
         "tags": [
             "person in steamy room",
             "sauna",
@@ -7552,14 +7500,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fb",
-        "url": "person-in-steamy-room-light-skin-tone",
         "emoji": "🧖🏻",
         "title": "Person in Steamy Room: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "person in steamy room",
@@ -7572,7 +7520,6 @@
             "U+1F9D6",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d6",
         "related": [
             "1f9d6",
@@ -7605,14 +7552,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fc",
-        "url": "person-in-steamy-room-medium-light-skin-tone",
         "emoji": "🧖🏼",
         "title": "Person in Steamy Room: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "person in steamy room",
@@ -7625,7 +7572,6 @@
             "U+1F9D6",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d6",
         "related": [
             "1f9d6",
@@ -7658,14 +7604,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fd",
-        "url": "person-in-steamy-room-medium-skin-tone",
         "emoji": "🧖🏽",
         "title": "Person in Steamy Room: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "person in steamy room",
@@ -7678,7 +7624,6 @@
             "U+1F9D6",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d6",
         "related": [
             "1f9d6",
@@ -7711,14 +7656,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fe",
-        "url": "person-in-steamy-room-medium-dark-skin-tone",
         "emoji": "🧖🏾",
         "title": "Person in Steamy Room: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "person in steamy room",
@@ -7731,7 +7676,6 @@
             "U+1F9D6",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d6",
         "related": [
             "1f9d6",
@@ -7764,14 +7708,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3ff",
-        "url": "person-in-steamy-room-dark-skin-tone",
         "emoji": "🧖🏿",
         "title": "Person in Steamy Room: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_steamy_room_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "person in steamy room",
@@ -7784,7 +7728,6 @@
             "U+1F9D6",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d6",
         "related": [
             "1f9d6",
@@ -7817,16 +7760,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-200d-2642-fe0f",
-        "url": "man-in-steamy-room",
         "emoji": "🧖‍♂️",
         "title": "Man in Steamy Room",
         "aliases": [
             "Man in Sauna"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room:",
+            ":sauna_man:"
+        ],
         "tags": [
             "man in steamy room",
             "sauna",
@@ -7869,14 +7814,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fb-200d-2642-fe0f",
-        "url": "man-in-steamy-room-light-skin-tone",
         "emoji": "🧖🏻‍♂️",
         "title": "Man in Steamy Room: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "man in steamy room",
@@ -7890,7 +7835,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2642-fe0f",
         "related": [
             "1f9d6",
@@ -7923,14 +7867,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fc-200d-2642-fe0f",
-        "url": "man-in-steamy-room-medium-light-skin-tone",
         "emoji": "🧖🏼‍♂️",
         "title": "Man in Steamy Room: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room_medium_light_skin_tone:"
+        ],
         "tags": [
             "man in steamy room",
             "medium-light skin tone",
@@ -7944,7 +7888,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2642-fe0f",
         "related": [
             "1f9d6",
@@ -7977,14 +7920,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fd-200d-2642-fe0f",
-        "url": "man-in-steamy-room-medium-skin-tone",
         "emoji": "🧖🏽‍♂️",
         "title": "Man in Steamy Room: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room_medium_skin_tone:"
+        ],
         "tags": [
             "man in steamy room",
             "medium skin tone",
@@ -7998,7 +7941,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2642-fe0f",
         "related": [
             "1f9d6",
@@ -8031,14 +7973,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fe-200d-2642-fe0f",
-        "url": "man-in-steamy-room-medium-dark-skin-tone",
         "emoji": "🧖🏾‍♂️",
         "title": "Man in Steamy Room: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room_medium_dark_skin_tone:"
+        ],
         "tags": [
             "man in steamy room",
             "medium-dark skin tone",
@@ -8052,7 +7994,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2642-fe0f",
         "related": [
             "1f9d6",
@@ -8085,14 +8026,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3ff-200d-2642-fe0f",
-        "url": "man-in-steamy-room-dark-skin-tone",
         "emoji": "🧖🏿‍♂️",
         "title": "Man in Steamy Room: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_steamy_room_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "man in steamy room",
@@ -8106,7 +8047,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2642-fe0f",
         "related": [
             "1f9d6",
@@ -8139,16 +8079,18 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-200d-2640-fe0f",
-        "url": "woman-in-steamy-room",
         "emoji": "🧖‍♀️",
         "title": "Woman in Steamy Room",
         "aliases": [
             "Woman in Sauna"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room:",
+            ":sauna_woman:"
+        ],
         "tags": [
             "sauna",
             "steam room",
@@ -8191,14 +8133,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fb-200d-2640-fe0f",
-        "url": "woman-in-steamy-room-light-skin-tone",
         "emoji": "🧖🏻‍♀️",
         "title": "Woman in Steamy Room: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "sauna",
@@ -8212,7 +8154,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2640-fe0f",
         "related": [
             "1f9d6",
@@ -8245,14 +8186,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fc-200d-2640-fe0f",
-        "url": "woman-in-steamy-room-medium-light-skin-tone",
         "emoji": "🧖🏼‍♀️",
         "title": "Woman in Steamy Room: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room_medium_light_skin_tone:"
+        ],
         "tags": [
             "medium-light skin tone",
             "sauna",
@@ -8266,7 +8207,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2640-fe0f",
         "related": [
             "1f9d6",
@@ -8299,14 +8239,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fd-200d-2640-fe0f",
-        "url": "woman-in-steamy-room-medium-skin-tone",
         "emoji": "🧖🏽‍♀️",
         "title": "Woman in Steamy Room: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room_medium_skin_tone:"
+        ],
         "tags": [
             "medium skin tone",
             "sauna",
@@ -8320,7 +8260,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2640-fe0f",
         "related": [
             "1f9d6",
@@ -8353,14 +8292,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3fe-200d-2640-fe0f",
-        "url": "woman-in-steamy-room-medium-dark-skin-tone",
         "emoji": "🧖🏾‍♀️",
         "title": "Woman in Steamy Room: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room_medium_dark_skin_tone:"
+        ],
         "tags": [
             "medium-dark skin tone",
             "sauna",
@@ -8374,7 +8313,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2640-fe0f",
         "related": [
             "1f9d6",
@@ -8407,14 +8345,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f9d6-1f3ff-200d-2640-fe0f",
-        "url": "woman-in-steamy-room-dark-skin-tone",
         "emoji": "🧖🏿‍♀️",
         "title": "Woman in Steamy Room: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_steamy_room_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "sauna",
@@ -8428,7 +8366,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d6-200d-2640-fe0f",
         "related": [
             "1f9d6",
@@ -8461,10 +8398,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7",
-        "url": "person-climbing",
         "emoji": "🧗",
         "title": "Person Climbing",
         "aliases": [
@@ -8472,7 +8408,10 @@
             "Rock Climbing",
             "Woman Climbing"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing:",
+            ":climbing:"
+        ],
         "tags": [
             "climber",
             "person climbing"
@@ -8511,14 +8450,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fb",
-        "url": "person-climbing-light-skin-tone",
         "emoji": "🧗🏻",
         "title": "Person Climbing: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "light skin tone",
@@ -8528,7 +8467,6 @@
             "U+1F9D7",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d7",
         "related": [
             "1f9d7",
@@ -8561,14 +8499,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fc",
-        "url": "person-climbing-medium-light-skin-tone",
         "emoji": "🧗🏼",
         "title": "Person Climbing: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing_medium_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium-light skin tone",
@@ -8578,7 +8516,6 @@
             "U+1F9D7",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d7",
         "related": [
             "1f9d7",
@@ -8611,14 +8548,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fd",
-        "url": "person-climbing-medium-skin-tone",
         "emoji": "🧗🏽",
         "title": "Person Climbing: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing_medium_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium skin tone",
@@ -8628,7 +8565,6 @@
             "U+1F9D7",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d7",
         "related": [
             "1f9d7",
@@ -8661,14 +8597,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fe",
-        "url": "person-climbing-medium-dark-skin-tone",
         "emoji": "🧗🏾",
         "title": "Person Climbing: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing_medium_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium-dark skin tone",
@@ -8678,7 +8614,6 @@
             "U+1F9D7",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d7",
         "related": [
             "1f9d7",
@@ -8711,14 +8646,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3ff",
-        "url": "person-climbing-dark-skin-tone",
         "emoji": "🧗🏿",
         "title": "Person Climbing: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_climbing_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "dark skin tone",
@@ -8728,7 +8663,6 @@
             "U+1F9D7",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d7",
         "related": [
             "1f9d7",
@@ -8761,17 +8695,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-200d-2642-fe0f",
-        "url": "man-climbing",
         "emoji": "🧗‍♂️",
         "title": "Man Climbing",
         "aliases": [
             "Male Rock Climber",
             "Man Climber"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing:",
+            ":climbing_man:"
+        ],
         "tags": [
             "climber",
             "man climbing"
@@ -8813,14 +8749,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fb-200d-2642-fe0f",
-        "url": "man-climbing-light-skin-tone",
         "emoji": "🧗🏻‍♂️",
         "title": "Man Climbing: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "light skin tone",
@@ -8833,7 +8769,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2642-fe0f",
         "related": [
             "1f9d7",
@@ -8866,14 +8801,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fc-200d-2642-fe0f",
-        "url": "man-climbing-medium-light-skin-tone",
         "emoji": "🧗🏼‍♂️",
         "title": "Man Climbing: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing_medium_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "man climbing",
@@ -8886,7 +8821,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2642-fe0f",
         "related": [
             "1f9d7",
@@ -8919,14 +8853,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fd-200d-2642-fe0f",
-        "url": "man-climbing-medium-skin-tone",
         "emoji": "🧗🏽‍♂️",
         "title": "Man Climbing: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing_medium_skin_tone:"
+        ],
         "tags": [
             "climber",
             "man climbing",
@@ -8939,7 +8873,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2642-fe0f",
         "related": [
             "1f9d7",
@@ -8972,14 +8905,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fe-200d-2642-fe0f",
-        "url": "man-climbing-medium-dark-skin-tone",
         "emoji": "🧗🏾‍♂️",
         "title": "Man Climbing: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing_medium_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "man climbing",
@@ -8992,7 +8925,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2642-fe0f",
         "related": [
             "1f9d7",
@@ -9025,14 +8957,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3ff-200d-2642-fe0f",
-        "url": "man-climbing-dark-skin-tone",
         "emoji": "🧗🏿‍♂️",
         "title": "Man Climbing: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_climbing_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "dark skin tone",
@@ -9045,7 +8977,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2642-fe0f",
         "related": [
             "1f9d7",
@@ -9078,17 +9009,19 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-200d-2640-fe0f",
-        "url": "woman-climbing",
         "emoji": "🧗‍♀️",
         "title": "Woman Climbing",
         "aliases": [
             "Female Rock Climber",
             "Woman Climber"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing:",
+            ":climbing_woman:"
+        ],
         "tags": [
             "climber",
             "woman climbing"
@@ -9130,14 +9063,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fb-200d-2640-fe0f",
-        "url": "woman-climbing-light-skin-tone",
         "emoji": "🧗🏻‍♀️",
         "title": "Woman Climbing: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "light skin tone",
@@ -9150,7 +9083,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2640-fe0f",
         "related": [
             "1f9d7",
@@ -9183,14 +9115,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fc-200d-2640-fe0f",
-        "url": "woman-climbing-medium-light-skin-tone",
         "emoji": "🧗🏼‍♀️",
         "title": "Woman Climbing: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing_medium_light_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium-light skin tone",
@@ -9203,7 +9135,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2640-fe0f",
         "related": [
             "1f9d7",
@@ -9236,14 +9167,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fd-200d-2640-fe0f",
-        "url": "woman-climbing-medium-skin-tone",
         "emoji": "🧗🏽‍♀️",
         "title": "Woman Climbing: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing_medium_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium skin tone",
@@ -9256,7 +9187,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2640-fe0f",
         "related": [
             "1f9d7",
@@ -9289,14 +9219,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3fe-200d-2640-fe0f",
-        "url": "woman-climbing-medium-dark-skin-tone",
         "emoji": "🧗🏾‍♀️",
         "title": "Woman Climbing: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing_medium_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "medium-dark skin tone",
@@ -9309,7 +9239,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2640-fe0f",
         "related": [
             "1f9d7",
@@ -9342,14 +9271,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Activity",
         "code": "1f9d7-1f3ff-200d-2640-fe0f",
-        "url": "woman-climbing-dark-skin-tone",
         "emoji": "🧗🏿‍♀️",
         "title": "Woman Climbing: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_climbing_dark_skin_tone:"
+        ],
         "tags": [
             "climber",
             "dark skin tone",
@@ -9362,7 +9291,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d7-200d-2640-fe0f",
         "related": [
             "1f9d7",
@@ -9395,10 +9323,9 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8",
-        "url": "person-in-lotus-position",
         "emoji": "🧘",
         "title": "Person in Lotus Position",
         "aliases": [
@@ -9406,7 +9333,10 @@
             "Yoga",
             "Woman in Lotus Position"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":lotus_position:",
+            ":person_in_lotus_position:"
+        ],
         "tags": [
             "meditation",
             "person in lotus position",
@@ -9447,14 +9377,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fb",
-        "url": "person-in-lotus-position-light-skin-tone",
         "emoji": "🧘🏻",
         "title": "Person in Lotus Position: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_lotus_position_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "meditation",
@@ -9466,7 +9396,6 @@
             "U+1F9D8",
             "U+1F3FB"
         ],
-        "skin_mode": true,
         "parent": "1f9d8",
         "related": [
             "1f9d8",
@@ -9499,14 +9428,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fc",
-        "url": "person-in-lotus-position-medium-light-skin-tone",
         "emoji": "🧘🏼",
         "title": "Person in Lotus Position: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_lotus_position_medium_light_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium-light skin tone",
@@ -9518,7 +9447,6 @@
             "U+1F9D8",
             "U+1F3FC"
         ],
-        "skin_mode": true,
         "parent": "1f9d8",
         "related": [
             "1f9d8",
@@ -9551,14 +9479,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fd",
-        "url": "person-in-lotus-position-medium-skin-tone",
         "emoji": "🧘🏽",
         "title": "Person in Lotus Position: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_lotus_position_medium_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium skin tone",
@@ -9570,7 +9498,6 @@
             "U+1F9D8",
             "U+1F3FD"
         ],
-        "skin_mode": true,
         "parent": "1f9d8",
         "related": [
             "1f9d8",
@@ -9603,14 +9530,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fe",
-        "url": "person-in-lotus-position-medium-dark-skin-tone",
         "emoji": "🧘🏾",
         "title": "Person in Lotus Position: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_lotus_position_medium_dark_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium-dark skin tone",
@@ -9622,7 +9549,6 @@
             "U+1F9D8",
             "U+1F3FE"
         ],
-        "skin_mode": true,
         "parent": "1f9d8",
         "related": [
             "1f9d8",
@@ -9655,14 +9581,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3ff",
-        "url": "person-in-lotus-position-dark-skin-tone",
         "emoji": "🧘🏿",
         "title": "Person in Lotus Position: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":person_in_lotus_position_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "meditation",
@@ -9674,7 +9600,6 @@
             "U+1F9D8",
             "U+1F3FF"
         ],
-        "skin_mode": true,
         "parent": "1f9d8",
         "related": [
             "1f9d8",
@@ -9707,14 +9632,15 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-200d-2642-fe0f",
-        "url": "man-in-lotus-position",
         "emoji": "🧘‍♂️",
         "title": "Man in Lotus Position",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position:",
+            ":lotus_position_man:"
+        ],
         "tags": [
             "man in lotus position",
             "meditation",
@@ -9757,14 +9683,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fb-200d-2642-fe0f",
-        "url": "man-in-lotus-position-light-skin-tone",
         "emoji": "🧘🏻‍♂️",
         "title": "Man in Lotus Position: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "man in lotus position",
@@ -9778,7 +9704,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2642-fe0f",
         "related": [
             "1f9d8",
@@ -9811,14 +9736,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fc-200d-2642-fe0f",
-        "url": "man-in-lotus-position-medium-light-skin-tone",
         "emoji": "🧘🏼‍♂️",
         "title": "Man in Lotus Position: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position_medium_light_skin_tone:"
+        ],
         "tags": [
             "man in lotus position",
             "meditation",
@@ -9832,7 +9757,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2642-fe0f",
         "related": [
             "1f9d8",
@@ -9865,14 +9789,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fd-200d-2642-fe0f",
-        "url": "man-in-lotus-position-medium-skin-tone",
         "emoji": "🧘🏽‍♂️",
         "title": "Man in Lotus Position: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position_medium_skin_tone:"
+        ],
         "tags": [
             "man in lotus position",
             "meditation",
@@ -9886,7 +9810,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2642-fe0f",
         "related": [
             "1f9d8",
@@ -9919,14 +9842,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fe-200d-2642-fe0f",
-        "url": "man-in-lotus-position-medium-dark-skin-tone",
         "emoji": "🧘🏾‍♂️",
         "title": "Man in Lotus Position: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position_medium_dark_skin_tone:"
+        ],
         "tags": [
             "man in lotus position",
             "meditation",
@@ -9940,7 +9863,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2642-fe0f",
         "related": [
             "1f9d8",
@@ -9973,14 +9895,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3ff-200d-2642-fe0f",
-        "url": "man-in-lotus-position-dark-skin-tone",
         "emoji": "🧘🏿‍♂️",
         "title": "Man in Lotus Position: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":man_in_lotus_position_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "man in lotus position",
@@ -9994,7 +9916,6 @@
             "U+2642",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2642-fe0f",
         "related": [
             "1f9d8",
@@ -10027,14 +9948,15 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-200d-2640-fe0f",
-        "url": "woman-in-lotus-position",
         "emoji": "🧘‍♀️",
         "title": "Woman in Lotus Position",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position:",
+            ":lotus_position_woman:"
+        ],
         "tags": [
             "meditation",
             "woman in lotus position",
@@ -10077,14 +9999,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fb-200d-2640-fe0f",
-        "url": "woman-in-lotus-position-light-skin-tone",
         "emoji": "🧘🏻‍♀️",
         "title": "Woman in Lotus Position: Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position_light_skin_tone:"
+        ],
         "tags": [
             "light skin tone",
             "meditation",
@@ -10098,7 +10020,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2640-fe0f",
         "related": [
             "1f9d8",
@@ -10131,14 +10052,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fc-200d-2640-fe0f",
-        "url": "woman-in-lotus-position-medium-light-skin-tone",
         "emoji": "🧘🏼‍♀️",
         "title": "Woman in Lotus Position: Medium-Light Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position_medium_light_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium-light skin tone",
@@ -10152,7 +10073,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2640-fe0f",
         "related": [
             "1f9d8",
@@ -10185,14 +10105,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fd-200d-2640-fe0f",
-        "url": "woman-in-lotus-position-medium-skin-tone",
         "emoji": "🧘🏽‍♀️",
         "title": "Woman in Lotus Position: Medium Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position_medium_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium skin tone",
@@ -10206,7 +10126,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2640-fe0f",
         "related": [
             "1f9d8",
@@ -10239,14 +10158,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3fe-200d-2640-fe0f",
-        "url": "woman-in-lotus-position-medium-dark-skin-tone",
         "emoji": "🧘🏾‍♀️",
         "title": "Woman in Lotus Position: Medium-Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position_medium_dark_skin_tone:"
+        ],
         "tags": [
             "meditation",
             "medium-dark skin tone",
@@ -10260,7 +10179,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2640-fe0f",
         "related": [
             "1f9d8",
@@ -10293,14 +10211,14 @@
         }
     },
     {
-        "category": "People & Body",
+        "category": "Activity",
         "sub_category": "Person Resting",
         "code": "1f9d8-1f3ff-200d-2640-fe0f",
-        "url": "woman-in-lotus-position-dark-skin-tone",
         "emoji": "🧘🏿‍♀️",
         "title": "Woman in Lotus Position: Dark Skin Tone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":woman_in_lotus_position_dark_skin_tone:"
+        ],
         "tags": [
             "dark skin tone",
             "meditation",
@@ -10314,7 +10232,6 @@
             "U+2640",
             "U+FE0F"
         ],
-        "skin_mode": true,
         "parent": "1f9d8-200d-2640-fe0f",
         "related": [
             "1f9d8",
@@ -10347,16 +10264,18 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Mammal",
         "code": "1f993",
-        "url": "zebra",
         "emoji": "🦓",
         "title": "Zebra",
         "aliases": [
             "Zebra Face"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":zebra:",
+            ":zebra_face:"
+        ],
         "tags": [
             "stripe",
             "zebra"
@@ -10364,7 +10283,6 @@
         "codepoints": [
             "U+1F993"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10376,16 +10294,18 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Mammal",
         "code": "1f992",
-        "url": "giraffe",
         "emoji": "🦒",
         "title": "Giraffe",
         "aliases": [
             "Giraffe Face"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":giraffe:",
+            ":giraffe_face:"
+        ],
         "tags": [
             "giraffe",
             "spots"
@@ -10393,7 +10313,6 @@
         "codepoints": [
             "U+1F992"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10405,14 +10324,14 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Mammal",
         "code": "1f994",
-        "url": "hedgehog",
         "emoji": "🦔",
         "title": "Hedgehog",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":hedgehog:"
+        ],
         "tags": [
             "hedgehog",
             "spiny"
@@ -10420,7 +10339,6 @@
         "codepoints": [
             "U+1F994"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10432,10 +10350,9 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Reptile",
         "code": "1f995",
-        "url": "sauropod",
         "emoji": "🦕",
         "title": "Sauropod",
         "aliases": [
@@ -10443,7 +10360,9 @@
             "Brontosaurus",
             "Dinosaur"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":sauropod:"
+        ],
         "tags": [
             "brachiosaurus",
             "brontosaurus",
@@ -10453,7 +10372,6 @@
         "codepoints": [
             "U+1F995"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10465,16 +10383,18 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Reptile",
         "code": "1f996",
-        "url": "t-rex",
         "emoji": "🦖",
         "title": "T-Rex",
         "aliases": [
             "Tyrannosaurus Rex"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":t-rex:",
+            ":t_rex:"
+        ],
         "tags": [
             "t-rex",
             "tyrannosaurus rex",
@@ -10484,7 +10404,6 @@
         "codepoints": [
             "U+1F996"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10496,16 +10415,17 @@
         }
     },
     {
-        "category": "Animals & Nature",
+        "category": "Nature",
         "sub_category": "Animal Bug",
         "code": "1f997",
-        "url": "cricket",
         "emoji": "🦗",
         "title": "Cricket",
         "aliases": [
             "Grasshopper"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":cricket:"
+        ],
         "tags": [
             "cricket",
             "grasshopper",
@@ -10514,7 +10434,6 @@
         "codepoints": [
             "U+1F997"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10529,13 +10448,14 @@
         "category": "Food & Drink",
         "sub_category": "Food Fruit",
         "code": "1f965",
-        "url": "coconut",
         "emoji": "🥥",
         "title": "Coconut",
         "aliases": [
             "Cocoanut"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":coconut:"
+        ],
         "tags": [
             "coconut",
             "palm",
@@ -10544,7 +10464,6 @@
         "codepoints": [
             "U+1F965"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10559,11 +10478,11 @@
         "category": "Food & Drink",
         "sub_category": "Food Vegetable",
         "code": "1f966",
-        "url": "broccoli",
         "emoji": "🥦",
         "title": "Broccoli",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":broccoli:"
+        ],
         "tags": [
             "broccoli",
             "wild cabbage"
@@ -10571,7 +10490,6 @@
         "codepoints": [
             "U+1F966"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10586,11 +10504,11 @@
         "category": "Food & Drink",
         "sub_category": "Food Prepared",
         "code": "1f968",
-        "url": "pretzel",
         "emoji": "🥨",
         "title": "Pretzel",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":pretzel:"
+        ],
         "tags": [
             "pretzel",
             "twisted",
@@ -10599,7 +10517,6 @@
         "codepoints": [
             "U+1F968"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10614,14 +10531,15 @@
         "category": "Food & Drink",
         "sub_category": "Food Prepared",
         "code": "1f969",
-        "url": "cut-of-meat",
         "emoji": "🥩",
         "title": "Cut of Meat",
         "aliases": [
             "Meat",
             "Steak"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":cut_of_meat:"
+        ],
         "tags": [
             "chop",
             "cut of meat",
@@ -10632,7 +10550,6 @@
         "codepoints": [
             "U+1F969"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10647,11 +10564,11 @@
         "category": "Food & Drink",
         "sub_category": "Food Prepared",
         "code": "1f96a",
-        "url": "sandwich",
         "emoji": "🥪",
         "title": "Sandwich",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":sandwich:"
+        ],
         "tags": [
             "bread",
             "sandwich"
@@ -10659,7 +10576,6 @@
         "codepoints": [
             "U+1F96A"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10674,14 +10590,15 @@
         "category": "Food & Drink",
         "sub_category": "Food Prepared",
         "code": "1f963",
-        "url": "bowl-with-spoon",
         "emoji": "🥣",
         "title": "Bowl with Spoon",
         "aliases": [
             "Cereal Bowl",
             "Bowl With Spoon"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":bowl_with_spoon:"
+        ],
         "tags": [
             "bowl with spoon",
             "breakfast",
@@ -10693,7 +10610,6 @@
         "codepoints": [
             "U+1F963"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10708,7 +10624,6 @@
         "category": "Food & Drink",
         "sub_category": "Food Prepared",
         "code": "1f96b",
-        "url": "canned-food",
         "emoji": "🥫",
         "title": "Canned Food",
         "aliases": [
@@ -10716,7 +10631,9 @@
             "Tin Can",
             "Tinned Food"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":canned_food:"
+        ],
         "tags": [
             "can",
             "canned food"
@@ -10724,7 +10641,6 @@
         "codepoints": [
             "U+1F96B"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10739,14 +10655,15 @@
         "category": "Food & Drink",
         "sub_category": "Food Asian",
         "code": "1f95f",
-        "url": "dumpling",
         "emoji": "🥟",
         "title": "Dumpling",
         "aliases": [
             "Empanada",
             "Pierogi"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":dumpling:"
+        ],
         "tags": [
             "dumpling",
             "empanada",
@@ -10758,7 +10675,6 @@
         "codepoints": [
             "U+1F95F"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10773,11 +10689,11 @@
         "category": "Food & Drink",
         "sub_category": "Food Asian",
         "code": "1f960",
-        "url": "fortune-cookie",
         "emoji": "🥠",
         "title": "Fortune Cookie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":fortune_cookie:"
+        ],
         "tags": [
             "fortune cookie",
             "prophecy"
@@ -10785,7 +10701,6 @@
         "codepoints": [
             "U+1F960"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10800,14 +10715,15 @@
         "category": "Food & Drink",
         "sub_category": "Food Asian",
         "code": "1f961",
-        "url": "takeout-box",
         "emoji": "🥡",
         "title": "Takeout Box",
         "aliases": [
             "Chinese Food Box",
             "Oyster Pail"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":takeout_box:"
+        ],
         "tags": [
             "oyster pail",
             "takeout box"
@@ -10815,7 +10731,6 @@
         "codepoints": [
             "U+1F961"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10830,11 +10745,11 @@
         "category": "Food & Drink",
         "sub_category": "Food Sweet",
         "code": "1f967",
-        "url": "pie",
         "emoji": "🥧",
         "title": "Pie",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":pie:"
+        ],
         "tags": [
             "filling",
             "pastry",
@@ -10845,7 +10760,6 @@
         "codepoints": [
             "U+1F967"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10860,7 +10774,6 @@
         "category": "Food & Drink",
         "sub_category": "Drink",
         "code": "1f964",
-        "url": "cup-with-straw",
         "emoji": "🥤",
         "title": "Cup with Straw",
         "aliases": [
@@ -10870,7 +10783,9 @@
             "Soft Drink",
             "To-Go Cup"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":cup_with_straw:"
+        ],
         "tags": [
             "cup with straw",
             "juice",
@@ -10882,7 +10797,6 @@
         "codepoints": [
             "U+1F964"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10897,11 +10811,11 @@
         "category": "Food & Drink",
         "sub_category": "Dishware",
         "code": "1f962",
-        "url": "chopsticks",
         "emoji": "🥢",
         "title": "Chopsticks",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":chopsticks:"
+        ],
         "tags": [
             "chopsticks",
             "hashi",
@@ -10911,7 +10825,6 @@
         "codepoints": [
             "U+1F962"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10926,13 +10839,14 @@
         "category": "Travel & Places",
         "sub_category": "Transport Air",
         "code": "1f6f8",
-        "url": "flying-saucer",
         "emoji": "🛸",
         "title": "Flying Saucer",
         "aliases": [
             "UFO"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":flying_saucer:"
+        ],
         "tags": [
             "flying saucer",
             "ufo",
@@ -10941,7 +10855,6 @@
         "codepoints": [
             "U+1F6F8"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10953,14 +10866,14 @@
         }
     },
     {
-        "category": "Activities",
+        "category": "Activity",
         "sub_category": "Sport",
         "code": "1f6f7",
-        "url": "sled",
         "emoji": "🛷",
         "title": "Sled",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":sled:"
+        ],
         "tags": [
             "sled",
             "sledge",
@@ -10971,7 +10884,6 @@
         "codepoints": [
             "U+1F6F7"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -10983,14 +10895,14 @@
         }
     },
     {
-        "category": "Activities",
+        "category": "Activity",
         "sub_category": "Sport",
         "code": "1f94c",
-        "url": "curling-stone",
         "emoji": "🥌",
         "title": "Curling Stone",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":curling_stone:"
+        ],
         "tags": [
             "curling stone",
             "game",
@@ -10999,7 +10911,6 @@
         "codepoints": [
             "U+1F94C"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11011,14 +10922,14 @@
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1f9e3",
-        "url": "scarf",
         "emoji": "🧣",
         "title": "Scarf",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":scarf:"
+        ],
         "tags": [
             "neck",
             "scarf"
@@ -11026,7 +10937,6 @@
         "codepoints": [
             "U+1F9E3"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11038,14 +10948,14 @@
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1f9e4",
-        "url": "gloves",
         "emoji": "🧤",
         "title": "Gloves",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":gloves:"
+        ],
         "tags": [
             "gloves",
             "hand"
@@ -11053,7 +10963,6 @@
         "codepoints": [
             "U+1F9E4"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11065,14 +10974,14 @@
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1f9e5",
-        "url": "coat",
         "emoji": "🧥",
         "title": "Coat",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":coat:"
+        ],
         "tags": [
             "coat",
             "jacket"
@@ -11080,7 +10989,6 @@
         "codepoints": [
             "U+1F9E5"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11092,14 +11000,14 @@
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1f9e6",
-        "url": "socks",
         "emoji": "🧦",
         "title": "Socks",
-        "aliases": [],
-        "shortcodes": [],
+        "shortcodes": [
+            ":socks:"
+        ],
         "tags": [
             "socks",
             "stocking"
@@ -11107,7 +11015,6 @@
         "codepoints": [
             "U+1F9E6"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11119,17 +11026,18 @@
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1f9e2",
-        "url": "billed-cap",
         "emoji": "🧢",
         "title": "Billed Cap",
         "aliases": [
             "Baseball Cap",
             "Billed Hat"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":billed_cap:"
+        ],
         "tags": [
             "baseball cap",
             "billed cap"
@@ -11137,7 +11045,6 @@
         "codepoints": [
             "U+1F9E2"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11149,10 +11056,9 @@
         }
     },
     {
-        "category": "Flags",
+        "category": "Symbols & Flags",
         "sub_category": "Subdivision Flag",
         "code": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
-        "url": "flag-england",
         "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "title": "Flag: England",
         "aliases": [
@@ -11160,7 +11066,11 @@
             "St George's Cross",
             "Flag of England"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":england:",
+            ":flag_england:",
+            ":flag-england:"
+        ],
         "tags": [
             "flag"
         ],
@@ -11173,7 +11083,6 @@
             "U+E0067",
             "U+E007F"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11185,10 +11094,9 @@
         }
     },
     {
-        "category": "Flags",
+        "category": "Symbols & Flags",
         "sub_category": "Subdivision Flag",
         "code": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
-        "url": "flag-scotland",
         "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
         "title": "Flag: Scotland",
         "aliases": [
@@ -11197,7 +11105,11 @@
             "St Andrew's Cross",
             "Flag of Scotland"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":scotland:",
+            ":flag_scotland:",
+            ":flag-scotland:"
+        ],
         "tags": [
             "flag"
         ],
@@ -11210,7 +11122,6 @@
             "U+E0074",
             "U+E007F"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [
@@ -11222,10 +11133,9 @@
         }
     },
     {
-        "category": "Flags",
+        "category": "Symbols & Flags",
         "sub_category": "Subdivision Flag",
         "code": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
-        "url": "flag-wales",
         "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
         "title": "Flag: Wales",
         "aliases": [
@@ -11235,7 +11145,11 @@
             "Y Ddraig Goch",
             "Flag of Wales"
         ],
-        "shortcodes": [],
+        "shortcodes": [
+            ":wales:",
+            ":flag_wales:",
+            ":flag-wales:"
+        ],
         "tags": [
             "flag"
         ],
@@ -11248,7 +11162,6 @@
             "U+E0073",
             "U+E007F"
         ],
-        "related": [],
         "image": {
             "brand": "apple",
             "platform": [

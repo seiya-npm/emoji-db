@@ -1,0 +1,4505 @@
+﻿[
+    {
+        "category": "People",
+        "sub_category": "Face Neutral-Skeptical",
+        "code": "1f610",
+        "emoji": "😐",
+        "title": "Neutral Face",
+        "aliases": [
+            "Face With Straight Mouth",
+            "Straight Faced"
+        ],
+        "shortcodes": [
+            ":neutral_face:"
+        ],
+        "tags": [
+            "deadpan",
+            "face",
+            "meh",
+            "neutral"
+        ],
+        "codepoints": [
+            "U+1F610"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "neutral-face_1f610.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Concerned",
+        "code": "2639-fe0f",
+        "emoji": "☹️",
+        "title": "Frowning Face",
+        "aliases": [
+            "Megafrown",
+            "White Frowning Face"
+        ],
+        "shortcodes": [
+            ":frowning_face:",
+            ":white_frowning_face:"
+        ],
+        "tags": [
+            "face",
+            "frown",
+            "frowning face"
+        ],
+        "codepoints": [
+            "U+2639",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "white-frowning-face_2639.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Emotion",
+        "code": "1f573-fe0f",
+        "emoji": "🕳️",
+        "title": "Hole",
+        "shortcodes": [
+            ":hole:"
+        ],
+        "tags": [
+            "hole"
+        ],
+        "codepoints": [
+            "U+1F573",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "hole_1f573.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Emotion",
+        "code": "1f5ef-fe0f",
+        "emoji": "🗯️",
+        "title": "Right Anger Bubble",
+        "aliases": [
+            "Zig Zag Bubble",
+            "Angry Speech Bubble"
+        ],
+        "shortcodes": [
+            ":right_anger_bubble:"
+        ],
+        "tags": [
+            "angry",
+            "balloon",
+            "bubble",
+            "mad",
+            "right anger bubble"
+        ],
+        "codepoints": [
+            "U+1F5EF",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "right-anger-bubble_1f5ef.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f590-fe0f",
+        "emoji": "🖐️",
+        "title": "Hand with Fingers Splayed",
+        "aliases": [
+            "Five Hand",
+            "Splayed Hand",
+            "Raised Hand With Fingers Splayed",
+            "Raised Hand with Fingers Splayed"
+        ],
+        "shortcodes": [
+            ":raised_hand_with_fingers_splayed:",
+            ":hand_with_fingers_splayed:"
+        ],
+        "tags": [
+            "finger",
+            "hand",
+            "hand with fingers splayed",
+            "splayed"
+        ],
+        "codepoints": [
+            "U+1F590",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f590-fe0f",
+            "1f590-1f3fb",
+            "1f590-1f3fc",
+            "1f590-1f3fd",
+            "1f590-1f3fe",
+            "1f590-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "raised-hand-with-fingers-splayed_1f590.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "270d-fe0f",
+        "emoji": "✍️",
+        "title": "Writing Hand",
+        "shortcodes": [
+            ":writing_hand:"
+        ],
+        "tags": [
+            "hand",
+            "write",
+            "writing hand"
+        ],
+        "codepoints": [
+            "U+270D",
+            "U+FE0F"
+        ],
+        "related": [
+            "270d-fe0f",
+            "270d-1f3fb",
+            "270d-1f3fc",
+            "270d-1f3fd",
+            "270d-1f3fe",
+            "270d-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "writing-hand_270d.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Body Parts",
+        "code": "1f441-fe0f",
+        "emoji": "👁️",
+        "title": "Eye",
+        "aliases": [
+            "Single Eye"
+        ],
+        "shortcodes": [
+            ":eye:"
+        ],
+        "tags": [
+            "body",
+            "eye"
+        ],
+        "codepoints": [
+            "U+1F441",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "eye_1f441.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f575-fe0f",
+        "emoji": "🕵️",
+        "title": "Detective",
+        "aliases": [
+            "Private Eye",
+            "Sleuth",
+            "Spy",
+            "Man Sleuth",
+            "Sleuth or Spy"
+        ],
+        "shortcodes": [
+            ":detective:",
+            ":sleuth_or_spy:"
+        ],
+        "tags": [
+            "detective",
+            "sleuth",
+            "spy"
+        ],
+        "codepoints": [
+            "U+1F575",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f575-fe0f",
+            "1f575-1f3fb",
+            "1f575-1f3fc",
+            "1f575-1f3fd",
+            "1f575-1f3fe",
+            "1f575-1f3ff",
+            "1f575-fe0f-200d-2642-fe0f",
+            "1f575-1f3fb-200d-2642-fe0f",
+            "1f575-1f3fc-200d-2642-fe0f",
+            "1f575-1f3fd-200d-2642-fe0f",
+            "1f575-1f3fe-200d-2642-fe0f",
+            "1f575-1f3ff-200d-2642-fe0f",
+            "1f575-fe0f-200d-2640-fe0f",
+            "1f575-1f3fb-200d-2640-fe0f",
+            "1f575-1f3fc-200d-2640-fe0f",
+            "1f575-1f3fd-200d-2640-fe0f",
+            "1f575-1f3fe-200d-2640-fe0f",
+            "1f575-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "sleuth-or-spy_1f575.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Activity",
+        "code": "1f574-fe0f",
+        "emoji": "🕴️",
+        "title": "Person in Suit Levitating",
+        "aliases": [
+            "Hovering Man",
+            "Rude Boy",
+            "Walt Jabsco",
+            "Man in Business Suit Levitating"
+        ],
+        "shortcodes": [
+            ":business_suit_levitating:",
+            ":person_in_suit_levitating:",
+            ":man_in_business_suit_levitating:"
+        ],
+        "tags": [
+            "business",
+            "person",
+            "person in suit levitating",
+            "suit"
+        ],
+        "codepoints": [
+            "U+1F574",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f574-fe0f",
+            "1f574-1f3fb",
+            "1f574-1f3fc",
+            "1f574-1f3fd",
+            "1f574-1f3fe",
+            "1f574-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "man-in-business-suit-levitating_1f574.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "26f7-fe0f",
+        "emoji": "⛷️",
+        "title": "Skier",
+        "shortcodes": [
+            ":skier:"
+        ],
+        "tags": [
+            "ski",
+            "skier",
+            "snow"
+        ],
+        "codepoints": [
+            "U+26F7",
+            "U+FE0F"
+        ],
+        "related": [
+            "26f7-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "skier_26f7.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f3cc-fe0f",
+        "emoji": "🏌️",
+        "title": "Person Golfing",
+        "aliases": [
+            "Golf",
+            "Golf Club",
+            "Man Golfer",
+            "Golfer"
+        ],
+        "shortcodes": [
+            ":golfer:",
+            ":golfing:",
+            ":person_golfing:"
+        ],
+        "tags": [
+            "ball",
+            "golf",
+            "person golfing"
+        ],
+        "codepoints": [
+            "U+1F3CC",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f3cc-fe0f",
+            "1f3cc-1f3fb",
+            "1f3cc-1f3fc",
+            "1f3cc-1f3fd",
+            "1f3cc-1f3fe",
+            "1f3cc-1f3ff",
+            "1f3cc-fe0f-200d-2642-fe0f",
+            "1f3cc-1f3fb-200d-2642-fe0f",
+            "1f3cc-1f3fc-200d-2642-fe0f",
+            "1f3cc-1f3fd-200d-2642-fe0f",
+            "1f3cc-1f3fe-200d-2642-fe0f",
+            "1f3cc-1f3ff-200d-2642-fe0f",
+            "1f3cc-fe0f-200d-2640-fe0f",
+            "1f3cc-1f3fb-200d-2640-fe0f",
+            "1f3cc-1f3fc-200d-2640-fe0f",
+            "1f3cc-1f3fd-200d-2640-fe0f",
+            "1f3cc-1f3fe-200d-2640-fe0f",
+            "1f3cc-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "golfer_1f3cc.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "26f9-fe0f",
+        "emoji": "⛹️",
+        "title": "Person Bouncing Ball",
+        "aliases": [
+            "Man Basketball Player",
+            "Person with Ball"
+        ],
+        "shortcodes": [
+            ":person_with_ball:",
+            ":bouncing_ball_person:",
+            ":person_bouncing_ball:"
+        ],
+        "tags": [
+            "ball",
+            "person bouncing ball"
+        ],
+        "codepoints": [
+            "U+26F9",
+            "U+FE0F"
+        ],
+        "related": [
+            "26f9-fe0f",
+            "26f9-1f3fb",
+            "26f9-1f3fc",
+            "26f9-1f3fd",
+            "26f9-1f3fe",
+            "26f9-1f3ff",
+            "26f9-fe0f-200d-2642-fe0f",
+            "26f9-1f3fb-200d-2642-fe0f",
+            "26f9-1f3fc-200d-2642-fe0f",
+            "26f9-1f3fd-200d-2642-fe0f",
+            "26f9-1f3fe-200d-2642-fe0f",
+            "26f9-1f3ff-200d-2642-fe0f",
+            "26f9-fe0f-200d-2640-fe0f",
+            "26f9-1f3fb-200d-2640-fe0f",
+            "26f9-1f3fc-200d-2640-fe0f",
+            "26f9-1f3fd-200d-2640-fe0f",
+            "26f9-1f3fe-200d-2640-fe0f",
+            "26f9-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "person-with-ball_26f9.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f3cb-fe0f",
+        "emoji": "🏋️",
+        "title": "Person Lifting Weights",
+        "aliases": [
+            "Bodybuilder",
+            "Man Weightlifter",
+            "Weight Lifter"
+        ],
+        "shortcodes": [
+            ":weight_lifter:",
+            ":weight_lifting:",
+            ":person_lifting_weights:"
+        ],
+        "tags": [
+            "lifter",
+            "person lifting weights",
+            "weight"
+        ],
+        "codepoints": [
+            "U+1F3CB",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f3cb-fe0f",
+            "1f3cb-1f3fb",
+            "1f3cb-1f3fc",
+            "1f3cb-1f3fd",
+            "1f3cb-1f3fe",
+            "1f3cb-1f3ff",
+            "1f3cb-fe0f-200d-2642-fe0f",
+            "1f3cb-1f3fb-200d-2642-fe0f",
+            "1f3cb-1f3fc-200d-2642-fe0f",
+            "1f3cb-1f3fd-200d-2642-fe0f",
+            "1f3cb-1f3fe-200d-2642-fe0f",
+            "1f3cb-1f3ff-200d-2642-fe0f",
+            "1f3cb-fe0f-200d-2640-fe0f",
+            "1f3cb-1f3fb-200d-2640-fe0f",
+            "1f3cb-1f3fc-200d-2640-fe0f",
+            "1f3cb-1f3fd-200d-2640-fe0f",
+            "1f3cb-1f3fe-200d-2640-fe0f",
+            "1f3cb-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "weight-lifter_1f3cb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Symbol",
+        "code": "1f5e3-fe0f",
+        "emoji": "🗣️",
+        "title": "Speaking Head",
+        "aliases": [
+            "Mansplaining",
+            "Shout",
+            "Shouting",
+            "Speaking Silhouette Head",
+            "Speaking Head in Silhouette"
+        ],
+        "shortcodes": [
+            ":speaking_head:",
+            ":speaking_head_in_silhouette:"
+        ],
+        "tags": [
+            "face",
+            "head",
+            "silhouette",
+            "speak",
+            "speaking"
+        ],
+        "codepoints": [
+            "U+1F5E3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "speaking-head-in-silhouette_1f5e3.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f415",
+        "emoji": "🐕",
+        "title": "Dog",
+        "aliases": [
+            "Doggo"
+        ],
+        "shortcodes": [
+            ":dog2:",
+            ":dog:"
+        ],
+        "tags": [
+            "dog",
+            "pet"
+        ],
+        "codepoints": [
+            "U+1F415"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "dog_1f415.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f408",
+        "emoji": "🐈",
+        "title": "Cat",
+        "aliases": [
+            "Domestic Cat",
+            "Feline",
+            "Housecat"
+        ],
+        "shortcodes": [
+            ":cat2:",
+            ":cat:"
+        ],
+        "tags": [
+            "cat",
+            "pet"
+        ],
+        "codepoints": [
+            "U+1F408"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cat_1f408.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f43f-fe0f",
+        "emoji": "🐿️",
+        "title": "Chipmunk",
+        "aliases": [
+            "Squirrel"
+        ],
+        "shortcodes": [
+            ":chipmunk:"
+        ],
+        "tags": [
+            "chipmunk",
+            "squirrel"
+        ],
+        "codepoints": [
+            "U+1F43F",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "chipmunk_1f43f.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f54a-fe0f",
+        "emoji": "🕊️",
+        "title": "Dove",
+        "aliases": [
+            "Dove of Peace"
+        ],
+        "shortcodes": [
+            ":dove:",
+            ":dove_of_peace:"
+        ],
+        "tags": [
+            "bird",
+            "dove",
+            "fly",
+            "peace"
+        ],
+        "codepoints": [
+            "U+1F54A",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "dove-of-peace_1f54a.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bug",
+        "code": "1f577-fe0f",
+        "emoji": "🕷️",
+        "title": "Spider",
+        "shortcodes": [
+            ":spider:"
+        ],
+        "tags": [
+            "insect",
+            "spider"
+        ],
+        "codepoints": [
+            "U+1F577",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "spider_1f577.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bug",
+        "code": "1f578-fe0f",
+        "emoji": "🕸️",
+        "title": "Spider Web",
+        "aliases": [
+            "Cobweb",
+            "Web",
+            "Spiderweb"
+        ],
+        "shortcodes": [
+            ":spider_web:"
+        ],
+        "tags": [
+            "spider",
+            "web"
+        ],
+        "codepoints": [
+            "U+1F578",
+            "U+FE0F"
+        ],
+        "related": [
+            "1f3c0"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "spider-web_1f578.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Plant Flower",
+        "code": "1f3f5-fe0f",
+        "emoji": "🏵️",
+        "title": "Rosette",
+        "shortcodes": [
+            ":rosette:"
+        ],
+        "tags": [
+            "plant",
+            "rosette"
+        ],
+        "codepoints": [
+            "U+1F3F5",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "rosette_1f3f5.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f336-fe0f",
+        "emoji": "🌶️",
+        "title": "Hot Pepper",
+        "aliases": [
+            "Chili Pepper",
+            "Spicy"
+        ],
+        "shortcodes": [
+            ":hot_pepper:"
+        ],
+        "tags": [
+            "hot",
+            "pepper"
+        ],
+        "codepoints": [
+            "U+1F336",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "hot-pepper_1f336.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Dishware",
+        "code": "1f37d-fe0f",
+        "emoji": "🍽️",
+        "title": "Fork and Knife with Plate",
+        "aliases": [
+            "Dinner",
+            "Fork and Knife With Plate"
+        ],
+        "shortcodes": [
+            ":knife_fork_plate:",
+            ":plate_with_cutlery:",
+            ":fork_and_knife_with_plate:"
+        ],
+        "tags": [
+            "cooking",
+            "fork",
+            "fork and knife with plate",
+            "knife",
+            "plate"
+        ],
+        "codepoints": [
+            "U+1F37D",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "fork-and-knife-with-plate_1f37d.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Place Map",
+        "code": "1f30d",
+        "emoji": "🌍",
+        "title": "Globe Showing Europe-Africa",
+        "aliases": [
+            "Earth",
+            "Globe",
+            "Planet",
+            "World",
+            "Globe Showing Europe and Africa",
+            "Earth Globe Europe-Africa"
+        ],
+        "shortcodes": [
+            ":earth_africa:",
+            ":globe_showing_europe_africa:"
+        ],
+        "tags": [
+            "africa",
+            "earth",
+            "europe",
+            "globe",
+            "globe showing europe-africa",
+            "world",
+            "Africa",
+            "Europe",
+            "globe showing Europe-Africa"
+        ],
+        "codepoints": [
+            "U+1F30D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "earth-globe-europe-africa_1f30d.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Place Map",
+        "code": "1f30e",
+        "emoji": "🌎",
+        "title": "Globe Showing Americas",
+        "aliases": [
+            "Earth",
+            "Globe",
+            "Planet",
+            "World",
+            "Earth Globe Americas"
+        ],
+        "shortcodes": [
+            ":earth_americas:",
+            ":globe_showing_americas:"
+        ],
+        "tags": [
+            "americas",
+            "earth",
+            "globe",
+            "globe showing americas",
+            "world",
+            "Americas",
+            "globe showing Americas"
+        ],
+        "codepoints": [
+            "U+1F30E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "earth-globe-americas_1f30e.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Place Map",
+        "code": "1f5fa-fe0f",
+        "emoji": "🗺️",
+        "title": "World Map",
+        "shortcodes": [
+            ":world_map:"
+        ],
+        "tags": [
+            "map",
+            "world"
+        ],
+        "codepoints": [
+            "U+1F5FA",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "world-map_1f5fa.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3d4-fe0f",
+        "emoji": "🏔️",
+        "title": "Snow-Capped Mountain",
+        "aliases": [
+            "Snow Capped Mountain"
+        ],
+        "shortcodes": [
+            ":snow_capped_mountain:",
+            ":mountain_snow:"
+        ],
+        "tags": [
+            "cold",
+            "mountain",
+            "snow",
+            "snow-capped mountain"
+        ],
+        "codepoints": [
+            "U+1F3D4",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "snow-capped-mountain_1f3d4.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "26f0-fe0f",
+        "emoji": "⛰️",
+        "title": "Mountain",
+        "shortcodes": [
+            ":mountain:"
+        ],
+        "tags": [
+            "mountain"
+        ],
+        "codepoints": [
+            "U+26F0",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "mountain_26f0.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3d5-fe0f",
+        "emoji": "🏕️",
+        "title": "Camping",
+        "aliases": [
+            "Campsite"
+        ],
+        "shortcodes": [
+            ":camping:"
+        ],
+        "tags": [
+            "camping"
+        ],
+        "codepoints": [
+            "U+1F3D5",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "camping_1f3d5.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3d6-fe0f",
+        "emoji": "🏖️",
+        "title": "Beach with Umbrella",
+        "aliases": [
+            "Beach With Umbrella"
+        ],
+        "shortcodes": [
+            ":beach_with_umbrella:",
+            ":beach_umbrella:"
+        ],
+        "tags": [
+            "beach",
+            "beach with umbrella",
+            "umbrella"
+        ],
+        "codepoints": [
+            "U+1F3D6",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "beach-with-umbrella_1f3d6.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3dc-fe0f",
+        "emoji": "🏜️",
+        "title": "Desert",
+        "shortcodes": [
+            ":desert:"
+        ],
+        "tags": [
+            "desert"
+        ],
+        "codepoints": [
+            "U+1F3DC",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "desert_1f3dc.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3dd-fe0f",
+        "emoji": "🏝️",
+        "title": "Desert Island",
+        "shortcodes": [
+            ":desert_island:"
+        ],
+        "tags": [
+            "desert",
+            "island"
+        ],
+        "codepoints": [
+            "U+1F3DD",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "desert-island_1f3dd.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Geographic",
+        "code": "1f3de-fe0f",
+        "emoji": "🏞️",
+        "title": "National Park",
+        "shortcodes": [
+            ":national_park:"
+        ],
+        "tags": [
+            "national park",
+            "park"
+        ],
+        "codepoints": [
+            "U+1F3DE",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "national-park_1f3de.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f3df-fe0f",
+        "emoji": "🏟️",
+        "title": "Stadium",
+        "aliases": [
+            "Grandstand",
+            "Sport Stadium"
+        ],
+        "shortcodes": [
+            ":stadium:"
+        ],
+        "tags": [
+            "stadium"
+        ],
+        "codepoints": [
+            "U+1F3DF",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "stadium_1f3df.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f3db-fe0f",
+        "emoji": "🏛️",
+        "title": "Classical Building",
+        "shortcodes": [
+            ":classical_building:"
+        ],
+        "tags": [
+            "classical",
+            "classical building"
+        ],
+        "codepoints": [
+            "U+1F3DB",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "classical-building_1f3db.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f3d7-fe0f",
+        "emoji": "🏗️",
+        "title": "Building Construction",
+        "aliases": [
+            "Crane"
+        ],
+        "shortcodes": [
+            ":building_construction:"
+        ],
+        "tags": [
+            "building construction",
+            "construction"
+        ],
+        "codepoints": [
+            "U+1F3D7",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "building-construction_1f3d7.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f3d8-fe0f",
+        "emoji": "🏘️",
+        "title": "Houses",
+        "aliases": [
+            "Group of Houses",
+            "House Buildings"
+        ],
+        "shortcodes": [
+            ":houses:",
+            ":house_buildings:"
+        ],
+        "tags": [
+            "houses"
+        ],
+        "codepoints": [
+            "U+1F3D8",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "house-buildings_1f3d8.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Building",
+        "code": "1f3da-fe0f",
+        "emoji": "🏚️",
+        "title": "Derelict House",
+        "aliases": [
+            "Abandoned House",
+            "Haunted House",
+            "Old House",
+            "Derelict House Building"
+        ],
+        "shortcodes": [
+            ":derelict_house:",
+            ":derelict_house_building:"
+        ],
+        "tags": [
+            "derelict",
+            "house"
+        ],
+        "codepoints": [
+            "U+1F3DA",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "derelict-house-building_1f3da.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Religious",
+        "code": "26e9-fe0f",
+        "emoji": "⛩️",
+        "title": "Shinto Shrine",
+        "aliases": [
+            "Kami-no-michi"
+        ],
+        "shortcodes": [
+            ":shinto_shrine:"
+        ],
+        "tags": [
+            "religion",
+            "shinto",
+            "shrine"
+        ],
+        "codepoints": [
+            "U+26E9",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "shinto-shrine_26e9.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Place Other",
+        "code": "1f3d9-fe0f",
+        "emoji": "🏙️",
+        "title": "Cityscape",
+        "shortcodes": [
+            ":cityscape:"
+        ],
+        "tags": [
+            "city",
+            "cityscape"
+        ],
+        "codepoints": [
+            "U+1F3D9",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cityscape_1f3d9.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f68d",
+        "emoji": "🚍",
+        "title": "Oncoming Bus",
+        "aliases": [
+            "Front Of Bus"
+        ],
+        "shortcodes": [
+            ":oncoming_bus:"
+        ],
+        "tags": [
+            "bus",
+            "oncoming"
+        ],
+        "codepoints": [
+            "U+1F68D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "oncoming-bus_1f68d.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f694",
+        "emoji": "🚔",
+        "title": "Oncoming Police Car",
+        "aliases": [
+            "🚓 Front Of Police Car",
+            "🚓 Cop Car"
+        ],
+        "shortcodes": [
+            ":oncoming_police_car:"
+        ],
+        "tags": [
+            "car",
+            "oncoming",
+            "police"
+        ],
+        "codepoints": [
+            "U+1F694"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "oncoming-police-car_1f694.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f698",
+        "emoji": "🚘",
+        "title": "Oncoming Automobile",
+        "aliases": [
+            "Front Of Car",
+            "Oncoming Car"
+        ],
+        "shortcodes": [
+            ":oncoming_automobile:"
+        ],
+        "tags": [
+            "automobile",
+            "car",
+            "oncoming"
+        ],
+        "codepoints": [
+            "U+1F698"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "oncoming-automobile_1f698.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f3ce-fe0f",
+        "emoji": "🏎️",
+        "title": "Racing Car",
+        "aliases": [
+            "F1",
+            "Formula One",
+            "Race Car"
+        ],
+        "shortcodes": [
+            ":racing_car:"
+        ],
+        "tags": [
+            "car",
+            "racing"
+        ],
+        "codepoints": [
+            "U+1F3CE",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "racing-car_1f3ce.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f3cd-fe0f",
+        "emoji": "🏍️",
+        "title": "Motorcycle",
+        "aliases": [
+            "Motorbike",
+            "Racing Motorcycle"
+        ],
+        "shortcodes": [
+            ":motorcycle:",
+            ":racing_motorcycle:"
+        ],
+        "tags": [
+            "motorcycle",
+            "racing"
+        ],
+        "codepoints": [
+            "U+1F3CD",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "racing-motorcycle_1f3cd.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f6e3-fe0f",
+        "emoji": "🛣️",
+        "title": "Motorway",
+        "aliases": [
+            "Highway",
+            "Interstate",
+            "Road"
+        ],
+        "shortcodes": [
+            ":motorway:"
+        ],
+        "tags": [
+            "highway",
+            "motorway",
+            "road"
+        ],
+        "codepoints": [
+            "U+1F6E3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "motorway_1f6e3.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f6e4-fe0f",
+        "emoji": "🛤️",
+        "title": "Railway Track",
+        "shortcodes": [
+            ":railway_track:"
+        ],
+        "tags": [
+            "railway",
+            "railway track",
+            "train"
+        ],
+        "codepoints": [
+            "U+1F6E4",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "railway-track_1f6e4.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Transport Ground",
+        "code": "1f6e2-fe0f",
+        "emoji": "🛢️",
+        "title": "Oil Drum",
+        "shortcodes": [
+            ":oil_drum:"
+        ],
+        "tags": [
+            "drum",
+            "oil"
+        ],
+        "codepoints": [
+            "U+1F6E2",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "oil-drum_1f6e2.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Water",
+        "code": "1f6f3-fe0f",
+        "emoji": "🛳️",
+        "title": "Passenger Ship",
+        "shortcodes": [
+            ":passenger_ship:"
+        ],
+        "tags": [
+            "passenger",
+            "ship"
+        ],
+        "codepoints": [
+            "U+1F6F3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "passenger-ship_1f6f3.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Water",
+        "code": "26f4-fe0f",
+        "emoji": "⛴️",
+        "title": "Ferry",
+        "shortcodes": [
+            ":ferry:"
+        ],
+        "tags": [
+            "boat",
+            "ferry",
+            "passenger"
+        ],
+        "codepoints": [
+            "U+26F4",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "ferry_26f4.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Water",
+        "code": "1f6e5-fe0f",
+        "emoji": "🛥️",
+        "title": "Motor Boat",
+        "shortcodes": [
+            ":motor_boat:"
+        ],
+        "tags": [
+            "boat",
+            "motorboat",
+            "motor boat"
+        ],
+        "codepoints": [
+            "U+1F6E5",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "motor-boat_1f6e5.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Air",
+        "code": "1f6e9-fe0f",
+        "emoji": "🛩️",
+        "title": "Small Airplane",
+        "aliases": [
+            "Small Aeroplane",
+            "Small Plane"
+        ],
+        "shortcodes": [
+            ":small_airplane:"
+        ],
+        "tags": [
+            "aeroplane",
+            "airplane",
+            "small airplane"
+        ],
+        "codepoints": [
+            "U+1F6E9",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "small-airplane_1f6e9.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Air",
+        "code": "1f6f0-fe0f",
+        "emoji": "🛰️",
+        "title": "Satellite",
+        "shortcodes": [
+            ":satellite:",
+            ":artificial_satellite:"
+        ],
+        "tags": [
+            "satellite",
+            "space"
+        ],
+        "codepoints": [
+            "U+1F6F0",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "satellite_1f6f0.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Hotel",
+        "code": "1f6ce-fe0f",
+        "emoji": "🛎️",
+        "title": "Bellhop Bell",
+        "shortcodes": [
+            ":bellhop_bell:"
+        ],
+        "tags": [
+            "bell",
+            "bellhop",
+            "hotel"
+        ],
+        "codepoints": [
+            "U+1F6CE",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "bellhop-bell_1f6ce.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Time",
+        "code": "1f570-fe0f",
+        "emoji": "🕰️",
+        "title": "Mantelpiece Clock",
+        "shortcodes": [
+            ":mantelpiece_clock:"
+        ],
+        "tags": [
+            "clock",
+            "mantelpiece clock"
+        ],
+        "codepoints": [
+            "U+1F570",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "mantelpiece-clock_1f570.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f567",
+        "emoji": "🕧",
+        "title": "Twelve-Thirty",
+        "aliases": [
+            "Clock Face Twelve-Thirty"
+        ],
+        "shortcodes": [
+            ":clock1230:",
+            ":twelve_thirty:"
+        ],
+        "tags": [
+            "12",
+            "12:30",
+            "clock",
+            "thirty",
+            "twelve",
+            "twelve-thirty"
+        ],
+        "codepoints": [
+            "U+1F567"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-twelve-thirty_1f567.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f55c",
+        "emoji": "🕜",
+        "title": "One-Thirty",
+        "aliases": [
+            "Clock Face One-Thirty"
+        ],
+        "shortcodes": [
+            ":clock130:",
+            ":one_thirty:"
+        ],
+        "tags": [
+            "1",
+            "1:30",
+            "clock",
+            "one",
+            "one-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F55C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-one-thirty_1f55c.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f55d",
+        "emoji": "🕝",
+        "title": "Two-Thirty",
+        "aliases": [
+            "Clock Face Two-Thirty"
+        ],
+        "shortcodes": [
+            ":clock230:",
+            ":two_thirty:"
+        ],
+        "tags": [
+            "2",
+            "2:30",
+            "clock",
+            "thirty",
+            "two",
+            "two-thirty"
+        ],
+        "codepoints": [
+            "U+1F55D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-two-thirty_1f55d.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f55e",
+        "emoji": "🕞",
+        "title": "Three-Thirty",
+        "aliases": [
+            "Clock Face Three-Thirty"
+        ],
+        "shortcodes": [
+            ":clock330:",
+            ":three_thirty:"
+        ],
+        "tags": [
+            "3",
+            "3:30",
+            "clock",
+            "thirty",
+            "three",
+            "three-thirty"
+        ],
+        "codepoints": [
+            "U+1F55E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-three-thirty_1f55e.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f55f",
+        "emoji": "🕟",
+        "title": "Four-Thirty",
+        "aliases": [
+            "Clock Face Four-Thirty"
+        ],
+        "shortcodes": [
+            ":clock430:",
+            ":four_thirty:"
+        ],
+        "tags": [
+            "4",
+            "4:30",
+            "clock",
+            "four",
+            "four-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F55F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-four-thirty_1f55f.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f560",
+        "emoji": "🕠",
+        "title": "Five-Thirty",
+        "aliases": [
+            "Clock Face Five-Thirty"
+        ],
+        "shortcodes": [
+            ":clock530:",
+            ":five_thirty:"
+        ],
+        "tags": [
+            "5",
+            "5:30",
+            "clock",
+            "five",
+            "five-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F560"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-five-thirty_1f560.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f561",
+        "emoji": "🕡",
+        "title": "Six-Thirty",
+        "aliases": [
+            "Clock Face Six-Thirty"
+        ],
+        "shortcodes": [
+            ":clock630:",
+            ":six_thirty:"
+        ],
+        "tags": [
+            "6",
+            "6:30",
+            "clock",
+            "six",
+            "six-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F561"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-six-thirty_1f561.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f562",
+        "emoji": "🕢",
+        "title": "Seven-Thirty",
+        "aliases": [
+            "Clock Face Seven-Thirty"
+        ],
+        "shortcodes": [
+            ":clock730:",
+            ":seven_thirty:"
+        ],
+        "tags": [
+            "7",
+            "7:30",
+            "clock",
+            "seven",
+            "seven-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F562"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-seven-thirty_1f562.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f563",
+        "emoji": "🕣",
+        "title": "Eight-Thirty",
+        "aliases": [
+            "Clock Face Eight-Thirty"
+        ],
+        "shortcodes": [
+            ":clock830:",
+            ":eight_thirty:"
+        ],
+        "tags": [
+            "8",
+            "8:30",
+            "clock",
+            "eight",
+            "eight-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F563"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-eight-thirty_1f563.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f564",
+        "emoji": "🕤",
+        "title": "Nine-Thirty",
+        "aliases": [
+            "Clock Face Nine-Thirty"
+        ],
+        "shortcodes": [
+            ":clock930:",
+            ":nine_thirty:"
+        ],
+        "tags": [
+            "9",
+            "9:30",
+            "clock",
+            "nine",
+            "nine-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F564"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-nine-thirty_1f564.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f565",
+        "emoji": "🕥",
+        "title": "Ten-Thirty",
+        "aliases": [
+            "Clock Face Ten-Thirty"
+        ],
+        "shortcodes": [
+            ":clock1030:",
+            ":ten_thirty:"
+        ],
+        "tags": [
+            "10",
+            "10:30",
+            "clock",
+            "ten",
+            "ten-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F565"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-ten-thirty_1f565.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Time",
+        "code": "1f566",
+        "emoji": "🕦",
+        "title": "Eleven-Thirty",
+        "aliases": [
+            "Clock Face Eleven-Thirty"
+        ],
+        "shortcodes": [
+            ":clock1130:",
+            ":eleven_thirty:"
+        ],
+        "tags": [
+            "11",
+            "11:30",
+            "clock",
+            "eleven",
+            "eleven-thirty",
+            "thirty"
+        ],
+        "codepoints": [
+            "U+1F566"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "clock-face-eleven-thirty_1f566.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f31c",
+        "emoji": "🌜",
+        "title": "Last Quarter Moon Face",
+        "aliases": [
+            "Last Quarter Moon With Face",
+            "Last Quarter Moon with Face"
+        ],
+        "shortcodes": [
+            ":last_quarter_moon_with_face:",
+            ":last_quarter_moon_face:"
+        ],
+        "tags": [
+            "face",
+            "last quarter moon face",
+            "moon",
+            "quarter"
+        ],
+        "codepoints": [
+            "U+1F31C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "last-quarter-moon-with-face_1f31c.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Sky & Weather",
+        "code": "1f321-fe0f",
+        "emoji": "🌡️",
+        "title": "Thermometer",
+        "aliases": [
+            "Hot Weather",
+            "Temperature"
+        ],
+        "shortcodes": [
+            ":thermometer:"
+        ],
+        "tags": [
+            "thermometer",
+            "weather"
+        ],
+        "codepoints": [
+            "U+1F321",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "thermometer_1f321.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "26c8-fe0f",
+        "emoji": "⛈️",
+        "title": "Cloud with Lightning and Rain",
+        "aliases": [
+            "Cloud With Lightning and Rain",
+            "Thunder Cloud and Rain"
+        ],
+        "shortcodes": [
+            ":cloud_with_lightning_and_rain:",
+            ":thunder_cloud_and_rain:"
+        ],
+        "tags": [
+            "cloud",
+            "cloud with lightning and rain",
+            "rain",
+            "thunder"
+        ],
+        "codepoints": [
+            "U+26C8",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "thunder-cloud-and-rain_26c8.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f324-fe0f",
+        "emoji": "🌤️",
+        "title": "Sun Behind Small Cloud",
+        "aliases": [
+            "White Sun with Small Cloud"
+        ],
+        "shortcodes": [
+            ":mostly_sunny:",
+            ":sun_behind_small_cloud:",
+            ":sun_small_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "sun",
+            "sun behind small cloud"
+        ],
+        "codepoints": [
+            "U+1F324",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "white-sun-with-small-cloud_1f324.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f325-fe0f",
+        "emoji": "🌥️",
+        "title": "Sun Behind Large Cloud",
+        "aliases": [
+            "White Sun Behind Cloud"
+        ],
+        "shortcodes": [
+            ":barely_sunny:",
+            ":sun_behind_large_cloud:",
+            ":sun_behind_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "sun",
+            "sun behind large cloud"
+        ],
+        "codepoints": [
+            "U+1F325",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "white-sun-behind-cloud_1f325.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f326-fe0f",
+        "emoji": "🌦️",
+        "title": "Sun Behind Rain Cloud",
+        "aliases": [
+            "White Sun Behind Cloud with Rain"
+        ],
+        "shortcodes": [
+            ":sun_behind_rain_cloud:",
+            ":partly_sunny_rain:"
+        ],
+        "tags": [
+            "cloud",
+            "rain",
+            "sun",
+            "sun behind rain cloud"
+        ],
+        "codepoints": [
+            "U+1F326",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "white-sun-behind-cloud-with-rain_1f326.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f327-fe0f",
+        "emoji": "🌧️",
+        "title": "Cloud with Rain",
+        "aliases": [
+            "Cloud With Rain"
+        ],
+        "shortcodes": [
+            ":cloud_with_rain:",
+            ":rain_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "cloud with rain",
+            "rain"
+        ],
+        "codepoints": [
+            "U+1F327",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cloud-with-rain_1f327.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f328-fe0f",
+        "emoji": "🌨️",
+        "title": "Cloud with Snow",
+        "aliases": [
+            "Cloud With Snow"
+        ],
+        "shortcodes": [
+            ":cloud_with_snow:",
+            ":snow_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "cloud with snow",
+            "cold",
+            "snow"
+        ],
+        "codepoints": [
+            "U+1F328",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cloud-with-snow_1f328.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f329-fe0f",
+        "emoji": "🌩️",
+        "title": "Cloud with Lightning",
+        "aliases": [
+            "Cloud With Lightning"
+        ],
+        "shortcodes": [
+            ":lightning:",
+            ":cloud_with_lightning:",
+            ":lightning_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "cloud with lightning",
+            "lightning"
+        ],
+        "codepoints": [
+            "U+1F329",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cloud-with-lightning_1f329.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f32a-fe0f",
+        "emoji": "🌪️",
+        "title": "Tornado",
+        "aliases": [
+            "Cloud with Tornado"
+        ],
+        "shortcodes": [
+            ":tornado:",
+            ":tornado_cloud:"
+        ],
+        "tags": [
+            "cloud",
+            "tornado",
+            "whirlwind"
+        ],
+        "codepoints": [
+            "U+1F32A",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "cloud-with-tornado_1f32a.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f32b-fe0f",
+        "emoji": "🌫️",
+        "title": "Fog",
+        "shortcodes": [
+            ":fog:"
+        ],
+        "tags": [
+            "cloud",
+            "fog"
+        ],
+        "codepoints": [
+            "U+1F32B",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "fog_1f32b.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "1f32c-fe0f",
+        "emoji": "🌬️",
+        "title": "Wind Face",
+        "aliases": [
+            "Blowing Wind",
+            "Mother Nature",
+            "Wind Blowing Face"
+        ],
+        "shortcodes": [
+            ":wind_face:",
+            ":wind_blowing_face:"
+        ],
+        "tags": [
+            "blow",
+            "cloud",
+            "face",
+            "wind"
+        ],
+        "codepoints": [
+            "U+1F32C",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "wind-blowing-face_1f32c.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "2602-fe0f",
+        "emoji": "☂️",
+        "title": "Umbrella",
+        "shortcodes": [
+            ":umbrella:",
+            ":open_umbrella:"
+        ],
+        "tags": [
+            "clothing",
+            "rain",
+            "umbrella"
+        ],
+        "codepoints": [
+            "U+2602",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "umbrella_2602.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Sky & Weather",
+        "code": "26f1-fe0f",
+        "emoji": "⛱️",
+        "title": "Umbrella on Ground",
+        "aliases": [
+            "Beach Umbrella"
+        ],
+        "shortcodes": [
+            ":umbrella_on_ground:",
+            ":parasol_on_ground:"
+        ],
+        "tags": [
+            "rain",
+            "sun",
+            "umbrella",
+            "umbrella on ground"
+        ],
+        "codepoints": [
+            "U+26F1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "umbrella-on-ground_26f1.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Sky & Weather",
+        "code": "2603-fe0f",
+        "emoji": "☃️",
+        "title": "Snowman",
+        "aliases": [
+            "Snowing Snowman",
+            "Snowman With Snowflakes"
+        ],
+        "shortcodes": [
+            ":snowman:",
+            ":snowman_with_snow:"
+        ],
+        "tags": [
+            "cold",
+            "snow",
+            "snowman"
+        ],
+        "codepoints": [
+            "U+2603",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "snowman_2603.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Event",
+        "code": "1f397-fe0f",
+        "emoji": "🎗️",
+        "title": "Reminder Ribbon",
+        "shortcodes": [
+            ":reminder_ribbon:"
+        ],
+        "tags": [
+            "celebration",
+            "reminder",
+            "ribbon"
+        ],
+        "codepoints": [
+            "U+1F397",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "reminder-ribbon_1f397.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Event",
+        "code": "1f39f-fe0f",
+        "emoji": "🎟️",
+        "title": "Admission Tickets",
+        "aliases": [
+            "Admission Ticket"
+        ],
+        "shortcodes": [
+            ":admission_tickets:",
+            ":tickets:"
+        ],
+        "tags": [
+            "admission",
+            "admission tickets",
+            "ticket"
+        ],
+        "codepoints": [
+            "U+1F39F",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "admission-tickets_1f39f.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Award Medal",
+        "code": "1f396-fe0f",
+        "emoji": "🎖️",
+        "title": "Military Medal",
+        "aliases": [
+            "Medal",
+            "Medallion",
+            "Military Decoration"
+        ],
+        "shortcodes": [
+            ":medal:",
+            ":medal_military:",
+            ":military_medal:"
+        ],
+        "tags": [
+            "celebration",
+            "medal",
+            "military"
+        ],
+        "codepoints": [
+            "U+1F396",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "military-medal_1f396.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "26f8-fe0f",
+        "emoji": "⛸️",
+        "title": "Ice Skate",
+        "aliases": [
+            "Ice Skating"
+        ],
+        "shortcodes": [
+            ":ice_skate:"
+        ],
+        "tags": [
+            "ice",
+            "skate"
+        ],
+        "codepoints": [
+            "U+26F8",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "ice-skate_26f8.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Game",
+        "code": "1f579-fe0f",
+        "emoji": "🕹️",
+        "title": "Joystick",
+        "shortcodes": [
+            ":joystick:"
+        ],
+        "tags": [
+            "game",
+            "joystick",
+            "video game"
+        ],
+        "codepoints": [
+            "U+1F579",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "joystick_1f579.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Arts & Crafts",
+        "code": "1f5bc-fe0f",
+        "emoji": "🖼️",
+        "title": "Framed Picture",
+        "aliases": [
+            "Painting",
+            "Picture Frame",
+            "Frame With Picture",
+            "Frame with Picture"
+        ],
+        "shortcodes": [
+            ":framed_picture:",
+            ":frame_with_picture:"
+        ],
+        "tags": [
+            "art",
+            "frame",
+            "framed picture",
+            "museum",
+            "painting",
+            "picture"
+        ],
+        "codepoints": [
+            "U+1F5BC",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "frame-with-picture_1f5bc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Clothing",
+        "code": "1f576-fe0f",
+        "emoji": "🕶️",
+        "title": "Sunglasses",
+        "aliases": [
+            "Dark Sunglasses"
+        ],
+        "shortcodes": [
+            ":dark_sunglasses:",
+            ":sunglasses:"
+        ],
+        "tags": [
+            "dark",
+            "eye",
+            "eyewear",
+            "glasses",
+            "sunglasses"
+        ],
+        "codepoints": [
+            "U+1F576",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "dark-sunglasses_1f576.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1f6cd-fe0f",
+        "emoji": "🛍️",
+        "title": "Shopping Bags",
+        "shortcodes": [
+            ":shopping_bags:",
+            ":shopping:"
+        ],
+        "tags": [
+            "bag",
+            "hotel",
+            "shopping",
+            "shopping bags"
+        ],
+        "codepoints": [
+            "U+1F6CD",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "shopping-bags_1f6cd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Clothing",
+        "code": "26d1-fe0f",
+        "emoji": "⛑️",
+        "title": "Rescue Worker’s Helmet",
+        "aliases": [
+            "Helmet With White Cross",
+            "Helmet with White Cross"
+        ],
+        "shortcodes": [
+            ":rescue_worker_helmet:",
+            ":rescue_workers_helmet:",
+            ":helmet_with_white_cross:"
+        ],
+        "tags": [
+            "aid",
+            "cross",
+            "face",
+            "hat",
+            "helmet",
+            "rescue worker’s helmet"
+        ],
+        "codepoints": [
+            "U+26D1",
+            "U+FE0F"
+        ],
+        "related": [
+            "26d1-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "helmet-with-white-cross_26d1.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Sound",
+        "code": "1f508",
+        "emoji": "🔈",
+        "title": "Speaker Low Volume",
+        "aliases": [
+            "Volume",
+            "Speaker"
+        ],
+        "shortcodes": [
+            ":speaker:",
+            ":speaker_low_volume:"
+        ],
+        "tags": [
+            "soft",
+            "speaker low volume"
+        ],
+        "codepoints": [
+            "U+1F508"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "speaker_1f508.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Music",
+        "code": "1f399-fe0f",
+        "emoji": "🎙️",
+        "title": "Studio Microphone",
+        "shortcodes": [
+            ":studio_microphone:"
+        ],
+        "tags": [
+            "mic",
+            "microphone",
+            "music",
+            "studio"
+        ],
+        "codepoints": [
+            "U+1F399",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "studio-microphone_1f399.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Music",
+        "code": "1f39a-fe0f",
+        "emoji": "🎚️",
+        "title": "Level Slider",
+        "shortcodes": [
+            ":level_slider:"
+        ],
+        "tags": [
+            "level",
+            "music",
+            "slider"
+        ],
+        "codepoints": [
+            "U+1F39A",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "level-slider_1f39a.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Music",
+        "code": "1f39b-fe0f",
+        "emoji": "🎛️",
+        "title": "Control Knobs",
+        "shortcodes": [
+            ":control_knobs:"
+        ],
+        "tags": [
+            "control",
+            "knobs",
+            "music"
+        ],
+        "codepoints": [
+            "U+1F39B",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "control-knobs_1f39b.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Computer",
+        "code": "1f5a5-fe0f",
+        "emoji": "🖥️",
+        "title": "Desktop Computer",
+        "aliases": [
+            "iMac"
+        ],
+        "shortcodes": [
+            ":desktop_computer:"
+        ],
+        "tags": [
+            "computer",
+            "desktop"
+        ],
+        "codepoints": [
+            "U+1F5A5",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "desktop-computer_1f5a5.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Computer",
+        "code": "1f5a8-fe0f",
+        "emoji": "🖨️",
+        "title": "Printer",
+        "shortcodes": [
+            ":printer:"
+        ],
+        "tags": [
+            "computer",
+            "printer"
+        ],
+        "codepoints": [
+            "U+1F5A8",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "printer_1f5a8.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Computer",
+        "code": "1f5b1-fe0f",
+        "emoji": "🖱️",
+        "title": "Computer Mouse",
+        "aliases": [
+            "Three Button Mouse"
+        ],
+        "shortcodes": [
+            ":computer_mouse:",
+            ":three_button_mouse:"
+        ],
+        "tags": [
+            "computer",
+            "computer mouse"
+        ],
+        "codepoints": [
+            "U+1F5B1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "three-button-mouse_1f5b1.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Computer",
+        "code": "1f5b2-fe0f",
+        "emoji": "🖲️",
+        "title": "Trackball",
+        "shortcodes": [
+            ":trackball:"
+        ],
+        "tags": [
+            "computer",
+            "trackball"
+        ],
+        "codepoints": [
+            "U+1F5B2",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "trackball_1f5b2.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Light & Video",
+        "code": "1f39e-fe0f",
+        "emoji": "🎞️",
+        "title": "Film Frames",
+        "shortcodes": [
+            ":film_frames:",
+            ":film_strip:"
+        ],
+        "tags": [
+            "cinema",
+            "film",
+            "frames",
+            "movie"
+        ],
+        "codepoints": [
+            "U+1F39E",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "film-frames_1f39e.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Light & Video",
+        "code": "1f4fd-fe0f",
+        "emoji": "📽️",
+        "title": "Film Projector",
+        "shortcodes": [
+            ":film_projector:"
+        ],
+        "tags": [
+            "cinema",
+            "film",
+            "movie",
+            "projector",
+            "video"
+        ],
+        "codepoints": [
+            "U+1F4FD",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "film-projector_1f4fd.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Light & Video",
+        "code": "1f56f-fe0f",
+        "emoji": "🕯️",
+        "title": "Candle",
+        "shortcodes": [
+            ":candle:"
+        ],
+        "tags": [
+            "candle",
+            "light"
+        ],
+        "codepoints": [
+            "U+1F56F",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "candle_1f56f.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Book Paper",
+        "code": "1f5de-fe0f",
+        "emoji": "🗞️",
+        "title": "Rolled-Up Newspaper",
+        "aliases": [
+            "Newspaper Delivery"
+        ],
+        "shortcodes": [
+            ":rolled_up_newspaper:",
+            ":newspaper_roll:"
+        ],
+        "tags": [
+            "news",
+            "newspaper",
+            "paper",
+            "rolled",
+            "rolled-up newspaper"
+        ],
+        "codepoints": [
+            "U+1F5DE",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "rolled-up-newspaper_1f5de.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Book Paper",
+        "code": "1f3f7-fe0f",
+        "emoji": "🏷️",
+        "title": "Label",
+        "aliases": [
+            "Label Tag"
+        ],
+        "shortcodes": [
+            ":label:"
+        ],
+        "tags": [
+            "label"
+        ],
+        "codepoints": [
+            "U+1F3F7",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "label_1f3f7.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Mail",
+        "code": "1f4ec",
+        "emoji": "📬",
+        "title": "Open Mailbox with Raised Flag",
+        "aliases": [
+            "Open Mailbox",
+            "Open Mailbox With Raised Flag"
+        ],
+        "shortcodes": [
+            ":mailbox_with_mail:",
+            ":open_mailbox_with_raised_flag:"
+        ],
+        "tags": [
+            "mail",
+            "mailbox",
+            "open",
+            "open mailbox with raised flag",
+            "postbox"
+        ],
+        "codepoints": [
+            "U+1F4EC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "open-mailbox-with-raised-flag_1f4ec.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Mail",
+        "code": "1f4ed",
+        "emoji": "📭",
+        "title": "Open Mailbox with Lowered Flag",
+        "aliases": [
+            "Open Mailbox With Lowered Flag"
+        ],
+        "shortcodes": [
+            ":mailbox_with_no_mail:",
+            ":open_mailbox_with_lowered_flag:"
+        ],
+        "tags": [
+            "lowered",
+            "mail",
+            "mailbox",
+            "open",
+            "open mailbox with lowered flag",
+            "postbox"
+        ],
+        "codepoints": [
+            "U+1F4ED"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "open-mailbox-with-lowered-flag_1f4ed.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Mail",
+        "code": "1f5f3-fe0f",
+        "emoji": "🗳️",
+        "title": "Ballot Box with Ballot",
+        "aliases": [
+            "Vote Box",
+            "Voting",
+            "Ballot Box With Ballot"
+        ],
+        "shortcodes": [
+            ":ballot_box:",
+            ":ballot_box_with_ballot:"
+        ],
+        "tags": [
+            "ballot",
+            "ballot box with ballot",
+            "box"
+        ],
+        "codepoints": [
+            "U+1F5F3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "ballot-box-with-ballot_1f5f3.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Writing",
+        "code": "1f58b-fe0f",
+        "emoji": "🖋️",
+        "title": "Fountain Pen",
+        "aliases": [
+            "Lower Left Fountain Pen"
+        ],
+        "shortcodes": [
+            ":fountain_pen:",
+            ":lower_left_fountain_pen:"
+        ],
+        "tags": [
+            "fountain",
+            "pen"
+        ],
+        "codepoints": [
+            "U+1F58B",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "lower-left-fountain-pen_1f58b.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Writing",
+        "code": "1f58a-fe0f",
+        "emoji": "🖊️",
+        "title": "Pen",
+        "aliases": [
+            "Ballpoint Pen",
+            "Lower Left Ballpoint Pen"
+        ],
+        "shortcodes": [
+            ":pen:",
+            ":lower_left_ballpoint_pen:"
+        ],
+        "tags": [
+            "ballpoint",
+            "pen"
+        ],
+        "codepoints": [
+            "U+1F58A",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "lower-left-ballpoint-pen_1f58a.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Writing",
+        "code": "1f58c-fe0f",
+        "emoji": "🖌️",
+        "title": "Paintbrush",
+        "aliases": [
+            "Brush",
+            "Lower Left Paintbrush"
+        ],
+        "shortcodes": [
+            ":paintbrush:",
+            ":lower_left_paintbrush:"
+        ],
+        "tags": [
+            "paintbrush",
+            "painting"
+        ],
+        "codepoints": [
+            "U+1F58C",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "lower-left-paintbrush_1f58c.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Writing",
+        "code": "1f58d-fe0f",
+        "emoji": "🖍️",
+        "title": "Crayon",
+        "aliases": [
+            "Lower Left Crayon"
+        ],
+        "shortcodes": [
+            ":crayon:",
+            ":lower_left_crayon:"
+        ],
+        "tags": [
+            "crayon"
+        ],
+        "codepoints": [
+            "U+1F58D",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "lower-left-crayon_1f58d.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5c2-fe0f",
+        "emoji": "🗂️",
+        "title": "Card Index Dividers",
+        "shortcodes": [
+            ":card_index_dividers:"
+        ],
+        "tags": [
+            "card",
+            "dividers",
+            "index"
+        ],
+        "codepoints": [
+            "U+1F5C2",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "card-index-dividers_1f5c2.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5d2-fe0f",
+        "emoji": "🗒️",
+        "title": "Spiral Notepad",
+        "aliases": [
+            "Spiral Note Pad"
+        ],
+        "shortcodes": [
+            ":spiral_notepad:",
+            ":spiral_note_pad:"
+        ],
+        "tags": [
+            "note",
+            "pad",
+            "spiral",
+            "spiral notepad"
+        ],
+        "codepoints": [
+            "U+1F5D2",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "spiral-note-pad_1f5d2.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5d3-fe0f",
+        "emoji": "🗓️",
+        "title": "Spiral Calendar",
+        "aliases": [
+            "Spiral Calendar Pad"
+        ],
+        "shortcodes": [
+            ":spiral_calendar:",
+            ":spiral_calendar_pad:"
+        ],
+        "tags": [
+            "calendar",
+            "pad",
+            "spiral"
+        ],
+        "codepoints": [
+            "U+1F5D3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "spiral-calendar-pad_1f5d3.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f587-fe0f",
+        "emoji": "🖇️",
+        "title": "Linked Paperclips",
+        "shortcodes": [
+            ":linked_paperclips:",
+            ":paperclips:"
+        ],
+        "tags": [
+            "link",
+            "linked paperclips",
+            "paperclip"
+        ],
+        "codepoints": [
+            "U+1F587",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "linked-paperclips_1f587.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5c3-fe0f",
+        "emoji": "🗃️",
+        "title": "Card File Box",
+        "shortcodes": [
+            ":card_file_box:"
+        ],
+        "tags": [
+            "box",
+            "card",
+            "file"
+        ],
+        "codepoints": [
+            "U+1F5C3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "card-file-box_1f5c3.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5c4-fe0f",
+        "emoji": "🗄️",
+        "title": "File Cabinet",
+        "aliases": [
+            "Filing Cabinet"
+        ],
+        "shortcodes": [
+            ":file_cabinet:"
+        ],
+        "tags": [
+            "cabinet",
+            "file",
+            "filing"
+        ],
+        "codepoints": [
+            "U+1F5C4",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "file-cabinet_1f5c4.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Office",
+        "code": "1f5d1-fe0f",
+        "emoji": "🗑️",
+        "title": "Wastebasket",
+        "aliases": [
+            "Garbage Can",
+            "Rubbish Bin",
+            "Trash Can",
+            "Wastepaper Basket"
+        ],
+        "shortcodes": [
+            ":wastebasket:"
+        ],
+        "tags": [
+            "wastebasket"
+        ],
+        "codepoints": [
+            "U+1F5D1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "wastebasket_1f5d1.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Lock",
+        "code": "1f5dd-fe0f",
+        "emoji": "🗝️",
+        "title": "Old Key",
+        "shortcodes": [
+            ":old_key:"
+        ],
+        "tags": [
+            "clue",
+            "key",
+            "lock",
+            "old"
+        ],
+        "codepoints": [
+            "U+1F5DD",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "old-key_1f5dd.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "26cf-fe0f",
+        "emoji": "⛏️",
+        "title": "Pick",
+        "aliases": [
+            "Pickaxe"
+        ],
+        "shortcodes": [
+            ":pick:"
+        ],
+        "tags": [
+            "mining",
+            "pick",
+            "tool"
+        ],
+        "codepoints": [
+            "U+26CF",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "pick_26cf.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f6e0-fe0f",
+        "emoji": "🛠️",
+        "title": "Hammer and Wrench",
+        "shortcodes": [
+            ":hammer_and_wrench:"
+        ],
+        "tags": [
+            "hammer",
+            "hammer and wrench",
+            "spanner",
+            "tool",
+            "wrench"
+        ],
+        "codepoints": [
+            "U+1F6E0",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "hammer-and-wrench_1f6e0.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f5e1-fe0f",
+        "emoji": "🗡️",
+        "title": "Dagger",
+        "aliases": [
+            "Knife Weapon",
+            "Dagger Knife"
+        ],
+        "shortcodes": [
+            ":dagger:",
+            ":dagger_knife:"
+        ],
+        "tags": [
+            "dagger",
+            "knife",
+            "weapon"
+        ],
+        "codepoints": [
+            "U+1F5E1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "dagger-knife_1f5e1.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f6e1-fe0f",
+        "emoji": "🛡️",
+        "title": "Shield",
+        "shortcodes": [
+            ":shield:"
+        ],
+        "tags": [
+            "shield",
+            "weapon"
+        ],
+        "codepoints": [
+            "U+1F6E1",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "shield_1f6e1.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1f5dc-fe0f",
+        "emoji": "🗜️",
+        "title": "Clamp",
+        "aliases": [
+            "Table Vice",
+            "WinZip",
+            "Compression"
+        ],
+        "shortcodes": [
+            ":clamp:",
+            ":compression:"
+        ],
+        "tags": [
+            "clamp",
+            "compress",
+            "tool",
+            "vice"
+        ],
+        "codepoints": [
+            "U+1F5DC",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "compression_1f5dc.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "26d3-fe0f",
+        "emoji": "⛓️",
+        "title": "Chains",
+        "shortcodes": [
+            ":chains:"
+        ],
+        "tags": [
+            "chain",
+            "chains"
+        ],
+        "codepoints": [
+            "U+26D3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "chains_26d3.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f6cf-fe0f",
+        "emoji": "🛏️",
+        "title": "Bed",
+        "aliases": [
+            "Bedroom"
+        ],
+        "shortcodes": [
+            ":bed:"
+        ],
+        "tags": [
+            "bed",
+            "hotel",
+            "sleep"
+        ],
+        "codepoints": [
+            "U+1F6CF",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "bed_1f6cf.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f6cb-fe0f",
+        "emoji": "🛋️",
+        "title": "Couch and Lamp",
+        "aliases": [
+            "Lounge",
+            "Settee",
+            "Sofa"
+        ],
+        "shortcodes": [
+            ":couch_and_lamp:"
+        ],
+        "tags": [
+            "couch",
+            "couch and lamp",
+            "hotel",
+            "lamp"
+        ],
+        "codepoints": [
+            "U+1F6CB",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "couch-and-lamp_1f6cb.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "1f549-fe0f",
+        "emoji": "🕉️",
+        "title": "Om",
+        "aliases": [
+            "Aumkara",
+            "Omkara",
+            "Pranava",
+            "Om Symbol"
+        ],
+        "shortcodes": [
+            ":om:",
+            ":om_symbol:"
+        ],
+        "tags": [
+            "hindu",
+            "om",
+            "religion",
+            "Hindu"
+        ],
+        "codepoints": [
+            "U+1F549",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "om-symbol_1f549.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "2721-fe0f",
+        "emoji": "✡️",
+        "title": "Star of David",
+        "aliases": [
+            "Magen David"
+        ],
+        "shortcodes": [
+            ":star_of_david:"
+        ],
+        "tags": [
+            "david",
+            "jew",
+            "jewish",
+            "religion",
+            "star",
+            "star of david",
+            "David",
+            "Jew",
+            "Jewish",
+            "star of David"
+        ],
+        "codepoints": [
+            "U+2721",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "star-of-david_2721.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "2638-fe0f",
+        "emoji": "☸️",
+        "title": "Wheel of Dharma",
+        "aliases": [
+            "Helm"
+        ],
+        "shortcodes": [
+            ":wheel_of_dharma:"
+        ],
+        "tags": [
+            "buddhist",
+            "dharma",
+            "religion",
+            "wheel",
+            "wheel of dharma",
+            "Buddhist"
+        ],
+        "codepoints": [
+            "U+2638",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "wheel-of-dharma_2638.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "262f-fe0f",
+        "emoji": "☯️",
+        "title": "Yin Yang",
+        "shortcodes": [
+            ":yin_yang:"
+        ],
+        "tags": [
+            "religion",
+            "tao",
+            "taoist",
+            "yang",
+            "yin"
+        ],
+        "codepoints": [
+            "U+262F",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "yin-yang_262f.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "271d-fe0f",
+        "emoji": "✝️",
+        "title": "Latin Cross",
+        "aliases": [
+            "Christian Cross"
+        ],
+        "shortcodes": [
+            ":latin_cross:"
+        ],
+        "tags": [
+            "christian",
+            "cross",
+            "latin cross",
+            "religion",
+            "Christian"
+        ],
+        "codepoints": [
+            "U+271D",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "latin-cross_271d.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "262a-fe0f",
+        "emoji": "☪️",
+        "title": "Star and Crescent",
+        "shortcodes": [
+            ":star_and_crescent:"
+        ],
+        "tags": [
+            "islam",
+            "muslim",
+            "religion",
+            "star and crescent",
+            "Muslim"
+        ],
+        "codepoints": [
+            "U+262A",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "star-and-crescent_262a.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "23ed-fe0f",
+        "emoji": "⏭️",
+        "title": "Next Track Button",
+        "aliases": [
+            "Next Track",
+            "Skip Forward Symbol",
+            "Black Right-Pointing Double Triangle with Vertical Bar"
+        ],
+        "shortcodes": [
+            ":next_track_button:",
+            ":black_right_pointing_double_triangle_with_vertical_bar:"
+        ],
+        "tags": [
+            "arrow",
+            "next scene",
+            "next track",
+            "next track button",
+            "triangle"
+        ],
+        "codepoints": [
+            "U+23ED",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "black-right-pointing-double-triangle-with-vertical-bar_23ed.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "23ee-fe0f",
+        "emoji": "⏮️",
+        "title": "Last Track Button",
+        "aliases": [
+            "Previous Track",
+            "Skip Backward Symbol",
+            "Black Left-Pointing Double Triangle with Vertical Bar"
+        ],
+        "shortcodes": [
+            ":last_track_button:",
+            ":previous_track_button:",
+            ":black_left_pointing_double_triangle_with_vertical_bar:"
+        ],
+        "tags": [
+            "arrow",
+            "last track button",
+            "previous scene",
+            "previous track",
+            "triangle"
+        ],
+        "codepoints": [
+            "U+23EE",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "black-left-pointing-double-triangle-with-vertical-bar_23ee.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "23f8-fe0f",
+        "emoji": "⏸️",
+        "title": "Pause Button",
+        "aliases": [
+            "Pause",
+            "Pause Symbol",
+            "Double Vertical Bar"
+        ],
+        "shortcodes": [
+            ":pause_button:",
+            ":double_vertical_bar:"
+        ],
+        "tags": [
+            "bar",
+            "double",
+            "pause",
+            "pause button",
+            "vertical"
+        ],
+        "codepoints": [
+            "U+23F8",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "double-vertical-bar_23f8.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "23f9-fe0f",
+        "emoji": "⏹️",
+        "title": "Stop Button",
+        "aliases": [
+            "Stop",
+            "Stop Symbol",
+            "Black Square for Stop"
+        ],
+        "shortcodes": [
+            ":stop_button:",
+            ":black_square_for_stop:"
+        ],
+        "tags": [
+            "square",
+            "stop",
+            "stop button"
+        ],
+        "codepoints": [
+            "U+23F9",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "black-square-for-stop_23f9.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "23fa-fe0f",
+        "emoji": "⏺️",
+        "title": "Record Button",
+        "aliases": [
+            "Record",
+            "Record Symbol",
+            "Black Circle for Record"
+        ],
+        "shortcodes": [
+            ":record_button:",
+            ":black_circle_for_record:"
+        ],
+        "tags": [
+            "circle",
+            "record",
+            "record button"
+        ],
+        "codepoints": [
+            "U+23FA",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "black-circle-for-record_23fa.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Flag",
+        "code": "1f3f3-fe0f",
+        "emoji": "🏳️",
+        "title": "White Flag",
+        "aliases": [
+            "Waving White Flag"
+        ],
+        "shortcodes": [
+            ":white_flag:",
+            ":waving_white_flag:"
+        ],
+        "tags": [
+            "waving",
+            "white flag"
+        ],
+        "codepoints": [
+            "U+1F3F3",
+            "U+FE0F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 13.3"
+            ],
+            "folder_id": "237",
+            "file_name": "waving-white-flag_1f3f3.png"
+        }
+    }
+]

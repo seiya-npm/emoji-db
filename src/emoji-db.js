@@ -22,8 +22,8 @@ function initDb({ dbDir, ignoreUnqualified }){
     });
     // sort dbs
     dbFiles.sort((a, b) => {
-        a = !a.match(/nfq|xdd/) ? parseFloat(a) : Infinity;
-        b = !b.match(/nfq|xdd/) ? parseFloat(b) : Infinity;
+        a = !a.match(/nfq|esq|xdd/) ? parseFloat(a) : Infinity;
+        b = !b.match(/nfq|esq|xdd/) ? parseFloat(b) : Infinity;
         return a - b;
     });
     // log
@@ -72,7 +72,7 @@ class EmojiDb {
             this.dbData = initDb({ dbDir: dbDefDir, ignoreUnqualified });
         }
         else if(!useDefaultDb && dbDir){
-            this.dbData = initDb({ dbDir });
+            this.dbData = initDb({ dbDir, ignoreUnqualified });
         }
     }
     searchFromText({ input, fixCodePoints, showData }){
