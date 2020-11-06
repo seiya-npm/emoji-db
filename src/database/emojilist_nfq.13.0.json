@@ -1068,6 +1068,102 @@
         "qualified": "1f473-1f3ff-200d-2640-fe0f"
     },
     {
+        "code": "1f935-200d-2642",
+        "qualified": "1f935-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-1f3fb-200d-2642",
+        "qualified": "1f935-1f3fb-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-1f3fc-200d-2642",
+        "qualified": "1f935-1f3fc-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-1f3fd-200d-2642",
+        "qualified": "1f935-1f3fd-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-1f3fe-200d-2642",
+        "qualified": "1f935-1f3fe-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-1f3ff-200d-2642",
+        "qualified": "1f935-1f3ff-200d-2642-fe0f"
+    },
+    {
+        "code": "1f935-200d-2640",
+        "qualified": "1f935-200d-2640-fe0f"
+    },
+    {
+        "code": "1f935-1f3fb-200d-2640",
+        "qualified": "1f935-1f3fb-200d-2640-fe0f"
+    },
+    {
+        "code": "1f935-1f3fc-200d-2640",
+        "qualified": "1f935-1f3fc-200d-2640-fe0f"
+    },
+    {
+        "code": "1f935-1f3fd-200d-2640",
+        "qualified": "1f935-1f3fd-200d-2640-fe0f"
+    },
+    {
+        "code": "1f935-1f3fe-200d-2640",
+        "qualified": "1f935-1f3fe-200d-2640-fe0f"
+    },
+    {
+        "code": "1f935-1f3ff-200d-2640",
+        "qualified": "1f935-1f3ff-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-200d-2642",
+        "qualified": "1f470-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-1f3fb-200d-2642",
+        "qualified": "1f470-1f3fb-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-1f3fc-200d-2642",
+        "qualified": "1f470-1f3fc-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-1f3fd-200d-2642",
+        "qualified": "1f470-1f3fd-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-1f3fe-200d-2642",
+        "qualified": "1f470-1f3fe-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-1f3ff-200d-2642",
+        "qualified": "1f470-1f3ff-200d-2642-fe0f"
+    },
+    {
+        "code": "1f470-200d-2640",
+        "qualified": "1f470-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-1f3fb-200d-2640",
+        "qualified": "1f470-1f3fb-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-1f3fc-200d-2640",
+        "qualified": "1f470-1f3fc-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-1f3fd-200d-2640",
+        "qualified": "1f470-1f3fd-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-1f3fe-200d-2640",
+        "qualified": "1f470-1f3fe-200d-2640-fe0f"
+    },
+    {
+        "code": "1f470-1f3ff-200d-2640",
+        "qualified": "1f470-1f3ff-200d-2640-fe0f"
+    },
+    {
         "code": "1f9b8-200d-2642",
         "qualified": "1f9b8-200d-2642-fe0f"
     },
@@ -2544,6 +2640,10 @@
         "qualified": "1f43f-fe0f"
     },
     {
+        "code": "1f43b-200d-2744",
+        "qualified": "1f43b-200d-2744-fe0f"
+    },
+    {
         "code": "1f54a",
         "qualified": "1f54a-fe0f"
     },
@@ -3156,6 +3256,10 @@
         "qualified": "2642-fe0f"
     },
     {
+        "code": "26a7",
+        "qualified": "26a7-fe0f"
+    },
+    {
         "code": "2716",
         "qualified": "2716-fe0f"
     },
@@ -3334,6 +3438,18 @@
     {
         "code": "1f3f3-200d-1f308",
         "qualified": "1f3f3-fe0f-200d-1f308"
+    },
+    {
+        "code": "1f3f3-200d-26a7-fe0f",
+        "qualified": "1f3f3-fe0f-200d-26a7-fe0f"
+    },
+    {
+        "code": "1f3f3-fe0f-200d-26a7",
+        "qualified": "1f3f3-fe0f-200d-26a7-fe0f"
+    },
+    {
+        "code": "1f3f3-200d-26a7",
+        "qualified": "1f3f3-fe0f-200d-26a7-fe0f"
     },
     {
         "code": "1f3f4-200d-2620",

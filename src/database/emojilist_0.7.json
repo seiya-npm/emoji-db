@@ -25,9 +25,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "neutral-face_1f610.png"
         }
     },
@@ -58,10 +58,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "white-frowning-face_2639.png"
+            "folder_id": "271",
+            "file_name": "frowning-face_2639-fe0f.png"
         }
     },
     {
@@ -84,10 +84,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "hole_1f573.png"
+            "folder_id": "271",
+            "file_name": "hole_1f573-fe0f.png"
         }
     },
     {
@@ -118,10 +118,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "right-anger-bubble_1f5ef.png"
+            "folder_id": "271",
+            "file_name": "right-anger-bubble_1f5ef-fe0f.png"
         }
     },
     {
@@ -133,7 +133,6 @@
         "aliases": [
             "Five Hand",
             "Splayed Hand",
-            "Raised Hand With Fingers Splayed",
             "Raised Hand with Fingers Splayed"
         ],
         "shortcodes": [
@@ -162,10 +161,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "raised-hand-with-fingers-splayed_1f590.png"
+            "folder_id": "271",
+            "file_name": "hand-with-fingers-splayed_1f590-fe0f.png"
         }
     },
     {
@@ -198,10 +197,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "writing-hand_270d.png"
+            "folder_id": "271",
+            "file_name": "writing-hand_270d-fe0f.png"
         }
     },
     {
@@ -228,10 +227,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "eye_1f441.png"
+            "folder_id": "271",
+            "file_name": "eye_1f441-fe0f.png"
         }
     },
     {
@@ -244,7 +243,6 @@
             "Private Eye",
             "Sleuth",
             "Spy",
-            "Man Sleuth",
             "Sleuth or Spy"
         ],
         "shortcodes": [
@@ -284,10 +282,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "sleuth-or-spy_1f575.png"
+            "folder_id": "271",
+            "file_name": "detective_1f575-fe0f.png"
         }
     },
     {
@@ -329,10 +327,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-in-business-suit-levitating_1f574.png"
+            "folder_id": "271",
+            "file_name": "person-in-suit-levitating_1f574-fe0f.png"
         }
     },
     {
@@ -360,10 +358,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "skier_26f7.png"
+            "folder_id": "271",
+            "file_name": "skier_26f7-fe0f.png"
         }
     },
     {
@@ -375,7 +373,6 @@
         "aliases": [
             "Golf",
             "Golf Club",
-            "Man Golfer",
             "Golfer"
         ],
         "shortcodes": [
@@ -416,10 +413,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "golfer_1f3cc.png"
+            "folder_id": "271",
+            "file_name": "person-golfing_1f3cc-fe0f.png"
         }
     },
     {
@@ -429,7 +426,7 @@
         "emoji": "⛹️",
         "title": "Person Bouncing Ball",
         "aliases": [
-            "Man Basketball Player",
+            "Basketball Player",
             "Person with Ball"
         ],
         "shortcodes": [
@@ -469,10 +466,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "person-with-ball_26f9.png"
+            "folder_id": "271",
+            "file_name": "person-bouncing-ball_26f9-fe0f.png"
         }
     },
     {
@@ -483,7 +480,7 @@
         "title": "Person Lifting Weights",
         "aliases": [
             "Bodybuilder",
-            "Man Weightlifter",
+            "Weightlifter",
             "Weight Lifter"
         ],
         "shortcodes": [
@@ -524,10 +521,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "weight-lifter_1f3cb.png"
+            "folder_id": "271",
+            "file_name": "person-lifting-weights_1f3cb-fe0f.png"
         }
     },
     {
@@ -562,10 +559,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "speaking-head-in-silhouette_1f5e3.png"
+            "folder_id": "271",
+            "file_name": "speaking-head_1f5e3-fe0f.png"
         }
     },
     {
@@ -592,9 +589,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "dog_1f415.png"
         }
     },
@@ -624,9 +621,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "cat_1f408.png"
         }
     },
@@ -654,10 +651,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "chipmunk_1f43f.png"
+            "folder_id": "271",
+            "file_name": "chipmunk_1f43f-fe0f.png"
         }
     },
     {
@@ -687,10 +684,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "dove-of-peace_1f54a.png"
+            "folder_id": "271",
+            "file_name": "dove_1f54a-fe0f.png"
         }
     },
     {
@@ -714,10 +711,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "spider_1f577.png"
+            "folder_id": "271",
+            "file_name": "spider_1f577-fe0f.png"
         }
     },
     {
@@ -749,10 +746,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "spider-web_1f578.png"
+            "folder_id": "271",
+            "file_name": "spider-web_1f578-fe0f.png"
         }
     },
     {
@@ -776,10 +773,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "rosette_1f3f5.png"
+            "folder_id": "271",
+            "file_name": "rosette_1f3f5-fe0f.png"
         }
     },
     {
@@ -807,10 +804,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "hot-pepper_1f336.png"
+            "folder_id": "271",
+            "file_name": "hot-pepper_1f336-fe0f.png"
         }
     },
     {
@@ -820,8 +817,7 @@
         "emoji": "🍽️",
         "title": "Fork and Knife with Plate",
         "aliases": [
-            "Dinner",
-            "Fork and Knife With Plate"
+            "Dinner"
         ],
         "shortcodes": [
             ":knife_fork_plate:",
@@ -843,10 +839,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "fork-and-knife-with-plate_1f37d.png"
+            "folder_id": "271",
+            "file_name": "fork-and-knife-with-plate_1f37d-fe0f.png"
         }
     },
     {
@@ -885,10 +881,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "earth-globe-europe-africa_1f30d.png"
+            "folder_id": "271",
+            "file_name": "globe-showing-europe-africa_1f30d.png"
         }
     },
     {
@@ -924,10 +920,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "earth-globe-americas_1f30e.png"
+            "folder_id": "271",
+            "file_name": "globe-showing-americas_1f30e.png"
         }
     },
     {
@@ -951,10 +947,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "world-map_1f5fa.png"
+            "folder_id": "271",
+            "file_name": "world-map_1f5fa-fe0f.png"
         }
     },
     {
@@ -984,10 +980,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "snow-capped-mountain_1f3d4.png"
+            "folder_id": "271",
+            "file_name": "snow-capped-mountain_1f3d4-fe0f.png"
         }
     },
     {
@@ -1010,10 +1006,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "mountain_26f0.png"
+            "folder_id": "271",
+            "file_name": "mountain_26f0-fe0f.png"
         }
     },
     {
@@ -1039,10 +1035,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "camping_1f3d5.png"
+            "folder_id": "271",
+            "file_name": "camping_1f3d5-fe0f.png"
         }
     },
     {
@@ -1051,9 +1047,6 @@
         "code": "1f3d6-fe0f",
         "emoji": "🏖️",
         "title": "Beach with Umbrella",
-        "aliases": [
-            "Beach With Umbrella"
-        ],
         "shortcodes": [
             ":beach_with_umbrella:",
             ":beach_umbrella:"
@@ -1071,10 +1064,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "beach-with-umbrella_1f3d6.png"
+            "folder_id": "271",
+            "file_name": "beach-with-umbrella_1f3d6-fe0f.png"
         }
     },
     {
@@ -1097,10 +1090,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "desert_1f3dc.png"
+            "folder_id": "271",
+            "file_name": "desert_1f3dc-fe0f.png"
         }
     },
     {
@@ -1124,10 +1117,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "desert-island_1f3dd.png"
+            "folder_id": "271",
+            "file_name": "desert-island_1f3dd-fe0f.png"
         }
     },
     {
@@ -1151,10 +1144,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "national-park_1f3de.png"
+            "folder_id": "271",
+            "file_name": "national-park_1f3de-fe0f.png"
         }
     },
     {
@@ -1181,10 +1174,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "stadium_1f3df.png"
+            "folder_id": "271",
+            "file_name": "stadium_1f3df-fe0f.png"
         }
     },
     {
@@ -1208,10 +1201,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "classical-building_1f3db.png"
+            "folder_id": "271",
+            "file_name": "classical-building_1f3db-fe0f.png"
         }
     },
     {
@@ -1238,10 +1231,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "building-construction_1f3d7.png"
+            "folder_id": "271",
+            "file_name": "building-construction_1f3d7-fe0f.png"
         }
     },
     {
@@ -1269,10 +1262,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "house-buildings_1f3d8.png"
+            "folder_id": "271",
+            "file_name": "houses_1f3d8-fe0f.png"
         }
     },
     {
@@ -1303,10 +1296,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "derelict-house-building_1f3da.png"
+            "folder_id": "271",
+            "file_name": "derelict-house_1f3da-fe0f.png"
         }
     },
     {
@@ -1334,10 +1327,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "shinto-shrine_26e9.png"
+            "folder_id": "271",
+            "file_name": "shinto-shrine_26e9-fe0f.png"
         }
     },
     {
@@ -1361,10 +1354,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "cityscape_1f3d9.png"
+            "folder_id": "271",
+            "file_name": "cityscape_1f3d9-fe0f.png"
         }
     },
     {
@@ -1390,9 +1383,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "oncoming-bus_1f68d.png"
         }
     },
@@ -1421,9 +1414,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "oncoming-police-car_1f694.png"
         }
     },
@@ -1452,9 +1445,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "oncoming-automobile_1f698.png"
         }
     },
@@ -1484,10 +1477,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "racing-car_1f3ce.png"
+            "folder_id": "271",
+            "file_name": "racing-car_1f3ce-fe0f.png"
         }
     },
     {
@@ -1516,10 +1509,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "racing-motorcycle_1f3cd.png"
+            "folder_id": "271",
+            "file_name": "motorcycle_1f3cd-fe0f.png"
         }
     },
     {
@@ -1549,10 +1542,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "motorway_1f6e3.png"
+            "folder_id": "271",
+            "file_name": "motorway_1f6e3-fe0f.png"
         }
     },
     {
@@ -1577,10 +1570,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "railway-track_1f6e4.png"
+            "folder_id": "271",
+            "file_name": "railway-track_1f6e4-fe0f.png"
         }
     },
     {
@@ -1604,10 +1597,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "oil-drum_1f6e2.png"
+            "folder_id": "271",
+            "file_name": "oil-drum_1f6e2-fe0f.png"
         }
     },
     {
@@ -1631,10 +1624,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "passenger-ship_1f6f3.png"
+            "folder_id": "271",
+            "file_name": "passenger-ship_1f6f3-fe0f.png"
         }
     },
     {
@@ -1659,10 +1652,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "ferry_26f4.png"
+            "folder_id": "271",
+            "file_name": "ferry_26f4-fe0f.png"
         }
     },
     {
@@ -1671,6 +1664,9 @@
         "code": "1f6e5-fe0f",
         "emoji": "🛥️",
         "title": "Motor Boat",
+        "aliases": [
+            "Motorboat"
+        ],
         "shortcodes": [
             ":motor_boat:"
         ],
@@ -1687,10 +1683,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "motor-boat_1f6e5.png"
+            "folder_id": "271",
+            "file_name": "motor-boat_1f6e5-fe0f.png"
         }
     },
     {
@@ -1719,10 +1715,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "small-airplane_1f6e9.png"
+            "folder_id": "271",
+            "file_name": "small-airplane_1f6e9-fe0f.png"
         }
     },
     {
@@ -1747,10 +1743,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "satellite_1f6f0.png"
+            "folder_id": "271",
+            "file_name": "satellite_1f6f0-fe0f.png"
         }
     },
     {
@@ -1775,10 +1771,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "bellhop-bell_1f6ce.png"
+            "folder_id": "271",
+            "file_name": "bellhop-bell_1f6ce-fe0f.png"
         }
     },
     {
@@ -1802,10 +1798,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "mantelpiece-clock_1f570.png"
+            "folder_id": "271",
+            "file_name": "mantelpiece-clock_1f570-fe0f.png"
         }
     },
     {
@@ -1836,10 +1832,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-twelve-thirty_1f567.png"
+            "folder_id": "271",
+            "file_name": "twelve-thirty_1f567.png"
         }
     },
     {
@@ -1870,10 +1866,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-one-thirty_1f55c.png"
+            "folder_id": "271",
+            "file_name": "one-thirty_1f55c.png"
         }
     },
     {
@@ -1904,10 +1900,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-two-thirty_1f55d.png"
+            "folder_id": "271",
+            "file_name": "two-thirty_1f55d.png"
         }
     },
     {
@@ -1938,10 +1934,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-three-thirty_1f55e.png"
+            "folder_id": "271",
+            "file_name": "three-thirty_1f55e.png"
         }
     },
     {
@@ -1972,10 +1968,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-four-thirty_1f55f.png"
+            "folder_id": "271",
+            "file_name": "four-thirty_1f55f.png"
         }
     },
     {
@@ -2006,10 +2002,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-five-thirty_1f560.png"
+            "folder_id": "271",
+            "file_name": "five-thirty_1f560.png"
         }
     },
     {
@@ -2040,10 +2036,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-six-thirty_1f561.png"
+            "folder_id": "271",
+            "file_name": "six-thirty_1f561.png"
         }
     },
     {
@@ -2074,10 +2070,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-seven-thirty_1f562.png"
+            "folder_id": "271",
+            "file_name": "seven-thirty_1f562.png"
         }
     },
     {
@@ -2108,10 +2104,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-eight-thirty_1f563.png"
+            "folder_id": "271",
+            "file_name": "eight-thirty_1f563.png"
         }
     },
     {
@@ -2142,10 +2138,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-nine-thirty_1f564.png"
+            "folder_id": "271",
+            "file_name": "nine-thirty_1f564.png"
         }
     },
     {
@@ -2176,10 +2172,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-ten-thirty_1f565.png"
+            "folder_id": "271",
+            "file_name": "ten-thirty_1f565.png"
         }
     },
     {
@@ -2210,10 +2206,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "clock-face-eleven-thirty_1f566.png"
+            "folder_id": "271",
+            "file_name": "eleven-thirty_1f566.png"
         }
     },
     {
@@ -2223,7 +2219,6 @@
         "emoji": "🌜",
         "title": "Last Quarter Moon Face",
         "aliases": [
-            "Last Quarter Moon With Face",
             "Last Quarter Moon with Face"
         ],
         "shortcodes": [
@@ -2243,10 +2238,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "last-quarter-moon-with-face_1f31c.png"
+            "folder_id": "271",
+            "file_name": "last-quarter-moon-face_1f31c.png"
         }
     },
     {
@@ -2274,10 +2269,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "thermometer_1f321.png"
+            "folder_id": "271",
+            "file_name": "thermometer_1f321-fe0f.png"
         }
     },
     {
@@ -2287,7 +2282,6 @@
         "emoji": "⛈️",
         "title": "Cloud with Lightning and Rain",
         "aliases": [
-            "Cloud With Lightning and Rain",
             "Thunder Cloud and Rain"
         ],
         "shortcodes": [
@@ -2308,10 +2302,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "thunder-cloud-and-rain_26c8.png"
+            "folder_id": "271",
+            "file_name": "cloud-with-lightning-and-rain_26c8-fe0f.png"
         }
     },
     {
@@ -2341,10 +2335,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "white-sun-with-small-cloud_1f324.png"
+            "folder_id": "271",
+            "file_name": "sun-behind-small-cloud_1f324-fe0f.png"
         }
     },
     {
@@ -2374,10 +2368,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "white-sun-behind-cloud_1f325.png"
+            "folder_id": "271",
+            "file_name": "sun-behind-large-cloud_1f325-fe0f.png"
         }
     },
     {
@@ -2407,10 +2401,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "white-sun-behind-cloud-with-rain_1f326.png"
+            "folder_id": "271",
+            "file_name": "sun-behind-rain-cloud_1f326-fe0f.png"
         }
     },
     {
@@ -2419,9 +2413,6 @@
         "code": "1f327-fe0f",
         "emoji": "🌧️",
         "title": "Cloud with Rain",
-        "aliases": [
-            "Cloud With Rain"
-        ],
         "shortcodes": [
             ":cloud_with_rain:",
             ":rain_cloud:"
@@ -2439,10 +2430,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "cloud-with-rain_1f327.png"
+            "folder_id": "271",
+            "file_name": "cloud-with-rain_1f327-fe0f.png"
         }
     },
     {
@@ -2451,9 +2442,6 @@
         "code": "1f328-fe0f",
         "emoji": "🌨️",
         "title": "Cloud with Snow",
-        "aliases": [
-            "Cloud With Snow"
-        ],
         "shortcodes": [
             ":cloud_with_snow:",
             ":snow_cloud:"
@@ -2472,10 +2460,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "cloud-with-snow_1f328.png"
+            "folder_id": "271",
+            "file_name": "cloud-with-snow_1f328-fe0f.png"
         }
     },
     {
@@ -2484,9 +2472,6 @@
         "code": "1f329-fe0f",
         "emoji": "🌩️",
         "title": "Cloud with Lightning",
-        "aliases": [
-            "Cloud With Lightning"
-        ],
         "shortcodes": [
             ":lightning:",
             ":cloud_with_lightning:",
@@ -2505,10 +2490,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "cloud-with-lightning_1f329.png"
+            "folder_id": "271",
+            "file_name": "cloud-with-lightning_1f329-fe0f.png"
         }
     },
     {
@@ -2537,10 +2522,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "cloud-with-tornado_1f32a.png"
+            "folder_id": "271",
+            "file_name": "tornado_1f32a-fe0f.png"
         }
     },
     {
@@ -2564,10 +2549,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "fog_1f32b.png"
+            "folder_id": "271",
+            "file_name": "fog_1f32b-fe0f.png"
         }
     },
     {
@@ -2599,10 +2584,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "wind-blowing-face_1f32c.png"
+            "folder_id": "271",
+            "file_name": "wind-face_1f32c-fe0f.png"
         }
     },
     {
@@ -2628,10 +2613,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "umbrella_2602.png"
+            "folder_id": "271",
+            "file_name": "umbrella_2602-fe0f.png"
         }
     },
     {
@@ -2661,10 +2646,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "umbrella-on-ground_26f1.png"
+            "folder_id": "271",
+            "file_name": "umbrella-on-ground_26f1-fe0f.png"
         }
     },
     {
@@ -2675,7 +2660,7 @@
         "title": "Snowman",
         "aliases": [
             "Snowing Snowman",
-            "Snowman With Snowflakes"
+            "Snowman with Snowflakes"
         ],
         "shortcodes": [
             ":snowman:",
@@ -2694,10 +2679,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "snowman_2603.png"
+            "folder_id": "271",
+            "file_name": "snowman_2603-fe0f.png"
         }
     },
     {
@@ -2722,10 +2707,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "reminder-ribbon_1f397.png"
+            "folder_id": "271",
+            "file_name": "reminder-ribbon_1f397-fe0f.png"
         }
     },
     {
@@ -2754,10 +2739,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "admission-tickets_1f39f.png"
+            "folder_id": "271",
+            "file_name": "admission-tickets_1f39f-fe0f.png"
         }
     },
     {
@@ -2789,10 +2774,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "military-medal_1f396.png"
+            "folder_id": "271",
+            "file_name": "military-medal_1f396-fe0f.png"
         }
     },
     {
@@ -2819,10 +2804,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "ice-skate_26f8.png"
+            "folder_id": "271",
+            "file_name": "ice-skate_26f8-fe0f.png"
         }
     },
     {
@@ -2847,10 +2832,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "joystick_1f579.png"
+            "folder_id": "271",
+            "file_name": "joystick_1f579-fe0f.png"
         }
     },
     {
@@ -2862,7 +2847,6 @@
         "aliases": [
             "Painting",
             "Picture Frame",
-            "Frame With Picture",
             "Frame with Picture"
         ],
         "shortcodes": [
@@ -2885,10 +2869,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "frame-with-picture_1f5bc.png"
+            "folder_id": "271",
+            "file_name": "framed-picture_1f5bc-fe0f.png"
         }
     },
     {
@@ -2919,10 +2903,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "dark-sunglasses_1f576.png"
+            "folder_id": "271",
+            "file_name": "sunglasses_1f576-fe0f.png"
         }
     },
     {
@@ -2949,10 +2933,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "shopping-bags_1f6cd.png"
+            "folder_id": "271",
+            "file_name": "shopping-bags_1f6cd-fe0f.png"
         }
     },
     {
@@ -2962,7 +2946,6 @@
         "emoji": "⛑️",
         "title": "Rescue Worker’s Helmet",
         "aliases": [
-            "Helmet With White Cross",
             "Helmet with White Cross"
         ],
         "shortcodes": [
@@ -2989,10 +2972,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "helmet-with-white-cross_26d1.png"
+            "folder_id": "271",
+            "file_name": "rescue-workers-helmet_26d1-fe0f.png"
         }
     },
     {
@@ -3020,10 +3003,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "speaker_1f508.png"
+            "folder_id": "271",
+            "file_name": "speaker-low-volume_1f508.png"
         }
     },
     {
@@ -3049,10 +3032,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "studio-microphone_1f399.png"
+            "folder_id": "271",
+            "file_name": "studio-microphone_1f399-fe0f.png"
         }
     },
     {
@@ -3077,10 +3060,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "level-slider_1f39a.png"
+            "folder_id": "271",
+            "file_name": "level-slider_1f39a-fe0f.png"
         }
     },
     {
@@ -3105,10 +3088,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "control-knobs_1f39b.png"
+            "folder_id": "271",
+            "file_name": "control-knobs_1f39b-fe0f.png"
         }
     },
     {
@@ -3135,10 +3118,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "desktop-computer_1f5a5.png"
+            "folder_id": "271",
+            "file_name": "desktop-computer_1f5a5-fe0f.png"
         }
     },
     {
@@ -3162,10 +3145,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "printer_1f5a8.png"
+            "folder_id": "271",
+            "file_name": "printer_1f5a8-fe0f.png"
         }
     },
     {
@@ -3193,10 +3176,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "three-button-mouse_1f5b1.png"
+            "folder_id": "271",
+            "file_name": "computer-mouse_1f5b1-fe0f.png"
         }
     },
     {
@@ -3220,10 +3203,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "trackball_1f5b2.png"
+            "folder_id": "271",
+            "file_name": "trackball_1f5b2-fe0f.png"
         }
     },
     {
@@ -3250,10 +3233,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "film-frames_1f39e.png"
+            "folder_id": "271",
+            "file_name": "film-frames_1f39e-fe0f.png"
         }
     },
     {
@@ -3280,10 +3263,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "film-projector_1f4fd.png"
+            "folder_id": "271",
+            "file_name": "film-projector_1f4fd-fe0f.png"
         }
     },
     {
@@ -3307,10 +3290,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "candle_1f56f.png"
+            "folder_id": "271",
+            "file_name": "candle_1f56f-fe0f.png"
         }
     },
     {
@@ -3341,10 +3324,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "rolled-up-newspaper_1f5de.png"
+            "folder_id": "271",
+            "file_name": "rolled-up-newspaper_1f5de-fe0f.png"
         }
     },
     {
@@ -3370,10 +3353,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "label_1f3f7.png"
+            "folder_id": "271",
+            "file_name": "label_1f3f7-fe0f.png"
         }
     },
     {
@@ -3383,8 +3366,7 @@
         "emoji": "📬",
         "title": "Open Mailbox with Raised Flag",
         "aliases": [
-            "Open Mailbox",
-            "Open Mailbox With Raised Flag"
+            "Open Mailbox"
         ],
         "shortcodes": [
             ":mailbox_with_mail:",
@@ -3404,9 +3386,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "open-mailbox-with-raised-flag_1f4ec.png"
         }
     },
@@ -3416,9 +3398,6 @@
         "code": "1f4ed",
         "emoji": "📭",
         "title": "Open Mailbox with Lowered Flag",
-        "aliases": [
-            "Open Mailbox With Lowered Flag"
-        ],
         "shortcodes": [
             ":mailbox_with_no_mail:",
             ":open_mailbox_with_lowered_flag:"
@@ -3438,9 +3417,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "open-mailbox-with-lowered-flag_1f4ed.png"
         }
     },
@@ -3452,8 +3431,7 @@
         "title": "Ballot Box with Ballot",
         "aliases": [
             "Vote Box",
-            "Voting",
-            "Ballot Box With Ballot"
+            "Voting"
         ],
         "shortcodes": [
             ":ballot_box:",
@@ -3472,10 +3450,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "ballot-box-with-ballot_1f5f3.png"
+            "folder_id": "271",
+            "file_name": "ballot-box-with-ballot_1f5f3-fe0f.png"
         }
     },
     {
@@ -3503,10 +3481,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "lower-left-fountain-pen_1f58b.png"
+            "folder_id": "271",
+            "file_name": "fountain-pen_1f58b-fe0f.png"
         }
     },
     {
@@ -3535,10 +3513,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "lower-left-ballpoint-pen_1f58a.png"
+            "folder_id": "271",
+            "file_name": "pen_1f58a-fe0f.png"
         }
     },
     {
@@ -3567,10 +3545,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "lower-left-paintbrush_1f58c.png"
+            "folder_id": "271",
+            "file_name": "paintbrush_1f58c-fe0f.png"
         }
     },
     {
@@ -3597,10 +3575,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "lower-left-crayon_1f58d.png"
+            "folder_id": "271",
+            "file_name": "crayon_1f58d-fe0f.png"
         }
     },
     {
@@ -3625,10 +3603,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "card-index-dividers_1f5c2.png"
+            "folder_id": "271",
+            "file_name": "card-index-dividers_1f5c2-fe0f.png"
         }
     },
     {
@@ -3658,10 +3636,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "spiral-note-pad_1f5d2.png"
+            "folder_id": "271",
+            "file_name": "spiral-notepad_1f5d2-fe0f.png"
         }
     },
     {
@@ -3690,10 +3668,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "spiral-calendar-pad_1f5d3.png"
+            "folder_id": "271",
+            "file_name": "spiral-calendar_1f5d3-fe0f.png"
         }
     },
     {
@@ -3719,10 +3697,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "linked-paperclips_1f587.png"
+            "folder_id": "271",
+            "file_name": "linked-paperclips_1f587-fe0f.png"
         }
     },
     {
@@ -3747,10 +3725,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "card-file-box_1f5c3.png"
+            "folder_id": "271",
+            "file_name": "card-file-box_1f5c3-fe0f.png"
         }
     },
     {
@@ -3778,10 +3756,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "file-cabinet_1f5c4.png"
+            "folder_id": "271",
+            "file_name": "file-cabinet_1f5c4-fe0f.png"
         }
     },
     {
@@ -3810,10 +3788,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "wastebasket_1f5d1.png"
+            "folder_id": "271",
+            "file_name": "wastebasket_1f5d1-fe0f.png"
         }
     },
     {
@@ -3839,10 +3817,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "old-key_1f5dd.png"
+            "folder_id": "271",
+            "file_name": "old-key_1f5dd-fe0f.png"
         }
     },
     {
@@ -3870,10 +3848,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "pick_26cf.png"
+            "folder_id": "271",
+            "file_name": "pick_26cf-fe0f.png"
         }
     },
     {
@@ -3900,10 +3878,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "hammer-and-wrench_1f6e0.png"
+            "folder_id": "271",
+            "file_name": "hammer-and-wrench_1f6e0-fe0f.png"
         }
     },
     {
@@ -3933,10 +3911,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "dagger-knife_1f5e1.png"
+            "folder_id": "271",
+            "file_name": "dagger_1f5e1-fe0f.png"
         }
     },
     {
@@ -3960,10 +3938,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "shield_1f6e1.png"
+            "folder_id": "271",
+            "file_name": "shield_1f6e1-fe0f.png"
         }
     },
     {
@@ -3995,10 +3973,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "compression_1f5dc.png"
+            "folder_id": "271",
+            "file_name": "clamp_1f5dc-fe0f.png"
         }
     },
     {
@@ -4022,10 +4000,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "chains_26d3.png"
+            "folder_id": "271",
+            "file_name": "chains_26d3-fe0f.png"
         }
     },
     {
@@ -4053,10 +4031,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "bed_1f6cf.png"
+            "folder_id": "271",
+            "file_name": "bed_1f6cf-fe0f.png"
         }
     },
     {
@@ -4087,10 +4065,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "couch-and-lamp_1f6cb.png"
+            "folder_id": "271",
+            "file_name": "couch-and-lamp_1f6cb-fe0f.png"
         }
     },
     {
@@ -4123,10 +4101,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "om-symbol_1f549.png"
+            "folder_id": "271",
+            "file_name": "om_1f549-fe0f.png"
         }
     },
     {
@@ -4161,10 +4139,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "star-of-david_2721.png"
+            "folder_id": "271",
+            "file_name": "star-of-david_2721-fe0f.png"
         }
     },
     {
@@ -4195,10 +4173,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "wheel-of-dharma_2638.png"
+            "folder_id": "271",
+            "file_name": "wheel-of-dharma_2638-fe0f.png"
         }
     },
     {
@@ -4225,10 +4203,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "yin-yang_262f.png"
+            "folder_id": "271",
+            "file_name": "yin-yang_262f-fe0f.png"
         }
     },
     {
@@ -4258,10 +4236,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "latin-cross_271d.png"
+            "folder_id": "271",
+            "file_name": "latin-cross_271d-fe0f.png"
         }
     },
     {
@@ -4288,10 +4266,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "star-and-crescent_262a.png"
+            "folder_id": "271",
+            "file_name": "star-and-crescent_262a-fe0f.png"
         }
     },
     {
@@ -4324,10 +4302,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "black-right-pointing-double-triangle-with-vertical-bar_23ed.png"
+            "folder_id": "271",
+            "file_name": "next-track-button_23ed-fe0f.png"
         }
     },
     {
@@ -4361,10 +4339,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "black-left-pointing-double-triangle-with-vertical-bar_23ee.png"
+            "folder_id": "271",
+            "file_name": "last-track-button_23ee-fe0f.png"
         }
     },
     {
@@ -4397,10 +4375,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "double-vertical-bar_23f8.png"
+            "folder_id": "271",
+            "file_name": "pause-button_23f8-fe0f.png"
         }
     },
     {
@@ -4431,10 +4409,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "black-square-for-stop_23f9.png"
+            "folder_id": "271",
+            "file_name": "stop-button_23f9-fe0f.png"
         }
     },
     {
@@ -4465,10 +4443,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "black-circle-for-record_23fa.png"
+            "folder_id": "271",
+            "file_name": "record-button_23fa-fe0f.png"
         }
     },
     {
@@ -4496,10 +4474,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "waving-white-flag_1f3f3.png"
+            "folder_id": "271",
+            "file_name": "white-flag_1f3f3-fe0f.png"
         }
     }
 ]

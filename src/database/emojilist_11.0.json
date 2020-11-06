@@ -7,7 +7,6 @@
         "title": "Smiling Face with Hearts",
         "aliases": [
             "In Love Face",
-            "Smiling Face With Hearts",
             "Smiling Face with Smiling Eyes and Three Hearts"
         ],
         "shortcodes": [
@@ -29,10 +28,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "smiling-face-with-smiling-eyes-and-three-hearts_1f970.png"
+            "folder_id": "271",
+            "file_name": "smiling-face-with-hearts_1f970.png"
         }
     },
     {
@@ -62,10 +61,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "overheated-face_1f975.png"
+            "folder_id": "271",
+            "file_name": "hot-face_1f975.png"
         }
     },
     {
@@ -95,10 +94,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "freezing-face_1f976.png"
+            "folder_id": "271",
+            "file_name": "cold-face_1f976.png"
         }
     },
     {
@@ -129,10 +128,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "face-with-uneven-eyes-and-wavy-mouth_1f974.png"
+            "folder_id": "271",
+            "file_name": "woozy-face_1f974.png"
         }
     },
     {
@@ -162,10 +161,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "face-with-party-horn-and-party-hat_1f973.png"
+            "folder_id": "271",
+            "file_name": "partying-face_1f973.png"
         }
     },
     {
@@ -196,10 +195,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "face-with-pleading-eyes_1f97a.png"
+            "folder_id": "271",
+            "file_name": "pleading-face_1f97a.png"
         }
     },
     {
@@ -231,9 +230,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "leg_1f9b5.png"
         }
     },
@@ -269,10 +268,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "leg_emoji-modifier-fitzpatrick-type-1-2_1f9b5-1f3fb_1f3fb.png"
+            "folder_id": "271",
+            "file_name": "leg_light-skin-tone_1f9b5-1f3fb_1f3fb.png"
         }
     },
     {
@@ -307,10 +306,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "leg_emoji-modifier-fitzpatrick-type-3_1f9b5-1f3fc_1f3fc.png"
+            "folder_id": "271",
+            "file_name": "leg_medium-light-skin-tone_1f9b5-1f3fc_1f3fc.png"
         }
     },
     {
@@ -345,10 +344,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "leg_emoji-modifier-fitzpatrick-type-4_1f9b5-1f3fd_1f3fd.png"
+            "folder_id": "271",
+            "file_name": "leg_medium-skin-tone_1f9b5-1f3fd_1f3fd.png"
         }
     },
     {
@@ -383,10 +382,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "leg_emoji-modifier-fitzpatrick-type-5_1f9b5-1f3fe_1f3fe.png"
+            "folder_id": "271",
+            "file_name": "leg_medium-dark-skin-tone_1f9b5-1f3fe_1f3fe.png"
         }
     },
     {
@@ -421,10 +420,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "leg_emoji-modifier-fitzpatrick-type-6_1f9b5-1f3ff_1f3ff.png"
+            "folder_id": "271",
+            "file_name": "leg_dark-skin-tone_1f9b5-1f3ff_1f3ff.png"
         }
     },
     {
@@ -456,9 +455,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "foot_1f9b6.png"
         }
     },
@@ -494,10 +493,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "foot_emoji-modifier-fitzpatrick-type-1-2_1f9b6-1f3fb_1f3fb.png"
+            "folder_id": "271",
+            "file_name": "foot_light-skin-tone_1f9b6-1f3fb_1f3fb.png"
         }
     },
     {
@@ -532,10 +531,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "foot_emoji-modifier-fitzpatrick-type-3_1f9b6-1f3fc_1f3fc.png"
+            "folder_id": "271",
+            "file_name": "foot_medium-light-skin-tone_1f9b6-1f3fc_1f3fc.png"
         }
     },
     {
@@ -570,10 +569,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "foot_emoji-modifier-fitzpatrick-type-4_1f9b6-1f3fd_1f3fd.png"
+            "folder_id": "271",
+            "file_name": "foot_medium-skin-tone_1f9b6-1f3fd_1f3fd.png"
         }
     },
     {
@@ -608,10 +607,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "foot_emoji-modifier-fitzpatrick-type-5_1f9b6-1f3fe_1f3fe.png"
+            "folder_id": "271",
+            "file_name": "foot_medium-dark-skin-tone_1f9b6-1f3fe_1f3fe.png"
         }
     },
     {
@@ -646,10 +645,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "foot_emoji-modifier-fitzpatrick-type-6_1f9b6-1f3ff_1f3ff.png"
+            "folder_id": "271",
+            "file_name": "foot_dark-skin-tone_1f9b6-1f3ff_1f3ff.png"
         }
     },
     {
@@ -672,9 +671,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "tooth_1f9b7.png"
         }
     },
@@ -698,9 +697,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "bone_1f9b4.png"
         }
     },
@@ -713,7 +712,7 @@
         "aliases": [
             "Ginger Man",
             "Man Redhead",
-            "Man With Red Hair"
+            "Man with Red Hair"
         ],
         "shortcodes": [
             ":red_haired_man:",
@@ -753,10 +752,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired_1f468-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-red-hair_1f468-200d-1f9b0.png"
         }
     },
     {
@@ -805,10 +804,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired-light-skin-tone_1f468-1f3fb-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-light-skin-tone-red-hair_1f468-1f3fb-200d-1f9b0.png"
         }
     },
     {
@@ -857,10 +856,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-medium-light-skin-tone-red-hair_1f468-1f3fc-200d-1f9b0.png"
         }
     },
     {
@@ -909,10 +908,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-medium-skin-tone-red-hair_1f468-1f3fd-200d-1f9b0.png"
         }
     },
     {
@@ -961,10 +960,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-medium-dark-skin-tone-red-hair_1f468-1f3fe-200d-1f9b0.png"
         }
     },
     {
@@ -1013,10 +1012,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-red-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "man-dark-skin-tone-red-hair_1f468-1f3ff-200d-1f9b0.png"
         }
     },
     {
@@ -1026,7 +1025,7 @@
         "emoji": "👨‍🦱",
         "title": "Man: Curly Hair",
         "aliases": [
-            "Man With Curly Hair"
+            "Man with Curly Hair"
         ],
         "shortcodes": [
             ":curly_haired_man:",
@@ -1066,10 +1065,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired_1f468-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-curly-hair_1f468-200d-1f9b1.png"
         }
     },
     {
@@ -1118,10 +1117,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired-light-skin-tone_1f468-1f3fb-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-light-skin-tone-curly-hair_1f468-1f3fb-200d-1f9b1.png"
         }
     },
     {
@@ -1170,10 +1169,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-medium-light-skin-tone-curly-hair_1f468-1f3fc-200d-1f9b1.png"
         }
     },
     {
@@ -1222,10 +1221,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-medium-skin-tone-curly-hair_1f468-1f3fd-200d-1f9b1.png"
         }
     },
     {
@@ -1274,10 +1273,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-medium-dark-skin-tone-curly-hair_1f468-1f3fe-200d-1f9b1.png"
         }
     },
     {
@@ -1326,10 +1325,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-curly-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "man-dark-skin-tone-curly-hair_1f468-1f3ff-200d-1f9b1.png"
         }
     },
     {
@@ -1339,7 +1338,7 @@
         "emoji": "👨‍🦳",
         "title": "Man: White Hair",
         "aliases": [
-            "Man With Gray Hair"
+            "Man with White Hair"
         ],
         "shortcodes": [
             ":white_haired_man:",
@@ -1379,10 +1378,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired_1f468-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-white-hair_1f468-200d-1f9b3.png"
         }
     },
     {
@@ -1431,10 +1430,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired-light-skin-tone_1f468-1f3fb-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-light-skin-tone-white-hair_1f468-1f3fb-200d-1f9b3.png"
         }
     },
     {
@@ -1483,10 +1482,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired-medium-light-skin-tone_1f468-1f3fc-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-medium-light-skin-tone-white-hair_1f468-1f3fc-200d-1f9b3.png"
         }
     },
     {
@@ -1535,10 +1534,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired-medium-skin-tone_1f468-1f3fd-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-medium-skin-tone-white-hair_1f468-1f3fd-200d-1f9b3.png"
         }
     },
     {
@@ -1587,10 +1586,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-medium-dark-skin-tone-white-hair_1f468-1f3fe-200d-1f9b3.png"
         }
     },
     {
@@ -1639,10 +1638,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-white-haired-dark-skin-tone_1f468-1f3ff-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "man-dark-skin-tone-white-hair_1f468-1f3ff-200d-1f9b3.png"
         }
     },
     {
@@ -1652,7 +1651,7 @@
         "emoji": "👨‍🦲",
         "title": "Man: Bald",
         "aliases": [
-            "Man With No Hair"
+            "Man with No Hair"
         ],
         "shortcodes": [
             ":bald_man:",
@@ -1692,9 +1691,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-bald_1f468-200d-1f9b2.png"
         }
     },
@@ -1744,10 +1743,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-bald-light-skin-tone_1f468-1f3fb-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "man-light-skin-tone-bald_1f468-1f3fb-200d-1f9b2.png"
         }
     },
     {
@@ -1796,10 +1795,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-bald-medium-light-skin-tone_1f468-1f3fc-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "man-medium-light-skin-tone-bald_1f468-1f3fc-200d-1f9b2.png"
         }
     },
     {
@@ -1848,10 +1847,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-bald-medium-skin-tone_1f468-1f3fd-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "man-medium-skin-tone-bald_1f468-1f3fd-200d-1f9b2.png"
         }
     },
     {
@@ -1900,10 +1899,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-bald-medium-dark-skin-tone_1f468-1f3fe-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "man-medium-dark-skin-tone-bald_1f468-1f3fe-200d-1f9b2.png"
         }
     },
     {
@@ -1952,10 +1951,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "man-bald-dark-skin-tone_1f468-1f3ff-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "man-dark-skin-tone-bald_1f468-1f3ff-200d-1f9b2.png"
         }
     },
     {
@@ -1967,7 +1966,7 @@
         "aliases": [
             "Ginger Woman",
             "Woman Redhead",
-            "Woman With Red Hair"
+            "Woman with Red Hair"
         ],
         "shortcodes": [
             ":red_haired_woman:",
@@ -2007,10 +2006,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired_1f469-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-red-hair_1f469-200d-1f9b0.png"
         }
     },
     {
@@ -2059,10 +2058,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired-light-skin-tone_1f469-1f3fb-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-light-skin-tone-red-hair_1f469-1f3fb-200d-1f9b0.png"
         }
     },
     {
@@ -2111,10 +2110,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-light-skin-tone-red-hair_1f469-1f3fc-200d-1f9b0.png"
         }
     },
     {
@@ -2163,10 +2162,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-skin-tone-red-hair_1f469-1f3fd-200d-1f9b0.png"
         }
     },
     {
@@ -2215,10 +2214,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-dark-skin-tone-red-hair_1f469-1f3fe-200d-1f9b0.png"
         }
     },
     {
@@ -2267,10 +2266,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-red-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b0.png"
+            "folder_id": "271",
+            "file_name": "woman-dark-skin-tone-red-hair_1f469-1f3ff-200d-1f9b0.png"
         }
     },
     {
@@ -2280,7 +2279,7 @@
         "emoji": "👩‍🦱",
         "title": "Woman: Curly Hair",
         "aliases": [
-            "Woman With Curly Hair"
+            "Woman with Curly Hair"
         ],
         "shortcodes": [
             ":curly_haired_woman:",
@@ -2320,10 +2319,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired_1f469-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-curly-hair_1f469-200d-1f9b1.png"
         }
     },
     {
@@ -2372,10 +2371,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired-light-skin-tone_1f469-1f3fb-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-light-skin-tone-curly-hair_1f469-1f3fb-200d-1f9b1.png"
         }
     },
     {
@@ -2424,10 +2423,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-light-skin-tone-curly-hair_1f469-1f3fc-200d-1f9b1.png"
         }
     },
     {
@@ -2476,10 +2475,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-skin-tone-curly-hair_1f469-1f3fd-200d-1f9b1.png"
         }
     },
     {
@@ -2528,10 +2527,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-dark-skin-tone-curly-hair_1f469-1f3fe-200d-1f9b1.png"
         }
     },
     {
@@ -2580,10 +2579,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-curly-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b1.png"
+            "folder_id": "271",
+            "file_name": "woman-dark-skin-tone-curly-hair_1f469-1f3ff-200d-1f9b1.png"
         }
     },
     {
@@ -2593,7 +2592,7 @@
         "emoji": "👩‍🦳",
         "title": "Woman: White Hair",
         "aliases": [
-            "Woman With Gray Hair"
+            "Woman with White Hair"
         ],
         "shortcodes": [
             ":white_haired_woman:",
@@ -2633,10 +2632,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired_1f469-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-white-hair_1f469-200d-1f9b3.png"
         }
     },
     {
@@ -2685,10 +2684,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired-light-skin-tone_1f469-1f3fb-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-light-skin-tone-white-hair_1f469-1f3fb-200d-1f9b3.png"
         }
     },
     {
@@ -2737,10 +2736,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired-medium-light-skin-tone_1f469-1f3fc-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-light-skin-tone-white-hair_1f469-1f3fc-200d-1f9b3.png"
         }
     },
     {
@@ -2789,10 +2788,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired-medium-skin-tone_1f469-1f3fd-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-skin-tone-white-hair_1f469-1f3fd-200d-1f9b3.png"
         }
     },
     {
@@ -2841,10 +2840,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-dark-skin-tone-white-hair_1f469-1f3fe-200d-1f9b3.png"
         }
     },
     {
@@ -2893,10 +2892,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-white-haired-dark-skin-tone_1f469-1f3ff-200d-1f9b3.png"
+            "folder_id": "271",
+            "file_name": "woman-dark-skin-tone-white-hair_1f469-1f3ff-200d-1f9b3.png"
         }
     },
     {
@@ -2906,7 +2905,7 @@
         "emoji": "👩‍🦲",
         "title": "Woman: Bald",
         "aliases": [
-            "Woman With No Hair"
+            "Woman with No Hair"
         ],
         "shortcodes": [
             ":bald_woman:",
@@ -2946,9 +2945,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-bald_1f469-200d-1f9b2.png"
         }
     },
@@ -2998,10 +2997,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-bald-light-skin-tone_1f469-1f3fb-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "woman-light-skin-tone-bald_1f469-1f3fb-200d-1f9b2.png"
         }
     },
     {
@@ -3050,10 +3049,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-bald-medium-light-skin-tone_1f469-1f3fc-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-light-skin-tone-bald_1f469-1f3fc-200d-1f9b2.png"
         }
     },
     {
@@ -3102,10 +3101,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-bald-medium-skin-tone_1f469-1f3fd-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-skin-tone-bald_1f469-1f3fd-200d-1f9b2.png"
         }
     },
     {
@@ -3154,10 +3153,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-bald-medium-dark-skin-tone_1f469-1f3fe-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "woman-medium-dark-skin-tone-bald_1f469-1f3fe-200d-1f9b2.png"
         }
     },
     {
@@ -3206,10 +3205,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "woman-bald-dark-skin-tone_1f469-1f3ff-200d-1f9b2.png"
+            "folder_id": "271",
+            "file_name": "woman-dark-skin-tone-bald_1f469-1f3ff-200d-1f9b2.png"
         }
     },
     {
@@ -3255,9 +3254,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "superhero_1f9b8.png"
         }
     },
@@ -3307,10 +3306,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "superhero_emoji-modifier-fitzpatrick-type-1-2_1f9b8-1f3fb_1f3fb.png"
+            "folder_id": "271",
+            "file_name": "superhero_light-skin-tone_1f9b8-1f3fb_1f3fb.png"
         }
     },
     {
@@ -3359,10 +3358,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "superhero_emoji-modifier-fitzpatrick-type-3_1f9b8-1f3fc_1f3fc.png"
+            "folder_id": "271",
+            "file_name": "superhero_medium-light-skin-tone_1f9b8-1f3fc_1f3fc.png"
         }
     },
     {
@@ -3411,10 +3410,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "superhero_emoji-modifier-fitzpatrick-type-4_1f9b8-1f3fd_1f3fd.png"
+            "folder_id": "271",
+            "file_name": "superhero_medium-skin-tone_1f9b8-1f3fd_1f3fd.png"
         }
     },
     {
@@ -3463,10 +3462,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "superhero_emoji-modifier-fitzpatrick-type-5_1f9b8-1f3fe_1f3fe.png"
+            "folder_id": "271",
+            "file_name": "superhero_medium-dark-skin-tone_1f9b8-1f3fe_1f3fe.png"
         }
     },
     {
@@ -3515,10 +3514,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "superhero_emoji-modifier-fitzpatrick-type-6_1f9b8-1f3ff_1f3ff.png"
+            "folder_id": "271",
+            "file_name": "superhero_dark-skin-tone_1f9b8-1f3ff_1f3ff.png"
         }
     },
     {
@@ -3569,9 +3568,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero_1f9b8-200d-2642-fe0f.png"
         }
     },
@@ -3624,9 +3623,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero-light-skin-tone_1f9b8-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -3679,9 +3678,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -3734,9 +3733,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -3789,9 +3788,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -3844,9 +3843,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -3899,9 +3898,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero_1f9b8-200d-2640-fe0f.png"
         }
     },
@@ -3955,9 +3954,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero-light-skin-tone_1f9b8-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -4011,9 +4010,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero-medium-light-skin-tone_1f9b8-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -4067,9 +4066,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero-medium-skin-tone_1f9b8-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -4123,9 +4122,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero-medium-dark-skin-tone_1f9b8-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -4179,9 +4178,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-superhero-dark-skin-tone_1f9b8-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -4228,9 +4227,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "supervillain_1f9b9.png"
         }
     },
@@ -4280,10 +4279,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "supervillain_emoji-modifier-fitzpatrick-type-1-2_1f9b9-1f3fb_1f3fb.png"
+            "folder_id": "271",
+            "file_name": "supervillain_light-skin-tone_1f9b9-1f3fb_1f3fb.png"
         }
     },
     {
@@ -4332,10 +4331,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "supervillain_emoji-modifier-fitzpatrick-type-3_1f9b9-1f3fc_1f3fc.png"
+            "folder_id": "271",
+            "file_name": "supervillain_medium-light-skin-tone_1f9b9-1f3fc_1f3fc.png"
         }
     },
     {
@@ -4384,10 +4383,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "supervillain_emoji-modifier-fitzpatrick-type-4_1f9b9-1f3fd_1f3fd.png"
+            "folder_id": "271",
+            "file_name": "supervillain_medium-skin-tone_1f9b9-1f3fd_1f3fd.png"
         }
     },
     {
@@ -4436,10 +4435,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "supervillain_emoji-modifier-fitzpatrick-type-5_1f9b9-1f3fe_1f3fe.png"
+            "folder_id": "271",
+            "file_name": "supervillain_medium-dark-skin-tone_1f9b9-1f3fe_1f3fe.png"
         }
     },
     {
@@ -4488,10 +4487,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "supervillain_emoji-modifier-fitzpatrick-type-6_1f9b9-1f3ff_1f3ff.png"
+            "folder_id": "271",
+            "file_name": "supervillain_dark-skin-tone_1f9b9-1f3ff_1f3ff.png"
         }
     },
     {
@@ -4543,9 +4542,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain_1f9b9-200d-2642-fe0f.png"
         }
     },
@@ -4599,9 +4598,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -4655,9 +4654,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -4711,9 +4710,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -4767,9 +4766,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -4823,9 +4822,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "man-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -4878,9 +4877,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain_1f9b9-200d-2640-fe0f.png"
         }
     },
@@ -4934,9 +4933,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain-light-skin-tone_1f9b9-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -4990,9 +4989,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain-medium-light-skin-tone_1f9b9-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -5046,9 +5045,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain-medium-skin-tone_1f9b9-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -5102,9 +5101,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain-medium-dark-skin-tone_1f9b9-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -5158,9 +5157,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "woman-supervillain-dark-skin-tone_1f9b9-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -5185,9 +5184,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "raccoon_1f99d.png"
         }
     },
@@ -5217,9 +5216,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "llama_1f999.png"
         }
     },
@@ -5246,9 +5245,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "hippopotamus_1f99b.png"
         }
     },
@@ -5279,9 +5278,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "kangaroo_1f998.png"
         }
     },
@@ -5306,9 +5305,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "badger_1f9a1.png"
         }
     },
@@ -5334,9 +5333,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "swan_1f9a2.png"
         }
     },
@@ -5363,9 +5362,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "peacock_1f99a.png"
         }
     },
@@ -5391,9 +5390,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "parrot_1f99c.png"
         }
     },
@@ -5421,9 +5420,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "mosquito_1f99f.png"
         }
     },
@@ -5457,9 +5456,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "microbe_1f9a0.png"
         }
     },
@@ -5484,9 +5483,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "mango_1f96d.png"
         }
     },
@@ -5520,9 +5519,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "leafy-green_1f96c.png"
         }
     },
@@ -5548,9 +5547,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "bagel_1f96f.png"
         }
     },
@@ -5578,10 +5577,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "salt-shaker_1f9c2.png"
+            "folder_id": "271",
+            "file_name": "salt_1f9c2.png"
         }
     },
     {
@@ -5609,9 +5608,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "moon-cake_1f96e.png"
         }
     },
@@ -5637,9 +5636,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "lobster_1f99e.png"
         }
     },
@@ -5667,9 +5666,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "cupcake_1f9c1.png"
         }
     },
@@ -5695,9 +5694,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "compass_1f9ed.png"
         }
     },
@@ -5728,9 +5727,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "brick_1f9f1.png"
         }
     },
@@ -5754,9 +5753,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "skateboard_1f6f9.png"
         }
     },
@@ -5784,9 +5783,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "luggage_1f9f3.png"
         }
     },
@@ -5815,9 +5814,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "firecracker_1f9e8.png"
         }
     },
@@ -5852,10 +5851,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "red-gift-envelope_1f9e7.png"
+            "folder_id": "271",
+            "file_name": "red-envelope_1f9e7.png"
         }
     },
     {
@@ -5880,9 +5879,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "softball_1f94e.png"
         }
     },
@@ -5906,9 +5905,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "flying-disc_1f94f.png"
         }
     },
@@ -5937,10 +5936,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "lacrosse-stick-and-ball_1f94d.png"
+            "folder_id": "271",
+            "file_name": "lacrosse_1f94d.png"
         }
     },
     {
@@ -5971,9 +5970,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "nazar-amulet_1f9ff.png"
         }
     },
@@ -6004,10 +6003,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "jigsaw-puzzle-piece_1f9e9.png"
+            "folder_id": "271",
+            "file_name": "puzzle-piece_1f9e9.png"
         }
     },
     {
@@ -6036,9 +6035,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "teddy-bear_1f9f8.png"
         }
     },
@@ -6068,10 +6067,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "black-chess-pawn_265f.png"
+            "folder_id": "271",
+            "file_name": "chess-pawn_265f-fe0f.png"
         }
     },
     {
@@ -6100,10 +6099,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "spool-of-thread_1f9f5.png"
+            "folder_id": "271",
+            "file_name": "thread_1f9f5.png"
         }
     },
     {
@@ -6131,10 +6130,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "ball-of-yarn_1f9f6.png"
+            "folder_id": "271",
+            "file_name": "yarn_1f9f6.png"
         }
     },
     {
@@ -6159,9 +6158,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "goggles_1f97d.png"
         }
     },
@@ -6187,9 +6186,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "lab-coat_1f97c.png"
         }
     },
@@ -6215,9 +6214,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "hiking-boot_1f97e.png"
         }
     },
@@ -6244,9 +6243,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "flat-shoe_1f97f.png"
         }
     },
@@ -6270,9 +6269,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "abacus_1f9ee.png"
         }
     },
@@ -6299,9 +6298,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "receipt_1f9fe.png"
         }
     },
@@ -6327,9 +6326,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "toolbox_1f9f0.png"
         }
     },
@@ -6355,9 +6354,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "magnet_1f9f2.png"
         }
     },
@@ -6385,9 +6384,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "test-tube_1f9ea.png"
         }
     },
@@ -6415,9 +6414,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "petri-dish_1f9eb.png"
         }
     },
@@ -6448,10 +6447,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "dna-double-helix_1f9ec.png"
+            "folder_id": "271",
+            "file_name": "dna_1f9ec.png"
         }
     },
     {
@@ -6477,9 +6476,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "lotion-bottle_1f9f4.png"
         }
     },
@@ -6504,9 +6503,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "safety-pin_1f9f7.png"
         }
     },
@@ -6536,9 +6535,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "broom_1f9f9.png"
         }
     },
@@ -6564,9 +6563,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "basket_1f9fa.png"
         }
     },
@@ -6594,9 +6593,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "roll-of-paper_1f9fb.png"
         }
     },
@@ -6627,10 +6626,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "bar-of-soap_1f9fc.png"
+            "folder_id": "271",
+            "file_name": "soap_1f9fc.png"
         }
     },
     {
@@ -6655,9 +6654,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "sponge_1f9fd.png"
         }
     },
@@ -6683,9 +6682,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "fire-extinguisher_1f9ef.png"
         }
     },
@@ -6715,10 +6714,10 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
-            "file_name": "permanent-paper-sign_267e.png"
+            "folder_id": "271",
+            "file_name": "infinity_267e-fe0f.png"
         }
     },
     {
@@ -6751,9 +6750,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 13.3"
+                "iOS 14.2"
             ],
-            "folder_id": "237",
+            "folder_id": "271",
             "file_name": "pirate-flag_1f3f4-200d-2620-fe0f.png"
         }
     }
