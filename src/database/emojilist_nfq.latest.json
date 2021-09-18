@@ -4,6 +4,10 @@
         "qualified": "263a-fe0f"
     },
     {
+        "code": "1f636-200d-1f32b",
+        "qualified": "1f636-200d-1f32b-fe0f"
+    },
+    {
         "code": "2639",
         "qualified": "2639-fe0f"
     },
@@ -14,6 +18,14 @@
     {
         "code": "2763",
         "qualified": "2763-fe0f"
+    },
+    {
+        "code": "2764-200d-1f525",
+        "qualified": "2764-fe0f-200d-1f525"
+    },
+    {
+        "code": "2764-200d-1fa79",
+        "qualified": "2764-fe0f-200d-1fa79"
     },
     {
         "code": "2764",
@@ -62,6 +74,54 @@
     {
         "code": "1f441",
         "qualified": "1f441-fe0f"
+    },
+    {
+        "code": "1f9d4-200d-2642",
+        "qualified": "1f9d4-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fb-200d-2642",
+        "qualified": "1f9d4-1f3fb-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fc-200d-2642",
+        "qualified": "1f9d4-1f3fc-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fd-200d-2642",
+        "qualified": "1f9d4-1f3fd-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fe-200d-2642",
+        "qualified": "1f9d4-1f3fe-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3ff-200d-2642",
+        "qualified": "1f9d4-1f3ff-200d-2642-fe0f"
+    },
+    {
+        "code": "1f9d4-200d-2640",
+        "qualified": "1f9d4-200d-2640-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fb-200d-2640",
+        "qualified": "1f9d4-1f3fb-200d-2640-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fc-200d-2640",
+        "qualified": "1f9d4-1f3fc-200d-2640-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fd-200d-2640",
+        "qualified": "1f9d4-1f3fd-200d-2640-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3fe-200d-2640",
+        "qualified": "1f9d4-1f3fe-200d-2640-fe0f"
+    },
+    {
+        "code": "1f9d4-1f3ff-200d-2640",
+        "qualified": "1f9d4-1f3ff-200d-2640-fe0f"
     },
     {
         "code": "1f471-200d-2640",
@@ -2608,28 +2668,788 @@
         "qualified": "1f9d8-1f3ff-200d-2640-fe0f"
     },
     {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f48b-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f48b-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f48b-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f48b-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f48b-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f48b-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f48b-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f48b-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f48b-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f48b-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f48b-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f48b-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f48b-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f48b-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f48b-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f48b-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f48b-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f48b-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f48b-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f48b-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe"
+    },
+    {
         "code": "1f469-200d-2764-200d-1f48b-200d-1f468",
         "qualified": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
     },
     {
         "code": "1f468-200d-2764-200d-1f48b-200d-1f468",
         "qualified": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
     },
     {
+        "code": "1f468-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f48b-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff"
+    },
+    {
         "code": "1f469-200d-2764-200d-1f48b-200d-1f469",
         "qualified": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f48b-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f48b-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f48b-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f48b-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f48b-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fb-200d-2764-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fc-200d-2764-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fe"
+    },
+    {
+        "code": "1f9d1-1f3fd-200d-2764-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3fe-200d-2764-200d-1f9d1-1f3ff",
+        "qualified": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3ff"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f9d1-1f3fb",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fb"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f9d1-1f3fc",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fc"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f9d1-1f3fd",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fd"
+    },
+    {
+        "code": "1f9d1-1f3ff-200d-2764-200d-1f9d1-1f3fe",
+        "qualified": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fe"
     },
     {
         "code": "1f469-200d-2764-200d-1f468",
         "qualified": "1f469-200d-2764-fe0f-200d-1f468"
     },
     {
+        "code": "1f469-1f3fb-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
         "code": "1f468-200d-2764-200d-1f468",
         "qualified": "1f468-200d-2764-fe0f-200d-1f468"
     },
     {
+        "code": "1f468-1f3fb-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fb-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fc-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fd-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3fe-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f468-1f3fb",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f468-1f3fc",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f468-1f3fd",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f468-1f3fe",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe"
+    },
+    {
+        "code": "1f468-1f3ff-200d-2764-200d-1f468-1f3ff",
+        "qualified": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff"
+    },
+    {
         "code": "1f469-200d-2764-200d-1f469",
         "qualified": "1f469-200d-2764-fe0f-200d-1f469"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fb-200d-2764-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fc-200d-2764-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fd-200d-2764-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3fe-200d-2764-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3ff"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f469-1f3fb",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fb"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f469-1f3fc",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fc"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f469-1f3fd",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fd"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f469-1f3fe",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fe"
+    },
+    {
+        "code": "1f469-1f3ff-200d-2764-200d-1f469-1f3ff",
+        "qualified": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3ff"
     },
     {
         "code": "1f5e3",

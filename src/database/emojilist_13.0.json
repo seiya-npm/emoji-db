@@ -5,9 +5,11 @@
         "code": "1f972",
         "emoji": "🥲",
         "title": "Smiling Face with Tear",
-        "shortcodes": [
-            ":smiling_face_with_tear:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":smiling_face_with_tear:"
+            ]
+        },
         "tags": [
             "grateful",
             "proud",
@@ -24,9 +26,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "smiling-face-with-tear_1f972.png"
         }
     },
@@ -36,9 +38,11 @@
         "code": "1f978",
         "emoji": "🥸",
         "title": "Disguised Face",
-        "shortcodes": [
-            ":disguised_face:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":disguised_face:"
+            ]
+        },
         "tags": [
             "disguise",
             "disguised face",
@@ -54,9 +58,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "disguised-face_1f978.png"
         }
     },
@@ -70,9 +74,11 @@
             "Finger Purse",
             "Ma Che Vuoi"
         ],
-        "shortcodes": [
-            ":pinched_fingers:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers:"
+            ]
+        },
         "tags": [
             "fingers",
             "hand gesture",
@@ -94,9 +100,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_1f90c.png"
         }
     },
@@ -106,9 +112,11 @@
         "code": "1f90c-1f3fb",
         "emoji": "🤌🏻",
         "title": "Pinched Fingers: Light Skin Tone",
-        "shortcodes": [
-            ":pinched_fingers_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fingers",
             "hand gesture",
@@ -129,9 +137,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_light-skin-tone_1f90c-1f3fb_1f3fb.png"
         }
     },
@@ -141,9 +149,11 @@
         "code": "1f90c-1f3fc",
         "emoji": "🤌🏼",
         "title": "Pinched Fingers: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":pinched_fingers_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fingers",
             "hand gesture",
@@ -164,9 +174,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_medium-light-skin-tone_1f90c-1f3fc_1f3fc.png"
         }
     },
@@ -176,9 +186,11 @@
         "code": "1f90c-1f3fd",
         "emoji": "🤌🏽",
         "title": "Pinched Fingers: Medium Skin Tone",
-        "shortcodes": [
-            ":pinched_fingers_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "fingers",
             "hand gesture",
@@ -199,9 +211,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_medium-skin-tone_1f90c-1f3fd_1f3fd.png"
         }
     },
@@ -211,9 +223,11 @@
         "code": "1f90c-1f3fe",
         "emoji": "🤌🏾",
         "title": "Pinched Fingers: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":pinched_fingers_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "fingers",
             "hand gesture",
@@ -234,9 +248,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_medium-dark-skin-tone_1f90c-1f3fe_1f3fe.png"
         }
     },
@@ -246,9 +260,11 @@
         "code": "1f90c-1f3ff",
         "emoji": "🤌🏿",
         "title": "Pinched Fingers: Dark Skin Tone",
-        "shortcodes": [
-            ":pinched_fingers_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinched_fingers_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "fingers",
@@ -269,9 +285,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinched-fingers_dark-skin-tone_1f90c-1f3ff_1f3ff.png"
         }
     },
@@ -281,9 +297,11 @@
         "code": "1fac0",
         "emoji": "🫀",
         "title": "Anatomical Heart",
-        "shortcodes": [
-            ":anatomical_heart:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":anatomical_heart:"
+            ]
+        },
         "tags": [
             "anatomical",
             "cardiology",
@@ -298,9 +316,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "anatomical-heart_1fac0.png"
         }
     },
@@ -310,9 +328,11 @@
         "code": "1fac1",
         "emoji": "🫁",
         "title": "Lungs",
-        "shortcodes": [
-            ":lungs:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":lungs:"
+            ]
+        },
         "tags": [
             "breath",
             "exhalation",
@@ -328,9 +348,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "lungs_1fac1.png"
         }
     },
@@ -340,9 +360,11 @@
         "code": "1f977",
         "emoji": "🥷",
         "title": "Ninja",
-        "shortcodes": [
-            ":ninja:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja:"
+            ]
+        },
         "tags": [
             "fighter",
             "hidden",
@@ -363,9 +385,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_1f977.png"
         }
     },
@@ -375,9 +397,11 @@
         "code": "1f977-1f3fb",
         "emoji": "🥷🏻",
         "title": "Ninja: Light Skin Tone",
-        "shortcodes": [
-            ":ninja_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja_light_skin_tone:"
+            ]
+        },
         "tags": [
             "",
             "fighter",
@@ -402,9 +426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_light-skin-tone_1f977-1f3fb_1f3fb.png"
         }
     },
@@ -414,9 +438,11 @@
         "code": "1f977-1f3fc",
         "emoji": "🥷🏼",
         "title": "Ninja: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":ninja_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "",
             "fighter",
@@ -441,9 +467,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_medium-light-skin-tone_1f977-1f3fc_1f3fc.png"
         }
     },
@@ -453,9 +479,11 @@
         "code": "1f977-1f3fd",
         "emoji": "🥷🏽",
         "title": "Ninja: Medium Skin Tone",
-        "shortcodes": [
-            ":ninja_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "",
             "fighter",
@@ -480,9 +508,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_medium-skin-tone_1f977-1f3fd_1f3fd.png"
         }
     },
@@ -492,9 +520,11 @@
         "code": "1f977-1f3fe",
         "emoji": "🥷🏾",
         "title": "Ninja: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":ninja_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "",
             "fighter",
@@ -517,9 +547,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_medium-dark-skin-tone_1f977-1f3fe_1f3fe.png"
         }
     },
@@ -529,9 +559,11 @@
         "code": "1f977-1f3ff",
         "emoji": "🥷🏿",
         "title": "Ninja: Dark Skin Tone",
-        "shortcodes": [
-            ":ninja_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ninja_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "",
             "fighter",
@@ -554,9 +586,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ninja_dark-skin-tone_1f977-1f3ff_1f3ff.png"
         }
     },
@@ -566,9 +598,11 @@
         "code": "1f935-200d-2642-fe0f",
         "emoji": "🤵‍♂️",
         "title": "Man in Tuxedo",
-        "shortcodes": [
-            ":man_in_tuxedo:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo:"
+            ]
+        },
         "tags": [
             "man",
             "man in tuxedo",
@@ -604,9 +638,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo_1f935-200d-2642-fe0f.png"
         }
     },
@@ -616,9 +650,11 @@
         "code": "1f935-1f3fb-200d-2642-fe0f",
         "emoji": "🤵🏻‍♂️",
         "title": "Man in Tuxedo: Light Skin Tone",
-        "shortcodes": [
-            ":man_in_tuxedo_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "man",
@@ -657,9 +693,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -669,9 +705,11 @@
         "code": "1f935-1f3fc-200d-2642-fe0f",
         "emoji": "🤵🏼‍♂️",
         "title": "Man in Tuxedo: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_in_tuxedo_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man in tuxedo",
@@ -710,9 +748,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -722,9 +760,11 @@
         "code": "1f935-1f3fd-200d-2642-fe0f",
         "emoji": "🤵🏽‍♂️",
         "title": "Man in Tuxedo: Medium Skin Tone",
-        "shortcodes": [
-            ":man_in_tuxedo_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man in tuxedo",
@@ -763,9 +803,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -775,9 +815,11 @@
         "code": "1f935-1f3fe-200d-2642-fe0f",
         "emoji": "🤵🏾‍♂️",
         "title": "Man in Tuxedo: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_tuxedo_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man in tuxedo",
@@ -816,9 +858,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -828,9 +870,11 @@
         "code": "1f935-1f3ff-200d-2642-fe0f",
         "emoji": "🤵🏿‍♂️",
         "title": "Man in Tuxedo: Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_tuxedo_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_tuxedo_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "man",
@@ -869,9 +913,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -881,9 +925,11 @@
         "code": "1f935-200d-2640-fe0f",
         "emoji": "🤵‍♀️",
         "title": "Woman in Tuxedo",
-        "shortcodes": [
-            ":woman_in_tuxedo:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo:"
+            ]
+        },
         "tags": [
             "tuxedo",
             "woman",
@@ -919,9 +965,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo_1f935-200d-2640-fe0f.png"
         }
     },
@@ -931,9 +977,11 @@
         "code": "1f935-1f3fb-200d-2640-fe0f",
         "emoji": "🤵🏻‍♀️",
         "title": "Woman in Tuxedo: Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_tuxedo_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "tuxedo",
@@ -972,9 +1020,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -984,9 +1032,11 @@
         "code": "1f935-1f3fc-200d-2640-fe0f",
         "emoji": "🤵🏼‍♀️",
         "title": "Woman in Tuxedo: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_tuxedo_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "tuxedo",
@@ -1025,9 +1075,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -1037,9 +1087,11 @@
         "code": "1f935-1f3fd-200d-2640-fe0f",
         "emoji": "🤵🏽‍♀️",
         "title": "Woman in Tuxedo: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_in_tuxedo_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "tuxedo",
@@ -1078,9 +1130,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -1090,9 +1142,11 @@
         "code": "1f935-1f3fe-200d-2640-fe0f",
         "emoji": "🤵🏾‍♀️",
         "title": "Woman in Tuxedo: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_tuxedo_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "tuxedo",
@@ -1131,9 +1185,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -1143,9 +1197,11 @@
         "code": "1f935-1f3ff-200d-2640-fe0f",
         "emoji": "🤵🏿‍♀️",
         "title": "Woman in Tuxedo: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_tuxedo_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_tuxedo_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "tuxedo",
@@ -1184,9 +1240,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -1196,9 +1252,11 @@
         "code": "1f470-200d-2642-fe0f",
         "emoji": "👰‍♂️",
         "title": "Man with Veil",
-        "shortcodes": [
-            ":man_with_veil:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil:"
+            ]
+        },
         "tags": [
             "man",
             "man with veil",
@@ -1234,9 +1292,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil_1f470-200d-2642-fe0f.png"
         }
     },
@@ -1246,9 +1304,11 @@
         "code": "1f470-1f3fb-200d-2642-fe0f",
         "emoji": "👰🏻‍♂️",
         "title": "Man with Veil: Light Skin Tone",
-        "shortcodes": [
-            ":man_with_veil_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "man",
@@ -1287,9 +1347,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil-light-skin-tone_1f470-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -1299,9 +1359,11 @@
         "code": "1f470-1f3fc-200d-2642-fe0f",
         "emoji": "👰🏼‍♂️",
         "title": "Man with Veil: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_with_veil_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man with veil",
@@ -1340,9 +1402,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -1352,9 +1414,11 @@
         "code": "1f470-1f3fd-200d-2642-fe0f",
         "emoji": "👰🏽‍♂️",
         "title": "Man with Veil: Medium Skin Tone",
-        "shortcodes": [
-            ":man_with_veil_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man with veil",
@@ -1393,9 +1457,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil-medium-skin-tone_1f470-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -1405,9 +1469,11 @@
         "code": "1f470-1f3fe-200d-2642-fe0f",
         "emoji": "👰🏾‍♂️",
         "title": "Man with Veil: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_with_veil_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "man with veil",
@@ -1446,9 +1512,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -1458,9 +1524,11 @@
         "code": "1f470-1f3ff-200d-2642-fe0f",
         "emoji": "👰🏿‍♂️",
         "title": "Man with Veil: Dark Skin Tone",
-        "shortcodes": [
-            ":man_with_veil_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_veil_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "man",
@@ -1499,9 +1567,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-veil-dark-skin-tone_1f470-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -1511,9 +1579,11 @@
         "code": "1f470-200d-2640-fe0f",
         "emoji": "👰‍♀️",
         "title": "Woman with Veil",
-        "shortcodes": [
-            ":woman_with_veil:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil:"
+            ]
+        },
         "tags": [
             "veil",
             "woman",
@@ -1549,9 +1619,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil_1f470-200d-2640-fe0f.png"
         }
     },
@@ -1561,9 +1631,11 @@
         "code": "1f470-1f3fb-200d-2640-fe0f",
         "emoji": "👰🏻‍♀️",
         "title": "Woman with Veil: Light Skin Tone",
-        "shortcodes": [
-            ":woman_with_veil_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "veil",
@@ -1602,9 +1674,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil-light-skin-tone_1f470-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -1614,9 +1686,11 @@
         "code": "1f470-1f3fc-200d-2640-fe0f",
         "emoji": "👰🏼‍♀️",
         "title": "Woman with Veil: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_with_veil_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "veil",
@@ -1655,9 +1729,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -1667,9 +1741,11 @@
         "code": "1f470-1f3fd-200d-2640-fe0f",
         "emoji": "👰🏽‍♀️",
         "title": "Woman with Veil: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_with_veil_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "veil",
@@ -1708,9 +1784,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil-medium-skin-tone_1f470-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -1720,9 +1796,11 @@
         "code": "1f470-1f3fe-200d-2640-fe0f",
         "emoji": "👰🏾‍♀️",
         "title": "Woman with Veil: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_with_veil_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "veil",
@@ -1761,9 +1839,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -1773,9 +1851,11 @@
         "code": "1f470-1f3ff-200d-2640-fe0f",
         "emoji": "👰🏿‍♀️",
         "title": "Woman with Veil: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_with_veil_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_veil_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "veil",
@@ -1814,9 +1894,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-veil-dark-skin-tone_1f470-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -1826,9 +1906,11 @@
         "code": "1f469-200d-1f37c",
         "emoji": "👩‍🍼",
         "title": "Woman Feeding Baby",
-        "shortcodes": [
-            ":woman_feeding_baby:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -1864,9 +1946,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby_1f469-200d-1f37c.png"
         }
     },
@@ -1876,9 +1958,11 @@
         "code": "1f469-1f3fb-200d-1f37c",
         "emoji": "👩🏻‍🍼",
         "title": "Woman Feeding Baby: Light Skin Tone",
-        "shortcodes": [
-            ":woman_feeding_baby_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -1917,9 +2001,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby-light-skin-tone_1f469-1f3fb-200d-1f37c.png"
         }
     },
@@ -1929,9 +2013,11 @@
         "code": "1f469-1f3fc-200d-1f37c",
         "emoji": "👩🏼‍🍼",
         "title": "Woman Feeding Baby: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_feeding_baby_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -1970,9 +2056,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby-medium-light-skin-tone_1f469-1f3fc-200d-1f37c.png"
         }
     },
@@ -1982,9 +2068,11 @@
         "code": "1f469-1f3fd-200d-1f37c",
         "emoji": "👩🏽‍🍼",
         "title": "Woman Feeding Baby: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_feeding_baby_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2023,9 +2111,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby-medium-skin-tone_1f469-1f3fd-200d-1f37c.png"
         }
     },
@@ -2035,9 +2123,11 @@
         "code": "1f469-1f3fe-200d-1f37c",
         "emoji": "👩🏾‍🍼",
         "title": "Woman Feeding Baby: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_feeding_baby_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2076,9 +2166,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby-medium-dark-skin-tone_1f469-1f3fe-200d-1f37c.png"
         }
     },
@@ -2088,9 +2178,11 @@
         "code": "1f469-1f3ff-200d-1f37c",
         "emoji": "👩🏿‍🍼",
         "title": "Woman Feeding Baby: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_feeding_baby_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_feeding_baby_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "dark skin tone",
@@ -2129,9 +2221,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-feeding-baby-dark-skin-tone_1f469-1f3ff-200d-1f37c.png"
         }
     },
@@ -2141,9 +2233,11 @@
         "code": "1f468-200d-1f37c",
         "emoji": "👨‍🍼",
         "title": "Man Feeding Baby",
-        "shortcodes": [
-            ":man_feeding_baby:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2179,9 +2273,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby_1f468-200d-1f37c.png"
         }
     },
@@ -2191,9 +2285,11 @@
         "code": "1f468-1f3fb-200d-1f37c",
         "emoji": "👨🏻‍🍼",
         "title": "Man Feeding Baby: Light Skin Tone",
-        "shortcodes": [
-            ":man_feeding_baby_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2232,9 +2328,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby-light-skin-tone_1f468-1f3fb-200d-1f37c.png"
         }
     },
@@ -2244,9 +2340,11 @@
         "code": "1f468-1f3fc-200d-1f37c",
         "emoji": "👨🏼‍🍼",
         "title": "Man Feeding Baby: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_feeding_baby_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2285,9 +2383,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby-medium-light-skin-tone_1f468-1f3fc-200d-1f37c.png"
         }
     },
@@ -2297,9 +2395,11 @@
         "code": "1f468-1f3fd-200d-1f37c",
         "emoji": "👨🏽‍🍼",
         "title": "Man Feeding Baby: Medium Skin Tone",
-        "shortcodes": [
-            ":man_feeding_baby_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2338,9 +2438,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby-medium-skin-tone_1f468-1f3fd-200d-1f37c.png"
         }
     },
@@ -2350,9 +2450,11 @@
         "code": "1f468-1f3fe-200d-1f37c",
         "emoji": "👨🏾‍🍼",
         "title": "Man Feeding Baby: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_feeding_baby_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2391,9 +2493,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby-medium-dark-skin-tone_1f468-1f3fe-200d-1f37c.png"
         }
     },
@@ -2403,9 +2505,11 @@
         "code": "1f468-1f3ff-200d-1f37c",
         "emoji": "👨🏿‍🍼",
         "title": "Man Feeding Baby: Dark Skin Tone",
-        "shortcodes": [
-            ":man_feeding_baby_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_feeding_baby_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "dark skin tone",
@@ -2444,9 +2548,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-feeding-baby-dark-skin-tone_1f468-1f3ff-200d-1f37c.png"
         }
     },
@@ -2456,9 +2560,11 @@
         "code": "1f9d1-200d-1f37c",
         "emoji": "🧑‍🍼",
         "title": "Person Feeding Baby",
-        "shortcodes": [
-            ":person_feeding_baby:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2494,9 +2600,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby_1f9d1-200d-1f37c.png"
         }
     },
@@ -2506,9 +2612,11 @@
         "code": "1f9d1-1f3fb-200d-1f37c",
         "emoji": "🧑🏻‍🍼",
         "title": "Person Feeding Baby: Light Skin Tone",
-        "shortcodes": [
-            ":person_feeding_baby_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2547,9 +2655,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby-light-skin-tone_1f9d1-1f3fb-200d-1f37c.png"
         }
     },
@@ -2559,9 +2667,11 @@
         "code": "1f9d1-1f3fc-200d-1f37c",
         "emoji": "🧑🏼‍🍼",
         "title": "Person Feeding Baby: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_feeding_baby_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2600,9 +2710,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby-medium-light-skin-tone_1f9d1-1f3fc-200d-1f37c.png"
         }
     },
@@ -2612,9 +2722,11 @@
         "code": "1f9d1-1f3fd-200d-1f37c",
         "emoji": "🧑🏽‍🍼",
         "title": "Person Feeding Baby: Medium Skin Tone",
-        "shortcodes": [
-            ":person_feeding_baby_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2653,9 +2765,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby-medium-skin-tone_1f9d1-1f3fd-200d-1f37c.png"
         }
     },
@@ -2665,9 +2777,11 @@
         "code": "1f9d1-1f3fe-200d-1f37c",
         "emoji": "🧑🏾‍🍼",
         "title": "Person Feeding Baby: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_feeding_baby_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "feeding",
@@ -2706,9 +2820,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f37c.png"
         }
     },
@@ -2718,9 +2832,11 @@
         "code": "1f9d1-1f3ff-200d-1f37c",
         "emoji": "🧑🏿‍🍼",
         "title": "Person Feeding Baby: Dark Skin Tone",
-        "shortcodes": [
-            ":person_feeding_baby_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_feeding_baby_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "baby",
             "dark skin tone",
@@ -2759,9 +2875,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-feeding-baby-dark-skin-tone_1f9d1-1f3ff-200d-1f37c.png"
         }
     },
@@ -2771,9 +2887,14 @@
         "code": "1f9d1-200d-1f384",
         "emoji": "🧑‍🎄",
         "title": "Mx Claus",
-        "shortcodes": [
-            ":mx_claus:"
+        "aliases": [
+            "Mx. Claus"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -2809,9 +2930,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus_1f9d1-200d-1f384.png"
         }
     },
@@ -2821,9 +2942,11 @@
         "code": "1f9d1-1f3fb-200d-1f384",
         "emoji": "🧑🏻‍🎄",
         "title": "Mx Claus: Light Skin Tone",
-        "shortcodes": [
-            ":mx_claus_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus_light_skin_tone:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -2839,6 +2962,18 @@
         ],
         "parent": "1f9d1-200d-1f384",
         "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
             "1f9d1-200d-1f384",
             "1f9d1-1f3fb-200d-1f384",
             "1f9d1-1f3fc-200d-1f384",
@@ -2850,9 +2985,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus-light-skin-tone_1f9d1-1f3fb-200d-1f384.png"
         }
     },
@@ -2862,9 +2997,11 @@
         "code": "1f9d1-1f3fc-200d-1f384",
         "emoji": "🧑🏼‍🎄",
         "title": "Mx Claus: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":mx_claus_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -2880,6 +3017,18 @@
         ],
         "parent": "1f9d1-200d-1f384",
         "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
             "1f9d1-200d-1f384",
             "1f9d1-1f3fb-200d-1f384",
             "1f9d1-1f3fc-200d-1f384",
@@ -2891,9 +3040,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus-medium-light-skin-tone_1f9d1-1f3fc-200d-1f384.png"
         }
     },
@@ -2903,9 +3052,11 @@
         "code": "1f9d1-1f3fd-200d-1f384",
         "emoji": "🧑🏽‍🎄",
         "title": "Mx Claus: Medium Skin Tone",
-        "shortcodes": [
-            ":mx_claus_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -2921,6 +3072,18 @@
         ],
         "parent": "1f9d1-200d-1f384",
         "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
             "1f9d1-200d-1f384",
             "1f9d1-1f3fb-200d-1f384",
             "1f9d1-1f3fc-200d-1f384",
@@ -2932,9 +3095,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus-medium-skin-tone_1f9d1-1f3fd-200d-1f384.png"
         }
     },
@@ -2944,9 +3107,11 @@
         "code": "1f9d1-1f3fe-200d-1f384",
         "emoji": "🧑🏾‍🎄",
         "title": "Mx Claus: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":mx_claus_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -2962,6 +3127,18 @@
         ],
         "parent": "1f9d1-200d-1f384",
         "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
             "1f9d1-200d-1f384",
             "1f9d1-1f3fb-200d-1f384",
             "1f9d1-1f3fc-200d-1f384",
@@ -2973,9 +3150,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f384.png"
         }
     },
@@ -2985,9 +3162,11 @@
         "code": "1f9d1-1f3ff-200d-1f384",
         "emoji": "🧑🏿‍🎄",
         "title": "Mx Claus: Dark Skin Tone",
-        "shortcodes": [
-            ":mx_claus_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mx_claus_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "claus",
             "christmas",
@@ -3003,6 +3182,18 @@
         ],
         "parent": "1f9d1-200d-1f384",
         "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
             "1f9d1-200d-1f384",
             "1f9d1-1f3fb-200d-1f384",
             "1f9d1-1f3fc-200d-1f384",
@@ -3014,9 +3205,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mx-claus-dark-skin-tone_1f9d1-1f3ff-200d-1f384.png"
         }
     },
@@ -3026,9 +3217,11 @@
         "code": "1fac2",
         "emoji": "🫂",
         "title": "People Hugging",
-        "shortcodes": [
-            ":people_hugging:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_hugging:"
+            ]
+        },
         "tags": [
             "goodbye",
             "hello",
@@ -3043,9 +3236,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-hugging_1fac2.png"
         }
     },
@@ -3055,9 +3248,11 @@
         "code": "1f408-200d-2b1b",
         "emoji": "🐈‍⬛",
         "title": "Black Cat",
-        "shortcodes": [
-            ":black_cat:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":black_cat:"
+            ]
+        },
         "tags": [
             "black",
             "cat",
@@ -3072,9 +3267,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "black-cat_1f408-200d-2b1b.png"
         }
     },
@@ -3084,9 +3279,14 @@
         "code": "1f9ac",
         "emoji": "🦬",
         "title": "Bison",
-        "shortcodes": [
-            ":bison:"
+        "aliases": [
+            "buffalo"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":bison:"
+            ]
+        },
         "tags": [
             "bison",
             "buffalo",
@@ -3100,9 +3300,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "bison_1f9ac.png"
         }
     },
@@ -3112,9 +3312,11 @@
         "code": "1f9a3",
         "emoji": "🦣",
         "title": "Mammoth",
-        "shortcodes": [
-            ":mammoth:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mammoth:"
+            ]
+        },
         "tags": [
             "extinction",
             "large",
@@ -3129,9 +3331,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mammoth_1f9a3.png"
         }
     },
@@ -3141,9 +3343,11 @@
         "code": "1f9ab",
         "emoji": "🦫",
         "title": "Beaver",
-        "shortcodes": [
-            ":beaver:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":beaver:"
+            ]
+        },
         "tags": [
             "beaver",
             "dam"
@@ -3155,9 +3359,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "beaver_1f9ab.png"
         }
     },
@@ -3167,9 +3371,11 @@
         "code": "1f43b-200d-2744-fe0f",
         "emoji": "🐻‍❄️",
         "title": "Polar Bear",
-        "shortcodes": [
-            ":polar_bear:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":polar_bear:"
+            ]
+        },
         "tags": [
             "arctic",
             "bear",
@@ -3186,9 +3392,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "polar-bear_1f43b-200d-2744-fe0f.png"
         }
     },
@@ -3198,9 +3404,14 @@
         "code": "1f9a4",
         "emoji": "🦤",
         "title": "Dodo",
-        "shortcodes": [
-            ":dodo:"
+        "aliases": [
+            "Dodo Bird"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":dodo:"
+            ]
+        },
         "tags": [
             "dodo",
             "extinction",
@@ -3215,9 +3426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "dodo_1f9a4.png"
         }
     },
@@ -3227,9 +3438,11 @@
         "code": "1fab6",
         "emoji": "🪶",
         "title": "Feather",
-        "shortcodes": [
-            ":feather:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":feather:"
+            ]
+        },
         "tags": [
             "bird",
             "feather",
@@ -3244,9 +3457,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "feather_1fab6.png"
         }
     },
@@ -3256,13 +3469,14 @@
         "code": "1f9ad",
         "emoji": "🦭",
         "title": "Seal",
-        "shortcodes": [
-            ":seal:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":seal:"
+            ]
+        },
         "tags": [
             "seal",
-            "sea lion",
-            "sea Lion"
+            "sea lion"
         ],
         "codepoints": [
             "U+1F9AD"
@@ -3271,9 +3485,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "seal_1f9ad.png"
         }
     },
@@ -3283,9 +3497,11 @@
         "code": "1fab2",
         "emoji": "🪲",
         "title": "Beetle",
-        "shortcodes": [
-            ":beetle:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":beetle:"
+            ]
+        },
         "tags": [
             "beetle",
             "bug",
@@ -3298,9 +3514,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "beetle_1fab2.png"
         }
     },
@@ -3310,9 +3526,11 @@
         "code": "1fab3",
         "emoji": "🪳",
         "title": "Cockroach",
-        "shortcodes": [
-            ":cockroach:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":cockroach:"
+            ]
+        },
         "tags": [
             "cockroach",
             "insect",
@@ -3326,9 +3544,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "cockroach_1fab3.png"
         }
     },
@@ -3338,9 +3556,11 @@
         "code": "1fab0",
         "emoji": "🪰",
         "title": "Fly",
-        "shortcodes": [
-            ":fly:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":fly:"
+            ]
+        },
         "tags": [
             "disease",
             "fly",
@@ -3355,9 +3575,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "fly_1fab0.png"
         }
     },
@@ -3367,9 +3587,11 @@
         "code": "1fab1",
         "emoji": "🪱",
         "title": "Worm",
-        "shortcodes": [
-            ":worm:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":worm:"
+            ]
+        },
         "tags": [
             "annelid",
             "earthworm",
@@ -3383,9 +3605,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "worm_1fab1.png"
         }
     },
@@ -3395,9 +3617,14 @@
         "code": "1fab4",
         "emoji": "🪴",
         "title": "Potted Plant",
-        "shortcodes": [
-            ":potted_plant:"
+        "aliases": [
+            "Houseplant"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":potted_plant:"
+            ]
+        },
         "tags": [
             "boring",
             "grow",
@@ -3414,9 +3641,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "potted-plant_1fab4.png"
         }
     },
@@ -3426,9 +3653,11 @@
         "code": "1fad0",
         "emoji": "🫐",
         "title": "Blueberries",
-        "shortcodes": [
-            ":blueberries:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":blueberries:"
+            ]
+        },
         "tags": [
             "berry",
             "bilberry",
@@ -3443,9 +3672,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "blueberries_1fad0.png"
         }
     },
@@ -3455,9 +3684,14 @@
         "code": "1fad2",
         "emoji": "🫒",
         "title": "Olive",
-        "shortcodes": [
-            ":olive:"
+        "aliases": [
+            "Olives"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":olive:"
+            ]
+        },
         "tags": [
             "food",
             "olive"
@@ -3469,9 +3703,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "olive_1fad2.png"
         }
     },
@@ -3481,9 +3715,11 @@
         "code": "1fad1",
         "emoji": "🫑",
         "title": "Bell Pepper",
-        "shortcodes": [
-            ":bell_pepper:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":bell_pepper:"
+            ]
+        },
         "tags": [
             "bell pepper",
             "capsicum",
@@ -3497,9 +3733,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "bell-pepper_1fad1.png"
         }
     },
@@ -3510,11 +3746,14 @@
         "emoji": "🫓",
         "title": "Flatbread",
         "aliases": [
-            "Arepa"
+            "Arepa",
+            "Flat Bread"
         ],
-        "shortcodes": [
-            ":flatbread:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":flatbread:"
+            ]
+        },
         "tags": [
             "arepa",
             "flatbread",
@@ -3529,9 +3768,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "flatbread_1fad3.png"
         }
     },
@@ -3544,9 +3783,11 @@
         "aliases": [
             "Tamal"
         ],
-        "shortcodes": [
-            ":tamale:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":tamale:"
+            ]
+        },
         "tags": [
             "mexican",
             "tamale",
@@ -3559,9 +3800,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "tamale_1fad4.png"
         }
     },
@@ -3571,9 +3812,11 @@
         "code": "1fad5",
         "emoji": "🫕",
         "title": "Fondue",
-        "shortcodes": [
-            ":fondue:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":fondue:"
+            ]
+        },
         "tags": [
             "cheese",
             "chocolate",
@@ -3590,9 +3833,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "fondue_1fad5.png"
         }
     },
@@ -3602,9 +3845,11 @@
         "code": "1fad6",
         "emoji": "🫖",
         "title": "Teapot",
-        "shortcodes": [
-            ":teapot:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":teapot:"
+            ]
+        },
         "tags": [
             "drink",
             "pot",
@@ -3618,9 +3863,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "teapot_1fad6.png"
         }
     },
@@ -3631,11 +3876,14 @@
         "emoji": "🧋",
         "title": "Bubble Tea",
         "aliases": [
-            "Boba"
+            "Boba",
+            "Boba Tea"
         ],
-        "shortcodes": [
-            ":bubble_tea:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":bubble_tea:"
+            ]
+        },
         "tags": [
             "bubble",
             "milk",
@@ -3649,21 +3897,23 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "bubble-tea_1f9cb.png"
         }
     },
     {
-        "category": "Travel & Places",
+        "category": "Nature",
         "sub_category": "Place Building",
         "code": "1faa8",
         "emoji": "🪨",
         "title": "Rock",
-        "shortcodes": [
-            ":rock:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":rock:"
+            ]
+        },
         "tags": [
             "boulder",
             "heavy",
@@ -3678,9 +3928,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "rock_1faa8.png"
         }
     },
@@ -3690,9 +3940,11 @@
         "code": "1fab5",
         "emoji": "🪵",
         "title": "Wood",
-        "shortcodes": [
-            ":wood:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":wood:"
+            ]
+        },
         "tags": [
             "log",
             "lumber",
@@ -3706,9 +3958,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "wood_1fab5.png"
         }
     },
@@ -3718,9 +3970,11 @@
         "code": "1f6d6",
         "emoji": "🛖",
         "title": "Hut",
-        "shortcodes": [
-            ":hut:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":hut:"
+            ]
+        },
         "tags": [
             "house",
             "hut",
@@ -3734,9 +3988,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "hut_1f6d6.png"
         }
     },
@@ -3746,9 +4000,11 @@
         "code": "1f6fb",
         "emoji": "🛻",
         "title": "Pickup Truck",
-        "shortcodes": [
-            ":pickup_truck:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pickup_truck:"
+            ]
+        },
         "tags": [
             "pickup",
             "pick-up",
@@ -3761,14 +4017,14 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pickup-truck_1f6fb.png"
         }
     },
     {
-        "category": "Travel & Places",
+        "category": "Activity",
         "sub_category": "Transport Ground",
         "code": "1f6fc",
         "emoji": "🛼",
@@ -3777,9 +4033,11 @@
             "Inline Skate",
             "Roller Derby"
         ],
-        "shortcodes": [
-            ":roller_skate:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":roller_skate:"
+            ]
+        },
         "tags": [
             "roller",
             "skate"
@@ -3791,21 +4049,23 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "roller-skate_1f6fc.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "Objects",
         "sub_category": "Game",
         "code": "1fa84",
         "emoji": "🪄",
         "title": "Magic Wand",
-        "shortcodes": [
-            ":magic_wand:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":magic_wand:"
+            ]
+        },
         "tags": [
             "magic",
             "magic wand",
@@ -3819,21 +4079,27 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "magic-wand_1fa84.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "Objects",
         "sub_category": "Game",
         "code": "1fa85",
         "emoji": "🪅",
         "title": "Piñata",
-        "shortcodes": [
-            ":pinata:"
+        "aliases": [
+            "pinata",
+            "Pinata"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinata:"
+            ]
+        },
         "tags": [
             "celebration",
             "party",
@@ -3846,9 +4112,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinata_1fa85.png"
         }
     },
@@ -3859,11 +4125,14 @@
         "emoji": "🪆",
         "title": "Nesting Dolls",
         "aliases": [
-            "Matryoshka"
+            "Matryoshka",
+            "Russian Dolls"
         ],
-        "shortcodes": [
-            ":nesting_dolls:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":nesting_dolls:"
+            ]
+        },
         "tags": [
             "doll",
             "nesting",
@@ -3877,9 +4146,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "nesting-dolls_1fa86.png"
         }
     },
@@ -3889,9 +4158,11 @@
         "code": "1faa1",
         "emoji": "🪡",
         "title": "Sewing Needle",
-        "shortcodes": [
-            ":sewing_needle:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":sewing_needle:"
+            ]
+        },
         "tags": [
             "embroidery",
             "needle",
@@ -3907,21 +4178,23 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "sewing-needle_1faa1.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "Objects",
         "sub_category": "Arts & Crafts",
         "code": "1faa2",
         "emoji": "🪢",
         "title": "Knot",
-        "shortcodes": [
-            ":knot:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":knot:"
+            ]
+        },
         "tags": [
             "knot",
             "rope",
@@ -3937,14 +4210,14 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "knot_1faa2.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1fa74",
         "emoji": "🩴",
@@ -3952,11 +4225,14 @@
         "aliases": [
             "Flip Flops",
             "Jandals",
-            "Thongs"
+            "Thongs",
+            "Sandal"
         ],
-        "shortcodes": [
-            ":thong_sandal:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":thong_sandal:"
+            ]
+        },
         "tags": [
             "beach sandals",
             "sandals",
@@ -3972,21 +4248,23 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "thong-sandal_1fa74.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "People",
         "sub_category": "Clothing",
         "code": "1fa96",
         "emoji": "🪖",
         "title": "Military Helmet",
-        "shortcodes": [
-            ":military_helmet:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":military_helmet:"
+            ]
+        },
         "tags": [
             "army",
             "helmet",
@@ -4001,9 +4279,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "military-helmet_1fa96.png"
         }
     },
@@ -4013,9 +4291,11 @@
         "code": "1fa97",
         "emoji": "🪗",
         "title": "Accordion",
-        "shortcodes": [
-            ":accordion:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":accordion:"
+            ]
+        },
         "tags": [
             "accordian",
             "accordion",
@@ -4029,9 +4309,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "accordion_1fa97.png"
         }
     },
@@ -4041,9 +4321,11 @@
         "code": "1fa98",
         "emoji": "🪘",
         "title": "Long Drum",
-        "shortcodes": [
-            ":long_drum:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":long_drum:"
+            ]
+        },
         "tags": [
             "beat",
             "conga",
@@ -4058,9 +4340,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "long-drum_1fa98.png"
         }
     },
@@ -4070,9 +4352,11 @@
         "code": "1fa99",
         "emoji": "🪙",
         "title": "Coin",
-        "shortcodes": [
-            ":coin:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":coin:"
+            ]
+        },
         "tags": [
             "coin",
             "gold",
@@ -4088,9 +4372,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "coin_1fa99.png"
         }
     },
@@ -4100,9 +4384,11 @@
         "code": "1fa83",
         "emoji": "🪃",
         "title": "Boomerang",
-        "shortcodes": [
-            ":boomerang:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":boomerang:"
+            ]
+        },
         "tags": [
             "australia",
             "boomerang",
@@ -4116,9 +4402,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "boomerang_1fa83.png"
         }
     },
@@ -4128,9 +4414,14 @@
         "code": "1fa9a",
         "emoji": "🪚",
         "title": "Carpentry Saw",
-        "shortcodes": [
-            ":carpentry_saw:"
+        "aliases": [
+            "Hand Saw"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":carpentry_saw:"
+            ]
+        },
         "tags": [
             "carpenter",
             "carpentry saw",
@@ -4145,9 +4436,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "carpentry-saw_1fa9a.png"
         }
     },
@@ -4157,9 +4448,11 @@
         "code": "1fa9b",
         "emoji": "🪛",
         "title": "Screwdriver",
-        "shortcodes": [
-            ":screwdriver:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":screwdriver:"
+            ]
+        },
         "tags": [
             "screw",
             "screwdriver",
@@ -4172,9 +4465,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "screwdriver_1fa9b.png"
         }
     },
@@ -4184,9 +4477,11 @@
         "code": "1fa9d",
         "emoji": "🪝",
         "title": "Hook",
-        "shortcodes": [
-            ":hook:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":hook:"
+            ]
+        },
         "tags": [
             "catch",
             "crook",
@@ -4202,9 +4497,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "hook_1fa9d.png"
         }
     },
@@ -4214,9 +4509,11 @@
         "code": "1fa9c",
         "emoji": "🪜",
         "title": "Ladder",
-        "shortcodes": [
-            ":ladder:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ladder:"
+            ]
+        },
         "tags": [
             "climb",
             "ladder",
@@ -4230,21 +4527,23 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ladder_1fa9c.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Symbols & Flags",
         "sub_category": "Household",
         "code": "1f6d7",
         "emoji": "🛗",
         "title": "Elevator",
-        "shortcodes": [
-            ":elevator:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":elevator:"
+            ]
+        },
         "tags": [
             "accessibility",
             "elevator",
@@ -4258,9 +4557,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "elevator_1f6d7.png"
         }
     },
@@ -4270,9 +4569,11 @@
         "code": "1fa9e",
         "emoji": "🪞",
         "title": "Mirror",
-        "shortcodes": [
-            ":mirror:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mirror:"
+            ]
+        },
         "tags": [
             "mirror",
             "reflection",
@@ -4286,9 +4587,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mirror_1fa9e.png"
         }
     },
@@ -4298,9 +4599,11 @@
         "code": "1fa9f",
         "emoji": "🪟",
         "title": "Window",
-        "shortcodes": [
-            ":window:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":window:"
+            ]
+        },
         "tags": [
             "frame",
             "fresh air",
@@ -4316,9 +4619,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "window_1fa9f.png"
         }
     },
@@ -4328,9 +4631,11 @@
         "code": "1faa0",
         "emoji": "🪠",
         "title": "Plunger",
-        "shortcodes": [
-            ":plunger:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":plunger:"
+            ]
+        },
         "tags": [
             "force cup",
             "plumber",
@@ -4345,9 +4650,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "plunger_1faa0.png"
         }
     },
@@ -4357,9 +4662,11 @@
         "code": "1faa4",
         "emoji": "🪤",
         "title": "Mouse Trap",
-        "shortcodes": [
-            ":mouse_trap:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mouse_trap:"
+            ]
+        },
         "tags": [
             "bait",
             "mousetrap",
@@ -4374,9 +4681,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mouse-trap_1faa4.png"
         }
     },
@@ -4386,9 +4693,11 @@
         "code": "1faa3",
         "emoji": "🪣",
         "title": "Bucket",
-        "shortcodes": [
-            ":bucket:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":bucket:"
+            ]
+        },
         "tags": [
             "bucket",
             "cask",
@@ -4402,9 +4711,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "bucket_1faa3.png"
         }
     },
@@ -4414,9 +4723,11 @@
         "code": "1faa5",
         "emoji": "🪥",
         "title": "Toothbrush",
-        "shortcodes": [
-            ":toothbrush:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":toothbrush:"
+            ]
+        },
         "tags": [
             "bathroom",
             "brush",
@@ -4433,9 +4744,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "toothbrush_1faa5.png"
         }
     },
@@ -4445,9 +4756,14 @@
         "code": "1faa6",
         "emoji": "🪦",
         "title": "Headstone",
-        "shortcodes": [
-            ":headstone:"
+        "aliases": [
+            "Tombstone"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":headstone:"
+            ]
+        },
         "tags": [
             "cemetery",
             "grave",
@@ -4462,9 +4778,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "headstone_1faa6.png"
         }
     },
@@ -4474,9 +4790,17 @@
         "code": "1faa7",
         "emoji": "🪧",
         "title": "Placard",
-        "shortcodes": [
-            ":placard:"
+        "aliases": [
+            "Lawn Sign",
+            "Protest Sign",
+            "Sign",
+            "Sign on Post"
         ],
+        "shortcodes": {
+            "emojipedia": [
+                ":placard:"
+            ]
+        },
         "tags": [
             "demonstration",
             "picket",
@@ -4491,9 +4815,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "placard_1faa7.png"
         }
     },
@@ -4507,9 +4831,11 @@
             "Transgender Sign",
             "Male with Stroke and Male and Female Sign"
         ],
-        "shortcodes": [
-            ":transgender_symbol:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":transgender_symbol:"
+            ]
+        },
         "tags": [
             "transgender",
             "transgender symbol"
@@ -4522,9 +4848,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "transgender-symbol_26a7-fe0f.png"
         }
     },
@@ -4538,9 +4864,11 @@
             "Blue, Pink, and White Flag",
             "Trans Flag"
         ],
-        "shortcodes": [
-            ":transgender_flag:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":transgender_flag:"
+            ]
+        },
         "tags": [
             "flag",
             "light blue",
@@ -4559,9 +4887,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
         }
     }

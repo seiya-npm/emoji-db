@@ -5,9 +5,17 @@
         "code": "1f971",
         "emoji": "🥱",
         "title": "Yawning Face",
-        "shortcodes": [
-            ":yawning_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":yawning_face:"
+            ],
+            "slack": [
+                ":yawning_face:"
+            ],
+            "emojipedia": [
+                ":yawning_face:"
+            ]
+        },
         "tags": [
             "bored",
             "tired",
@@ -21,9 +29,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "yawning-face_1f971.png"
         }
     },
@@ -33,9 +41,17 @@
         "code": "1f90e",
         "emoji": "🤎",
         "title": "Brown Heart",
-        "shortcodes": [
-            ":brown_heart:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":brown_heart:"
+            ],
+            "slack": [
+                ":brown_heart:"
+            ],
+            "emojipedia": [
+                ":brown_heart:"
+            ]
+        },
         "tags": [
             "brown",
             "heart"
@@ -47,9 +63,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "brown-heart_1f90e.png"
         }
     },
@@ -59,9 +75,17 @@
         "code": "1f90d",
         "emoji": "🤍",
         "title": "White Heart",
-        "shortcodes": [
-            ":white_heart:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":white_heart:"
+            ],
+            "slack": [
+                ":white_heart:"
+            ],
+            "emojipedia": [
+                ":white_heart:"
+            ]
+        },
         "tags": [
             "heart",
             "white"
@@ -73,9 +97,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "white-heart_1f90d.png"
         }
     },
@@ -85,9 +109,17 @@
         "code": "1f90f",
         "emoji": "🤏",
         "title": "Pinching Hand",
-        "shortcodes": [
-            ":pinching_hand:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pinching_hand:"
+            ],
+            "slack": [
+                ":pinching_hand:"
+            ],
+            "emojipedia": [
+                ":pinching_hand:"
+            ]
+        },
         "tags": [
             "pinching hand",
             "small amount"
@@ -107,9 +139,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_1f90f.png"
         }
     },
@@ -119,9 +151,11 @@
         "code": "1f90f-1f3fb",
         "emoji": "🤏🏻",
         "title": "Pinching Hand: Light Skin Tone",
-        "shortcodes": [
-            ":pinching_hand_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinching_hand_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "pinching hand",
@@ -144,9 +178,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_light-skin-tone_1f90f-1f3fb_1f3fb.png"
         }
     },
@@ -156,9 +190,11 @@
         "code": "1f90f-1f3fc",
         "emoji": "🤏🏼",
         "title": "Pinching Hand: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":pinching_hand_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinching_hand_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "pinching hand",
@@ -181,9 +217,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_medium-light-skin-tone_1f90f-1f3fc_1f3fc.png"
         }
     },
@@ -193,9 +229,11 @@
         "code": "1f90f-1f3fd",
         "emoji": "🤏🏽",
         "title": "Pinching Hand: Medium Skin Tone",
-        "shortcodes": [
-            ":pinching_hand_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinching_hand_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "pinching hand",
@@ -218,9 +256,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_medium-skin-tone_1f90f-1f3fd_1f3fd.png"
         }
     },
@@ -230,9 +268,11 @@
         "code": "1f90f-1f3fe",
         "emoji": "🤏🏾",
         "title": "Pinching Hand: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":pinching_hand_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinching_hand_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "pinching hand",
@@ -255,9 +295,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_medium-dark-skin-tone_1f90f-1f3fe_1f3fe.png"
         }
     },
@@ -267,9 +307,11 @@
         "code": "1f90f-1f3ff",
         "emoji": "🤏🏿",
         "title": "Pinching Hand: Dark Skin Tone",
-        "shortcodes": [
-            ":pinching_hand_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pinching_hand_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "pinching hand",
@@ -292,9 +334,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "pinching-hand_dark-skin-tone_1f90f-1f3ff_1f3ff.png"
         }
     },
@@ -304,9 +346,17 @@
         "code": "1f9be",
         "emoji": "🦾",
         "title": "Mechanical Arm",
-        "shortcodes": [
-            ":mechanical_arm:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mechanical_arm:"
+            ],
+            "slack": [
+                ":mechanical_arm:"
+            ],
+            "emojipedia": [
+                ":mechanical_arm:"
+            ]
+        },
         "tags": [
             "accessibility",
             "mechanical arm",
@@ -319,9 +369,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mechanical-arm_1f9be.png"
         }
     },
@@ -331,9 +381,17 @@
         "code": "1f9bf",
         "emoji": "🦿",
         "title": "Mechanical Leg",
-        "shortcodes": [
-            ":mechanical_leg:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mechanical_leg:"
+            ],
+            "slack": [
+                ":mechanical_leg:"
+            ],
+            "emojipedia": [
+                ":mechanical_leg:"
+            ]
+        },
         "tags": [
             "accessibility",
             "mechanical leg",
@@ -346,9 +404,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mechanical-leg_1f9bf.png"
         }
     },
@@ -358,9 +416,17 @@
         "code": "1f9bb",
         "emoji": "🦻",
         "title": "Ear with Hearing Aid",
-        "shortcodes": [
-            ":ear_with_hearing_aid:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ear_with_hearing_aid:"
+            ],
+            "slack": [
+                ":ear_with_hearing_aid:"
+            ],
+            "emojipedia": [
+                ":ear_with_hearing_aid:"
+            ]
+        },
         "tags": [
             "accessibility",
             "ear with hearing aid",
@@ -381,9 +447,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_1f9bb.png"
         }
     },
@@ -393,9 +459,11 @@
         "code": "1f9bb-1f3fb",
         "emoji": "🦻🏻",
         "title": "Ear with Hearing Aid: Light Skin Tone",
-        "shortcodes": [
-            ":ear_with_hearing_aid_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ear_with_hearing_aid_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "ear with hearing aid",
@@ -419,9 +487,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_light-skin-tone_1f9bb-1f3fb_1f3fb.png"
         }
     },
@@ -431,9 +499,11 @@
         "code": "1f9bb-1f3fc",
         "emoji": "🦻🏼",
         "title": "Ear with Hearing Aid: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":ear_with_hearing_aid_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ear_with_hearing_aid_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "ear with hearing aid",
@@ -457,9 +527,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_medium-light-skin-tone_1f9bb-1f3fc_1f3fc.png"
         }
     },
@@ -469,9 +539,11 @@
         "code": "1f9bb-1f3fd",
         "emoji": "🦻🏽",
         "title": "Ear with Hearing Aid: Medium Skin Tone",
-        "shortcodes": [
-            ":ear_with_hearing_aid_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ear_with_hearing_aid_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "ear with hearing aid",
@@ -495,9 +567,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_medium-skin-tone_1f9bb-1f3fd_1f3fd.png"
         }
     },
@@ -507,9 +579,11 @@
         "code": "1f9bb-1f3fe",
         "emoji": "🦻🏾",
         "title": "Ear with Hearing Aid: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":ear_with_hearing_aid_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ear_with_hearing_aid_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "ear with hearing aid",
@@ -533,9 +607,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_medium-dark-skin-tone_1f9bb-1f3fe_1f3fe.png"
         }
     },
@@ -545,9 +619,11 @@
         "code": "1f9bb-1f3ff",
         "emoji": "🦻🏿",
         "title": "Ear with Hearing Aid: Dark Skin Tone",
-        "shortcodes": [
-            ":ear_with_hearing_aid_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":ear_with_hearing_aid_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -571,9 +647,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ear-with-hearing-aid_dark-skin-tone_1f9bb-1f3ff_1f3ff.png"
         }
     },
@@ -583,9 +659,17 @@
         "code": "1f9cf",
         "emoji": "🧏",
         "title": "Deaf Person",
-        "shortcodes": [
-            ":deaf_person:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":deaf_person:"
+            ],
+            "slack": [
+                ":deaf_person:"
+            ],
+            "emojipedia": [
+                ":deaf_person:"
+            ]
+        },
         "tags": [
             "accessibility",
             "deaf",
@@ -620,9 +704,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_1f9cf.png"
         }
     },
@@ -632,9 +716,11 @@
         "code": "1f9cf-1f3fb",
         "emoji": "🧏🏻",
         "title": "Deaf Person: Light Skin Tone",
-        "shortcodes": [
-            ":deaf_person_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_person_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "deaf",
@@ -672,9 +758,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_light-skin-tone_1f9cf-1f3fb_1f3fb.png"
         }
     },
@@ -684,9 +770,11 @@
         "code": "1f9cf-1f3fc",
         "emoji": "🧏🏼",
         "title": "Deaf Person: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":deaf_person_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_person_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "deaf",
@@ -724,9 +812,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_medium-light-skin-tone_1f9cf-1f3fc_1f3fc.png"
         }
     },
@@ -736,9 +824,11 @@
         "code": "1f9cf-1f3fd",
         "emoji": "🧏🏽",
         "title": "Deaf Person: Medium Skin Tone",
-        "shortcodes": [
-            ":deaf_person_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_person_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "deaf",
@@ -776,9 +866,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_medium-skin-tone_1f9cf-1f3fd_1f3fd.png"
         }
     },
@@ -788,9 +878,11 @@
         "code": "1f9cf-1f3fe",
         "emoji": "🧏🏾",
         "title": "Deaf Person: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_person_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_person_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "deaf",
@@ -828,9 +920,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_medium-dark-skin-tone_1f9cf-1f3fe_1f3fe.png"
         }
     },
@@ -840,9 +932,11 @@
         "code": "1f9cf-1f3ff",
         "emoji": "🧏🏿",
         "title": "Deaf Person: Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_person_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_person_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -880,9 +974,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-person_dark-skin-tone_1f9cf-1f3ff_1f3ff.png"
         }
     },
@@ -892,9 +986,17 @@
         "code": "1f9cf-200d-2642-fe0f",
         "emoji": "🧏‍♂️",
         "title": "Deaf Man",
-        "shortcodes": [
-            ":deaf_man:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":deaf_man:"
+            ],
+            "slack": [
+                ":deaf_man:"
+            ],
+            "emojipedia": [
+                ":deaf_man:"
+            ]
+        },
         "tags": [
             "deaf",
             "man"
@@ -929,9 +1031,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man_1f9cf-200d-2642-fe0f.png"
         }
     },
@@ -941,9 +1043,11 @@
         "code": "1f9cf-1f3fb-200d-2642-fe0f",
         "emoji": "🧏🏻‍♂️",
         "title": "Deaf Man: Light Skin Tone",
-        "shortcodes": [
-            ":deaf_man_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_man_light_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "light skin tone",
@@ -981,9 +1085,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man-light-skin-tone_1f9cf-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -993,9 +1097,11 @@
         "code": "1f9cf-1f3fc-200d-2642-fe0f",
         "emoji": "🧏🏼‍♂️",
         "title": "Deaf Man: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":deaf_man_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_man_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "man",
@@ -1033,9 +1139,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man-medium-light-skin-tone_1f9cf-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -1045,9 +1151,11 @@
         "code": "1f9cf-1f3fd-200d-2642-fe0f",
         "emoji": "🧏🏽‍♂️",
         "title": "Deaf Man: Medium Skin Tone",
-        "shortcodes": [
-            ":deaf_man_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_man_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "man",
@@ -1085,9 +1193,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man-medium-skin-tone_1f9cf-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -1097,9 +1205,11 @@
         "code": "1f9cf-1f3fe-200d-2642-fe0f",
         "emoji": "🧏🏾‍♂️",
         "title": "Deaf Man: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_man_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_man_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "man",
@@ -1137,9 +1247,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man-medium-dark-skin-tone_1f9cf-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -1149,9 +1259,11 @@
         "code": "1f9cf-1f3ff-200d-2642-fe0f",
         "emoji": "🧏🏿‍♂️",
         "title": "Deaf Man: Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_man_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_man_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "deaf",
@@ -1189,9 +1301,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-man-dark-skin-tone_1f9cf-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -1201,9 +1313,17 @@
         "code": "1f9cf-200d-2640-fe0f",
         "emoji": "🧏‍♀️",
         "title": "Deaf Woman",
-        "shortcodes": [
-            ":deaf_woman:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":deaf_woman:"
+            ],
+            "slack": [
+                ":deaf_woman:"
+            ],
+            "emojipedia": [
+                ":deaf_woman:"
+            ]
+        },
         "tags": [
             "deaf",
             "woman"
@@ -1238,9 +1358,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman_1f9cf-200d-2640-fe0f.png"
         }
     },
@@ -1250,9 +1370,11 @@
         "code": "1f9cf-1f3fb-200d-2640-fe0f",
         "emoji": "🧏🏻‍♀️",
         "title": "Deaf Woman: Light Skin Tone",
-        "shortcodes": [
-            ":deaf_woman_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_woman_light_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "light skin tone",
@@ -1290,9 +1412,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman-light-skin-tone_1f9cf-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -1302,9 +1424,11 @@
         "code": "1f9cf-1f3fc-200d-2640-fe0f",
         "emoji": "🧏🏼‍♀️",
         "title": "Deaf Woman: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":deaf_woman_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_woman_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "medium-light skin tone",
@@ -1342,9 +1466,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman-medium-light-skin-tone_1f9cf-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -1354,9 +1478,11 @@
         "code": "1f9cf-1f3fd-200d-2640-fe0f",
         "emoji": "🧏🏽‍♀️",
         "title": "Deaf Woman: Medium Skin Tone",
-        "shortcodes": [
-            ":deaf_woman_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_woman_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "medium skin tone",
@@ -1394,9 +1520,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman-medium-skin-tone_1f9cf-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -1406,9 +1532,11 @@
         "code": "1f9cf-1f3fe-200d-2640-fe0f",
         "emoji": "🧏🏾‍♀️",
         "title": "Deaf Woman: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_woman_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_woman_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "deaf",
             "medium-dark skin tone",
@@ -1446,9 +1574,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman-medium-dark-skin-tone_1f9cf-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -1458,9 +1586,11 @@
         "code": "1f9cf-1f3ff-200d-2640-fe0f",
         "emoji": "🧏🏿‍♀️",
         "title": "Deaf Woman: Dark Skin Tone",
-        "shortcodes": [
-            ":deaf_woman_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":deaf_woman_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "deaf",
@@ -1498,9 +1628,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "deaf-woman-dark-skin-tone_1f9cf-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -1513,10 +1643,17 @@
         "aliases": [
             "Standing Person"
         ],
-        "shortcodes": [
-            ":standing_person:",
-            ":person_standing:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":standing_person:"
+            ],
+            "slack": [
+                ":standing_person:"
+            ],
+            "emojipedia": [
+                ":person_standing:"
+            ]
+        },
         "tags": [
             "person standing",
             "stand",
@@ -1549,9 +1686,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_1f9cd.png"
         }
     },
@@ -1561,9 +1698,11 @@
         "code": "1f9cd-1f3fb",
         "emoji": "🧍🏻",
         "title": "Person Standing: Light Skin Tone",
-        "shortcodes": [
-            ":person_standing_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_standing_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "person standing",
@@ -1599,9 +1738,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_light-skin-tone_1f9cd-1f3fb_1f3fb.png"
         }
     },
@@ -1611,9 +1750,11 @@
         "code": "1f9cd-1f3fc",
         "emoji": "🧍🏼",
         "title": "Person Standing: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_standing_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_standing_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "person standing",
@@ -1649,9 +1790,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_medium-light-skin-tone_1f9cd-1f3fc_1f3fc.png"
         }
     },
@@ -1661,9 +1802,11 @@
         "code": "1f9cd-1f3fd",
         "emoji": "🧍🏽",
         "title": "Person Standing: Medium Skin Tone",
-        "shortcodes": [
-            ":person_standing_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_standing_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "person standing",
@@ -1699,9 +1842,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_medium-skin-tone_1f9cd-1f3fd_1f3fd.png"
         }
     },
@@ -1711,9 +1854,11 @@
         "code": "1f9cd-1f3fe",
         "emoji": "🧍🏾",
         "title": "Person Standing: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_standing_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_standing_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "person standing",
@@ -1749,9 +1894,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_medium-dark-skin-tone_1f9cd-1f3fe_1f3fe.png"
         }
     },
@@ -1761,9 +1906,11 @@
         "code": "1f9cd-1f3ff",
         "emoji": "🧍🏿",
         "title": "Person Standing: Dark Skin Tone",
-        "shortcodes": [
-            ":person_standing_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_standing_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "person standing",
@@ -1799,9 +1946,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-standing_dark-skin-tone_1f9cd-1f3ff_1f3ff.png"
         }
     },
@@ -1811,10 +1958,17 @@
         "code": "1f9cd-200d-2642-fe0f",
         "emoji": "🧍‍♂️",
         "title": "Man Standing",
-        "shortcodes": [
-            ":man_standing:",
-            ":standing_man:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":man_standing:"
+            ],
+            "emojipedia": [
+                ":man_standing:"
+            ],
+            "github": [
+                ":standing_man:"
+            ]
+        },
         "tags": [
             "man",
             "standing"
@@ -1849,9 +2003,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing_1f9cd-200d-2642-fe0f.png"
         }
     },
@@ -1861,9 +2015,11 @@
         "code": "1f9cd-1f3fb-200d-2642-fe0f",
         "emoji": "🧍🏻‍♂️",
         "title": "Man Standing: Light Skin Tone",
-        "shortcodes": [
-            ":man_standing_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_standing_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "man",
@@ -1901,9 +2057,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing-light-skin-tone_1f9cd-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -1913,9 +2069,11 @@
         "code": "1f9cd-1f3fc-200d-2642-fe0f",
         "emoji": "🧍🏼‍♂️",
         "title": "Man Standing: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_standing_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_standing_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "medium-light skin tone",
@@ -1953,9 +2111,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing-medium-light-skin-tone_1f9cd-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -1965,9 +2123,11 @@
         "code": "1f9cd-1f3fd-200d-2642-fe0f",
         "emoji": "🧍🏽‍♂️",
         "title": "Man Standing: Medium Skin Tone",
-        "shortcodes": [
-            ":man_standing_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_standing_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "medium skin tone",
@@ -2005,9 +2165,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing-medium-skin-tone_1f9cd-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -2017,9 +2177,11 @@
         "code": "1f9cd-1f3fe-200d-2642-fe0f",
         "emoji": "🧍🏾‍♂️",
         "title": "Man Standing: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_standing_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_standing_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "man",
             "medium-dark skin tone",
@@ -2057,9 +2219,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing-medium-dark-skin-tone_1f9cd-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -2069,9 +2231,11 @@
         "code": "1f9cd-1f3ff-200d-2642-fe0f",
         "emoji": "🧍🏿‍♂️",
         "title": "Man Standing: Dark Skin Tone",
-        "shortcodes": [
-            ":man_standing_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_standing_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "man",
@@ -2109,9 +2273,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-standing-dark-skin-tone_1f9cd-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -2121,10 +2285,17 @@
         "code": "1f9cd-200d-2640-fe0f",
         "emoji": "🧍‍♀️",
         "title": "Woman Standing",
-        "shortcodes": [
-            ":woman_standing:",
-            ":standing_woman:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":woman_standing:"
+            ],
+            "emojipedia": [
+                ":woman_standing:"
+            ],
+            "github": [
+                ":standing_woman:"
+            ]
+        },
         "tags": [
             "standing",
             "woman"
@@ -2159,9 +2330,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing_1f9cd-200d-2640-fe0f.png"
         }
     },
@@ -2171,9 +2342,11 @@
         "code": "1f9cd-1f3fb-200d-2640-fe0f",
         "emoji": "🧍🏻‍♀️",
         "title": "Woman Standing: Light Skin Tone",
-        "shortcodes": [
-            ":woman_standing_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_standing_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "standing",
@@ -2211,9 +2384,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing-light-skin-tone_1f9cd-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -2223,9 +2396,11 @@
         "code": "1f9cd-1f3fc-200d-2640-fe0f",
         "emoji": "🧍🏼‍♀️",
         "title": "Woman Standing: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_standing_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_standing_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "standing",
@@ -2263,9 +2438,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing-medium-light-skin-tone_1f9cd-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -2275,9 +2450,11 @@
         "code": "1f9cd-1f3fd-200d-2640-fe0f",
         "emoji": "🧍🏽‍♀️",
         "title": "Woman Standing: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_standing_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_standing_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "standing",
@@ -2315,9 +2492,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing-medium-skin-tone_1f9cd-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -2327,9 +2504,11 @@
         "code": "1f9cd-1f3fe-200d-2640-fe0f",
         "emoji": "🧍🏾‍♀️",
         "title": "Woman Standing: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_standing_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_standing_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "standing",
@@ -2367,9 +2546,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing-medium-dark-skin-tone_1f9cd-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -2379,9 +2558,11 @@
         "code": "1f9cd-1f3ff-200d-2640-fe0f",
         "emoji": "🧍🏿‍♀️",
         "title": "Woman Standing: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_standing_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_standing_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "standing",
@@ -2419,9 +2600,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-standing-dark-skin-tone_1f9cd-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -2434,10 +2615,17 @@
         "aliases": [
             "Kneeling Person"
         ],
-        "shortcodes": [
-            ":kneeling_person:",
-            ":person_kneeling:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":kneeling_person:"
+            ],
+            "slack": [
+                ":kneeling_person:"
+            ],
+            "emojipedia": [
+                ":person_kneeling:"
+            ]
+        },
         "tags": [
             "kneel",
             "kneeling",
@@ -2470,9 +2658,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_1f9ce.png"
         }
     },
@@ -2482,9 +2670,11 @@
         "code": "1f9ce-1f3fb",
         "emoji": "🧎🏻",
         "title": "Person Kneeling: Light Skin Tone",
-        "shortcodes": [
-            ":person_kneeling_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_kneeling_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneel",
             "kneeling",
@@ -2520,9 +2710,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_light-skin-tone_1f9ce-1f3fb_1f3fb.png"
         }
     },
@@ -2532,9 +2722,11 @@
         "code": "1f9ce-1f3fc",
         "emoji": "🧎🏼",
         "title": "Person Kneeling: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_kneeling_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_kneeling_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneel",
             "kneeling",
@@ -2570,9 +2762,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_medium-light-skin-tone_1f9ce-1f3fc_1f3fc.png"
         }
     },
@@ -2582,9 +2774,11 @@
         "code": "1f9ce-1f3fd",
         "emoji": "🧎🏽",
         "title": "Person Kneeling: Medium Skin Tone",
-        "shortcodes": [
-            ":person_kneeling_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_kneeling_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "kneel",
             "kneeling",
@@ -2620,9 +2814,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_medium-skin-tone_1f9ce-1f3fd_1f3fd.png"
         }
     },
@@ -2632,9 +2826,11 @@
         "code": "1f9ce-1f3fe",
         "emoji": "🧎🏾",
         "title": "Person Kneeling: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_kneeling_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_kneeling_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "kneel",
             "kneeling",
@@ -2670,9 +2866,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_medium-dark-skin-tone_1f9ce-1f3fe_1f3fe.png"
         }
     },
@@ -2682,9 +2878,11 @@
         "code": "1f9ce-1f3ff",
         "emoji": "🧎🏿",
         "title": "Person Kneeling: Dark Skin Tone",
-        "shortcodes": [
-            ":person_kneeling_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_kneeling_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "kneel",
@@ -2720,9 +2918,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "person-kneeling_dark-skin-tone_1f9ce-1f3ff_1f3ff.png"
         }
     },
@@ -2732,10 +2930,17 @@
         "code": "1f9ce-200d-2642-fe0f",
         "emoji": "🧎‍♂️",
         "title": "Man Kneeling",
-        "shortcodes": [
-            ":man_kneeling:",
-            ":kneeling_man:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":man_kneeling:"
+            ],
+            "emojipedia": [
+                ":man_kneeling:"
+            ],
+            "github": [
+                ":kneeling_man:"
+            ]
+        },
         "tags": [
             "kneeling",
             "man"
@@ -2770,9 +2975,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling_1f9ce-200d-2642-fe0f.png"
         }
     },
@@ -2782,9 +2987,11 @@
         "code": "1f9ce-1f3fb-200d-2642-fe0f",
         "emoji": "🧎🏻‍♂️",
         "title": "Man Kneeling: Light Skin Tone",
-        "shortcodes": [
-            ":man_kneeling_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_kneeling_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "light skin tone",
@@ -2822,9 +3029,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling-light-skin-tone_1f9ce-1f3fb-200d-2642-fe0f.png"
         }
     },
@@ -2834,9 +3041,11 @@
         "code": "1f9ce-1f3fc-200d-2642-fe0f",
         "emoji": "🧎🏼‍♂️",
         "title": "Man Kneeling: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_kneeling_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_kneeling_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "man",
@@ -2874,9 +3083,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling-medium-light-skin-tone_1f9ce-1f3fc-200d-2642-fe0f.png"
         }
     },
@@ -2886,9 +3095,11 @@
         "code": "1f9ce-1f3fd-200d-2642-fe0f",
         "emoji": "🧎🏽‍♂️",
         "title": "Man Kneeling: Medium Skin Tone",
-        "shortcodes": [
-            ":man_kneeling_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_kneeling_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "man",
@@ -2926,9 +3137,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling-medium-skin-tone_1f9ce-1f3fd-200d-2642-fe0f.png"
         }
     },
@@ -2938,9 +3149,11 @@
         "code": "1f9ce-1f3fe-200d-2642-fe0f",
         "emoji": "🧎🏾‍♂️",
         "title": "Man Kneeling: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_kneeling_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_kneeling_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "man",
@@ -2978,9 +3191,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling-medium-dark-skin-tone_1f9ce-1f3fe-200d-2642-fe0f.png"
         }
     },
@@ -2990,9 +3203,11 @@
         "code": "1f9ce-1f3ff-200d-2642-fe0f",
         "emoji": "🧎🏿‍♂️",
         "title": "Man Kneeling: Dark Skin Tone",
-        "shortcodes": [
-            ":man_kneeling_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_kneeling_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "kneeling",
@@ -3030,9 +3245,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-kneeling-dark-skin-tone_1f9ce-1f3ff-200d-2642-fe0f.png"
         }
     },
@@ -3042,10 +3257,17 @@
         "code": "1f9ce-200d-2640-fe0f",
         "emoji": "🧎‍♀️",
         "title": "Woman Kneeling",
-        "shortcodes": [
-            ":woman_kneeling:",
-            ":kneeling_woman:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":woman_kneeling:"
+            ],
+            "emojipedia": [
+                ":woman_kneeling:"
+            ],
+            "github": [
+                ":kneeling_woman:"
+            ]
+        },
         "tags": [
             "kneeling",
             "woman"
@@ -3080,9 +3302,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling_1f9ce-200d-2640-fe0f.png"
         }
     },
@@ -3092,9 +3314,11 @@
         "code": "1f9ce-1f3fb-200d-2640-fe0f",
         "emoji": "🧎🏻‍♀️",
         "title": "Woman Kneeling: Light Skin Tone",
-        "shortcodes": [
-            ":woman_kneeling_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_kneeling_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "light skin tone",
@@ -3132,9 +3356,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling-light-skin-tone_1f9ce-1f3fb-200d-2640-fe0f.png"
         }
     },
@@ -3144,9 +3368,11 @@
         "code": "1f9ce-1f3fc-200d-2640-fe0f",
         "emoji": "🧎🏼‍♀️",
         "title": "Woman Kneeling: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_kneeling_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_kneeling_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "medium-light skin tone",
@@ -3184,9 +3410,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling-medium-light-skin-tone_1f9ce-1f3fc-200d-2640-fe0f.png"
         }
     },
@@ -3196,9 +3422,11 @@
         "code": "1f9ce-1f3fd-200d-2640-fe0f",
         "emoji": "🧎🏽‍♀️",
         "title": "Woman Kneeling: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_kneeling_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_kneeling_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "medium skin tone",
@@ -3236,9 +3464,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling-medium-skin-tone_1f9ce-1f3fd-200d-2640-fe0f.png"
         }
     },
@@ -3248,9 +3476,11 @@
         "code": "1f9ce-1f3fe-200d-2640-fe0f",
         "emoji": "🧎🏾‍♀️",
         "title": "Woman Kneeling: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_kneeling_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_kneeling_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "kneeling",
             "medium-dark skin tone",
@@ -3288,9 +3518,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling-medium-dark-skin-tone_1f9ce-1f3fe-200d-2640-fe0f.png"
         }
     },
@@ -3300,9 +3530,11 @@
         "code": "1f9ce-1f3ff-200d-2640-fe0f",
         "emoji": "🧎🏿‍♀️",
         "title": "Woman Kneeling: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_kneeling_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_kneeling_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "kneeling",
@@ -3340,9 +3572,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-kneeling-dark-skin-tone_1f9ce-1f3ff-200d-2640-fe0f.png"
         }
     },
@@ -3352,13 +3584,17 @@
         "code": "1f468-200d-1f9af",
         "emoji": "👨‍🦯",
         "title": "Man with White Cane",
-        "aliases": [
-            "Man with Probing Cane"
-        ],
-        "shortcodes": [
-            ":man_with_probing_cane:",
-            ":man_with_white_cane:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":man_with_probing_cane:"
+            ],
+            "slack": [
+                ":man_with_probing_cane:"
+            ],
+            "emojipedia": [
+                ":man_with_white_cane:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3394,9 +3630,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane_1f468-200d-1f9af.png"
         }
     },
@@ -3406,12 +3642,11 @@
         "code": "1f468-1f3fb-200d-1f9af",
         "emoji": "👨🏻‍🦯",
         "title": "Man with White Cane: Light Skin Tone",
-        "aliases": [
-            "Man with Probing Cane: Light Skin Tone"
-        ],
-        "shortcodes": [
-            ":man_with_white_cane_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_white_cane_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3450,9 +3685,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane-light-skin-tone_1f468-1f3fb-200d-1f9af.png"
         }
     },
@@ -3462,12 +3697,11 @@
         "code": "1f468-1f3fc-200d-1f9af",
         "emoji": "👨🏼‍🦯",
         "title": "Man with White Cane: Medium-Light Skin Tone",
-        "aliases": [
-            "Man with Probing Cane: Medium-Light Skin Tone"
-        ],
-        "shortcodes": [
-            ":man_with_white_cane_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_white_cane_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3506,9 +3740,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane-medium-light-skin-tone_1f468-1f3fc-200d-1f9af.png"
         }
     },
@@ -3518,12 +3752,11 @@
         "code": "1f468-1f3fd-200d-1f9af",
         "emoji": "👨🏽‍🦯",
         "title": "Man with White Cane: Medium Skin Tone",
-        "aliases": [
-            "Man with Probing Cane: Medium Skin Tone"
-        ],
-        "shortcodes": [
-            ":man_with_white_cane_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_white_cane_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3562,9 +3795,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane-medium-skin-tone_1f468-1f3fd-200d-1f9af.png"
         }
     },
@@ -3574,12 +3807,11 @@
         "code": "1f468-1f3fe-200d-1f9af",
         "emoji": "👨🏾‍🦯",
         "title": "Man with White Cane: Medium-Dark Skin Tone",
-        "aliases": [
-            "Man with Probing Cane: Medium-Dark Skin Tone"
-        ],
-        "shortcodes": [
-            ":man_with_white_cane_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_white_cane_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3618,9 +3850,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane-medium-dark-skin-tone_1f468-1f3fe-200d-1f9af.png"
         }
     },
@@ -3630,12 +3862,11 @@
         "code": "1f468-1f3ff-200d-1f9af",
         "emoji": "👨🏿‍🦯",
         "title": "Man with White Cane: Dark Skin Tone",
-        "aliases": [
-            "Man with Probing Cane: Dark Skin Tone"
-        ],
-        "shortcodes": [
-            ":man_with_white_cane_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_with_white_cane_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3674,9 +3905,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-with-white-cane-dark-skin-tone_1f468-1f3ff-200d-1f9af.png"
         }
     },
@@ -3686,13 +3917,17 @@
         "code": "1f469-200d-1f9af",
         "emoji": "👩‍🦯",
         "title": "Woman with White Cane",
-        "aliases": [
-            "Woman with Probing Cane"
-        ],
-        "shortcodes": [
-            ":woman_with_probing_cane:",
-            ":woman_with_white_cane:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":woman_with_probing_cane:"
+            ],
+            "slack": [
+                ":woman_with_probing_cane:"
+            ],
+            "emojipedia": [
+                ":woman_with_white_cane:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3728,9 +3963,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane_1f469-200d-1f9af.png"
         }
     },
@@ -3740,12 +3975,11 @@
         "code": "1f469-1f3fb-200d-1f9af",
         "emoji": "👩🏻‍🦯",
         "title": "Woman with White Cane: Light Skin Tone",
-        "aliases": [
-            "Woman with Probing Cane: Light Skin Tone"
-        ],
-        "shortcodes": [
-            ":woman_with_white_cane_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_white_cane_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3784,9 +4018,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane-light-skin-tone_1f469-1f3fb-200d-1f9af.png"
         }
     },
@@ -3796,12 +4030,11 @@
         "code": "1f469-1f3fc-200d-1f9af",
         "emoji": "👩🏼‍🦯",
         "title": "Woman with White Cane: Medium-Light Skin Tone",
-        "aliases": [
-            "Woman with Probing Cane: Medium-Light Skin Tone"
-        ],
-        "shortcodes": [
-            ":woman_with_white_cane_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_white_cane_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3840,9 +4073,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane-medium-light-skin-tone_1f469-1f3fc-200d-1f9af.png"
         }
     },
@@ -3852,12 +4085,11 @@
         "code": "1f469-1f3fd-200d-1f9af",
         "emoji": "👩🏽‍🦯",
         "title": "Woman with White Cane: Medium Skin Tone",
-        "aliases": [
-            "Woman with Probing Cane: Medium Skin Tone"
-        ],
-        "shortcodes": [
-            ":woman_with_white_cane_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_white_cane_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3896,9 +4128,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane-medium-skin-tone_1f469-1f3fd-200d-1f9af.png"
         }
     },
@@ -3908,12 +4140,11 @@
         "code": "1f469-1f3fe-200d-1f9af",
         "emoji": "👩🏾‍🦯",
         "title": "Woman with White Cane: Medium-Dark Skin Tone",
-        "aliases": [
-            "Woman with Probing Cane: Medium-Dark Skin Tone"
-        ],
-        "shortcodes": [
-            ":woman_with_white_cane_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_white_cane_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -3952,9 +4183,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane-medium-dark-skin-tone_1f469-1f3fe-200d-1f9af.png"
         }
     },
@@ -3964,12 +4195,11 @@
         "code": "1f469-1f3ff-200d-1f9af",
         "emoji": "👩🏿‍🦯",
         "title": "Woman with White Cane: Dark Skin Tone",
-        "aliases": [
-            "Woman with Probing Cane: Dark Skin Tone"
-        ],
-        "shortcodes": [
-            ":woman_with_white_cane_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_with_white_cane_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -4008,9 +4238,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-with-white-cane-dark-skin-tone_1f469-1f3ff-200d-1f9af.png"
         }
     },
@@ -4020,9 +4250,17 @@
         "code": "1f468-200d-1f9bc",
         "emoji": "👨‍🦼",
         "title": "Man in Motorized Wheelchair",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":man_in_motorized_wheelchair:"
+            ],
+            "slack": [
+                ":man_in_motorized_wheelchair:"
+            ],
+            "emojipedia": [
+                ":man_in_motorized_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4058,9 +4296,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair_1f468-200d-1f9bc.png"
         }
     },
@@ -4070,9 +4308,11 @@
         "code": "1f468-1f3fb-200d-1f9bc",
         "emoji": "👨🏻‍🦼",
         "title": "Man in Motorized Wheelchair: Light Skin Tone",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_motorized_wheelchair_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "light skin tone",
@@ -4111,9 +4351,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair-light-skin-tone_1f468-1f3fb-200d-1f9bc.png"
         }
     },
@@ -4123,9 +4363,11 @@
         "code": "1f468-1f3fc-200d-1f9bc",
         "emoji": "👨🏼‍🦼",
         "title": "Man in Motorized Wheelchair: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_motorized_wheelchair_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4164,9 +4406,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair-medium-light-skin-tone_1f468-1f3fc-200d-1f9bc.png"
         }
     },
@@ -4176,9 +4418,11 @@
         "code": "1f468-1f3fd-200d-1f9bc",
         "emoji": "👨🏽‍🦼",
         "title": "Man in Motorized Wheelchair: Medium Skin Tone",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_motorized_wheelchair_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4217,9 +4461,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair-medium-skin-tone_1f468-1f3fd-200d-1f9bc.png"
         }
     },
@@ -4229,9 +4473,11 @@
         "code": "1f468-1f3fe-200d-1f9bc",
         "emoji": "👨🏾‍🦼",
         "title": "Man in Motorized Wheelchair: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_motorized_wheelchair_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4270,9 +4516,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair-medium-dark-skin-tone_1f468-1f3fe-200d-1f9bc.png"
         }
     },
@@ -4282,9 +4528,11 @@
         "code": "1f468-1f3ff-200d-1f9bc",
         "emoji": "👨🏿‍🦼",
         "title": "Man in Motorized Wheelchair: Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_motorized_wheelchair_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_motorized_wheelchair_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -4323,9 +4571,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-motorized-wheelchair-dark-skin-tone_1f468-1f3ff-200d-1f9bc.png"
         }
     },
@@ -4335,9 +4583,17 @@
         "code": "1f469-200d-1f9bc",
         "emoji": "👩‍🦼",
         "title": "Woman in Motorized Wheelchair",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":woman_in_motorized_wheelchair:"
+            ],
+            "slack": [
+                ":woman_in_motorized_wheelchair:"
+            ],
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "wheelchair",
@@ -4373,9 +4629,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair_1f469-200d-1f9bc.png"
         }
     },
@@ -4385,9 +4641,11 @@
         "code": "1f469-1f3fb-200d-1f9bc",
         "emoji": "👩🏻‍🦼",
         "title": "Woman in Motorized Wheelchair: Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "light skin tone",
@@ -4426,9 +4684,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair-light-skin-tone_1f469-1f3fb-200d-1f9bc.png"
         }
     },
@@ -4438,9 +4696,11 @@
         "code": "1f469-1f3fc-200d-1f9bc",
         "emoji": "👩🏼‍🦼",
         "title": "Woman in Motorized Wheelchair: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium-light skin tone",
@@ -4479,9 +4739,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair-medium-light-skin-tone_1f469-1f3fc-200d-1f9bc.png"
         }
     },
@@ -4491,9 +4751,11 @@
         "code": "1f469-1f3fd-200d-1f9bc",
         "emoji": "👩🏽‍🦼",
         "title": "Woman in Motorized Wheelchair: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium skin tone",
@@ -4532,9 +4794,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair-medium-skin-tone_1f469-1f3fd-200d-1f9bc.png"
         }
     },
@@ -4544,9 +4806,11 @@
         "code": "1f469-1f3fe-200d-1f9bc",
         "emoji": "👩🏾‍🦼",
         "title": "Woman in Motorized Wheelchair: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium-dark skin tone",
@@ -4585,9 +4849,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair-medium-dark-skin-tone_1f469-1f3fe-200d-1f9bc.png"
         }
     },
@@ -4597,9 +4861,11 @@
         "code": "1f469-1f3ff-200d-1f9bc",
         "emoji": "👩🏿‍🦼",
         "title": "Woman in Motorized Wheelchair: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_motorized_wheelchair_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_motorized_wheelchair_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -4638,9 +4904,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-motorized-wheelchair-dark-skin-tone_1f469-1f3ff-200d-1f9bc.png"
         }
     },
@@ -4650,9 +4916,17 @@
         "code": "1f468-200d-1f9bd",
         "emoji": "👨‍🦽",
         "title": "Man in Manual Wheelchair",
-        "shortcodes": [
-            ":man_in_manual_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":man_in_manual_wheelchair:"
+            ],
+            "slack": [
+                ":man_in_manual_wheelchair:"
+            ],
+            "emojipedia": [
+                ":man_in_manual_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4688,9 +4962,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair_1f468-200d-1f9bd.png"
         }
     },
@@ -4700,9 +4974,11 @@
         "code": "1f468-1f3fb-200d-1f9bd",
         "emoji": "👨🏻‍🦽",
         "title": "Man in Manual Wheelchair: Light Skin Tone",
-        "shortcodes": [
-            ":man_in_manual_wheelchair_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_manual_wheelchair_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "light skin tone",
@@ -4741,9 +5017,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair-light-skin-tone_1f468-1f3fb-200d-1f9bd.png"
         }
     },
@@ -4753,9 +5029,11 @@
         "code": "1f468-1f3fc-200d-1f9bd",
         "emoji": "👨🏼‍🦽",
         "title": "Man in Manual Wheelchair: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_in_manual_wheelchair_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_manual_wheelchair_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4794,9 +5072,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair-medium-light-skin-tone_1f468-1f3fc-200d-1f9bd.png"
         }
     },
@@ -4806,9 +5084,11 @@
         "code": "1f468-1f3fd-200d-1f9bd",
         "emoji": "👨🏽‍🦽",
         "title": "Man in Manual Wheelchair: Medium Skin Tone",
-        "shortcodes": [
-            ":man_in_manual_wheelchair_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_manual_wheelchair_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4847,9 +5127,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair-medium-skin-tone_1f468-1f3fd-200d-1f9bd.png"
         }
     },
@@ -4859,9 +5139,11 @@
         "code": "1f468-1f3fe-200d-1f9bd",
         "emoji": "👨🏾‍🦽",
         "title": "Man in Manual Wheelchair: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_manual_wheelchair_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_manual_wheelchair_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "man",
@@ -4900,9 +5182,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair-medium-dark-skin-tone_1f468-1f3fe-200d-1f9bd.png"
         }
     },
@@ -4912,9 +5194,11 @@
         "code": "1f468-1f3ff-200d-1f9bd",
         "emoji": "👨🏿‍🦽",
         "title": "Man in Manual Wheelchair: Dark Skin Tone",
-        "shortcodes": [
-            ":man_in_manual_wheelchair_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_in_manual_wheelchair_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -4953,9 +5237,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "man-in-manual-wheelchair-dark-skin-tone_1f468-1f3ff-200d-1f9bd.png"
         }
     },
@@ -4965,9 +5249,17 @@
         "code": "1f469-200d-1f9bd",
         "emoji": "👩‍🦽",
         "title": "Woman in Manual Wheelchair",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":woman_in_manual_wheelchair:"
+            ],
+            "slack": [
+                ":woman_in_manual_wheelchair:"
+            ],
+            "emojipedia": [
+                ":woman_in_manual_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "wheelchair",
@@ -5003,9 +5295,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair_1f469-200d-1f9bd.png"
         }
     },
@@ -5015,9 +5307,11 @@
         "code": "1f469-1f3fb-200d-1f9bd",
         "emoji": "👩🏻‍🦽",
         "title": "Woman in Manual Wheelchair: Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_manual_wheelchair_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "light skin tone",
@@ -5056,9 +5350,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair-light-skin-tone_1f469-1f3fb-200d-1f9bd.png"
         }
     },
@@ -5068,9 +5362,11 @@
         "code": "1f469-1f3fc-200d-1f9bd",
         "emoji": "👩🏼‍🦽",
         "title": "Woman in Manual Wheelchair: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_manual_wheelchair_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium-light skin tone",
@@ -5109,9 +5405,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair-medium-light-skin-tone_1f469-1f3fc-200d-1f9bd.png"
         }
     },
@@ -5121,9 +5417,11 @@
         "code": "1f469-1f3fd-200d-1f9bd",
         "emoji": "👩🏽‍🦽",
         "title": "Woman in Manual Wheelchair: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_manual_wheelchair_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium skin tone",
@@ -5162,9 +5460,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair-medium-skin-tone_1f469-1f3fd-200d-1f9bd.png"
         }
     },
@@ -5174,9 +5472,11 @@
         "code": "1f469-1f3fe-200d-1f9bd",
         "emoji": "👩🏾‍🦽",
         "title": "Woman in Manual Wheelchair: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_manual_wheelchair_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "medium-dark skin tone",
@@ -5215,9 +5515,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair-medium-dark-skin-tone_1f469-1f3fe-200d-1f9bd.png"
         }
     },
@@ -5227,9 +5527,11 @@
         "code": "1f469-1f3ff-200d-1f9bd",
         "emoji": "👩🏿‍🦽",
         "title": "Woman in Manual Wheelchair: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_in_manual_wheelchair_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_in_manual_wheelchair_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "accessibility",
             "dark skin tone",
@@ -5268,9 +5570,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-in-manual-wheelchair-dark-skin-tone_1f469-1f3ff-200d-1f9bd.png"
         }
     },
@@ -5285,9 +5587,17 @@
             "Gender Neutral Couple",
             "Gender Nonconforming Couple"
         ],
-        "shortcodes": [
-            ":people_holding_hands:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":people_holding_hands:"
+            ],
+            "slack": [
+                ":people_holding_hands:"
+            ],
+            "emojipedia": [
+                ":people_holding_hands:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -5395,9 +5705,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands_1f9d1-200d-1f91d-200d-1f9d1.png"
         }
     },
@@ -5407,9 +5717,11 @@
         "code": "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏻‍🤝‍🧑🏻",
         "title": "People Holding Hands: Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -5521,9 +5833,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-light-skin-tone_1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb.png"
         }
     },
@@ -5533,9 +5845,11 @@
         "code": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏼‍🤝‍🧑🏻",
         "title": "People Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_light_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_light_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -5648,9 +5962,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-light-skin-tone-light-skin-tone_1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb.png"
         }
     },
@@ -5660,9 +5974,11 @@
         "code": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏼‍🤝‍🧑🏼",
         "title": "People Holding Hands: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -5774,9 +6090,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-light-skin-tone_1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc.png"
         }
     },
@@ -5786,9 +6102,11 @@
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏽‍🤝‍🧑🏻",
         "title": "People Holding Hands: Medium Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -5901,9 +6219,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-skin-tone-light-skin-tone_1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb.png"
         }
     },
@@ -5913,9 +6231,11 @@
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏽‍🤝‍🧑🏼",
         "title": "People Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6028,9 +6348,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-skin-tone-medium-light-skin-tone_1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc.png"
         }
     },
@@ -6040,9 +6360,11 @@
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏽‍🤝‍🧑🏽",
         "title": "People Holding Hands: Medium Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6154,9 +6476,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-skin-tone_1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd.png"
         }
     },
@@ -6166,9 +6488,11 @@
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏾‍🤝‍🧑🏻",
         "title": "People Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6281,9 +6605,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-dark-skin-tone-light-skin-tone_1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb.png"
         }
     },
@@ -6293,9 +6617,11 @@
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏾‍🤝‍🧑🏼",
         "title": "People Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6408,9 +6734,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone_1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc.png"
         }
     },
@@ -6420,9 +6746,11 @@
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏾‍🤝‍🧑🏽",
         "title": "People Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6535,9 +6863,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-dark-skin-tone-medium-skin-tone_1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd.png"
         }
     },
@@ -6547,9 +6875,11 @@
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe",
         "emoji": "🧑🏾‍🤝‍🧑🏾",
         "title": "People Holding Hands: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -6661,9 +6991,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe.png"
         }
     },
@@ -6673,9 +7003,11 @@
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏿‍🤝‍🧑🏻",
         "title": "People Holding Hands: Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -6788,9 +7120,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-dark-skin-tone-light-skin-tone_1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb.png"
         }
     },
@@ -6800,9 +7132,11 @@
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏿‍🤝‍🧑🏼",
         "title": "People Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -6915,9 +7249,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-dark-skin-tone-medium-light-skin-tone_1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc.png"
         }
     },
@@ -6927,9 +7261,11 @@
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏿‍🤝‍🧑🏽",
         "title": "People Holding Hands: Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -7042,9 +7378,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-dark-skin-tone-medium-skin-tone_1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd.png"
         }
     },
@@ -7054,9 +7390,11 @@
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe",
         "emoji": "🧑🏿‍🤝‍🧑🏾",
         "title": "People Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -7169,9 +7507,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-dark-skin-tone-medium-dark-skin-tone_1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe.png"
         }
     },
@@ -7181,9 +7519,11 @@
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff",
         "emoji": "🧑🏿‍🤝‍🧑🏿",
         "title": "People Holding Hands: Dark Skin Tone",
-        "shortcodes": [
-            ":people_holding_hands_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":people_holding_hands_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -7295,9 +7635,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "people-holding-hands-dark-skin-tone_1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff.png"
         }
     },
@@ -7307,9 +7647,11 @@
         "code": "1f46d-1f3fb",
         "emoji": "👭🏻",
         "title": "Women Holding Hands: Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7337,9 +7679,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands_light-skin-tone_1f46d-1f3fb_1f3fb.png"
         }
     },
@@ -7349,9 +7691,11 @@
         "code": "1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏼‍🤝‍👩🏻",
         "title": "Women Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_light_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_light_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7463,9 +7807,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-light-skin-tone-light-skin-tone_1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb.png"
         }
     },
@@ -7475,9 +7819,11 @@
         "code": "1f46d-1f3fc",
         "emoji": "👭🏼",
         "title": "Women Holding Hands: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7505,9 +7851,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands_medium-light-skin-tone_1f46d-1f3fc_1f3fc.png"
         }
     },
@@ -7517,9 +7863,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏽‍🤝‍👩🏻",
         "title": "Women Holding Hands: Medium Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7631,9 +7979,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-skin-tone-light-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb.png"
         }
     },
@@ -7643,9 +7991,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏽‍🤝‍👩🏼",
         "title": "Women Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7757,9 +8107,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-skin-tone-medium-light-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc.png"
         }
     },
@@ -7769,9 +8119,11 @@
         "code": "1f46d-1f3fd",
         "emoji": "👭🏽",
         "title": "Women Holding Hands: Medium Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7799,9 +8151,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands_medium-skin-tone_1f46d-1f3fd_1f3fd.png"
         }
     },
@@ -7811,9 +8163,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏾‍🤝‍👩🏻",
         "title": "Women Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -7925,9 +8279,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-dark-skin-tone-light-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb.png"
         }
     },
@@ -7937,9 +8291,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏾‍🤝‍👩🏼",
         "title": "Women Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -8051,9 +8407,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc.png"
         }
     },
@@ -8063,9 +8419,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd",
         "emoji": "👩🏾‍🤝‍👩🏽",
         "title": "Women Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -8177,9 +8535,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-medium-dark-skin-tone-medium-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd.png"
         }
     },
@@ -8189,9 +8547,11 @@
         "code": "1f46d-1f3fe",
         "emoji": "👭🏾",
         "title": "Women Holding Hands: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -8219,9 +8579,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands_medium-dark-skin-tone_1f46d-1f3fe_1f3fe.png"
         }
     },
@@ -8231,9 +8591,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏿‍🤝‍👩🏻",
         "title": "Women Holding Hands: Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -8345,9 +8707,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-dark-skin-tone-light-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb.png"
         }
     },
@@ -8357,9 +8719,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏿‍🤝‍👩🏼",
         "title": "Women Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -8471,9 +8835,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-dark-skin-tone-medium-light-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc.png"
         }
     },
@@ -8483,9 +8847,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd",
         "emoji": "👩🏿‍🤝‍👩🏽",
         "title": "Women Holding Hands: Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -8597,9 +8963,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-dark-skin-tone-medium-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd.png"
         }
     },
@@ -8609,9 +8975,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe",
         "emoji": "👩🏿‍🤝‍👩🏾",
         "title": "Women Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -8723,9 +9091,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands-dark-skin-tone-medium-dark-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe.png"
         }
     },
@@ -8735,9 +9103,11 @@
         "code": "1f46d-1f3ff",
         "emoji": "👭🏿",
         "title": "Women Holding Hands: Dark Skin Tone",
-        "shortcodes": [
-            ":women_holding_hands_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":women_holding_hands_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -8765,9 +9135,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "women-holding-hands_dark-skin-tone_1f46d-1f3ff_1f3ff.png"
         }
     },
@@ -8777,9 +9147,11 @@
         "code": "1f46b-1f3fb",
         "emoji": "👫🏻",
         "title": "Woman and Man Holding Hands: Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -8809,9 +9181,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands_light-skin-tone_1f46b-1f3fb_1f3fb.png"
         }
     },
@@ -8821,9 +9193,11 @@
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏻‍🤝‍👨🏼",
         "title": "Woman and Man Holding Hands: Light Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_light_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_light_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -8937,9 +9311,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone_1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -8949,9 +9323,11 @@
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏻‍🤝‍👨🏽",
         "title": "Woman and Man Holding Hands: Light Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_light_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_light_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9065,9 +9441,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-light-skin-tone-medium-skin-tone_1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -9077,9 +9453,11 @@
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏻‍🤝‍👨🏾",
         "title": "Woman and Man Holding Hands: Light Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_light_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_light_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9193,9 +9571,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone_1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe.png"
         }
     },
@@ -9205,9 +9583,11 @@
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏻‍🤝‍👨🏿",
         "title": "Woman and Man Holding Hands: Light Skin Tone, Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_light_skin_tone_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_light_skin_tone_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -9321,9 +9701,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-light-skin-tone-dark-skin-tone_1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff.png"
         }
     },
@@ -9333,9 +9713,11 @@
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏼‍🤝‍👨🏻",
         "title": "Woman and Man Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_light_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_light_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9449,9 +9831,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone_1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -9461,9 +9843,11 @@
         "code": "1f46b-1f3fc",
         "emoji": "👫🏼",
         "title": "Woman and Man Holding Hands: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9493,9 +9877,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands_medium-light-skin-tone_1f46b-1f3fc_1f3fc.png"
         }
     },
@@ -9505,9 +9889,11 @@
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏼‍🤝‍👨🏽",
         "title": "Woman and Man Holding Hands: Medium-Light Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_light_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_light_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9621,9 +10007,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone_1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -9633,9 +10019,11 @@
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏼‍🤝‍👨🏾",
         "title": "Woman and Man Holding Hands: Medium-Light Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -9749,9 +10137,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone_1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe.png"
         }
     },
@@ -9761,9 +10149,11 @@
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏼‍🤝‍👨🏿",
         "title": "Woman and Man Holding Hands: Medium-Light Skin Tone, Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_light_skin_tone_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_light_skin_tone_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -9877,9 +10267,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone_1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff.png"
         }
     },
@@ -9889,9 +10279,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏽‍🤝‍👨🏻",
         "title": "Woman and Man Holding Hands: Medium Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10005,9 +10397,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-skin-tone-light-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -10017,9 +10409,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏽‍🤝‍👨🏼",
         "title": "Woman and Man Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10133,9 +10527,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -10145,9 +10539,11 @@
         "code": "1f46b-1f3fd",
         "emoji": "👫🏽",
         "title": "Woman and Man Holding Hands: Medium Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10177,9 +10573,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands_medium-skin-tone_1f46b-1f3fd_1f3fd.png"
         }
     },
@@ -10189,9 +10585,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏽‍🤝‍👨🏾",
         "title": "Woman and Man Holding Hands: Medium Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10305,9 +10703,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe.png"
         }
     },
@@ -10317,9 +10715,11 @@
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏽‍🤝‍👨🏿",
         "title": "Woman and Man Holding Hands: Medium Skin Tone, Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_skin_tone_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_skin_tone_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -10433,9 +10833,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone_1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff.png"
         }
     },
@@ -10445,9 +10845,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏾‍🤝‍👨🏻",
         "title": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10561,9 +10963,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -10573,9 +10975,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏾‍🤝‍👨🏼",
         "title": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10689,9 +11093,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -10701,9 +11105,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏾‍🤝‍👨🏽",
         "title": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10817,9 +11223,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -10829,9 +11235,11 @@
         "code": "1f46b-1f3fe",
         "emoji": "👫🏾",
         "title": "Woman and Man Holding Hands: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "hand",
@@ -10861,9 +11269,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands_medium-dark-skin-tone_1f46b-1f3fe_1f3fe.png"
         }
     },
@@ -10873,9 +11281,11 @@
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏾‍🤝‍👨🏿",
         "title": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -10989,9 +11399,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone_1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff.png"
         }
     },
@@ -11001,9 +11411,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏿‍🤝‍👨🏻",
         "title": "Woman and Man Holding Hands: Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -11117,9 +11529,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-dark-skin-tone-light-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -11129,9 +11541,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏿‍🤝‍👨🏼",
         "title": "Woman and Man Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -11245,9 +11659,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -11257,9 +11671,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏿‍🤝‍👨🏽",
         "title": "Woman and Man Holding Hands: Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -11373,9 +11789,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -11385,9 +11801,11 @@
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏿‍🤝‍👨🏾",
         "title": "Woman and Man Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -11501,9 +11919,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone_1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe.png"
         }
     },
@@ -11513,9 +11931,11 @@
         "code": "1f46b-1f3ff",
         "emoji": "👫🏿",
         "title": "Woman and Man Holding Hands: Dark Skin Tone",
-        "shortcodes": [
-            ":woman_and_man_holding_hands_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":woman_and_man_holding_hands_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -11545,9 +11965,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "woman-and-man-holding-hands_dark-skin-tone_1f46b-1f3ff_1f3ff.png"
         }
     },
@@ -11557,9 +11977,11 @@
         "code": "1f46c-1f3fb",
         "emoji": "👬🏻",
         "title": "Men Holding Hands: Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -11591,9 +12013,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands_light-skin-tone_1f46c-1f3fb_1f3fb.png"
         }
     },
@@ -11603,9 +12025,11 @@
         "code": "1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏼‍🤝‍👨🏻",
         "title": "Men Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_light_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_light_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -11721,9 +12145,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-light-skin-tone-light-skin-tone_1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -11733,9 +12157,11 @@
         "code": "1f46c-1f3fc",
         "emoji": "👬🏼",
         "title": "Men Holding Hands: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -11767,9 +12193,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands_medium-light-skin-tone_1f46c-1f3fc_1f3fc.png"
         }
     },
@@ -11779,9 +12205,11 @@
         "code": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏽‍🤝‍👨🏻",
         "title": "Men Holding Hands: Medium Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -11897,9 +12325,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-skin-tone-light-skin-tone_1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -11909,9 +12337,11 @@
         "code": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏽‍🤝‍👨🏼",
         "title": "Men Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12027,9 +12457,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-skin-tone-medium-light-skin-tone_1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -12039,9 +12469,11 @@
         "code": "1f46c-1f3fd",
         "emoji": "👬🏽",
         "title": "Men Holding Hands: Medium Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12073,9 +12505,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands_medium-skin-tone_1f46c-1f3fd_1f3fd.png"
         }
     },
@@ -12085,9 +12517,11 @@
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏾‍🤝‍👨🏻",
         "title": "Men Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12203,9 +12637,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-dark-skin-tone-light-skin-tone_1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -12215,9 +12649,11 @@
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏾‍🤝‍👨🏼",
         "title": "Men Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12333,9 +12769,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone_1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -12345,9 +12781,11 @@
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👨🏾‍🤝‍👨🏽",
         "title": "Men Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12463,9 +12901,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-medium-dark-skin-tone-medium-skin-tone_1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -12475,9 +12913,11 @@
         "code": "1f46c-1f3fe",
         "emoji": "👬🏾",
         "title": "Men Holding Hands: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "gemini",
@@ -12509,9 +12949,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands_medium-dark-skin-tone_1f46c-1f3fe_1f3fe.png"
         }
     },
@@ -12521,9 +12961,11 @@
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏿‍🤝‍👨🏻",
         "title": "Men Holding Hands: Dark Skin Tone, Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_dark_skin_tone_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_dark_skin_tone_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -12639,9 +13081,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-dark-skin-tone-light-skin-tone_1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb.png"
         }
     },
@@ -12651,9 +13093,11 @@
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏿‍🤝‍👨🏼",
         "title": "Men Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_dark_skin_tone_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -12769,9 +13213,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-dark-skin-tone-medium-light-skin-tone_1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc.png"
         }
     },
@@ -12781,9 +13225,11 @@
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👨🏿‍🤝‍👨🏽",
         "title": "Men Holding Hands: Dark Skin Tone, Medium Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_dark_skin_tone_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_dark_skin_tone_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -12899,9 +13345,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-dark-skin-tone-medium-skin-tone_1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd.png"
         }
     },
@@ -12911,9 +13357,11 @@
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👨🏿‍🤝‍👨🏾",
         "title": "Men Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -13029,9 +13477,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands-dark-skin-tone-medium-dark-skin-tone_1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe.png"
         }
     },
@@ -13041,9 +13489,11 @@
         "code": "1f46c-1f3ff",
         "emoji": "👬🏿",
         "title": "Men Holding Hands: Dark Skin Tone",
-        "shortcodes": [
-            ":men_holding_hands_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":men_holding_hands_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "couple",
             "dark skin tone",
@@ -13075,9 +13525,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "men-holding-hands_dark-skin-tone_1f46c-1f3ff_1f3ff.png"
         }
     },
@@ -13087,9 +13537,17 @@
         "code": "1f9a7",
         "emoji": "🦧",
         "title": "Orangutan",
-        "shortcodes": [
-            ":orangutan:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":orangutan:"
+            ],
+            "slack": [
+                ":orangutan:"
+            ],
+            "emojipedia": [
+                ":orangutan:"
+            ]
+        },
         "tags": [
             "ape",
             "orangutan"
@@ -13101,9 +13559,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "orangutan_1f9a7.png"
         }
     },
@@ -13116,9 +13574,17 @@
         "aliases": [
             "Seeing Eye Dog"
         ],
-        "shortcodes": [
-            ":guide_dog:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":guide_dog:"
+            ],
+            "slack": [
+                ":guide_dog:"
+            ],
+            "emojipedia": [
+                ":guide_dog:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -13132,9 +13598,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "guide-dog_1f9ae.png"
         }
     },
@@ -13144,9 +13610,17 @@
         "code": "1f415-200d-1f9ba",
         "emoji": "🐕‍🦺",
         "title": "Service Dog",
-        "shortcodes": [
-            ":service_dog:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":service_dog:"
+            ],
+            "slack": [
+                ":service_dog:"
+            ],
+            "emojipedia": [
+                ":service_dog:"
+            ]
+        },
         "tags": [
             "accessibility",
             "assistance",
@@ -13162,9 +13636,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "service-dog_1f415-200d-1f9ba.png"
         }
     },
@@ -13174,9 +13648,17 @@
         "code": "1f9a5",
         "emoji": "🦥",
         "title": "Sloth",
-        "shortcodes": [
-            ":sloth:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":sloth:"
+            ],
+            "slack": [
+                ":sloth:"
+            ],
+            "emojipedia": [
+                ":sloth:"
+            ]
+        },
         "tags": [
             "lazy",
             "sloth",
@@ -13189,9 +13671,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "sloth_1f9a5.png"
         }
     },
@@ -13201,9 +13683,17 @@
         "code": "1f9a6",
         "emoji": "🦦",
         "title": "Otter",
-        "shortcodes": [
-            ":otter:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":otter:"
+            ],
+            "slack": [
+                ":otter:"
+            ],
+            "emojipedia": [
+                ":otter:"
+            ]
+        },
         "tags": [
             "fishing",
             "otter",
@@ -13216,9 +13706,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "otter_1f9a6.png"
         }
     },
@@ -13228,9 +13718,17 @@
         "code": "1f9a8",
         "emoji": "🦨",
         "title": "Skunk",
-        "shortcodes": [
-            ":skunk:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":skunk:"
+            ],
+            "slack": [
+                ":skunk:"
+            ],
+            "emojipedia": [
+                ":skunk:"
+            ]
+        },
         "tags": [
             "skunk",
             "stink"
@@ -13242,9 +13740,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "skunk_1f9a8.png"
         }
     },
@@ -13254,9 +13752,17 @@
         "code": "1f9a9",
         "emoji": "🦩",
         "title": "Flamingo",
-        "shortcodes": [
-            ":flamingo:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":flamingo:"
+            ],
+            "slack": [
+                ":flamingo:"
+            ],
+            "emojipedia": [
+                ":flamingo:"
+            ]
+        },
         "tags": [
             "flamboyant",
             "flamingo",
@@ -13269,9 +13775,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "flamingo_1f9a9.png"
         }
     },
@@ -13281,9 +13787,17 @@
         "code": "1f9c4",
         "emoji": "🧄",
         "title": "Garlic",
-        "shortcodes": [
-            ":garlic:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":garlic:"
+            ],
+            "slack": [
+                ":garlic:"
+            ],
+            "emojipedia": [
+                ":garlic:"
+            ]
+        },
         "tags": [
             "flavoring",
             "garlic"
@@ -13295,9 +13809,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "garlic_1f9c4.png"
         }
     },
@@ -13307,9 +13821,17 @@
         "code": "1f9c5",
         "emoji": "🧅",
         "title": "Onion",
-        "shortcodes": [
-            ":onion:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":onion:"
+            ],
+            "slack": [
+                ":onion:"
+            ],
+            "emojipedia": [
+                ":onion:"
+            ]
+        },
         "tags": [
             "flavoring",
             "onion"
@@ -13321,9 +13843,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "onion_1f9c5.png"
         }
     },
@@ -13333,9 +13855,17 @@
         "code": "1f9c7",
         "emoji": "🧇",
         "title": "Waffle",
-        "shortcodes": [
-            ":waffle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":waffle:"
+            ],
+            "slack": [
+                ":waffle:"
+            ],
+            "emojipedia": [
+                ":waffle:"
+            ]
+        },
         "tags": [
             "breakfast",
             "indecisive",
@@ -13349,9 +13879,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "waffle_1f9c7.png"
         }
     },
@@ -13361,9 +13891,17 @@
         "code": "1f9c6",
         "emoji": "🧆",
         "title": "Falafel",
-        "shortcodes": [
-            ":falafel:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":falafel:"
+            ],
+            "slack": [
+                ":falafel:"
+            ],
+            "emojipedia": [
+                ":falafel:"
+            ]
+        },
         "tags": [
             "chickpea",
             "falafel",
@@ -13376,9 +13914,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "falafel_1f9c6.png"
         }
     },
@@ -13388,9 +13926,17 @@
         "code": "1f9c8",
         "emoji": "🧈",
         "title": "Butter",
-        "shortcodes": [
-            ":butter:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":butter:"
+            ],
+            "slack": [
+                ":butter:"
+            ],
+            "emojipedia": [
+                ":butter:"
+            ]
+        },
         "tags": [
             "butter",
             "dairy"
@@ -13402,9 +13948,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "butter_1f9c8.png"
         }
     },
@@ -13414,9 +13960,17 @@
         "code": "1f9aa",
         "emoji": "🦪",
         "title": "Oyster",
-        "shortcodes": [
-            ":oyster:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":oyster:"
+            ],
+            "slack": [
+                ":oyster:"
+            ],
+            "emojipedia": [
+                ":oyster:"
+            ]
+        },
         "tags": [
             "diving",
             "oyster",
@@ -13429,9 +13983,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "oyster_1f9aa.png"
         }
     },
@@ -13444,9 +13998,17 @@
         "aliases": [
             "Juice Box"
         ],
-        "shortcodes": [
-            ":beverage_box:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":beverage_box:"
+            ],
+            "slack": [
+                ":beverage_box:"
+            ],
+            "emojipedia": [
+                ":beverage_box:"
+            ]
+        },
         "tags": [
             "beverage",
             "box",
@@ -13461,9 +14023,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "beverage-box_1f9c3.png"
         }
     },
@@ -13480,10 +14042,17 @@
             "Maté",
             "Mate Drink"
         ],
-        "shortcodes": [
-            ":mate:",
-            ":mate_drink:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mate:"
+            ],
+            "emojipedia": [
+                ":mate:"
+            ],
+            "slack": [
+                ":mate_drink:"
+            ]
+        },
         "tags": [
             "drink",
             "mate"
@@ -13495,9 +14064,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "mate_1f9c9.png"
         }
     },
@@ -13510,10 +14079,17 @@
         "aliases": [
             "Ice Cube"
         ],
-        "shortcodes": [
-            ":ice_cube:",
-            ":ice:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ice_cube:"
+            ],
+            "slack": [
+                ":ice_cube:"
+            ],
+            "emojipedia": [
+                ":ice:"
+            ]
+        },
         "tags": [
             "cold",
             "ice",
@@ -13527,9 +14103,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ice_1f9ca.png"
         }
     },
@@ -13539,9 +14115,17 @@
         "code": "1f6d5",
         "emoji": "🛕",
         "title": "Hindu Temple",
-        "shortcodes": [
-            ":hindu_temple:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":hindu_temple:"
+            ],
+            "slack": [
+                ":hindu_temple:"
+            ],
+            "emojipedia": [
+                ":hindu_temple:"
+            ]
+        },
         "tags": [
             "hindu",
             "temple"
@@ -13553,9 +14137,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "hindu-temple_1f6d5.png"
         }
     },
@@ -13565,9 +14149,17 @@
         "code": "1f9bd",
         "emoji": "🦽",
         "title": "Manual Wheelchair",
-        "shortcodes": [
-            ":manual_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":manual_wheelchair:"
+            ],
+            "slack": [
+                ":manual_wheelchair:"
+            ],
+            "emojipedia": [
+                ":manual_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "manual wheelchair"
@@ -13579,9 +14171,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "manual-wheelchair_1f9bd.png"
         }
     },
@@ -13591,9 +14183,17 @@
         "code": "1f9bc",
         "emoji": "🦼",
         "title": "Motorized Wheelchair",
-        "shortcodes": [
-            ":motorized_wheelchair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":motorized_wheelchair:"
+            ],
+            "slack": [
+                ":motorized_wheelchair:"
+            ],
+            "emojipedia": [
+                ":motorized_wheelchair:"
+            ]
+        },
         "tags": [
             "accessibility",
             "motorized wheelchair"
@@ -13605,9 +14205,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "motorized-wheelchair_1f9bc.png"
         }
     },
@@ -13620,9 +14220,17 @@
         "aliases": [
             "Tuk Tuk"
         ],
-        "shortcodes": [
-            ":auto_rickshaw:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":auto_rickshaw:"
+            ],
+            "slack": [
+                ":auto_rickshaw:"
+            ],
+            "emojipedia": [
+                ":auto_rickshaw:"
+            ]
+        },
         "tags": [
             "auto rickshaw",
             "tuk tuk"
@@ -13634,9 +14242,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "auto-rickshaw_1f6fa.png"
         }
     },
@@ -13646,9 +14254,17 @@
         "code": "1fa82",
         "emoji": "🪂",
         "title": "Parachute",
-        "shortcodes": [
-            ":parachute:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":parachute:"
+            ],
+            "slack": [
+                ":parachute:"
+            ],
+            "emojipedia": [
+                ":parachute:"
+            ]
+        },
         "tags": [
             "hang-glide",
             "parachute",
@@ -13662,9 +14278,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "parachute_1fa82.png"
         }
     },
@@ -13678,9 +14294,17 @@
             "Saturn",
             "Planet"
         ],
-        "shortcodes": [
-            ":ringed_planet:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ringed_planet:"
+            ],
+            "slack": [
+                ":ringed_planet:"
+            ],
+            "emojipedia": [
+                ":ringed_planet:"
+            ]
+        },
         "tags": [
             "ringed planet",
             "saturn",
@@ -13693,9 +14317,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ringed-planet_1fa90.png"
         }
     },
@@ -13705,9 +14329,17 @@
         "code": "1f93f",
         "emoji": "🤿",
         "title": "Diving Mask",
-        "shortcodes": [
-            ":diving_mask:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":diving_mask:"
+            ],
+            "slack": [
+                ":diving_mask:"
+            ],
+            "emojipedia": [
+                ":diving_mask:"
+            ]
+        },
         "tags": [
             "diving",
             "diving mask",
@@ -13721,9 +14353,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "diving-mask_1f93f.png"
         }
     },
@@ -13733,10 +14365,20 @@
         "code": "1fa80",
         "emoji": "🪀",
         "title": "Yo-Yo",
-        "shortcodes": [
-            ":yo_yo:",
-            ":yo-yo:"
+        "aliases": [
+            "Yoyo"
         ],
+        "shortcodes": {
+            "github": [
+                ":yo_yo:"
+            ],
+            "emojipedia": [
+                ":yo_yo:"
+            ],
+            "slack": [
+                ":yo-yo:"
+            ]
+        },
         "tags": [
             "fluctuate",
             "toy",
@@ -13749,9 +14391,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "yo-yo_1fa80.png"
         }
     },
@@ -13761,9 +14403,17 @@
         "code": "1fa81",
         "emoji": "🪁",
         "title": "Kite",
-        "shortcodes": [
-            ":kite:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":kite:"
+            ],
+            "slack": [
+                ":kite:"
+            ],
+            "emojipedia": [
+                ":kite:"
+            ]
+        },
         "tags": [
             "fly",
             "kite",
@@ -13776,9 +14426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "kite_1fa81.png"
         }
     },
@@ -13788,9 +14438,17 @@
         "code": "1f9ba",
         "emoji": "🦺",
         "title": "Safety Vest",
-        "shortcodes": [
-            ":safety_vest:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":safety_vest:"
+            ],
+            "slack": [
+                ":safety_vest:"
+            ],
+            "emojipedia": [
+                ":safety_vest:"
+            ]
+        },
         "tags": [
             "emergency",
             "safety",
@@ -13803,9 +14461,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "safety-vest_1f9ba.png"
         }
     },
@@ -13819,9 +14477,17 @@
             "Saree",
             "Shari"
         ],
-        "shortcodes": [
-            ":sari:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":sari:"
+            ],
+            "slack": [
+                ":sari:"
+            ],
+            "emojipedia": [
+                ":sari:"
+            ]
+        },
         "tags": [
             "clothing",
             "dress",
@@ -13834,9 +14500,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "sari_1f97b.png"
         }
     },
@@ -13846,10 +14512,17 @@
         "code": "1fa71",
         "emoji": "🩱",
         "title": "One-Piece Swimsuit",
-        "shortcodes": [
-            ":one_piece_swimsuit:",
-            ":one-piece_swimsuit:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":one_piece_swimsuit:"
+            ],
+            "emojipedia": [
+                ":one_piece_swimsuit:"
+            ],
+            "slack": [
+                ":one-piece_swimsuit:"
+            ]
+        },
         "tags": [
             "bathing suit",
             "one-piece swimsuit"
@@ -13861,9 +14534,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "one-piece-swimsuit_1fa71.png"
         }
     },
@@ -13873,10 +14546,17 @@
         "code": "1fa72",
         "emoji": "🩲",
         "title": "Briefs",
-        "shortcodes": [
-            ":briefs:",
-            ":swim_brief:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":briefs:"
+            ],
+            "emojipedia": [
+                ":briefs:"
+            ],
+            "github": [
+                ":swim_brief:"
+            ]
+        },
         "tags": [
             "bathing suit",
             "briefs",
@@ -13891,9 +14571,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "briefs_1fa72.png"
         }
     },
@@ -13903,9 +14583,17 @@
         "code": "1fa73",
         "emoji": "🩳",
         "title": "Shorts",
-        "shortcodes": [
-            ":shorts:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shorts:"
+            ],
+            "slack": [
+                ":shorts:"
+            ],
+            "emojipedia": [
+                ":shorts:"
+            ]
+        },
         "tags": [
             "bathing suit",
             "pants",
@@ -13919,9 +14607,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "shorts_1fa73.png"
         }
     },
@@ -13934,9 +14622,17 @@
         "aliases": [
             "Pointe Shoe"
         ],
-        "shortcodes": [
-            ":ballet_shoes:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ballet_shoes:"
+            ],
+            "slack": [
+                ":ballet_shoes:"
+            ],
+            "emojipedia": [
+                ":ballet_shoes:"
+            ]
+        },
         "tags": [
             "ballet",
             "ballet shoes",
@@ -13949,9 +14645,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "ballet-shoes_1fa70.png"
         }
     },
@@ -13961,9 +14657,17 @@
         "code": "1fa95",
         "emoji": "🪕",
         "title": "Banjo",
-        "shortcodes": [
-            ":banjo:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":banjo:"
+            ],
+            "slack": [
+                ":banjo:"
+            ],
+            "emojipedia": [
+                ":banjo:"
+            ]
+        },
         "tags": [
             "banjo",
             "music",
@@ -13976,9 +14680,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "banjo_1fa95.png"
         }
     },
@@ -13988,9 +14692,20 @@
         "code": "1fa94",
         "emoji": "🪔",
         "title": "Diya Lamp",
-        "shortcodes": [
-            ":diya_lamp:"
+        "aliases": [
+            "Oil Lamp"
         ],
+        "shortcodes": {
+            "github": [
+                ":diya_lamp:"
+            ],
+            "slack": [
+                ":diya_lamp:"
+            ],
+            "emojipedia": [
+                ":diya_lamp:"
+            ]
+        },
         "tags": [
             "diya",
             "lamp",
@@ -14003,9 +14718,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "diya-lamp_1fa94.png"
         }
     },
@@ -14015,9 +14730,17 @@
         "code": "1fa93",
         "emoji": "🪓",
         "title": "Axe",
-        "shortcodes": [
-            ":axe:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":axe:"
+            ],
+            "slack": [
+                ":axe:"
+            ],
+            "emojipedia": [
+                ":axe:"
+            ]
+        },
         "tags": [
             "axe",
             "chop",
@@ -14032,9 +14755,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "axe_1fa93.png"
         }
     },
@@ -14047,10 +14770,17 @@
         "aliases": [
             "Probing Cane"
         ],
-        "shortcodes": [
-            ":probing_cane:",
-            ":white_cane:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":probing_cane:"
+            ],
+            "slack": [
+                ":probing_cane:"
+            ],
+            "emojipedia": [
+                ":white_cane:"
+            ]
+        },
         "tags": [
             "accessibility",
             "blind",
@@ -14063,9 +14793,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "white-cane_1f9af.png"
         }
     },
@@ -14080,9 +14810,17 @@
             "Menstruation",
             "Period"
         ],
-        "shortcodes": [
-            ":drop_of_blood:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":drop_of_blood:"
+            ],
+            "slack": [
+                ":drop_of_blood:"
+            ],
+            "emojipedia": [
+                ":drop_of_blood:"
+            ]
+        },
         "tags": [
             "bleed",
             "blood donation",
@@ -14098,9 +14836,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "drop-of-blood_1fa78.png"
         }
     },
@@ -14110,9 +14848,21 @@
         "code": "1fa79",
         "emoji": "🩹",
         "title": "Adhesive Bandage",
-        "shortcodes": [
-            ":adhesive_bandage:"
+        "aliases": [
+            "Band Aid",
+            "Plaster"
         ],
+        "shortcodes": {
+            "github": [
+                ":adhesive_bandage:"
+            ],
+            "slack": [
+                ":adhesive_bandage:"
+            ],
+            "emojipedia": [
+                ":adhesive_bandage:"
+            ]
+        },
         "tags": [
             "adhesive bandage",
             "bandage"
@@ -14124,9 +14874,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "adhesive-bandage_1fa79.png"
         }
     },
@@ -14136,9 +14886,17 @@
         "code": "1fa7a",
         "emoji": "🩺",
         "title": "Stethoscope",
-        "shortcodes": [
-            ":stethoscope:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":stethoscope:"
+            ],
+            "slack": [
+                ":stethoscope:"
+            ],
+            "emojipedia": [
+                ":stethoscope:"
+            ]
+        },
         "tags": [
             "doctor",
             "heart",
@@ -14152,9 +14910,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "stethoscope_1fa7a.png"
         }
     },
@@ -14164,9 +14922,17 @@
         "code": "1fa91",
         "emoji": "🪑",
         "title": "Chair",
-        "shortcodes": [
-            ":chair:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":chair:"
+            ],
+            "slack": [
+                ":chair:"
+            ],
+            "emojipedia": [
+                ":chair:"
+            ]
+        },
         "tags": [
             "chair",
             "seat",
@@ -14179,9 +14945,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "chair_1fa91.png"
         }
     },
@@ -14191,9 +14957,17 @@
         "code": "1fa92",
         "emoji": "🪒",
         "title": "Razor",
-        "shortcodes": [
-            ":razor:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":razor:"
+            ],
+            "slack": [
+                ":razor:"
+            ],
+            "emojipedia": [
+                ":razor:"
+            ]
+        },
         "tags": [
             "razor",
             "sharp",
@@ -14206,9 +14980,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "razor_1fa92.png"
         }
     },
@@ -14221,10 +14995,17 @@
         "aliases": [
             "Large Orange Circle"
         ],
-        "shortcodes": [
-            ":orange_circle:",
-            ":large_orange_circle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":orange_circle:"
+            ],
+            "emojipedia": [
+                ":orange_circle:"
+            ],
+            "slack": [
+                ":large_orange_circle:"
+            ]
+        },
         "tags": [
             "circle",
             "orange"
@@ -14236,9 +15017,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-orange-circle_1f7e0.png"
         }
     },
@@ -14251,10 +15032,17 @@
         "aliases": [
             "Large Yellow Circle"
         ],
-        "shortcodes": [
-            ":yellow_circle:",
-            ":large_yellow_circle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":yellow_circle:"
+            ],
+            "emojipedia": [
+                ":yellow_circle:"
+            ],
+            "slack": [
+                ":large_yellow_circle:"
+            ]
+        },
         "tags": [
             "circle",
             "yellow"
@@ -14266,9 +15054,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-yellow-circle_1f7e1.png"
         }
     },
@@ -14281,10 +15069,17 @@
         "aliases": [
             "Large Green Circle"
         ],
-        "shortcodes": [
-            ":green_circle:",
-            ":large_green_circle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":green_circle:"
+            ],
+            "emojipedia": [
+                ":green_circle:"
+            ],
+            "slack": [
+                ":large_green_circle:"
+            ]
+        },
         "tags": [
             "circle",
             "green"
@@ -14296,9 +15091,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-green-circle_1f7e2.png"
         }
     },
@@ -14311,10 +15106,17 @@
         "aliases": [
             "Large Purple Circle"
         ],
-        "shortcodes": [
-            ":purple_circle:",
-            ":large_purple_circle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":purple_circle:"
+            ],
+            "emojipedia": [
+                ":purple_circle:"
+            ],
+            "slack": [
+                ":large_purple_circle:"
+            ]
+        },
         "tags": [
             "circle",
             "purple"
@@ -14326,9 +15128,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-purple-circle_1f7e3.png"
         }
     },
@@ -14341,10 +15143,17 @@
         "aliases": [
             "Large Brown Circle"
         ],
-        "shortcodes": [
-            ":brown_circle:",
-            ":large_brown_circle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":brown_circle:"
+            ],
+            "emojipedia": [
+                ":brown_circle:"
+            ],
+            "slack": [
+                ":large_brown_circle:"
+            ]
+        },
         "tags": [
             "brown",
             "circle"
@@ -14356,9 +15165,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-brown-circle_1f7e4.png"
         }
     },
@@ -14369,12 +15178,20 @@
         "emoji": "🟥",
         "title": "Red Square",
         "aliases": [
+            "Red Card",
             "Large Red Square"
         ],
-        "shortcodes": [
-            ":red_square:",
-            ":large_red_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":red_square:"
+            ],
+            "emojipedia": [
+                ":red_square:"
+            ],
+            "slack": [
+                ":large_red_square:"
+            ]
+        },
         "tags": [
             "red",
             "square"
@@ -14386,9 +15203,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-red-square_1f7e5.png"
         }
     },
@@ -14401,10 +15218,17 @@
         "aliases": [
             "Large Orange Square"
         ],
-        "shortcodes": [
-            ":orange_square:",
-            ":large_orange_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":orange_square:"
+            ],
+            "emojipedia": [
+                ":orange_square:"
+            ],
+            "slack": [
+                ":large_orange_square:"
+            ]
+        },
         "tags": [
             "orange",
             "square"
@@ -14416,9 +15240,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-orange-square_1f7e7.png"
         }
     },
@@ -14429,12 +15253,20 @@
         "emoji": "🟨",
         "title": "Yellow Square",
         "aliases": [
+            "Yellow Card",
             "Large Yellow Square"
         ],
-        "shortcodes": [
-            ":yellow_square:",
-            ":large_yellow_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":yellow_square:"
+            ],
+            "emojipedia": [
+                ":yellow_square:"
+            ],
+            "slack": [
+                ":large_yellow_square:"
+            ]
+        },
         "tags": [
             "square",
             "yellow"
@@ -14446,9 +15278,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-yellow-square_1f7e8.png"
         }
     },
@@ -14461,10 +15293,17 @@
         "aliases": [
             "Large Green Square"
         ],
-        "shortcodes": [
-            ":green_square:",
-            ":large_green_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":green_square:"
+            ],
+            "emojipedia": [
+                ":green_square:"
+            ],
+            "slack": [
+                ":large_green_square:"
+            ]
+        },
         "tags": [
             "green",
             "square"
@@ -14476,9 +15315,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-green-square_1f7e9.png"
         }
     },
@@ -14491,10 +15330,17 @@
         "aliases": [
             "Large Blue Square"
         ],
-        "shortcodes": [
-            ":blue_square:",
-            ":large_blue_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":blue_square:"
+            ],
+            "emojipedia": [
+                ":blue_square:"
+            ],
+            "slack": [
+                ":large_blue_square:"
+            ]
+        },
         "tags": [
             "blue",
             "square"
@@ -14506,9 +15352,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-blue-square_1f7e6.png"
         }
     },
@@ -14521,10 +15367,17 @@
         "aliases": [
             "Large Purple Square"
         ],
-        "shortcodes": [
-            ":purple_square:",
-            ":large_purple_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":purple_square:"
+            ],
+            "emojipedia": [
+                ":purple_square:"
+            ],
+            "slack": [
+                ":large_purple_square:"
+            ]
+        },
         "tags": [
             "purple",
             "square"
@@ -14536,9 +15389,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-purple-square_1f7ea.png"
         }
     },
@@ -14551,10 +15404,17 @@
         "aliases": [
             "Large Brown Square"
         ],
-        "shortcodes": [
-            ":brown_square:",
-            ":large_brown_square:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":brown_square:"
+            ],
+            "emojipedia": [
+                ":brown_square:"
+            ],
+            "slack": [
+                ":large_brown_square:"
+            ]
+        },
         "tags": [
             "brown",
             "square"
@@ -14566,9 +15426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 14.2"
+                "iOS 14.6"
             ],
-            "folder_id": "271",
+            "folder_id": "285",
             "file_name": "large-brown-square_1f7eb.png"
         }
     }
