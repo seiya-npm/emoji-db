@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "People",
         "sub_category": "Face Smiling",
@@ -9,10 +9,17 @@
             "ROFL",
             "Rolling on the Floor Laughing Face"
         ],
-        "shortcodes": [
-            ":rofl:",
-            ":rolling_on_the_floor_laughing:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":rofl:"
+            ],
+            "slack": [
+                ":rolling_on_the_floor_laughing:"
+            ],
+            "emojipedia": [
+                ":rolling_on_the_floor_laughing:"
+            ]
+        },
         "tags": [
             "face",
             "floor",
@@ -44,9 +51,17 @@
             "Long Nose",
             "Pinocchio"
         ],
-        "shortcodes": [
-            ":lying_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":lying_face:"
+            ],
+            "slack": [
+                ":lying_face:"
+            ],
+            "emojipedia": [
+                ":lying_face:"
+            ]
+        },
         "tags": [
             "face",
             "lie",
@@ -75,9 +90,17 @@
         "aliases": [
             "Drool"
         ],
-        "shortcodes": [
-            ":drooling_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":drooling_face:"
+            ],
+            "slack": [
+                ":drooling_face:"
+            ],
+            "emojipedia": [
+                ":drooling_face:"
+            ]
+        },
         "tags": [
             "drooling",
             "face"
@@ -106,9 +129,17 @@
             "Green Face",
             "Vomit"
         ],
-        "shortcodes": [
-            ":nauseated_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":nauseated_face:"
+            ],
+            "slack": [
+                ":nauseated_face:"
+            ],
+            "emojipedia": [
+                ":nauseated_face:"
+            ]
+        },
         "tags": [
             "face",
             "nauseated",
@@ -136,9 +167,17 @@
         "aliases": [
             "Gesundheit"
         ],
-        "shortcodes": [
-            ":sneezing_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":sneezing_face:"
+            ],
+            "slack": [
+                ":sneezing_face:"
+            ],
+            "emojipedia": [
+                ":sneezing_face:"
+            ]
+        },
         "tags": [
             "face",
             "gesundheit",
@@ -169,10 +208,17 @@
             "Cowboy Face",
             "Face with Cowboy Hat"
         ],
-        "shortcodes": [
-            ":cowboy_hat_face:",
-            ":face_with_cowboy_hat:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cowboy_hat_face:"
+            ],
+            "emojipedia": [
+                ":cowboy_hat_face:"
+            ],
+            "slack": [
+                ":face_with_cowboy_hat:"
+            ]
+        },
         "tags": [
             "cowboy",
             "cowgirl",
@@ -203,9 +249,17 @@
             "Evil Clown",
             "Scary Clown"
         ],
-        "shortcodes": [
-            ":clown_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clown_face:"
+            ],
+            "slack": [
+                ":clown_face:"
+            ],
+            "emojipedia": [
+                ":clown_face:"
+            ]
+        },
         "tags": [
             "clown",
             "face"
@@ -232,9 +286,17 @@
         "aliases": [
             "Dark Heart"
         ],
-        "shortcodes": [
-            ":black_heart:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":black_heart:"
+            ],
+            "slack": [
+                ":black_heart:"
+            ],
+            "emojipedia": [
+                ":black_heart:"
+            ]
+        },
         "tags": [
             "black",
             "black heart",
@@ -264,9 +326,17 @@
             "Backhand",
             "Back of Hand"
         ],
-        "shortcodes": [
-            ":raised_back_of_hand:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":raised_back_of_hand:"
+            ],
+            "slack": [
+                ":raised_back_of_hand:"
+            ],
+            "emojipedia": [
+                ":raised_back_of_hand:"
+            ]
+        },
         "tags": [
             "backhand",
             "raised",
@@ -299,9 +369,11 @@
         "code": "1f91a-1f3fb",
         "emoji": "🤚🏻",
         "title": "Raised Back of Hand: Light Skin Tone",
-        "shortcodes": [
-            ":raised_back_of_hand_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_light_skin_tone:"
+            ]
+        },
         "tags": [
             "backhand",
             "light skin tone",
@@ -337,9 +409,11 @@
         "code": "1f91a-1f3fc",
         "emoji": "🤚🏼",
         "title": "Raised Back of Hand: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":raised_back_of_hand_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "backhand",
             "medium-light skin tone",
@@ -375,9 +449,11 @@
         "code": "1f91a-1f3fd",
         "emoji": "🤚🏽",
         "title": "Raised Back of Hand: Medium Skin Tone",
-        "shortcodes": [
-            ":raised_back_of_hand_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "backhand",
             "medium skin tone",
@@ -413,9 +489,11 @@
         "code": "1f91a-1f3fe",
         "emoji": "🤚🏾",
         "title": "Raised Back of Hand: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":raised_back_of_hand_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "backhand",
             "medium-dark skin tone",
@@ -451,9 +529,11 @@
         "code": "1f91a-1f3ff",
         "emoji": "🤚🏿",
         "title": "Raised Back of Hand: Dark Skin Tone",
-        "shortcodes": [
-            ":raised_back_of_hand_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "backhand",
             "dark skin tone",
@@ -494,10 +574,18 @@
             "Good Luck",
             "Hand with Index and Middle Fingers Crossed"
         ],
-        "shortcodes": [
-            ":crossed_fingers:",
-            ":hand_with_index_and_middle_fingers_crossed:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":crossed_fingers:"
+            ],
+            "slack": [
+                ":crossed_fingers:",
+                ":hand_with_index_and_middle_fingers_crossed:"
+            ],
+            "emojipedia": [
+                ":crossed_fingers:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -532,9 +620,11 @@
         "code": "1f91e-1f3fb",
         "emoji": "🤞🏻",
         "title": "Crossed Fingers: Light Skin Tone",
-        "shortcodes": [
-            ":crossed_fingers_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_light_skin_tone:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -572,9 +662,11 @@
         "code": "1f91e-1f3fc",
         "emoji": "🤞🏼",
         "title": "Crossed Fingers: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":crossed_fingers_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -612,9 +704,11 @@
         "code": "1f91e-1f3fd",
         "emoji": "🤞🏽",
         "title": "Crossed Fingers: Medium Skin Tone",
-        "shortcodes": [
-            ":crossed_fingers_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -652,9 +746,11 @@
         "code": "1f91e-1f3fe",
         "emoji": "🤞🏾",
         "title": "Crossed Fingers: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":crossed_fingers_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -692,9 +788,11 @@
         "code": "1f91e-1f3ff",
         "emoji": "🤞🏿",
         "title": "Crossed Fingers: Dark Skin Tone",
-        "shortcodes": [
-            ":crossed_fingers_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "cross",
             "crossed fingers",
@@ -737,9 +835,17 @@
             "Shaka",
             "Call Me Hand Sign"
         ],
-        "shortcodes": [
-            ":call_me_hand:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":call_me_hand:"
+            ],
+            "slack": [
+                ":call_me_hand:"
+            ],
+            "emojipedia": [
+                ":call_me_hand:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -772,9 +878,11 @@
         "code": "1f919-1f3fb",
         "emoji": "🤙🏻",
         "title": "Call Me Hand: Light Skin Tone",
-        "shortcodes": [
-            ":call_me_hand_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_light_skin_tone:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -810,9 +918,11 @@
         "code": "1f919-1f3fc",
         "emoji": "🤙🏼",
         "title": "Call Me Hand: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":call_me_hand_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -848,9 +958,11 @@
         "code": "1f919-1f3fd",
         "emoji": "🤙🏽",
         "title": "Call Me Hand: Medium Skin Tone",
-        "shortcodes": [
-            ":call_me_hand_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -886,9 +998,11 @@
         "code": "1f919-1f3fe",
         "emoji": "🤙🏾",
         "title": "Call Me Hand: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":call_me_hand_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -924,9 +1038,11 @@
         "code": "1f919-1f3ff",
         "emoji": "🤙🏿",
         "title": "Call Me Hand: Dark Skin Tone",
-        "shortcodes": [
-            ":call_me_hand_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "call",
             "call me hand",
@@ -965,11 +1081,17 @@
         "aliases": [
             "Left Fist Bump"
         ],
-        "shortcodes": [
-            ":fist_left:",
-            ":left_facing_fist:",
-            ":left-facing_fist:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":fist_left:"
+            ],
+            "emojipedia": [
+                ":left_facing_fist:"
+            ],
+            "slack": [
+                ":left-facing_fist:"
+            ]
+        },
         "tags": [
             "fist",
             "left-facing fist",
@@ -1002,9 +1124,11 @@
         "code": "1f91b-1f3fb",
         "emoji": "🤛🏻",
         "title": "Left-Facing Fist: Light Skin Tone",
-        "shortcodes": [
-            ":left_facing_fist_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "left-facing fist",
@@ -1040,9 +1164,11 @@
         "code": "1f91b-1f3fc",
         "emoji": "🤛🏼",
         "title": "Left-Facing Fist: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":left_facing_fist_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "left-facing fist",
@@ -1078,9 +1204,11 @@
         "code": "1f91b-1f3fd",
         "emoji": "🤛🏽",
         "title": "Left-Facing Fist: Medium Skin Tone",
-        "shortcodes": [
-            ":left_facing_fist_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "left-facing fist",
@@ -1116,9 +1244,11 @@
         "code": "1f91b-1f3fe",
         "emoji": "🤛🏾",
         "title": "Left-Facing Fist: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":left_facing_fist_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "left-facing fist",
@@ -1154,9 +1284,11 @@
         "code": "1f91b-1f3ff",
         "emoji": "🤛🏿",
         "title": "Left-Facing Fist: Dark Skin Tone",
-        "shortcodes": [
-            ":left_facing_fist_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "fist",
@@ -1195,11 +1327,17 @@
         "aliases": [
             "Right Fist Bump"
         ],
-        "shortcodes": [
-            ":fist_right:",
-            ":right_facing_fist:",
-            ":right-facing_fist:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":fist_right:"
+            ],
+            "emojipedia": [
+                ":right_facing_fist:"
+            ],
+            "slack": [
+                ":right-facing_fist:"
+            ]
+        },
         "tags": [
             "fist",
             "right-facing fist",
@@ -1232,9 +1370,11 @@
         "code": "1f91c-1f3fb",
         "emoji": "🤜🏻",
         "title": "Right-Facing Fist: Light Skin Tone",
-        "shortcodes": [
-            ":right_facing_fist_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "light skin tone",
@@ -1270,9 +1410,11 @@
         "code": "1f91c-1f3fc",
         "emoji": "🤜🏼",
         "title": "Right-Facing Fist: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":right_facing_fist_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "medium-light skin tone",
@@ -1308,9 +1450,11 @@
         "code": "1f91c-1f3fd",
         "emoji": "🤜🏽",
         "title": "Right-Facing Fist: Medium Skin Tone",
-        "shortcodes": [
-            ":right_facing_fist_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "medium skin tone",
@@ -1346,9 +1490,11 @@
         "code": "1f91c-1f3fe",
         "emoji": "🤜🏾",
         "title": "Right-Facing Fist: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":right_facing_fist_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "fist",
             "medium-dark skin tone",
@@ -1384,9 +1530,11 @@
         "code": "1f91c-1f3ff",
         "emoji": "🤜🏿",
         "title": "Right-Facing Fist: Dark Skin Tone",
-        "shortcodes": [
-            ":right_facing_fist_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "fist",
@@ -1425,9 +1573,17 @@
         "aliases": [
             "Shaking Hands"
         ],
-        "shortcodes": [
-            ":handshake:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":handshake:"
+            ],
+            "slack": [
+                ":handshake:"
+            ],
+            "emojipedia": [
+                ":handshake:"
+            ]
+        },
         "tags": [
             "agreement",
             "hand",
@@ -1461,9 +1617,17 @@
             "Phone Camera",
             "Selfie Hand"
         ],
-        "shortcodes": [
-            ":selfie:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":selfie:"
+            ],
+            "slack": [
+                ":selfie:"
+            ],
+            "emojipedia": [
+                ":selfie:"
+            ]
+        },
         "tags": [
             "camera",
             "phone",
@@ -1496,9 +1660,11 @@
         "code": "1f933-1f3fb",
         "emoji": "🤳🏻",
         "title": "Selfie: Light Skin Tone",
-        "shortcodes": [
-            ":selfie_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_light_skin_tone:"
+            ]
+        },
         "tags": [
             "camera",
             "light skin tone",
@@ -1534,9 +1700,11 @@
         "code": "1f933-1f3fc",
         "emoji": "🤳🏼",
         "title": "Selfie: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":selfie_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "camera",
             "medium-light skin tone",
@@ -1572,9 +1740,11 @@
         "code": "1f933-1f3fd",
         "emoji": "🤳🏽",
         "title": "Selfie: Medium Skin Tone",
-        "shortcodes": [
-            ":selfie_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "camera",
             "medium skin tone",
@@ -1610,9 +1780,11 @@
         "code": "1f933-1f3fe",
         "emoji": "🤳🏾",
         "title": "Selfie: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":selfie_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "camera",
             "medium-dark skin tone",
@@ -1648,9 +1820,11 @@
         "code": "1f933-1f3ff",
         "emoji": "🤳🏿",
         "title": "Selfie: Dark Skin Tone",
-        "shortcodes": [
-            ":selfie_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "camera",
             "dark skin tone",
@@ -1693,11 +1867,17 @@
             "SMH",
             "Face Palm"
         ],
-        "shortcodes": [
-            ":facepalm:",
-            ":face_palm:",
-            ":person_facepalming:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":facepalm:"
+            ],
+            "slack": [
+                ":face_palm:"
+            ],
+            "emojipedia": [
+                ":person_facepalming:"
+            ]
+        },
         "tags": [
             "disbelief",
             "exasperation",
@@ -1744,9 +1924,11 @@
         "code": "1f926-1f3fb",
         "emoji": "🤦🏻",
         "title": "Person Facepalming: Light Skin Tone",
-        "shortcodes": [
-            ":person_facepalming_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_light_skin_tone:"
+            ]
+        },
         "tags": [
             "disbelief",
             "exasperation",
@@ -1796,9 +1978,11 @@
         "code": "1f926-1f3fc",
         "emoji": "🤦🏼",
         "title": "Person Facepalming: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_facepalming_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "disbelief",
             "exasperation",
@@ -1848,9 +2032,11 @@
         "code": "1f926-1f3fd",
         "emoji": "🤦🏽",
         "title": "Person Facepalming: Medium Skin Tone",
-        "shortcodes": [
-            ":person_facepalming_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "disbelief",
             "exasperation",
@@ -1900,9 +2086,11 @@
         "code": "1f926-1f3fe",
         "emoji": "🤦🏾",
         "title": "Person Facepalming: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_facepalming_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "disbelief",
             "exasperation",
@@ -1952,9 +2140,11 @@
         "code": "1f926-1f3ff",
         "emoji": "🤦🏿",
         "title": "Person Facepalming: Dark Skin Tone",
-        "shortcodes": [
-            ":person_facepalming_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "disbelief",
@@ -2009,10 +2199,17 @@
             "Shrug",
             "Shruggie"
         ],
-        "shortcodes": [
-            ":shrug:",
-            ":person_shrugging:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shrug:"
+            ],
+            "slack": [
+                ":shrug:"
+            ],
+            "emojipedia": [
+                ":person_shrugging:"
+            ]
+        },
         "tags": [
             "doubt",
             "ignorance",
@@ -2059,9 +2256,11 @@
         "code": "1f937-1f3fb",
         "emoji": "🤷🏻",
         "title": "Person Shrugging: Light Skin Tone",
-        "shortcodes": [
-            ":person_shrugging_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_light_skin_tone:"
+            ]
+        },
         "tags": [
             "doubt",
             "ignorance",
@@ -2111,9 +2310,11 @@
         "code": "1f937-1f3fc",
         "emoji": "🤷🏼",
         "title": "Person Shrugging: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_shrugging_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "doubt",
             "ignorance",
@@ -2163,9 +2364,11 @@
         "code": "1f937-1f3fd",
         "emoji": "🤷🏽",
         "title": "Person Shrugging: Medium Skin Tone",
-        "shortcodes": [
-            ":person_shrugging_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "doubt",
             "ignorance",
@@ -2215,9 +2418,11 @@
         "code": "1f937-1f3fe",
         "emoji": "🤷🏾",
         "title": "Person Shrugging: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_shrugging_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "doubt",
             "ignorance",
@@ -2267,9 +2472,11 @@
         "code": "1f937-1f3ff",
         "emoji": "🤷🏿",
         "title": "Person Shrugging: Dark Skin Tone",
-        "shortcodes": [
-            ":person_shrugging_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "doubt",
@@ -2319,9 +2526,17 @@
         "code": "1f934",
         "emoji": "🤴",
         "title": "Prince",
-        "shortcodes": [
-            ":prince:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":prince:"
+            ],
+            "slack": [
+                ":prince:"
+            ],
+            "emojipedia": [
+                ":prince:"
+            ]
+        },
         "tags": [
             "prince"
         ],
@@ -2358,9 +2573,11 @@
         "code": "1f934-1f3fb",
         "emoji": "🤴🏻",
         "title": "Prince: Light Skin Tone",
-        "shortcodes": [
-            ":prince_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "prince"
@@ -2400,9 +2617,11 @@
         "code": "1f934-1f3fc",
         "emoji": "🤴🏼",
         "title": "Prince: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":prince_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "prince"
@@ -2442,9 +2661,11 @@
         "code": "1f934-1f3fd",
         "emoji": "🤴🏽",
         "title": "Prince: Medium Skin Tone",
-        "shortcodes": [
-            ":prince_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "prince"
@@ -2484,9 +2705,11 @@
         "code": "1f934-1f3fe",
         "emoji": "🤴🏾",
         "title": "Prince: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":prince_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "prince"
@@ -2526,9 +2749,11 @@
         "code": "1f934-1f3ff",
         "emoji": "🤴🏿",
         "title": "Prince: Dark Skin Tone",
-        "shortcodes": [
-            ":prince_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "prince"
@@ -2573,10 +2798,17 @@
             "Man In Suit",
             "Man in Tuxedo"
         ],
-        "shortcodes": [
-            ":man_in_tuxedo:",
-            ":person_in_tuxedo:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":man_in_tuxedo:"
+            ],
+            "slack": [
+                ":man_in_tuxedo:"
+            ],
+            "emojipedia": [
+                ":person_in_tuxedo:"
+            ]
+        },
         "tags": [
             "groom",
             "person",
@@ -2625,9 +2857,11 @@
         "aliases": [
             "Man in Tuxedo: Light Skin Tone"
         ],
-        "shortcodes": [
-            ":person_in_tuxedo_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_light_skin_tone:"
+            ]
+        },
         "tags": [
             "groom",
             "light skin tone",
@@ -2679,9 +2913,11 @@
         "aliases": [
             "Man in Tuxedo: Medium-Light Skin Tone"
         ],
-        "shortcodes": [
-            ":person_in_tuxedo_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "groom",
             "medium-light skin tone",
@@ -2733,9 +2969,11 @@
         "aliases": [
             "Man in Tuxedo: Medium Skin Tone"
         ],
-        "shortcodes": [
-            ":person_in_tuxedo_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "groom",
             "medium skin tone",
@@ -2787,9 +3025,11 @@
         "aliases": [
             "Man in Tuxedo: Medium-Dark Skin Tone"
         ],
-        "shortcodes": [
-            ":person_in_tuxedo_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "groom",
             "medium-dark skin tone",
@@ -2841,9 +3081,11 @@
         "aliases": [
             "Man in Tuxedo: Dark Skin Tone"
         ],
-        "shortcodes": [
-            ":person_in_tuxedo_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "groom",
@@ -2896,9 +3138,17 @@
             "Pregnancy",
             "Pregnant Lady"
         ],
-        "shortcodes": [
-            ":pregnant_woman:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pregnant_woman:"
+            ],
+            "slack": [
+                ":pregnant_woman:"
+            ],
+            "emojipedia": [
+                ":pregnant_woman:"
+            ]
+        },
         "tags": [
             "pregnant",
             "woman"
@@ -2930,9 +3180,11 @@
         "code": "1f930-1f3fb",
         "emoji": "🤰🏻",
         "title": "Pregnant Woman: Light Skin Tone",
-        "shortcodes": [
-            ":pregnant_woman_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "pregnant",
@@ -2967,9 +3219,11 @@
         "code": "1f930-1f3fc",
         "emoji": "🤰🏼",
         "title": "Pregnant Woman: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":pregnant_woman_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "pregnant",
@@ -3004,9 +3258,11 @@
         "code": "1f930-1f3fd",
         "emoji": "🤰🏽",
         "title": "Pregnant Woman: Medium Skin Tone",
-        "shortcodes": [
-            ":pregnant_woman_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "pregnant",
@@ -3041,9 +3297,11 @@
         "code": "1f930-1f3fe",
         "emoji": "🤰🏾",
         "title": "Pregnant Woman: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":pregnant_woman_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "pregnant",
@@ -3078,9 +3336,11 @@
         "code": "1f930-1f3ff",
         "emoji": "🤰🏿",
         "title": "Pregnant Woman: Dark Skin Tone",
-        "shortcodes": [
-            ":pregnant_woman_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "pregnant",
@@ -3119,10 +3379,18 @@
             "Mrs Claus",
             "Mother Christmas"
         ],
-        "shortcodes": [
-            ":mrs_claus:",
-            ":mother_christmas:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mrs_claus:"
+            ],
+            "slack": [
+                ":mrs_claus:",
+                ":mother_christmas:"
+            ],
+            "emojipedia": [
+                ":mrs_claus:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3168,9 +3436,11 @@
         "code": "1f936-1f3fb",
         "emoji": "🤶🏻",
         "title": "Mrs. Claus: Light Skin Tone",
-        "shortcodes": [
-            ":mrs_claus_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_light_skin_tone:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3219,9 +3489,11 @@
         "code": "1f936-1f3fc",
         "emoji": "🤶🏼",
         "title": "Mrs. Claus: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":mrs_claus_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3270,9 +3542,11 @@
         "code": "1f936-1f3fd",
         "emoji": "🤶🏽",
         "title": "Mrs. Claus: Medium Skin Tone",
-        "shortcodes": [
-            ":mrs_claus_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3321,9 +3595,11 @@
         "code": "1f936-1f3fe",
         "emoji": "🤶🏾",
         "title": "Mrs. Claus: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":mrs_claus_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3372,9 +3648,11 @@
         "code": "1f936-1f3ff",
         "emoji": "🤶🏿",
         "title": "Mrs. Claus: Dark Skin Tone",
-        "shortcodes": [
-            ":mrs_claus_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "celebration",
             "christmas",
@@ -3427,9 +3705,17 @@
             "Disco Dancer",
             "Male Dancer"
         ],
-        "shortcodes": [
-            ":man_dancing:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":man_dancing:"
+            ],
+            "slack": [
+                ":man_dancing:"
+            ],
+            "emojipedia": [
+                ":man_dancing:"
+            ]
+        },
         "tags": [
             "dance",
             "man",
@@ -3469,9 +3755,11 @@
         "code": "1f57a-1f3fb",
         "emoji": "🕺🏻",
         "title": "Man Dancing: Light Skin Tone",
-        "shortcodes": [
-            ":man_dancing_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_light_skin_tone:"
+            ]
+        },
         "tags": [
             "dance",
             "light skin tone",
@@ -3514,9 +3802,11 @@
         "code": "1f57a-1f3fc",
         "emoji": "🕺🏼",
         "title": "Man Dancing: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":man_dancing_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "dance",
             "man",
@@ -3559,9 +3849,11 @@
         "code": "1f57a-1f3fd",
         "emoji": "🕺🏽",
         "title": "Man Dancing: Medium Skin Tone",
-        "shortcodes": [
-            ":man_dancing_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "dance",
             "man",
@@ -3604,9 +3896,11 @@
         "code": "1f57a-1f3fe",
         "emoji": "🕺🏾",
         "title": "Man Dancing: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":man_dancing_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dance",
             "man",
@@ -3649,9 +3943,11 @@
         "code": "1f57a-1f3ff",
         "emoji": "🕺🏿",
         "title": "Man Dancing: Dark Skin Tone",
-        "shortcodes": [
-            ":man_dancing_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dance",
             "dark skin tone",
@@ -3697,10 +3993,17 @@
         "aliases": [
             "Fencer"
         ],
-        "shortcodes": [
-            ":person_fencing:",
-            ":fencer:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":person_fencing:"
+            ],
+            "emojipedia": [
+                ":person_fencing:"
+            ],
+            "slack": [
+                ":fencer:"
+            ]
+        },
         "tags": [
             "fencer",
             "fencing",
@@ -3732,11 +4035,17 @@
             "Person Doing a Cartwheel",
             "Person Doing Cartwheel"
         ],
-        "shortcodes": [
-            ":cartwheeling:",
-            ":person_cartwheeling:",
-            ":person_doing_cartwheel:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cartwheeling:"
+            ],
+            "emojipedia": [
+                ":person_cartwheeling:"
+            ],
+            "slack": [
+                ":person_doing_cartwheel:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "gymnastics",
@@ -3781,9 +4090,11 @@
         "code": "1f938-1f3fb",
         "emoji": "🤸🏻",
         "title": "Person Cartwheeling: Light Skin Tone",
-        "shortcodes": [
-            ":person_cartwheeling_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_light_skin_tone:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "gymnastics",
@@ -3831,9 +4142,11 @@
         "code": "1f938-1f3fc",
         "emoji": "🤸🏼",
         "title": "Person Cartwheeling: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_cartwheeling_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "gymnastics",
@@ -3881,9 +4194,11 @@
         "code": "1f938-1f3fd",
         "emoji": "🤸🏽",
         "title": "Person Cartwheeling: Medium Skin Tone",
-        "shortcodes": [
-            ":person_cartwheeling_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "gymnastics",
@@ -3931,9 +4246,11 @@
         "code": "1f938-1f3fe",
         "emoji": "🤸🏾",
         "title": "Person Cartwheeling: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_cartwheeling_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "gymnastics",
@@ -3981,9 +4298,11 @@
         "code": "1f938-1f3ff",
         "emoji": "🤸🏿",
         "title": "Person Cartwheeling: Dark Skin Tone",
-        "shortcodes": [
-            ":person_cartwheeling_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "cartwheel",
             "dark skin tone",
@@ -4035,11 +4354,17 @@
             "Wrestling",
             "Wrestlers"
         ],
-        "shortcodes": [
-            ":wrestlers:",
-            ":wrestling:",
-            ":people_wrestling:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":wrestlers:"
+            ],
+            "github": [
+                ":wrestling:"
+            ],
+            "emojipedia": [
+                ":people_wrestling:"
+            ]
+        },
         "tags": [
             "people wrestling",
             "wrestle",
@@ -4072,10 +4397,17 @@
         "aliases": [
             "Water Polo"
         ],
-        "shortcodes": [
-            ":water_polo:",
-            ":person_playing_water_polo:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":water_polo:"
+            ],
+            "slack": [
+                ":water_polo:"
+            ],
+            "emojipedia": [
+                ":person_playing_water_polo:"
+            ]
+        },
         "tags": [
             "person playing water polo",
             "polo",
@@ -4120,9 +4452,11 @@
         "code": "1f93d-1f3fb",
         "emoji": "🤽🏻",
         "title": "Person Playing Water Polo: Light Skin Tone",
-        "shortcodes": [
-            ":person_playing_water_polo_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_light_skin_tone:"
+            ]
+        },
         "tags": [
             "light skin tone",
             "person playing water polo",
@@ -4170,9 +4504,11 @@
         "code": "1f93d-1f3fc",
         "emoji": "🤽🏼",
         "title": "Person Playing Water Polo: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_playing_water_polo_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-light skin tone",
             "person playing water polo",
@@ -4220,9 +4556,11 @@
         "code": "1f93d-1f3fd",
         "emoji": "🤽🏽",
         "title": "Person Playing Water Polo: Medium Skin Tone",
-        "shortcodes": [
-            ":person_playing_water_polo_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "medium skin tone",
             "person playing water polo",
@@ -4270,9 +4608,11 @@
         "code": "1f93d-1f3fe",
         "emoji": "🤽🏾",
         "title": "Person Playing Water Polo: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_playing_water_polo_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "medium-dark skin tone",
             "person playing water polo",
@@ -4320,9 +4660,11 @@
         "code": "1f93d-1f3ff",
         "emoji": "🤽🏿",
         "title": "Person Playing Water Polo: Dark Skin Tone",
-        "shortcodes": [
-            ":person_playing_water_polo_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "dark skin tone",
             "person playing water polo",
@@ -4373,11 +4715,17 @@
         "aliases": [
             "Handball"
         ],
-        "shortcodes": [
-            ":handball:",
-            ":handball_person:",
-            ":person_playing_handball:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":handball:"
+            ],
+            "github": [
+                ":handball_person:"
+            ],
+            "emojipedia": [
+                ":person_playing_handball:"
+            ]
+        },
         "tags": [
             "ball",
             "handball",
@@ -4422,9 +4770,11 @@
         "code": "1f93e-1f3fb",
         "emoji": "🤾🏻",
         "title": "Person Playing Handball: Light Skin Tone",
-        "shortcodes": [
-            ":person_playing_handball_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_light_skin_tone:"
+            ]
+        },
         "tags": [
             "ball",
             "handball",
@@ -4472,9 +4822,11 @@
         "code": "1f93e-1f3fc",
         "emoji": "🤾🏼",
         "title": "Person Playing Handball: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_playing_handball_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "ball",
             "handball",
@@ -4522,9 +4874,11 @@
         "code": "1f93e-1f3fd",
         "emoji": "🤾🏽",
         "title": "Person Playing Handball: Medium Skin Tone",
-        "shortcodes": [
-            ":person_playing_handball_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "ball",
             "handball",
@@ -4572,9 +4926,11 @@
         "code": "1f93e-1f3fe",
         "emoji": "🤾🏾",
         "title": "Person Playing Handball: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_playing_handball_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "ball",
             "handball",
@@ -4622,9 +4978,11 @@
         "code": "1f93e-1f3ff",
         "emoji": "🤾🏿",
         "title": "Person Playing Handball: Dark Skin Tone",
-        "shortcodes": [
-            ":person_playing_handball_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "ball",
             "dark skin tone",
@@ -4676,11 +5034,17 @@
             "Juggler",
             "Juggling"
         ],
-        "shortcodes": [
-            ":juggling:",
-            ":juggling_person:",
-            ":person_juggling:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":juggling:"
+            ],
+            "github": [
+                ":juggling_person:"
+            ],
+            "emojipedia": [
+                ":person_juggling:"
+            ]
+        },
         "tags": [
             "balance",
             "juggle",
@@ -4727,9 +5091,11 @@
         "code": "1f939-1f3fb",
         "emoji": "🤹🏻",
         "title": "Person Juggling: Light Skin Tone",
-        "shortcodes": [
-            ":person_juggling_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_light_skin_tone:"
+            ]
+        },
         "tags": [
             "balance",
             "juggle",
@@ -4779,9 +5145,11 @@
         "code": "1f939-1f3fc",
         "emoji": "🤹🏼",
         "title": "Person Juggling: Medium-Light Skin Tone",
-        "shortcodes": [
-            ":person_juggling_medium_light_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_light_skin_tone:"
+            ]
+        },
         "tags": [
             "balance",
             "juggle",
@@ -4831,9 +5199,11 @@
         "code": "1f939-1f3fd",
         "emoji": "🤹🏽",
         "title": "Person Juggling: Medium Skin Tone",
-        "shortcodes": [
-            ":person_juggling_medium_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_skin_tone:"
+            ]
+        },
         "tags": [
             "balance",
             "juggle",
@@ -4883,9 +5253,11 @@
         "code": "1f939-1f3fe",
         "emoji": "🤹🏾",
         "title": "Person Juggling: Medium-Dark Skin Tone",
-        "shortcodes": [
-            ":person_juggling_medium_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "balance",
             "juggle",
@@ -4935,9 +5307,11 @@
         "code": "1f939-1f3ff",
         "emoji": "🤹🏿",
         "title": "Person Juggling: Dark Skin Tone",
-        "shortcodes": [
-            ":person_juggling_dark_skin_tone:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_dark_skin_tone:"
+            ]
+        },
         "tags": [
             "balance",
             "dark skin tone",
@@ -4987,9 +5361,17 @@
         "code": "1f98d",
         "emoji": "🦍",
         "title": "Gorilla",
-        "shortcodes": [
-            ":gorilla:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":gorilla:"
+            ],
+            "slack": [
+                ":gorilla:"
+            ],
+            "emojipedia": [
+                ":gorilla:"
+            ]
+        },
         "tags": [
             "gorilla"
         ],
@@ -5015,10 +5397,17 @@
         "aliases": [
             "Fox Face"
         ],
-        "shortcodes": [
-            ":fox_face:",
-            ":fox:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":fox_face:"
+            ],
+            "slack": [
+                ":fox_face:"
+            ],
+            "emojipedia": [
+                ":fox:"
+            ]
+        },
         "tags": [
             "face",
             "fox"
@@ -5047,9 +5436,17 @@
             "Reindeer",
             "Stag"
         ],
-        "shortcodes": [
-            ":deer:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":deer:"
+            ],
+            "slack": [
+                ":deer:"
+            ],
+            "emojipedia": [
+                ":deer:"
+            ]
+        },
         "tags": [
             "deer"
         ],
@@ -5075,9 +5472,17 @@
         "aliases": [
             "Rhino"
         ],
-        "shortcodes": [
-            ":rhinoceros:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":rhinoceros:"
+            ],
+            "slack": [
+                ":rhinoceros:"
+            ],
+            "emojipedia": [
+                ":rhinoceros:"
+            ]
+        },
         "tags": [
             "rhinoceros"
         ],
@@ -5103,9 +5508,17 @@
         "aliases": [
             "Batman"
         ],
-        "shortcodes": [
-            ":bat:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":bat:"
+            ],
+            "slack": [
+                ":bat:"
+            ],
+            "emojipedia": [
+                ":bat:"
+            ]
+        },
         "tags": [
             "bat",
             "vampire"
@@ -5132,9 +5545,17 @@
         "aliases": [
             "Bald Eagle"
         ],
-        "shortcodes": [
-            ":eagle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":eagle:"
+            ],
+            "slack": [
+                ":eagle:"
+            ],
+            "emojipedia": [
+                ":eagle:"
+            ]
+        },
         "tags": [
             "bird",
             "eagle"
@@ -5158,9 +5579,17 @@
         "code": "1f986",
         "emoji": "🦆",
         "title": "Duck",
-        "shortcodes": [
-            ":duck:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":duck:"
+            ],
+            "slack": [
+                ":duck:"
+            ],
+            "emojipedia": [
+                ":duck:"
+            ]
+        },
         "tags": [
             "bird",
             "duck"
@@ -5184,9 +5613,17 @@
         "code": "1f989",
         "emoji": "🦉",
         "title": "Owl",
-        "shortcodes": [
-            ":owl:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":owl:"
+            ],
+            "slack": [
+                ":owl:"
+            ],
+            "emojipedia": [
+                ":owl:"
+            ]
+        },
         "tags": [
             "bird",
             "owl",
@@ -5214,9 +5651,17 @@
         "aliases": [
             "Gecko"
         ],
-        "shortcodes": [
-            ":lizard:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":lizard:"
+            ],
+            "slack": [
+                ":lizard:"
+            ],
+            "emojipedia": [
+                ":lizard:"
+            ]
+        },
         "tags": [
             "lizard",
             "reptile"
@@ -5243,9 +5688,17 @@
         "aliases": [
             "Great White Shark"
         ],
-        "shortcodes": [
-            ":shark:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shark:"
+            ],
+            "slack": [
+                ":shark:"
+            ],
+            "emojipedia": [
+                ":shark:"
+            ]
+        },
         "tags": [
             "fish",
             "shark"
@@ -5269,9 +5722,17 @@
         "code": "1f98b",
         "emoji": "🦋",
         "title": "Butterfly",
-        "shortcodes": [
-            ":butterfly:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":butterfly:"
+            ],
+            "slack": [
+                ":butterfly:"
+            ],
+            "emojipedia": [
+                ":butterfly:"
+            ]
+        },
         "tags": [
             "butterfly",
             "insect",
@@ -5301,9 +5762,17 @@
             "Drooping Flower",
             "Wilted Rose"
         ],
-        "shortcodes": [
-            ":wilted_flower:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":wilted_flower:"
+            ],
+            "slack": [
+                ":wilted_flower:"
+            ],
+            "emojipedia": [
+                ":wilted_flower:"
+            ]
+        },
         "tags": [
             "flower",
             "wilted"
@@ -5332,10 +5801,17 @@
             "Kiwi",
             "Kiwifruit"
         ],
-        "shortcodes": [
-            ":kiwi_fruit:",
-            ":kiwifruit:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":kiwi_fruit:"
+            ],
+            "emojipedia": [
+                ":kiwi_fruit:"
+            ],
+            "slack": [
+                ":kiwifruit:"
+            ]
+        },
         "tags": [
             "food",
             "fruit",
@@ -5360,9 +5836,17 @@
         "code": "1f951",
         "emoji": "🥑",
         "title": "Avocado",
-        "shortcodes": [
-            ":avocado:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":avocado:"
+            ],
+            "slack": [
+                ":avocado:"
+            ],
+            "emojipedia": [
+                ":avocado:"
+            ]
+        },
         "tags": [
             "avocado",
             "food",
@@ -5391,9 +5875,17 @@
             "Baked Potato",
             "Idaho Potato"
         ],
-        "shortcodes": [
-            ":potato:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":potato:"
+            ],
+            "slack": [
+                ":potato:"
+            ],
+            "emojipedia": [
+                ":potato:"
+            ]
+        },
         "tags": [
             "food",
             "potato",
@@ -5418,9 +5910,17 @@
         "code": "1f955",
         "emoji": "🥕",
         "title": "Carrot",
-        "shortcodes": [
-            ":carrot:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":carrot:"
+            ],
+            "slack": [
+                ":carrot:"
+            ],
+            "emojipedia": [
+                ":carrot:"
+            ]
+        },
         "tags": [
             "carrot",
             "food",
@@ -5449,9 +5949,17 @@
             "Gherkin",
             "Pickle"
         ],
-        "shortcodes": [
-            ":cucumber:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cucumber:"
+            ],
+            "slack": [
+                ":cucumber:"
+            ],
+            "emojipedia": [
+                ":cucumber:"
+            ]
+        },
         "tags": [
             "cucumber",
             "food",
@@ -5480,9 +5988,17 @@
         "aliases": [
             "Nuts"
         ],
-        "shortcodes": [
-            ":peanuts:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":peanuts:"
+            ],
+            "slack": [
+                ":peanuts:"
+            ],
+            "emojipedia": [
+                ":peanuts:"
+            ]
+        },
         "tags": [
             "food",
             "nut",
@@ -5509,9 +6025,17 @@
         "code": "1f950",
         "emoji": "🥐",
         "title": "Croissant",
-        "shortcodes": [
-            ":croissant:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":croissant:"
+            ],
+            "slack": [
+                ":croissant:"
+            ],
+            "emojipedia": [
+                ":croissant:"
+            ]
+        },
         "tags": [
             "bread",
             "breakfast",
@@ -5543,9 +6067,17 @@
             "French Bread",
             "Baguette"
         ],
-        "shortcodes": [
-            ":baguette_bread:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":baguette_bread:"
+            ],
+            "slack": [
+                ":baguette_bread:"
+            ],
+            "emojipedia": [
+                ":baguette_bread:"
+            ]
+        },
         "tags": [
             "baguette",
             "bread",
@@ -5575,9 +6107,17 @@
             "Crêpes",
             "Hotcakes"
         ],
-        "shortcodes": [
-            ":pancakes:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pancakes:"
+            ],
+            "slack": [
+                ":pancakes:"
+            ],
+            "emojipedia": [
+                ":pancakes:"
+            ]
+        },
         "tags": [
             "breakfast",
             "crêpe",
@@ -5608,9 +6148,17 @@
         "aliases": [
             "Rashers"
         ],
-        "shortcodes": [
-            ":bacon:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":bacon:"
+            ],
+            "slack": [
+                ":bacon:"
+            ],
+            "emojipedia": [
+                ":bacon:"
+            ]
+        },
         "tags": [
             "bacon",
             "breakfast",
@@ -5642,9 +6190,17 @@
             "Shawarma",
             "Pita Sandwich"
         ],
-        "shortcodes": [
-            ":stuffed_flatbread:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":stuffed_flatbread:"
+            ],
+            "slack": [
+                ":stuffed_flatbread:"
+            ],
+            "emojipedia": [
+                ":stuffed_flatbread:"
+            ]
+        },
         "tags": [
             "falafel",
             "flatbread",
@@ -5672,9 +6228,17 @@
         "code": "1f95a",
         "emoji": "🥚",
         "title": "Egg",
-        "shortcodes": [
-            ":egg:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":egg:"
+            ],
+            "slack": [
+                ":egg:"
+            ],
+            "emojipedia": [
+                ":egg:"
+            ]
+        },
         "tags": [
             "breakfast",
             "egg",
@@ -5703,9 +6267,17 @@
             "Paella",
             "Pan of Food"
         ],
-        "shortcodes": [
-            ":shallow_pan_of_food:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shallow_pan_of_food:"
+            ],
+            "slack": [
+                ":shallow_pan_of_food:"
+            ],
+            "emojipedia": [
+                ":shallow_pan_of_food:"
+            ]
+        },
         "tags": [
             "casserole",
             "food",
@@ -5736,9 +6308,17 @@
         "aliases": [
             "Salad"
         ],
-        "shortcodes": [
-            ":green_salad:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":green_salad:"
+            ],
+            "slack": [
+                ":green_salad:"
+            ],
+            "emojipedia": [
+                ":green_salad:"
+            ]
+        },
         "tags": [
             "food",
             "green",
@@ -5766,9 +6346,17 @@
         "aliases": [
             "Prawn"
         ],
-        "shortcodes": [
-            ":shrimp:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shrimp:"
+            ],
+            "slack": [
+                ":shrimp:"
+            ],
+            "emojipedia": [
+                ":shrimp:"
+            ]
+        },
         "tags": [
             "food",
             "shellfish",
@@ -5794,9 +6382,17 @@
         "code": "1f991",
         "emoji": "🦑",
         "title": "Squid",
-        "shortcodes": [
-            ":squid:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":squid:"
+            ],
+            "slack": [
+                ":squid:"
+            ],
+            "emojipedia": [
+                ":squid:"
+            ]
+        },
         "tags": [
             "food",
             "molusc",
@@ -5824,10 +6420,17 @@
         "aliases": [
             "Milk"
         ],
-        "shortcodes": [
-            ":glass_of_milk:",
-            ":milk_glass:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":glass_of_milk:"
+            ],
+            "emojipedia": [
+                ":glass_of_milk:"
+            ],
+            "github": [
+                ":milk_glass:"
+            ]
+        },
         "tags": [
             "drink",
             "glass",
@@ -5858,9 +6461,17 @@
             "Champagne Glasses",
             "Cheers"
         ],
-        "shortcodes": [
-            ":clinking_glasses:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clinking_glasses:"
+            ],
+            "slack": [
+                ":clinking_glasses:"
+            ],
+            "emojipedia": [
+                ":clinking_glasses:"
+            ]
+        },
         "tags": [
             "celebrate",
             "clink",
@@ -5894,9 +6505,17 @@
             "Whiskey",
             "Whisky"
         ],
-        "shortcodes": [
-            ":tumbler_glass:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":tumbler_glass:"
+            ],
+            "slack": [
+                ":tumbler_glass:"
+            ],
+            "emojipedia": [
+                ":tumbler_glass:"
+            ]
+        },
         "tags": [
             "glass",
             "liquor",
@@ -5923,9 +6542,17 @@
         "code": "1f944",
         "emoji": "🥄",
         "title": "Spoon",
-        "shortcodes": [
-            ":spoon:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":spoon:"
+            ],
+            "slack": [
+                ":spoon:"
+            ],
+            "emojipedia": [
+                ":spoon:"
+            ]
+        },
         "tags": [
             "spoon",
             "tableware"
@@ -5954,9 +6581,17 @@
             "Motor Cycle",
             "Vespa"
         ],
-        "shortcodes": [
-            ":motor_scooter:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":motor_scooter:"
+            ],
+            "slack": [
+                ":motor_scooter:"
+            ],
+            "emojipedia": [
+                ":motor_scooter:"
+            ]
+        },
         "tags": [
             "motor",
             "scooter"
@@ -5983,10 +6618,17 @@
         "aliases": [
             "Scooter"
         ],
-        "shortcodes": [
-            ":kick_scooter:",
-            ":scooter:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":kick_scooter:"
+            ],
+            "emojipedia": [
+                ":kick_scooter:"
+            ],
+            "slack": [
+                ":scooter:"
+            ]
+        },
         "tags": [
             "kick",
             "scooter"
@@ -6013,10 +6655,17 @@
         "aliases": [
             "Octagonal Sign"
         ],
-        "shortcodes": [
-            ":stop_sign:",
-            ":octagonal_sign:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":stop_sign:"
+            ],
+            "emojipedia": [
+                ":stop_sign:"
+            ],
+            "slack": [
+                ":octagonal_sign:"
+            ]
+        },
         "tags": [
             "octagonal",
             "sign",
@@ -6041,9 +6690,17 @@
         "code": "1f6f6",
         "emoji": "🛶",
         "title": "Canoe",
-        "shortcodes": [
-            ":canoe:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":canoe:"
+            ],
+            "slack": [
+                ":canoe:"
+            ],
+            "emojipedia": [
+                ":canoe:"
+            ]
+        },
         "tags": [
             "boat",
             "canoe"
@@ -6071,10 +6728,17 @@
             "Gold Medal",
             "First Place Medal"
         ],
-        "shortcodes": [
-            ":1st_place_medal:",
-            ":first_place_medal:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":1st_place_medal:"
+            ],
+            "emojipedia": [
+                ":1st_place_medal:"
+            ],
+            "slack": [
+                ":first_place_medal:"
+            ]
+        },
         "tags": [
             "1st place medal",
             "first",
@@ -6104,10 +6768,17 @@
             "Silver Medal",
             "Second Place Medal"
         ],
-        "shortcodes": [
-            ":2nd_place_medal:",
-            ":second_place_medal:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":2nd_place_medal:"
+            ],
+            "emojipedia": [
+                ":2nd_place_medal:"
+            ],
+            "slack": [
+                ":second_place_medal:"
+            ]
+        },
         "tags": [
             "2nd place medal",
             "medal",
@@ -6137,10 +6808,17 @@
             "Bronze Medal",
             "Third Place Medal"
         ],
-        "shortcodes": [
-            ":3rd_place_medal:",
-            ":third_place_medal:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":3rd_place_medal:"
+            ],
+            "emojipedia": [
+                ":3rd_place_medal:"
+            ],
+            "slack": [
+                ":third_place_medal:"
+            ]
+        },
         "tags": [
             "3rd place medal",
             "bronze",
@@ -6166,9 +6844,17 @@
         "code": "1f94a",
         "emoji": "🥊",
         "title": "Boxing Glove",
-        "shortcodes": [
-            ":boxing_glove:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":boxing_glove:"
+            ],
+            "slack": [
+                ":boxing_glove:"
+            ],
+            "emojipedia": [
+                ":boxing_glove:"
+            ]
+        },
         "tags": [
             "boxing",
             "glove"
@@ -6195,9 +6881,17 @@
         "aliases": [
             "Judo"
         ],
-        "shortcodes": [
-            ":martial_arts_uniform:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":martial_arts_uniform:"
+            ],
+            "slack": [
+                ":martial_arts_uniform:"
+            ],
+            "emojipedia": [
+                ":martial_arts_uniform:"
+            ]
+        },
         "tags": [
             "judo",
             "karate",
@@ -6225,9 +6919,17 @@
         "code": "1f945",
         "emoji": "🥅",
         "title": "Goal Net",
-        "shortcodes": [
-            ":goal_net:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":goal_net:"
+            ],
+            "slack": [
+                ":goal_net:"
+            ],
+            "emojipedia": [
+                ":goal_net:"
+            ]
+        },
         "tags": [
             "goal",
             "net"
@@ -6254,10 +6956,17 @@
         "aliases": [
             "Drum with Drumsticks"
         ],
-        "shortcodes": [
-            ":drum:",
-            ":drum_with_drumsticks:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":drum:"
+            ],
+            "emojipedia": [
+                ":drum:"
+            ],
+            "slack": [
+                ":drum_with_drumsticks:"
+            ]
+        },
         "tags": [
             "drum",
             "drumsticks",
@@ -6285,10 +6994,17 @@
         "aliases": [
             "Shopping Trolley"
         ],
-        "shortcodes": [
-            ":shopping_cart:",
-            ":shopping_trolley:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shopping_cart:"
+            ],
+            "emojipedia": [
+                ":shopping_cart:"
+            ],
+            "slack": [
+                ":shopping_trolley:"
+            ]
+        },
         "tags": [
             "cart",
             "shopping",

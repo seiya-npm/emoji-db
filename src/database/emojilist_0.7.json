@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "People",
         "sub_category": "Face Neutral-Skeptical",
@@ -9,9 +9,17 @@
             "Face With Straight Mouth",
             "Straight Faced"
         ],
-        "shortcodes": [
-            ":neutral_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":neutral_face:"
+            ],
+            "slack": [
+                ":neutral_face:"
+            ],
+            "emojipedia": [
+                ":neutral_face:"
+            ]
+        },
         "tags": [
             "deadpan",
             "face",
@@ -41,10 +49,17 @@
             "Megafrown",
             "White Frowning Face"
         ],
-        "shortcodes": [
-            ":frowning_face:",
-            ":white_frowning_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":frowning_face:"
+            ],
+            "emojipedia": [
+                ":frowning_face:"
+            ],
+            "slack": [
+                ":white_frowning_face:"
+            ]
+        },
         "tags": [
             "face",
             "frown",
@@ -70,9 +85,17 @@
         "code": "1f573-fe0f",
         "emoji": "🕳️",
         "title": "Hole",
-        "shortcodes": [
-            ":hole:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":hole:"
+            ],
+            "slack": [
+                ":hole:"
+            ],
+            "emojipedia": [
+                ":hole:"
+            ]
+        },
         "tags": [
             "hole"
         ],
@@ -100,9 +123,17 @@
             "Zig Zag Bubble",
             "Angry Speech Bubble"
         ],
-        "shortcodes": [
-            ":right_anger_bubble:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":right_anger_bubble:"
+            ],
+            "slack": [
+                ":right_anger_bubble:"
+            ],
+            "emojipedia": [
+                ":right_anger_bubble:"
+            ]
+        },
         "tags": [
             "angry",
             "balloon",
@@ -135,10 +166,17 @@
             "Splayed Hand",
             "Raised Hand with Fingers Splayed"
         ],
-        "shortcodes": [
-            ":raised_hand_with_fingers_splayed:",
-            ":hand_with_fingers_splayed:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":raised_hand_with_fingers_splayed:"
+            ],
+            "slack": [
+                ":raised_hand_with_fingers_splayed:"
+            ],
+            "emojipedia": [
+                ":hand_with_fingers_splayed:"
+            ]
+        },
         "tags": [
             "finger",
             "hand",
@@ -173,9 +211,17 @@
         "code": "270d-fe0f",
         "emoji": "✍️",
         "title": "Writing Hand",
-        "shortcodes": [
-            ":writing_hand:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":writing_hand:"
+            ],
+            "slack": [
+                ":writing_hand:"
+            ],
+            "emojipedia": [
+                ":writing_hand:"
+            ]
+        },
         "tags": [
             "hand",
             "write",
@@ -212,9 +258,17 @@
         "aliases": [
             "Single Eye"
         ],
-        "shortcodes": [
-            ":eye:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":eye:"
+            ],
+            "slack": [
+                ":eye:"
+            ],
+            "emojipedia": [
+                ":eye:"
+            ]
+        },
         "tags": [
             "body",
             "eye"
@@ -245,10 +299,17 @@
             "Spy",
             "Sleuth or Spy"
         ],
-        "shortcodes": [
-            ":detective:",
-            ":sleuth_or_spy:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":detective:"
+            ],
+            "emojipedia": [
+                ":detective:"
+            ],
+            "slack": [
+                ":sleuth_or_spy:"
+            ]
+        },
         "tags": [
             "detective",
             "sleuth",
@@ -300,11 +361,17 @@
             "Walt Jabsco",
             "Man in Business Suit Levitating"
         ],
-        "shortcodes": [
-            ":business_suit_levitating:",
-            ":person_in_suit_levitating:",
-            ":man_in_business_suit_levitating:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":business_suit_levitating:"
+            ],
+            "emojipedia": [
+                ":person_in_suit_levitating:"
+            ],
+            "slack": [
+                ":man_in_business_suit_levitating:"
+            ]
+        },
         "tags": [
             "business",
             "person",
@@ -339,9 +406,17 @@
         "code": "26f7-fe0f",
         "emoji": "⛷️",
         "title": "Skier",
-        "shortcodes": [
-            ":skier:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":skier:"
+            ],
+            "slack": [
+                ":skier:"
+            ],
+            "emojipedia": [
+                ":skier:"
+            ]
+        },
         "tags": [
             "ski",
             "skier",
@@ -375,11 +450,17 @@
             "Golf Club",
             "Golfer"
         ],
-        "shortcodes": [
-            ":golfer:",
-            ":golfing:",
-            ":person_golfing:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":golfer:"
+            ],
+            "github": [
+                ":golfing:"
+            ],
+            "emojipedia": [
+                ":person_golfing:"
+            ]
+        },
         "tags": [
             "ball",
             "golf",
@@ -429,11 +510,17 @@
             "Basketball Player",
             "Person with Ball"
         ],
-        "shortcodes": [
-            ":person_with_ball:",
-            ":bouncing_ball_person:",
-            ":person_bouncing_ball:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":person_with_ball:"
+            ],
+            "github": [
+                ":bouncing_ball_person:"
+            ],
+            "emojipedia": [
+                ":person_bouncing_ball:"
+            ]
+        },
         "tags": [
             "ball",
             "person bouncing ball"
@@ -483,11 +570,17 @@
             "Weightlifter",
             "Weight Lifter"
         ],
-        "shortcodes": [
-            ":weight_lifter:",
-            ":weight_lifting:",
-            ":person_lifting_weights:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":weight_lifter:"
+            ],
+            "github": [
+                ":weight_lifting:"
+            ],
+            "emojipedia": [
+                ":person_lifting_weights:"
+            ]
+        },
         "tags": [
             "lifter",
             "person lifting weights",
@@ -540,10 +633,17 @@
             "Speaking Silhouette Head",
             "Speaking Head in Silhouette"
         ],
-        "shortcodes": [
-            ":speaking_head:",
-            ":speaking_head_in_silhouette:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":speaking_head:"
+            ],
+            "emojipedia": [
+                ":speaking_head:"
+            ],
+            "slack": [
+                ":speaking_head_in_silhouette:"
+            ]
+        },
         "tags": [
             "face",
             "head",
@@ -574,10 +674,17 @@
         "aliases": [
             "Doggo"
         ],
-        "shortcodes": [
-            ":dog2:",
-            ":dog:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":dog2:"
+            ],
+            "slack": [
+                ":dog2:"
+            ],
+            "emojipedia": [
+                ":dog:"
+            ]
+        },
         "tags": [
             "dog",
             "pet"
@@ -606,10 +713,17 @@
             "Feline",
             "Housecat"
         ],
-        "shortcodes": [
-            ":cat2:",
-            ":cat:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cat2:"
+            ],
+            "slack": [
+                ":cat2:"
+            ],
+            "emojipedia": [
+                ":cat:"
+            ]
+        },
         "tags": [
             "cat",
             "pet"
@@ -636,9 +750,17 @@
         "aliases": [
             "Squirrel"
         ],
-        "shortcodes": [
-            ":chipmunk:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":chipmunk:"
+            ],
+            "slack": [
+                ":chipmunk:"
+            ],
+            "emojipedia": [
+                ":chipmunk:"
+            ]
+        },
         "tags": [
             "chipmunk",
             "squirrel"
@@ -666,10 +788,17 @@
         "aliases": [
             "Dove of Peace"
         ],
-        "shortcodes": [
-            ":dove:",
-            ":dove_of_peace:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":dove:"
+            ],
+            "emojipedia": [
+                ":dove:"
+            ],
+            "slack": [
+                ":dove_of_peace:"
+            ]
+        },
         "tags": [
             "bird",
             "dove",
@@ -696,9 +825,17 @@
         "code": "1f577-fe0f",
         "emoji": "🕷️",
         "title": "Spider",
-        "shortcodes": [
-            ":spider:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":spider:"
+            ],
+            "slack": [
+                ":spider:"
+            ],
+            "emojipedia": [
+                ":spider:"
+            ]
+        },
         "tags": [
             "insect",
             "spider"
@@ -728,9 +865,17 @@
             "Web",
             "Spiderweb"
         ],
-        "shortcodes": [
-            ":spider_web:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":spider_web:"
+            ],
+            "slack": [
+                ":spider_web:"
+            ],
+            "emojipedia": [
+                ":spider_web:"
+            ]
+        },
         "tags": [
             "spider",
             "web"
@@ -758,9 +903,17 @@
         "code": "1f3f5-fe0f",
         "emoji": "🏵️",
         "title": "Rosette",
-        "shortcodes": [
-            ":rosette:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":rosette:"
+            ],
+            "slack": [
+                ":rosette:"
+            ],
+            "emojipedia": [
+                ":rosette:"
+            ]
+        },
         "tags": [
             "plant",
             "rosette"
@@ -789,9 +942,17 @@
             "Chili Pepper",
             "Spicy"
         ],
-        "shortcodes": [
-            ":hot_pepper:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":hot_pepper:"
+            ],
+            "slack": [
+                ":hot_pepper:"
+            ],
+            "emojipedia": [
+                ":hot_pepper:"
+            ]
+        },
         "tags": [
             "hot",
             "pepper"
@@ -819,11 +980,17 @@
         "aliases": [
             "Dinner"
         ],
-        "shortcodes": [
-            ":knife_fork_plate:",
-            ":plate_with_cutlery:",
-            ":fork_and_knife_with_plate:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":knife_fork_plate:"
+            ],
+            "github": [
+                ":plate_with_cutlery:"
+            ],
+            "emojipedia": [
+                ":fork_and_knife_with_plate:"
+            ]
+        },
         "tags": [
             "cooking",
             "fork",
@@ -859,10 +1026,17 @@
             "Globe Showing Europe and Africa",
             "Earth Globe Europe-Africa"
         ],
-        "shortcodes": [
-            ":earth_africa:",
-            ":globe_showing_europe_africa:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":earth_africa:"
+            ],
+            "slack": [
+                ":earth_africa:"
+            ],
+            "emojipedia": [
+                ":globe_showing_europe_africa:"
+            ]
+        },
         "tags": [
             "africa",
             "earth",
@@ -900,10 +1074,17 @@
             "World",
             "Earth Globe Americas"
         ],
-        "shortcodes": [
-            ":earth_americas:",
-            ":globe_showing_americas:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":earth_americas:"
+            ],
+            "slack": [
+                ":earth_americas:"
+            ],
+            "emojipedia": [
+                ":globe_showing_americas:"
+            ]
+        },
         "tags": [
             "americas",
             "earth",
@@ -932,9 +1113,17 @@
         "code": "1f5fa-fe0f",
         "emoji": "🗺️",
         "title": "World Map",
-        "shortcodes": [
-            ":world_map:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":world_map:"
+            ],
+            "slack": [
+                ":world_map:"
+            ],
+            "emojipedia": [
+                ":world_map:"
+            ]
+        },
         "tags": [
             "map",
             "world"
@@ -962,10 +1151,17 @@
         "aliases": [
             "Snow Capped Mountain"
         ],
-        "shortcodes": [
-            ":snow_capped_mountain:",
-            ":mountain_snow:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":snow_capped_mountain:"
+            ],
+            "emojipedia": [
+                ":snow_capped_mountain:"
+            ],
+            "github": [
+                ":mountain_snow:"
+            ]
+        },
         "tags": [
             "cold",
             "mountain",
@@ -992,9 +1188,17 @@
         "code": "26f0-fe0f",
         "emoji": "⛰️",
         "title": "Mountain",
-        "shortcodes": [
-            ":mountain:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mountain:"
+            ],
+            "slack": [
+                ":mountain:"
+            ],
+            "emojipedia": [
+                ":mountain:"
+            ]
+        },
         "tags": [
             "mountain"
         ],
@@ -1021,9 +1225,17 @@
         "aliases": [
             "Campsite"
         ],
-        "shortcodes": [
-            ":camping:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":camping:"
+            ],
+            "slack": [
+                ":camping:"
+            ],
+            "emojipedia": [
+                ":camping:"
+            ]
+        },
         "tags": [
             "camping"
         ],
@@ -1047,10 +1259,17 @@
         "code": "1f3d6-fe0f",
         "emoji": "🏖️",
         "title": "Beach with Umbrella",
-        "shortcodes": [
-            ":beach_with_umbrella:",
-            ":beach_umbrella:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":beach_with_umbrella:"
+            ],
+            "emojipedia": [
+                ":beach_with_umbrella:"
+            ],
+            "github": [
+                ":beach_umbrella:"
+            ]
+        },
         "tags": [
             "beach",
             "beach with umbrella",
@@ -1076,9 +1295,17 @@
         "code": "1f3dc-fe0f",
         "emoji": "🏜️",
         "title": "Desert",
-        "shortcodes": [
-            ":desert:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":desert:"
+            ],
+            "slack": [
+                ":desert:"
+            ],
+            "emojipedia": [
+                ":desert:"
+            ]
+        },
         "tags": [
             "desert"
         ],
@@ -1102,9 +1329,17 @@
         "code": "1f3dd-fe0f",
         "emoji": "🏝️",
         "title": "Desert Island",
-        "shortcodes": [
-            ":desert_island:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":desert_island:"
+            ],
+            "slack": [
+                ":desert_island:"
+            ],
+            "emojipedia": [
+                ":desert_island:"
+            ]
+        },
         "tags": [
             "desert",
             "island"
@@ -1129,9 +1364,17 @@
         "code": "1f3de-fe0f",
         "emoji": "🏞️",
         "title": "National Park",
-        "shortcodes": [
-            ":national_park:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":national_park:"
+            ],
+            "slack": [
+                ":national_park:"
+            ],
+            "emojipedia": [
+                ":national_park:"
+            ]
+        },
         "tags": [
             "national park",
             "park"
@@ -1160,9 +1403,17 @@
             "Grandstand",
             "Sport Stadium"
         ],
-        "shortcodes": [
-            ":stadium:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":stadium:"
+            ],
+            "slack": [
+                ":stadium:"
+            ],
+            "emojipedia": [
+                ":stadium:"
+            ]
+        },
         "tags": [
             "stadium"
         ],
@@ -1186,9 +1437,17 @@
         "code": "1f3db-fe0f",
         "emoji": "🏛️",
         "title": "Classical Building",
-        "shortcodes": [
-            ":classical_building:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":classical_building:"
+            ],
+            "slack": [
+                ":classical_building:"
+            ],
+            "emojipedia": [
+                ":classical_building:"
+            ]
+        },
         "tags": [
             "classical",
             "classical building"
@@ -1216,9 +1475,17 @@
         "aliases": [
             "Crane"
         ],
-        "shortcodes": [
-            ":building_construction:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":building_construction:"
+            ],
+            "slack": [
+                ":building_construction:"
+            ],
+            "emojipedia": [
+                ":building_construction:"
+            ]
+        },
         "tags": [
             "building construction",
             "construction"
@@ -1247,10 +1514,17 @@
             "Group of Houses",
             "House Buildings"
         ],
-        "shortcodes": [
-            ":houses:",
-            ":house_buildings:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":houses:"
+            ],
+            "emojipedia": [
+                ":houses:"
+            ],
+            "slack": [
+                ":house_buildings:"
+            ]
+        },
         "tags": [
             "houses"
         ],
@@ -1280,10 +1554,17 @@
             "Old House",
             "Derelict House Building"
         ],
-        "shortcodes": [
-            ":derelict_house:",
-            ":derelict_house_building:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":derelict_house:"
+            ],
+            "emojipedia": [
+                ":derelict_house:"
+            ],
+            "slack": [
+                ":derelict_house_building:"
+            ]
+        },
         "tags": [
             "derelict",
             "house"
@@ -1311,9 +1592,17 @@
         "aliases": [
             "Kami-no-michi"
         ],
-        "shortcodes": [
-            ":shinto_shrine:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shinto_shrine:"
+            ],
+            "slack": [
+                ":shinto_shrine:"
+            ],
+            "emojipedia": [
+                ":shinto_shrine:"
+            ]
+        },
         "tags": [
             "religion",
             "shinto",
@@ -1339,9 +1628,17 @@
         "code": "1f3d9-fe0f",
         "emoji": "🏙️",
         "title": "Cityscape",
-        "shortcodes": [
-            ":cityscape:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cityscape:"
+            ],
+            "slack": [
+                ":cityscape:"
+            ],
+            "emojipedia": [
+                ":cityscape:"
+            ]
+        },
         "tags": [
             "city",
             "cityscape"
@@ -1369,9 +1666,17 @@
         "aliases": [
             "Front Of Bus"
         ],
-        "shortcodes": [
-            ":oncoming_bus:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":oncoming_bus:"
+            ],
+            "slack": [
+                ":oncoming_bus:"
+            ],
+            "emojipedia": [
+                ":oncoming_bus:"
+            ]
+        },
         "tags": [
             "bus",
             "oncoming"
@@ -1399,9 +1704,17 @@
             "🚓 Front Of Police Car",
             "🚓 Cop Car"
         ],
-        "shortcodes": [
-            ":oncoming_police_car:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":oncoming_police_car:"
+            ],
+            "slack": [
+                ":oncoming_police_car:"
+            ],
+            "emojipedia": [
+                ":oncoming_police_car:"
+            ]
+        },
         "tags": [
             "car",
             "oncoming",
@@ -1430,9 +1743,17 @@
             "Front Of Car",
             "Oncoming Car"
         ],
-        "shortcodes": [
-            ":oncoming_automobile:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":oncoming_automobile:"
+            ],
+            "slack": [
+                ":oncoming_automobile:"
+            ],
+            "emojipedia": [
+                ":oncoming_automobile:"
+            ]
+        },
         "tags": [
             "automobile",
             "car",
@@ -1462,9 +1783,17 @@
             "Formula One",
             "Race Car"
         ],
-        "shortcodes": [
-            ":racing_car:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":racing_car:"
+            ],
+            "slack": [
+                ":racing_car:"
+            ],
+            "emojipedia": [
+                ":racing_car:"
+            ]
+        },
         "tags": [
             "car",
             "racing"
@@ -1493,10 +1822,17 @@
             "Motorbike",
             "Racing Motorcycle"
         ],
-        "shortcodes": [
-            ":motorcycle:",
-            ":racing_motorcycle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":motorcycle:"
+            ],
+            "emojipedia": [
+                ":motorcycle:"
+            ],
+            "slack": [
+                ":racing_motorcycle:"
+            ]
+        },
         "tags": [
             "motorcycle",
             "racing"
@@ -1526,9 +1862,17 @@
             "Interstate",
             "Road"
         ],
-        "shortcodes": [
-            ":motorway:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":motorway:"
+            ],
+            "slack": [
+                ":motorway:"
+            ],
+            "emojipedia": [
+                ":motorway:"
+            ]
+        },
         "tags": [
             "highway",
             "motorway",
@@ -1554,9 +1898,17 @@
         "code": "1f6e4-fe0f",
         "emoji": "🛤️",
         "title": "Railway Track",
-        "shortcodes": [
-            ":railway_track:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":railway_track:"
+            ],
+            "slack": [
+                ":railway_track:"
+            ],
+            "emojipedia": [
+                ":railway_track:"
+            ]
+        },
         "tags": [
             "railway",
             "railway track",
@@ -1582,9 +1934,17 @@
         "code": "1f6e2-fe0f",
         "emoji": "🛢️",
         "title": "Oil Drum",
-        "shortcodes": [
-            ":oil_drum:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":oil_drum:"
+            ],
+            "slack": [
+                ":oil_drum:"
+            ],
+            "emojipedia": [
+                ":oil_drum:"
+            ]
+        },
         "tags": [
             "drum",
             "oil"
@@ -1609,9 +1969,17 @@
         "code": "1f6f3-fe0f",
         "emoji": "🛳️",
         "title": "Passenger Ship",
-        "shortcodes": [
-            ":passenger_ship:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":passenger_ship:"
+            ],
+            "slack": [
+                ":passenger_ship:"
+            ],
+            "emojipedia": [
+                ":passenger_ship:"
+            ]
+        },
         "tags": [
             "passenger",
             "ship"
@@ -1636,9 +2004,17 @@
         "code": "26f4-fe0f",
         "emoji": "⛴️",
         "title": "Ferry",
-        "shortcodes": [
-            ":ferry:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ferry:"
+            ],
+            "slack": [
+                ":ferry:"
+            ],
+            "emojipedia": [
+                ":ferry:"
+            ]
+        },
         "tags": [
             "boat",
             "ferry",
@@ -1667,9 +2043,17 @@
         "aliases": [
             "Motorboat"
         ],
-        "shortcodes": [
-            ":motor_boat:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":motor_boat:"
+            ],
+            "slack": [
+                ":motor_boat:"
+            ],
+            "emojipedia": [
+                ":motor_boat:"
+            ]
+        },
         "tags": [
             "boat",
             "motorboat",
@@ -1699,9 +2083,17 @@
             "Small Aeroplane",
             "Small Plane"
         ],
-        "shortcodes": [
-            ":small_airplane:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":small_airplane:"
+            ],
+            "slack": [
+                ":small_airplane:"
+            ],
+            "emojipedia": [
+                ":small_airplane:"
+            ]
+        },
         "tags": [
             "aeroplane",
             "airplane",
@@ -1727,10 +2119,17 @@
         "code": "1f6f0-fe0f",
         "emoji": "🛰️",
         "title": "Satellite",
-        "shortcodes": [
-            ":satellite:",
-            ":artificial_satellite:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":satellite:"
+            ],
+            "emojipedia": [
+                ":satellite:"
+            ],
+            "github": [
+                ":artificial_satellite:"
+            ]
+        },
         "tags": [
             "satellite",
             "space"
@@ -1755,9 +2154,17 @@
         "code": "1f6ce-fe0f",
         "emoji": "🛎️",
         "title": "Bellhop Bell",
-        "shortcodes": [
-            ":bellhop_bell:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":bellhop_bell:"
+            ],
+            "slack": [
+                ":bellhop_bell:"
+            ],
+            "emojipedia": [
+                ":bellhop_bell:"
+            ]
+        },
         "tags": [
             "bell",
             "bellhop",
@@ -1783,9 +2190,17 @@
         "code": "1f570-fe0f",
         "emoji": "🕰️",
         "title": "Mantelpiece Clock",
-        "shortcodes": [
-            ":mantelpiece_clock:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mantelpiece_clock:"
+            ],
+            "slack": [
+                ":mantelpiece_clock:"
+            ],
+            "emojipedia": [
+                ":mantelpiece_clock:"
+            ]
+        },
         "tags": [
             "clock",
             "mantelpiece clock"
@@ -1813,10 +2228,17 @@
         "aliases": [
             "Clock Face Twelve-Thirty"
         ],
-        "shortcodes": [
-            ":clock1230:",
-            ":twelve_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock1230:"
+            ],
+            "slack": [
+                ":clock1230:"
+            ],
+            "emojipedia": [
+                ":twelve_thirty:"
+            ]
+        },
         "tags": [
             "12",
             "12:30",
@@ -1847,10 +2269,17 @@
         "aliases": [
             "Clock Face One-Thirty"
         ],
-        "shortcodes": [
-            ":clock130:",
-            ":one_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock130:"
+            ],
+            "slack": [
+                ":clock130:"
+            ],
+            "emojipedia": [
+                ":one_thirty:"
+            ]
+        },
         "tags": [
             "1",
             "1:30",
@@ -1881,10 +2310,17 @@
         "aliases": [
             "Clock Face Two-Thirty"
         ],
-        "shortcodes": [
-            ":clock230:",
-            ":two_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock230:"
+            ],
+            "slack": [
+                ":clock230:"
+            ],
+            "emojipedia": [
+                ":two_thirty:"
+            ]
+        },
         "tags": [
             "2",
             "2:30",
@@ -1915,10 +2351,17 @@
         "aliases": [
             "Clock Face Three-Thirty"
         ],
-        "shortcodes": [
-            ":clock330:",
-            ":three_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock330:"
+            ],
+            "slack": [
+                ":clock330:"
+            ],
+            "emojipedia": [
+                ":three_thirty:"
+            ]
+        },
         "tags": [
             "3",
             "3:30",
@@ -1949,10 +2392,17 @@
         "aliases": [
             "Clock Face Four-Thirty"
         ],
-        "shortcodes": [
-            ":clock430:",
-            ":four_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock430:"
+            ],
+            "slack": [
+                ":clock430:"
+            ],
+            "emojipedia": [
+                ":four_thirty:"
+            ]
+        },
         "tags": [
             "4",
             "4:30",
@@ -1983,10 +2433,17 @@
         "aliases": [
             "Clock Face Five-Thirty"
         ],
-        "shortcodes": [
-            ":clock530:",
-            ":five_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock530:"
+            ],
+            "slack": [
+                ":clock530:"
+            ],
+            "emojipedia": [
+                ":five_thirty:"
+            ]
+        },
         "tags": [
             "5",
             "5:30",
@@ -2017,10 +2474,17 @@
         "aliases": [
             "Clock Face Six-Thirty"
         ],
-        "shortcodes": [
-            ":clock630:",
-            ":six_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock630:"
+            ],
+            "slack": [
+                ":clock630:"
+            ],
+            "emojipedia": [
+                ":six_thirty:"
+            ]
+        },
         "tags": [
             "6",
             "6:30",
@@ -2051,10 +2515,17 @@
         "aliases": [
             "Clock Face Seven-Thirty"
         ],
-        "shortcodes": [
-            ":clock730:",
-            ":seven_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock730:"
+            ],
+            "slack": [
+                ":clock730:"
+            ],
+            "emojipedia": [
+                ":seven_thirty:"
+            ]
+        },
         "tags": [
             "7",
             "7:30",
@@ -2085,10 +2556,17 @@
         "aliases": [
             "Clock Face Eight-Thirty"
         ],
-        "shortcodes": [
-            ":clock830:",
-            ":eight_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock830:"
+            ],
+            "slack": [
+                ":clock830:"
+            ],
+            "emojipedia": [
+                ":eight_thirty:"
+            ]
+        },
         "tags": [
             "8",
             "8:30",
@@ -2119,10 +2597,17 @@
         "aliases": [
             "Clock Face Nine-Thirty"
         ],
-        "shortcodes": [
-            ":clock930:",
-            ":nine_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock930:"
+            ],
+            "slack": [
+                ":clock930:"
+            ],
+            "emojipedia": [
+                ":nine_thirty:"
+            ]
+        },
         "tags": [
             "9",
             "9:30",
@@ -2153,10 +2638,17 @@
         "aliases": [
             "Clock Face Ten-Thirty"
         ],
-        "shortcodes": [
-            ":clock1030:",
-            ":ten_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock1030:"
+            ],
+            "slack": [
+                ":clock1030:"
+            ],
+            "emojipedia": [
+                ":ten_thirty:"
+            ]
+        },
         "tags": [
             "10",
             "10:30",
@@ -2187,10 +2679,17 @@
         "aliases": [
             "Clock Face Eleven-Thirty"
         ],
-        "shortcodes": [
-            ":clock1130:",
-            ":eleven_thirty:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clock1130:"
+            ],
+            "slack": [
+                ":clock1130:"
+            ],
+            "emojipedia": [
+                ":eleven_thirty:"
+            ]
+        },
         "tags": [
             "11",
             "11:30",
@@ -2221,10 +2720,17 @@
         "aliases": [
             "Last Quarter Moon with Face"
         ],
-        "shortcodes": [
-            ":last_quarter_moon_with_face:",
-            ":last_quarter_moon_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":last_quarter_moon_with_face:"
+            ],
+            "slack": [
+                ":last_quarter_moon_with_face:"
+            ],
+            "emojipedia": [
+                ":last_quarter_moon_face:"
+            ]
+        },
         "tags": [
             "face",
             "last quarter moon face",
@@ -2254,9 +2760,17 @@
             "Hot Weather",
             "Temperature"
         ],
-        "shortcodes": [
-            ":thermometer:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":thermometer:"
+            ],
+            "slack": [
+                ":thermometer:"
+            ],
+            "emojipedia": [
+                ":thermometer:"
+            ]
+        },
         "tags": [
             "thermometer",
             "weather"
@@ -2284,10 +2798,17 @@
         "aliases": [
             "Thunder Cloud and Rain"
         ],
-        "shortcodes": [
-            ":cloud_with_lightning_and_rain:",
-            ":thunder_cloud_and_rain:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cloud_with_lightning_and_rain:"
+            ],
+            "emojipedia": [
+                ":cloud_with_lightning_and_rain:"
+            ],
+            "slack": [
+                ":thunder_cloud_and_rain:"
+            ]
+        },
         "tags": [
             "cloud",
             "cloud with lightning and rain",
@@ -2317,11 +2838,18 @@
         "aliases": [
             "White Sun with Small Cloud"
         ],
-        "shortcodes": [
-            ":mostly_sunny:",
-            ":sun_behind_small_cloud:",
-            ":sun_small_cloud:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":mostly_sunny:",
+                ":sun_small_cloud:"
+            ],
+            "github": [
+                ":sun_behind_small_cloud:"
+            ],
+            "emojipedia": [
+                ":sun_behind_small_cloud:"
+            ]
+        },
         "tags": [
             "cloud",
             "sun",
@@ -2350,11 +2878,18 @@
         "aliases": [
             "White Sun Behind Cloud"
         ],
-        "shortcodes": [
-            ":barely_sunny:",
-            ":sun_behind_large_cloud:",
-            ":sun_behind_cloud:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":barely_sunny:",
+                ":sun_behind_cloud:"
+            ],
+            "github": [
+                ":sun_behind_large_cloud:"
+            ],
+            "emojipedia": [
+                ":sun_behind_large_cloud:"
+            ]
+        },
         "tags": [
             "cloud",
             "sun",
@@ -2383,10 +2918,18 @@
         "aliases": [
             "White Sun Behind Cloud with Rain"
         ],
-        "shortcodes": [
-            ":sun_behind_rain_cloud:",
-            ":partly_sunny_rain:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":sun_behind_rain_cloud:"
+            ],
+            "slack": [
+                ":sun_behind_rain_cloud:",
+                ":partly_sunny_rain:"
+            ],
+            "emojipedia": [
+                ":sun_behind_rain_cloud:"
+            ]
+        },
         "tags": [
             "cloud",
             "rain",
@@ -2413,10 +2956,17 @@
         "code": "1f327-fe0f",
         "emoji": "🌧️",
         "title": "Cloud with Rain",
-        "shortcodes": [
-            ":cloud_with_rain:",
-            ":rain_cloud:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cloud_with_rain:"
+            ],
+            "emojipedia": [
+                ":cloud_with_rain:"
+            ],
+            "slack": [
+                ":rain_cloud:"
+            ]
+        },
         "tags": [
             "cloud",
             "cloud with rain",
@@ -2442,10 +2992,17 @@
         "code": "1f328-fe0f",
         "emoji": "🌨️",
         "title": "Cloud with Snow",
-        "shortcodes": [
-            ":cloud_with_snow:",
-            ":snow_cloud:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":cloud_with_snow:"
+            ],
+            "emojipedia": [
+                ":cloud_with_snow:"
+            ],
+            "slack": [
+                ":snow_cloud:"
+            ]
+        },
         "tags": [
             "cloud",
             "cloud with snow",
@@ -2472,11 +3029,18 @@
         "code": "1f329-fe0f",
         "emoji": "🌩️",
         "title": "Cloud with Lightning",
-        "shortcodes": [
-            ":lightning:",
-            ":cloud_with_lightning:",
-            ":lightning_cloud:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":lightning:",
+                ":lightning_cloud:"
+            ],
+            "github": [
+                ":cloud_with_lightning:"
+            ],
+            "emojipedia": [
+                ":cloud_with_lightning:"
+            ]
+        },
         "tags": [
             "cloud",
             "cloud with lightning",
@@ -2505,10 +3069,18 @@
         "aliases": [
             "Cloud with Tornado"
         ],
-        "shortcodes": [
-            ":tornado:",
-            ":tornado_cloud:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":tornado:"
+            ],
+            "slack": [
+                ":tornado:",
+                ":tornado_cloud:"
+            ],
+            "emojipedia": [
+                ":tornado:"
+            ]
+        },
         "tags": [
             "cloud",
             "tornado",
@@ -2534,9 +3106,17 @@
         "code": "1f32b-fe0f",
         "emoji": "🌫️",
         "title": "Fog",
-        "shortcodes": [
-            ":fog:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":fog:"
+            ],
+            "slack": [
+                ":fog:"
+            ],
+            "emojipedia": [
+                ":fog:"
+            ]
+        },
         "tags": [
             "cloud",
             "fog"
@@ -2566,10 +3146,17 @@
             "Mother Nature",
             "Wind Blowing Face"
         ],
-        "shortcodes": [
-            ":wind_face:",
-            ":wind_blowing_face:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":wind_face:"
+            ],
+            "emojipedia": [
+                ":wind_face:"
+            ],
+            "slack": [
+                ":wind_blowing_face:"
+            ]
+        },
         "tags": [
             "blow",
             "cloud",
@@ -2596,10 +3183,17 @@
         "code": "2602-fe0f",
         "emoji": "☂️",
         "title": "Umbrella",
-        "shortcodes": [
-            ":umbrella:",
-            ":open_umbrella:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":umbrella:"
+            ],
+            "emojipedia": [
+                ":umbrella:"
+            ],
+            "github": [
+                ":open_umbrella:"
+            ]
+        },
         "tags": [
             "clothing",
             "rain",
@@ -2628,10 +3222,17 @@
         "aliases": [
             "Beach Umbrella"
         ],
-        "shortcodes": [
-            ":umbrella_on_ground:",
-            ":parasol_on_ground:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":umbrella_on_ground:"
+            ],
+            "emojipedia": [
+                ":umbrella_on_ground:"
+            ],
+            "github": [
+                ":parasol_on_ground:"
+            ]
+        },
         "tags": [
             "rain",
             "sun",
@@ -2662,10 +3263,17 @@
             "Snowing Snowman",
             "Snowman with Snowflakes"
         ],
-        "shortcodes": [
-            ":snowman:",
-            ":snowman_with_snow:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":snowman:"
+            ],
+            "emojipedia": [
+                ":snowman:"
+            ],
+            "github": [
+                ":snowman_with_snow:"
+            ]
+        },
         "tags": [
             "cold",
             "snow",
@@ -2691,9 +3299,17 @@
         "code": "1f397-fe0f",
         "emoji": "🎗️",
         "title": "Reminder Ribbon",
-        "shortcodes": [
-            ":reminder_ribbon:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":reminder_ribbon:"
+            ],
+            "slack": [
+                ":reminder_ribbon:"
+            ],
+            "emojipedia": [
+                ":reminder_ribbon:"
+            ]
+        },
         "tags": [
             "celebration",
             "reminder",
@@ -2722,10 +3338,17 @@
         "aliases": [
             "Admission Ticket"
         ],
-        "shortcodes": [
-            ":admission_tickets:",
-            ":tickets:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":admission_tickets:"
+            ],
+            "emojipedia": [
+                ":admission_tickets:"
+            ],
+            "github": [
+                ":tickets:"
+            ]
+        },
         "tags": [
             "admission",
             "admission tickets",
@@ -2756,11 +3379,17 @@
             "Medallion",
             "Military Decoration"
         ],
-        "shortcodes": [
-            ":medal:",
-            ":medal_military:",
-            ":military_medal:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":medal:"
+            ],
+            "github": [
+                ":medal_military:"
+            ],
+            "emojipedia": [
+                ":military_medal:"
+            ]
+        },
         "tags": [
             "celebration",
             "medal",
@@ -2789,9 +3418,17 @@
         "aliases": [
             "Ice Skating"
         ],
-        "shortcodes": [
-            ":ice_skate:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ice_skate:"
+            ],
+            "slack": [
+                ":ice_skate:"
+            ],
+            "emojipedia": [
+                ":ice_skate:"
+            ]
+        },
         "tags": [
             "ice",
             "skate"
@@ -2816,9 +3453,17 @@
         "code": "1f579-fe0f",
         "emoji": "🕹️",
         "title": "Joystick",
-        "shortcodes": [
-            ":joystick:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":joystick:"
+            ],
+            "slack": [
+                ":joystick:"
+            ],
+            "emojipedia": [
+                ":joystick:"
+            ]
+        },
         "tags": [
             "game",
             "joystick",
@@ -2849,10 +3494,17 @@
             "Picture Frame",
             "Frame with Picture"
         ],
-        "shortcodes": [
-            ":framed_picture:",
-            ":frame_with_picture:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":framed_picture:"
+            ],
+            "emojipedia": [
+                ":framed_picture:"
+            ],
+            "slack": [
+                ":frame_with_picture:"
+            ]
+        },
         "tags": [
             "art",
             "frame",
@@ -2884,10 +3536,17 @@
         "aliases": [
             "Dark Sunglasses"
         ],
-        "shortcodes": [
-            ":dark_sunglasses:",
-            ":sunglasses:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":dark_sunglasses:"
+            ],
+            "slack": [
+                ":dark_sunglasses:"
+            ],
+            "emojipedia": [
+                ":sunglasses:"
+            ]
+        },
         "tags": [
             "dark",
             "eye",
@@ -2915,10 +3574,17 @@
         "code": "1f6cd-fe0f",
         "emoji": "🛍️",
         "title": "Shopping Bags",
-        "shortcodes": [
-            ":shopping_bags:",
-            ":shopping:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":shopping_bags:"
+            ],
+            "emojipedia": [
+                ":shopping_bags:"
+            ],
+            "github": [
+                ":shopping:"
+            ]
+        },
         "tags": [
             "bag",
             "hotel",
@@ -2948,11 +3614,17 @@
         "aliases": [
             "Helmet with White Cross"
         ],
-        "shortcodes": [
-            ":rescue_worker_helmet:",
-            ":rescue_workers_helmet:",
-            ":helmet_with_white_cross:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":rescue_worker_helmet:"
+            ],
+            "emojipedia": [
+                ":rescue_workers_helmet:"
+            ],
+            "slack": [
+                ":helmet_with_white_cross:"
+            ]
+        },
         "tags": [
             "aid",
             "cross",
@@ -2988,10 +3660,17 @@
             "Volume",
             "Speaker"
         ],
-        "shortcodes": [
-            ":speaker:",
-            ":speaker_low_volume:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":speaker:"
+            ],
+            "slack": [
+                ":speaker:"
+            ],
+            "emojipedia": [
+                ":speaker_low_volume:"
+            ]
+        },
         "tags": [
             "soft",
             "speaker low volume"
@@ -3015,9 +3694,17 @@
         "code": "1f399-fe0f",
         "emoji": "🎙️",
         "title": "Studio Microphone",
-        "shortcodes": [
-            ":studio_microphone:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":studio_microphone:"
+            ],
+            "slack": [
+                ":studio_microphone:"
+            ],
+            "emojipedia": [
+                ":studio_microphone:"
+            ]
+        },
         "tags": [
             "mic",
             "microphone",
@@ -3044,9 +3731,17 @@
         "code": "1f39a-fe0f",
         "emoji": "🎚️",
         "title": "Level Slider",
-        "shortcodes": [
-            ":level_slider:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":level_slider:"
+            ],
+            "slack": [
+                ":level_slider:"
+            ],
+            "emojipedia": [
+                ":level_slider:"
+            ]
+        },
         "tags": [
             "level",
             "music",
@@ -3072,9 +3767,17 @@
         "code": "1f39b-fe0f",
         "emoji": "🎛️",
         "title": "Control Knobs",
-        "shortcodes": [
-            ":control_knobs:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":control_knobs:"
+            ],
+            "slack": [
+                ":control_knobs:"
+            ],
+            "emojipedia": [
+                ":control_knobs:"
+            ]
+        },
         "tags": [
             "control",
             "knobs",
@@ -3103,9 +3806,17 @@
         "aliases": [
             "iMac"
         ],
-        "shortcodes": [
-            ":desktop_computer:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":desktop_computer:"
+            ],
+            "slack": [
+                ":desktop_computer:"
+            ],
+            "emojipedia": [
+                ":desktop_computer:"
+            ]
+        },
         "tags": [
             "computer",
             "desktop"
@@ -3130,9 +3841,17 @@
         "code": "1f5a8-fe0f",
         "emoji": "🖨️",
         "title": "Printer",
-        "shortcodes": [
-            ":printer:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":printer:"
+            ],
+            "slack": [
+                ":printer:"
+            ],
+            "emojipedia": [
+                ":printer:"
+            ]
+        },
         "tags": [
             "computer",
             "printer"
@@ -3160,10 +3879,17 @@
         "aliases": [
             "Three Button Mouse"
         ],
-        "shortcodes": [
-            ":computer_mouse:",
-            ":three_button_mouse:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":computer_mouse:"
+            ],
+            "emojipedia": [
+                ":computer_mouse:"
+            ],
+            "slack": [
+                ":three_button_mouse:"
+            ]
+        },
         "tags": [
             "computer",
             "computer mouse"
@@ -3188,9 +3914,17 @@
         "code": "1f5b2-fe0f",
         "emoji": "🖲️",
         "title": "Trackball",
-        "shortcodes": [
-            ":trackball:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":trackball:"
+            ],
+            "slack": [
+                ":trackball:"
+            ],
+            "emojipedia": [
+                ":trackball:"
+            ]
+        },
         "tags": [
             "computer",
             "trackball"
@@ -3215,10 +3949,17 @@
         "code": "1f39e-fe0f",
         "emoji": "🎞️",
         "title": "Film Frames",
-        "shortcodes": [
-            ":film_frames:",
-            ":film_strip:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":film_frames:"
+            ],
+            "emojipedia": [
+                ":film_frames:"
+            ],
+            "github": [
+                ":film_strip:"
+            ]
+        },
         "tags": [
             "cinema",
             "film",
@@ -3245,9 +3986,17 @@
         "code": "1f4fd-fe0f",
         "emoji": "📽️",
         "title": "Film Projector",
-        "shortcodes": [
-            ":film_projector:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":film_projector:"
+            ],
+            "slack": [
+                ":film_projector:"
+            ],
+            "emojipedia": [
+                ":film_projector:"
+            ]
+        },
         "tags": [
             "cinema",
             "film",
@@ -3275,9 +4024,17 @@
         "code": "1f56f-fe0f",
         "emoji": "🕯️",
         "title": "Candle",
-        "shortcodes": [
-            ":candle:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":candle:"
+            ],
+            "slack": [
+                ":candle:"
+            ],
+            "emojipedia": [
+                ":candle:"
+            ]
+        },
         "tags": [
             "candle",
             "light"
@@ -3305,10 +4062,17 @@
         "aliases": [
             "Newspaper Delivery"
         ],
-        "shortcodes": [
-            ":rolled_up_newspaper:",
-            ":newspaper_roll:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":rolled_up_newspaper:"
+            ],
+            "emojipedia": [
+                ":rolled_up_newspaper:"
+            ],
+            "github": [
+                ":newspaper_roll:"
+            ]
+        },
         "tags": [
             "news",
             "newspaper",
@@ -3339,9 +4103,17 @@
         "aliases": [
             "Label Tag"
         ],
-        "shortcodes": [
-            ":label:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":label:"
+            ],
+            "slack": [
+                ":label:"
+            ],
+            "emojipedia": [
+                ":label:"
+            ]
+        },
         "tags": [
             "label"
         ],
@@ -3368,10 +4140,17 @@
         "aliases": [
             "Open Mailbox"
         ],
-        "shortcodes": [
-            ":mailbox_with_mail:",
-            ":open_mailbox_with_raised_flag:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mailbox_with_mail:"
+            ],
+            "slack": [
+                ":mailbox_with_mail:"
+            ],
+            "emojipedia": [
+                ":open_mailbox_with_raised_flag:"
+            ]
+        },
         "tags": [
             "mail",
             "mailbox",
@@ -3398,10 +4177,17 @@
         "code": "1f4ed",
         "emoji": "📭",
         "title": "Open Mailbox with Lowered Flag",
-        "shortcodes": [
-            ":mailbox_with_no_mail:",
-            ":open_mailbox_with_lowered_flag:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":mailbox_with_no_mail:"
+            ],
+            "slack": [
+                ":mailbox_with_no_mail:"
+            ],
+            "emojipedia": [
+                ":open_mailbox_with_lowered_flag:"
+            ]
+        },
         "tags": [
             "lowered",
             "mail",
@@ -3433,10 +4219,17 @@
             "Vote Box",
             "Voting"
         ],
-        "shortcodes": [
-            ":ballot_box:",
-            ":ballot_box_with_ballot:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":ballot_box:"
+            ],
+            "slack": [
+                ":ballot_box_with_ballot:"
+            ],
+            "emojipedia": [
+                ":ballot_box_with_ballot:"
+            ]
+        },
         "tags": [
             "ballot",
             "ballot box with ballot",
@@ -3465,10 +4258,17 @@
         "aliases": [
             "Lower Left Fountain Pen"
         ],
-        "shortcodes": [
-            ":fountain_pen:",
-            ":lower_left_fountain_pen:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":fountain_pen:"
+            ],
+            "emojipedia": [
+                ":fountain_pen:"
+            ],
+            "slack": [
+                ":lower_left_fountain_pen:"
+            ]
+        },
         "tags": [
             "fountain",
             "pen"
@@ -3497,10 +4297,17 @@
             "Ballpoint Pen",
             "Lower Left Ballpoint Pen"
         ],
-        "shortcodes": [
-            ":pen:",
-            ":lower_left_ballpoint_pen:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pen:"
+            ],
+            "emojipedia": [
+                ":pen:"
+            ],
+            "slack": [
+                ":lower_left_ballpoint_pen:"
+            ]
+        },
         "tags": [
             "ballpoint",
             "pen"
@@ -3529,10 +4336,17 @@
             "Brush",
             "Lower Left Paintbrush"
         ],
-        "shortcodes": [
-            ":paintbrush:",
-            ":lower_left_paintbrush:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":paintbrush:"
+            ],
+            "emojipedia": [
+                ":paintbrush:"
+            ],
+            "slack": [
+                ":lower_left_paintbrush:"
+            ]
+        },
         "tags": [
             "paintbrush",
             "painting"
@@ -3560,10 +4374,17 @@
         "aliases": [
             "Lower Left Crayon"
         ],
-        "shortcodes": [
-            ":crayon:",
-            ":lower_left_crayon:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":crayon:"
+            ],
+            "emojipedia": [
+                ":crayon:"
+            ],
+            "slack": [
+                ":lower_left_crayon:"
+            ]
+        },
         "tags": [
             "crayon"
         ],
@@ -3587,9 +4408,17 @@
         "code": "1f5c2-fe0f",
         "emoji": "🗂️",
         "title": "Card Index Dividers",
-        "shortcodes": [
-            ":card_index_dividers:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":card_index_dividers:"
+            ],
+            "slack": [
+                ":card_index_dividers:"
+            ],
+            "emojipedia": [
+                ":card_index_dividers:"
+            ]
+        },
         "tags": [
             "card",
             "dividers",
@@ -3618,10 +4447,17 @@
         "aliases": [
             "Spiral Note Pad"
         ],
-        "shortcodes": [
-            ":spiral_notepad:",
-            ":spiral_note_pad:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":spiral_notepad:"
+            ],
+            "emojipedia": [
+                ":spiral_notepad:"
+            ],
+            "slack": [
+                ":spiral_note_pad:"
+            ]
+        },
         "tags": [
             "note",
             "pad",
@@ -3651,10 +4487,17 @@
         "aliases": [
             "Spiral Calendar Pad"
         ],
-        "shortcodes": [
-            ":spiral_calendar:",
-            ":spiral_calendar_pad:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":spiral_calendar:"
+            ],
+            "emojipedia": [
+                ":spiral_calendar:"
+            ],
+            "slack": [
+                ":spiral_calendar_pad:"
+            ]
+        },
         "tags": [
             "calendar",
             "pad",
@@ -3680,10 +4523,17 @@
         "code": "1f587-fe0f",
         "emoji": "🖇️",
         "title": "Linked Paperclips",
-        "shortcodes": [
-            ":linked_paperclips:",
-            ":paperclips:"
-        ],
+        "shortcodes": {
+            "slack": [
+                ":linked_paperclips:"
+            ],
+            "emojipedia": [
+                ":linked_paperclips:"
+            ],
+            "github": [
+                ":paperclips:"
+            ]
+        },
         "tags": [
             "link",
             "linked paperclips",
@@ -3709,9 +4559,17 @@
         "code": "1f5c3-fe0f",
         "emoji": "🗃️",
         "title": "Card File Box",
-        "shortcodes": [
-            ":card_file_box:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":card_file_box:"
+            ],
+            "slack": [
+                ":card_file_box:"
+            ],
+            "emojipedia": [
+                ":card_file_box:"
+            ]
+        },
         "tags": [
             "box",
             "card",
@@ -3740,9 +4598,17 @@
         "aliases": [
             "Filing Cabinet"
         ],
-        "shortcodes": [
-            ":file_cabinet:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":file_cabinet:"
+            ],
+            "slack": [
+                ":file_cabinet:"
+            ],
+            "emojipedia": [
+                ":file_cabinet:"
+            ]
+        },
         "tags": [
             "cabinet",
             "file",
@@ -3774,9 +4640,17 @@
             "Trash Can",
             "Wastepaper Basket"
         ],
-        "shortcodes": [
-            ":wastebasket:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":wastebasket:"
+            ],
+            "slack": [
+                ":wastebasket:"
+            ],
+            "emojipedia": [
+                ":wastebasket:"
+            ]
+        },
         "tags": [
             "wastebasket"
         ],
@@ -3800,9 +4674,17 @@
         "code": "1f5dd-fe0f",
         "emoji": "🗝️",
         "title": "Old Key",
-        "shortcodes": [
-            ":old_key:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":old_key:"
+            ],
+            "slack": [
+                ":old_key:"
+            ],
+            "emojipedia": [
+                ":old_key:"
+            ]
+        },
         "tags": [
             "clue",
             "key",
@@ -3832,9 +4714,17 @@
         "aliases": [
             "Pickaxe"
         ],
-        "shortcodes": [
-            ":pick:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pick:"
+            ],
+            "slack": [
+                ":pick:"
+            ],
+            "emojipedia": [
+                ":pick:"
+            ]
+        },
         "tags": [
             "mining",
             "pick",
@@ -3860,9 +4750,17 @@
         "code": "1f6e0-fe0f",
         "emoji": "🛠️",
         "title": "Hammer and Wrench",
-        "shortcodes": [
-            ":hammer_and_wrench:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":hammer_and_wrench:"
+            ],
+            "slack": [
+                ":hammer_and_wrench:"
+            ],
+            "emojipedia": [
+                ":hammer_and_wrench:"
+            ]
+        },
         "tags": [
             "hammer",
             "hammer and wrench",
@@ -3894,10 +4792,17 @@
             "Knife Weapon",
             "Dagger Knife"
         ],
-        "shortcodes": [
-            ":dagger:",
-            ":dagger_knife:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":dagger:"
+            ],
+            "emojipedia": [
+                ":dagger:"
+            ],
+            "slack": [
+                ":dagger_knife:"
+            ]
+        },
         "tags": [
             "dagger",
             "knife",
@@ -3923,9 +4828,17 @@
         "code": "1f6e1-fe0f",
         "emoji": "🛡️",
         "title": "Shield",
-        "shortcodes": [
-            ":shield:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":shield:"
+            ],
+            "slack": [
+                ":shield:"
+            ],
+            "emojipedia": [
+                ":shield:"
+            ]
+        },
         "tags": [
             "shield",
             "weapon"
@@ -3955,10 +4868,17 @@
             "WinZip",
             "Compression"
         ],
-        "shortcodes": [
-            ":clamp:",
-            ":compression:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":clamp:"
+            ],
+            "emojipedia": [
+                ":clamp:"
+            ],
+            "slack": [
+                ":compression:"
+            ]
+        },
         "tags": [
             "clamp",
             "compress",
@@ -3985,9 +4905,17 @@
         "code": "26d3-fe0f",
         "emoji": "⛓️",
         "title": "Chains",
-        "shortcodes": [
-            ":chains:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":chains:"
+            ],
+            "slack": [
+                ":chains:"
+            ],
+            "emojipedia": [
+                ":chains:"
+            ]
+        },
         "tags": [
             "chain",
             "chains"
@@ -4015,9 +4943,17 @@
         "aliases": [
             "Bedroom"
         ],
-        "shortcodes": [
-            ":bed:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":bed:"
+            ],
+            "slack": [
+                ":bed:"
+            ],
+            "emojipedia": [
+                ":bed:"
+            ]
+        },
         "tags": [
             "bed",
             "hotel",
@@ -4048,9 +4984,17 @@
             "Settee",
             "Sofa"
         ],
-        "shortcodes": [
-            ":couch_and_lamp:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":couch_and_lamp:"
+            ],
+            "slack": [
+                ":couch_and_lamp:"
+            ],
+            "emojipedia": [
+                ":couch_and_lamp:"
+            ]
+        },
         "tags": [
             "couch",
             "couch and lamp",
@@ -4083,10 +5027,17 @@
             "Pranava",
             "Om Symbol"
         ],
-        "shortcodes": [
-            ":om:",
-            ":om_symbol:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":om:"
+            ],
+            "emojipedia": [
+                ":om:"
+            ],
+            "slack": [
+                ":om_symbol:"
+            ]
+        },
         "tags": [
             "hindu",
             "om",
@@ -4116,9 +5067,17 @@
         "aliases": [
             "Magen David"
         ],
-        "shortcodes": [
-            ":star_of_david:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":star_of_david:"
+            ],
+            "slack": [
+                ":star_of_david:"
+            ],
+            "emojipedia": [
+                ":star_of_david:"
+            ]
+        },
         "tags": [
             "david",
             "jew",
@@ -4154,9 +5113,17 @@
         "aliases": [
             "Helm"
         ],
-        "shortcodes": [
-            ":wheel_of_dharma:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":wheel_of_dharma:"
+            ],
+            "slack": [
+                ":wheel_of_dharma:"
+            ],
+            "emojipedia": [
+                ":wheel_of_dharma:"
+            ]
+        },
         "tags": [
             "buddhist",
             "dharma",
@@ -4185,9 +5152,17 @@
         "code": "262f-fe0f",
         "emoji": "☯️",
         "title": "Yin Yang",
-        "shortcodes": [
-            ":yin_yang:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":yin_yang:"
+            ],
+            "slack": [
+                ":yin_yang:"
+            ],
+            "emojipedia": [
+                ":yin_yang:"
+            ]
+        },
         "tags": [
             "religion",
             "tao",
@@ -4218,9 +5193,17 @@
         "aliases": [
             "Christian Cross"
         ],
-        "shortcodes": [
-            ":latin_cross:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":latin_cross:"
+            ],
+            "slack": [
+                ":latin_cross:"
+            ],
+            "emojipedia": [
+                ":latin_cross:"
+            ]
+        },
         "tags": [
             "christian",
             "cross",
@@ -4248,9 +5231,17 @@
         "code": "262a-fe0f",
         "emoji": "☪️",
         "title": "Star and Crescent",
-        "shortcodes": [
-            ":star_and_crescent:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":star_and_crescent:"
+            ],
+            "slack": [
+                ":star_and_crescent:"
+            ],
+            "emojipedia": [
+                ":star_and_crescent:"
+            ]
+        },
         "tags": [
             "islam",
             "muslim",
@@ -4283,10 +5274,17 @@
             "Skip Forward Symbol",
             "Black Right-Pointing Double Triangle with Vertical Bar"
         ],
-        "shortcodes": [
-            ":next_track_button:",
-            ":black_right_pointing_double_triangle_with_vertical_bar:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":next_track_button:"
+            ],
+            "emojipedia": [
+                ":next_track_button:"
+            ],
+            "slack": [
+                ":black_right_pointing_double_triangle_with_vertical_bar:"
+            ]
+        },
         "tags": [
             "arrow",
             "next scene",
@@ -4319,11 +5317,17 @@
             "Skip Backward Symbol",
             "Black Left-Pointing Double Triangle with Vertical Bar"
         ],
-        "shortcodes": [
-            ":last_track_button:",
-            ":previous_track_button:",
-            ":black_left_pointing_double_triangle_with_vertical_bar:"
-        ],
+        "shortcodes": {
+            "emojipedia": [
+                ":last_track_button:"
+            ],
+            "github": [
+                ":previous_track_button:"
+            ],
+            "slack": [
+                ":black_left_pointing_double_triangle_with_vertical_bar:"
+            ]
+        },
         "tags": [
             "arrow",
             "last track button",
@@ -4356,10 +5360,17 @@
             "Pause Symbol",
             "Double Vertical Bar"
         ],
-        "shortcodes": [
-            ":pause_button:",
-            ":double_vertical_bar:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":pause_button:"
+            ],
+            "emojipedia": [
+                ":pause_button:"
+            ],
+            "slack": [
+                ":double_vertical_bar:"
+            ]
+        },
         "tags": [
             "bar",
             "double",
@@ -4392,10 +5403,17 @@
             "Stop Symbol",
             "Black Square for Stop"
         ],
-        "shortcodes": [
-            ":stop_button:",
-            ":black_square_for_stop:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":stop_button:"
+            ],
+            "emojipedia": [
+                ":stop_button:"
+            ],
+            "slack": [
+                ":black_square_for_stop:"
+            ]
+        },
         "tags": [
             "square",
             "stop",
@@ -4426,10 +5444,17 @@
             "Record Symbol",
             "Black Circle for Record"
         ],
-        "shortcodes": [
-            ":record_button:",
-            ":black_circle_for_record:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":record_button:"
+            ],
+            "emojipedia": [
+                ":record_button:"
+            ],
+            "slack": [
+                ":black_circle_for_record:"
+            ]
+        },
         "tags": [
             "circle",
             "record",
@@ -4458,10 +5483,17 @@
         "aliases": [
             "Waving White Flag"
         ],
-        "shortcodes": [
-            ":white_flag:",
-            ":waving_white_flag:"
-        ],
+        "shortcodes": {
+            "github": [
+                ":white_flag:"
+            ],
+            "emojipedia": [
+                ":white_flag:"
+            ],
+            "slack": [
+                ":waving_white_flag:"
+            ]
+        },
         "tags": [
             "waving",
             "white flag"
