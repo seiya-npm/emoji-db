@@ -1,0 +1,7354 @@
+﻿[
+    {
+        "category": "People",
+        "sub_category": "Face Smiling",
+        "code": "1f923",
+        "emoji": "🤣",
+        "title": "Rolling on the Floor Laughing",
+        "aliases": [
+            "ROFL",
+            "Rolling on the Floor Laughing Face"
+        ],
+        "shortcodes": {
+            "github": [
+                ":rofl:"
+            ],
+            "slack": [
+                ":rolling_on_the_floor_laughing:"
+            ],
+            "emojipedia": [
+                ":rolling_on_the_floor_laughing:"
+            ]
+        },
+        "tags": [
+            "face",
+            "floor",
+            "laugh",
+            "rofl",
+            "rolling",
+            "rolling on the floor laughing",
+            "rotfl"
+        ],
+        "codepoints": [
+            "U+1F923"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "rolling-on-the-floor-laughing_1f923.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Neutral-Skeptical",
+        "code": "1f925",
+        "emoji": "🤥",
+        "title": "Lying Face",
+        "aliases": [
+            "Liar",
+            "Long Nose",
+            "Pinocchio"
+        ],
+        "shortcodes": {
+            "github": [
+                ":lying_face:"
+            ],
+            "slack": [
+                ":lying_face:"
+            ],
+            "emojipedia": [
+                ":lying_face:"
+            ]
+        },
+        "tags": [
+            "face",
+            "lie",
+            "lying face",
+            "pinocchio"
+        ],
+        "codepoints": [
+            "U+1F925"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "lying-face_1f925.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Sleepy",
+        "code": "1f924",
+        "emoji": "🤤",
+        "title": "Drooling Face",
+        "aliases": [
+            "Drool"
+        ],
+        "shortcodes": {
+            "github": [
+                ":drooling_face:"
+            ],
+            "slack": [
+                ":drooling_face:"
+            ],
+            "emojipedia": [
+                ":drooling_face:"
+            ]
+        },
+        "tags": [
+            "drooling",
+            "face"
+        ],
+        "codepoints": [
+            "U+1F924"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "drooling-face_1f924.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Unwell",
+        "code": "1f922",
+        "emoji": "🤢",
+        "title": "Nauseated Face",
+        "aliases": [
+            "Disgust",
+            "Green Face",
+            "Vomit"
+        ],
+        "shortcodes": {
+            "github": [
+                ":nauseated_face:"
+            ],
+            "slack": [
+                ":nauseated_face:"
+            ],
+            "emojipedia": [
+                ":nauseated_face:"
+            ]
+        },
+        "tags": [
+            "face",
+            "nauseated",
+            "vomit"
+        ],
+        "codepoints": [
+            "U+1F922"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "nauseated-face_1f922.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Unwell",
+        "code": "1f927",
+        "emoji": "🤧",
+        "title": "Sneezing Face",
+        "aliases": [
+            "Gesundheit"
+        ],
+        "shortcodes": {
+            "github": [
+                ":sneezing_face:"
+            ],
+            "slack": [
+                ":sneezing_face:"
+            ],
+            "emojipedia": [
+                ":sneezing_face:"
+            ]
+        },
+        "tags": [
+            "face",
+            "gesundheit",
+            "sneeze",
+            "sneezing face"
+        ],
+        "codepoints": [
+            "U+1F927"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "sneezing-face_1f927.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Hat",
+        "code": "1f920",
+        "emoji": "🤠",
+        "title": "Cowboy Hat Face",
+        "aliases": [
+            "Cowboy",
+            "Cowboy Face",
+            "Face with Cowboy Hat"
+        ],
+        "shortcodes": {
+            "github": [
+                ":cowboy_hat_face:"
+            ],
+            "emojipedia": [
+                ":cowboy_hat_face:"
+            ],
+            "slack": [
+                ":face_with_cowboy_hat:"
+            ]
+        },
+        "tags": [
+            "cowboy",
+            "cowgirl",
+            "face",
+            "hat"
+        ],
+        "codepoints": [
+            "U+1F920"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "cowboy-hat-face_1f920.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Face Costume",
+        "code": "1f921",
+        "emoji": "🤡",
+        "title": "Clown Face",
+        "shortcodes": {
+            "github": [
+                ":clown_face:"
+            ],
+            "slack": [
+                ":clown_face:"
+            ],
+            "emojipedia": [
+                ":clown_face:"
+            ]
+        },
+        "tags": [
+            "clown",
+            "face"
+        ],
+        "codepoints": [
+            "U+1F921"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "clown-face_1f921.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Emotion",
+        "code": "1f5a4",
+        "emoji": "🖤",
+        "title": "Black Heart",
+        "aliases": [
+            "Dark Heart"
+        ],
+        "shortcodes": {
+            "github": [
+                ":black_heart:"
+            ],
+            "slack": [
+                ":black_heart:"
+            ],
+            "emojipedia": [
+                ":black_heart:"
+            ]
+        },
+        "tags": [
+            "black",
+            "black heart",
+            "evil",
+            "wicked"
+        ],
+        "codepoints": [
+            "U+1F5A4"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "black-heart_1f5a4.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a",
+        "emoji": "🤚",
+        "title": "Raised Back of Hand",
+        "aliases": [
+            "Backhand",
+            "Back of Hand"
+        ],
+        "shortcodes": {
+            "github": [
+                ":raised_back_of_hand:"
+            ],
+            "slack": [
+                ":raised_back_of_hand:"
+            ],
+            "emojipedia": [
+                ":raised_back_of_hand:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A"
+        ],
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_1f91a.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a-1f3fb",
+        "emoji": "🤚🏻",
+        "title": "Raised Back of Hand: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "light skin tone",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A",
+            "U+1F3FB"
+        ],
+        "parent": "1f91a",
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_light-skin-tone_1f91a-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a-1f3fc",
+        "emoji": "🤚🏼",
+        "title": "Raised Back of Hand: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "medium-light skin tone",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A",
+            "U+1F3FC"
+        ],
+        "parent": "1f91a",
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_medium-light-skin-tone_1f91a-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a-1f3fd",
+        "emoji": "🤚🏽",
+        "title": "Raised Back of Hand: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "medium skin tone",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A",
+            "U+1F3FD"
+        ],
+        "parent": "1f91a",
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_medium-skin-tone_1f91a-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a-1f3fe",
+        "emoji": "🤚🏾",
+        "title": "Raised Back of Hand: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "medium-dark skin tone",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A",
+            "U+1F3FE"
+        ],
+        "parent": "1f91a",
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_medium-dark-skin-tone_1f91a-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1f91a-1f3ff",
+        "emoji": "🤚🏿",
+        "title": "Raised Back of Hand: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":raised_back_of_hand_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "backhand",
+            "dark skin tone",
+            "raised",
+            "raised back of hand"
+        ],
+        "codepoints": [
+            "U+1F91A",
+            "U+1F3FF"
+        ],
+        "parent": "1f91a",
+        "related": [
+            "1f91a",
+            "1f91a-1f3fb",
+            "1f91a-1f3fc",
+            "1f91a-1f3fd",
+            "1f91a-1f3fe",
+            "1f91a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "raised-back-of-hand_dark-skin-tone_1f91a-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e",
+        "emoji": "🤞",
+        "title": "Crossed Fingers",
+        "aliases": [
+            "Fingers Crossed",
+            "Good Luck",
+            "Hand with Index and Middle Fingers Crossed"
+        ],
+        "shortcodes": {
+            "github": [
+                ":crossed_fingers:"
+            ],
+            "slack": [
+                ":crossed_fingers:",
+                ":hand_with_index_and_middle_fingers_crossed:"
+            ],
+            "emojipedia": [
+                ":crossed_fingers:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "finger",
+            "hand",
+            "luck"
+        ],
+        "codepoints": [
+            "U+1F91E"
+        ],
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_1f91e.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e-1f3fb",
+        "emoji": "🤞🏻",
+        "title": "Crossed Fingers: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "finger",
+            "hand",
+            "light skin tone",
+            "luck"
+        ],
+        "codepoints": [
+            "U+1F91E",
+            "U+1F3FB"
+        ],
+        "parent": "1f91e",
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_light-skin-tone_1f91e-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e-1f3fc",
+        "emoji": "🤞🏼",
+        "title": "Crossed Fingers: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "finger",
+            "hand",
+            "luck",
+            "medium-light skin tone"
+        ],
+        "codepoints": [
+            "U+1F91E",
+            "U+1F3FC"
+        ],
+        "parent": "1f91e",
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_medium-light-skin-tone_1f91e-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e-1f3fd",
+        "emoji": "🤞🏽",
+        "title": "Crossed Fingers: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "finger",
+            "hand",
+            "luck",
+            "medium skin tone"
+        ],
+        "codepoints": [
+            "U+1F91E",
+            "U+1F3FD"
+        ],
+        "parent": "1f91e",
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_medium-skin-tone_1f91e-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e-1f3fe",
+        "emoji": "🤞🏾",
+        "title": "Crossed Fingers: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "finger",
+            "hand",
+            "luck",
+            "medium-dark skin tone"
+        ],
+        "codepoints": [
+            "U+1F91E",
+            "U+1F3FE"
+        ],
+        "parent": "1f91e",
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_medium-dark-skin-tone_1f91e-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f91e-1f3ff",
+        "emoji": "🤞🏿",
+        "title": "Crossed Fingers: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":crossed_fingers_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cross",
+            "crossed fingers",
+            "dark skin tone",
+            "finger",
+            "hand",
+            "luck"
+        ],
+        "codepoints": [
+            "U+1F91E",
+            "U+1F3FF"
+        ],
+        "parent": "1f91e",
+        "related": [
+            "1f91e",
+            "1f91e-1f3fb",
+            "1f91e-1f3fc",
+            "1f91e-1f3fd",
+            "1f91e-1f3fe",
+            "1f91e-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "crossed-fingers_dark-skin-tone_1f91e-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919",
+        "emoji": "🤙",
+        "title": "Call Me Hand",
+        "aliases": [
+            "Phone Hand",
+            "Shaka",
+            "Call Me Hand Sign"
+        ],
+        "shortcodes": {
+            "github": [
+                ":call_me_hand:"
+            ],
+            "slack": [
+                ":call_me_hand:"
+            ],
+            "emojipedia": [
+                ":call_me_hand:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "hand",
+            "hang loose",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919"
+        ],
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_1f919.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919-1f3fb",
+        "emoji": "🤙🏻",
+        "title": "Call Me Hand: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "hand",
+            "hang loose",
+            "light skin tone",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919",
+            "U+1F3FB"
+        ],
+        "parent": "1f919",
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_light-skin-tone_1f919-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919-1f3fc",
+        "emoji": "🤙🏼",
+        "title": "Call Me Hand: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "hand",
+            "hang loose",
+            "medium-light skin tone",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919",
+            "U+1F3FC"
+        ],
+        "parent": "1f919",
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_medium-light-skin-tone_1f919-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919-1f3fd",
+        "emoji": "🤙🏽",
+        "title": "Call Me Hand: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "hand",
+            "hang loose",
+            "medium skin tone",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919",
+            "U+1F3FD"
+        ],
+        "parent": "1f919",
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_medium-skin-tone_1f919-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919-1f3fe",
+        "emoji": "🤙🏾",
+        "title": "Call Me Hand: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "hand",
+            "hang loose",
+            "medium-dark skin tone",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919",
+            "U+1F3FE"
+        ],
+        "parent": "1f919",
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_medium-dark-skin-tone_1f919-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Partial",
+        "code": "1f919-1f3ff",
+        "emoji": "🤙🏿",
+        "title": "Call Me Hand: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":call_me_hand_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "call",
+            "call me hand",
+            "dark skin tone",
+            "hand",
+            "hang loose",
+            "shaka"
+        ],
+        "codepoints": [
+            "U+1F919",
+            "U+1F3FF"
+        ],
+        "parent": "1f919",
+        "related": [
+            "1f919",
+            "1f919-1f3fb",
+            "1f919-1f3fc",
+            "1f919-1f3fd",
+            "1f919-1f3fe",
+            "1f919-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "call-me-hand_dark-skin-tone_1f919-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b",
+        "emoji": "🤛",
+        "title": "Left-Facing Fist",
+        "aliases": [
+            "Left Fist Bump"
+        ],
+        "shortcodes": {
+            "github": [
+                ":fist_left:"
+            ],
+            "emojipedia": [
+                ":left_facing_fist:"
+            ],
+            "slack": [
+                ":left-facing_fist:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "left-facing fist",
+            "leftwards"
+        ],
+        "codepoints": [
+            "U+1F91B"
+        ],
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_1f91b.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b-1f3fb",
+        "emoji": "🤛🏻",
+        "title": "Left-Facing Fist: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "left-facing fist",
+            "leftwards",
+            "light skin tone"
+        ],
+        "codepoints": [
+            "U+1F91B",
+            "U+1F3FB"
+        ],
+        "parent": "1f91b",
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_light-skin-tone_1f91b-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b-1f3fc",
+        "emoji": "🤛🏼",
+        "title": "Left-Facing Fist: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "left-facing fist",
+            "leftwards",
+            "medium-light skin tone"
+        ],
+        "codepoints": [
+            "U+1F91B",
+            "U+1F3FC"
+        ],
+        "parent": "1f91b",
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_medium-light-skin-tone_1f91b-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b-1f3fd",
+        "emoji": "🤛🏽",
+        "title": "Left-Facing Fist: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "left-facing fist",
+            "leftwards",
+            "medium skin tone"
+        ],
+        "codepoints": [
+            "U+1F91B",
+            "U+1F3FD"
+        ],
+        "parent": "1f91b",
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_medium-skin-tone_1f91b-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b-1f3fe",
+        "emoji": "🤛🏾",
+        "title": "Left-Facing Fist: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "left-facing fist",
+            "leftwards",
+            "medium-dark skin tone"
+        ],
+        "codepoints": [
+            "U+1F91B",
+            "U+1F3FE"
+        ],
+        "parent": "1f91b",
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_medium-dark-skin-tone_1f91b-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91b-1f3ff",
+        "emoji": "🤛🏿",
+        "title": "Left-Facing Fist: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":left_facing_fist_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "fist",
+            "left-facing fist",
+            "leftwards"
+        ],
+        "codepoints": [
+            "U+1F91B",
+            "U+1F3FF"
+        ],
+        "parent": "1f91b",
+        "related": [
+            "1f91b",
+            "1f91b-1f3fb",
+            "1f91b-1f3fc",
+            "1f91b-1f3fd",
+            "1f91b-1f3fe",
+            "1f91b-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "left-facing-fist_dark-skin-tone_1f91b-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c",
+        "emoji": "🤜",
+        "title": "Right-Facing Fist",
+        "aliases": [
+            "Right Fist Bump"
+        ],
+        "shortcodes": {
+            "github": [
+                ":fist_right:"
+            ],
+            "emojipedia": [
+                ":right_facing_fist:"
+            ],
+            "slack": [
+                ":right-facing_fist:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C"
+        ],
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_1f91c.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c-1f3fb",
+        "emoji": "🤜🏻",
+        "title": "Right-Facing Fist: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "light skin tone",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C",
+            "U+1F3FB"
+        ],
+        "parent": "1f91c",
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_light-skin-tone_1f91c-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c-1f3fc",
+        "emoji": "🤜🏼",
+        "title": "Right-Facing Fist: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "medium-light skin tone",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C",
+            "U+1F3FC"
+        ],
+        "parent": "1f91c",
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_medium-light-skin-tone_1f91c-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c-1f3fd",
+        "emoji": "🤜🏽",
+        "title": "Right-Facing Fist: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "medium skin tone",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C",
+            "U+1F3FD"
+        ],
+        "parent": "1f91c",
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_medium-skin-tone_1f91c-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c-1f3fe",
+        "emoji": "🤜🏾",
+        "title": "Right-Facing Fist: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "fist",
+            "medium-dark skin tone",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C",
+            "U+1F3FE"
+        ],
+        "parent": "1f91c",
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_medium-dark-skin-tone_1f91c-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Closed",
+        "code": "1f91c-1f3ff",
+        "emoji": "🤜🏿",
+        "title": "Right-Facing Fist: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":right_facing_fist_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "fist",
+            "right-facing fist",
+            "rightwards"
+        ],
+        "codepoints": [
+            "U+1F91C",
+            "U+1F3FF"
+        ],
+        "parent": "1f91c",
+        "related": [
+            "1f91c",
+            "1f91c-1f3fb",
+            "1f91c-1f3fc",
+            "1f91c-1f3fd",
+            "1f91c-1f3fe",
+            "1f91c-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "right-facing-fist_dark-skin-tone_1f91c-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d",
+        "emoji": "🤝",
+        "title": "Handshake",
+        "aliases": [
+            "Shaking Hands"
+        ],
+        "shortcodes": {
+            "github": [
+                ":handshake:"
+            ],
+            "slack": [
+                ":handshake:"
+            ],
+            "emojipedia": [
+                ":handshake:"
+            ]
+        },
+        "tags": [
+            "agreement",
+            "hand",
+            "handshake",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D"
+        ],
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_1f91d.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d-1f3fb",
+        "emoji": "🤝🏻",
+        "title": "Handshake: Light Skin Tone",
+        "tags": [
+            "agreement",
+            "hand",
+            "handshake",
+            "light skin tone",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D",
+            "U+1F3FB"
+        ],
+        "parent": "1f91d",
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_light-skin-tone_1f91d-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d-1f3fc",
+        "emoji": "🤝🏼",
+        "title": "Handshake: Medium-Light Skin Tone",
+        "tags": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium-light skin tone",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D",
+            "U+1F3FC"
+        ],
+        "parent": "1f91d",
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_medium-light-skin-tone_1f91d-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d-1f3fd",
+        "emoji": "🤝🏽",
+        "title": "Handshake: Medium Skin Tone",
+        "tags": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium skin tone",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D",
+            "U+1F3FD"
+        ],
+        "parent": "1f91d",
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_medium-skin-tone_1f91d-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d-1f3fe",
+        "emoji": "🤝🏾",
+        "title": "Handshake: Medium-Dark Skin Tone",
+        "tags": [
+            "agreement",
+            "hand",
+            "handshake",
+            "medium-dark skin tone",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D",
+            "U+1F3FE"
+        ],
+        "parent": "1f91d",
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_medium-dark-skin-tone_1f91d-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hands",
+        "code": "1f91d-1f3ff",
+        "emoji": "🤝🏿",
+        "title": "Handshake: Dark Skin Tone",
+        "tags": [
+            "agreement",
+            "dark skin tone",
+            "hand",
+            "handshake",
+            "meeting",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1F91D",
+            "U+1F3FF"
+        ],
+        "parent": "1f91d",
+        "related": [
+            "1f91d",
+            "1f91d-1f3fb",
+            "1f91d-1f3fc",
+            "1f91d-1f3fd",
+            "1f91d-1f3fe",
+            "1f91d-1f3ff",
+            "1faf1-1f3fb-200d-1faf2-1f3fc",
+            "1faf1-1f3fb-200d-1faf2-1f3fd",
+            "1faf1-1f3fb-200d-1faf2-1f3fe",
+            "1faf1-1f3fb-200d-1faf2-1f3ff",
+            "1faf1-1f3fc-200d-1faf2-1f3fb",
+            "1faf1-1f3fc-200d-1faf2-1f3fd",
+            "1faf1-1f3fc-200d-1faf2-1f3fe",
+            "1faf1-1f3fc-200d-1faf2-1f3ff",
+            "1faf1-1f3fd-200d-1faf2-1f3fb",
+            "1faf1-1f3fd-200d-1faf2-1f3fc",
+            "1faf1-1f3fd-200d-1faf2-1f3fe",
+            "1faf1-1f3fd-200d-1faf2-1f3ff",
+            "1faf1-1f3fe-200d-1faf2-1f3fb",
+            "1faf1-1f3fe-200d-1faf2-1f3fc",
+            "1faf1-1f3fe-200d-1faf2-1f3fd",
+            "1faf1-1f3fe-200d-1faf2-1f3ff",
+            "1faf1-1f3ff-200d-1faf2-1f3fb",
+            "1faf1-1f3ff-200d-1faf2-1f3fc",
+            "1faf1-1f3ff-200d-1faf2-1f3fd",
+            "1faf1-1f3ff-200d-1faf2-1f3fe"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "handshake_dark-skin-tone_1f91d-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933",
+        "emoji": "🤳",
+        "title": "Selfie",
+        "aliases": [
+            "Phone Camera",
+            "Selfie Hand"
+        ],
+        "shortcodes": {
+            "github": [
+                ":selfie:"
+            ],
+            "slack": [
+                ":selfie:"
+            ],
+            "emojipedia": [
+                ":selfie:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933"
+        ],
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_1f933.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933-1f3fb",
+        "emoji": "🤳🏻",
+        "title": "Selfie: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "light skin tone",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933",
+            "U+1F3FB"
+        ],
+        "parent": "1f933",
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_light-skin-tone_1f933-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933-1f3fc",
+        "emoji": "🤳🏼",
+        "title": "Selfie: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "medium-light skin tone",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933",
+            "U+1F3FC"
+        ],
+        "parent": "1f933",
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_medium-light-skin-tone_1f933-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933-1f3fd",
+        "emoji": "🤳🏽",
+        "title": "Selfie: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "medium skin tone",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933",
+            "U+1F3FD"
+        ],
+        "parent": "1f933",
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_medium-skin-tone_1f933-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933-1f3fe",
+        "emoji": "🤳🏾",
+        "title": "Selfie: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "medium-dark skin tone",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933",
+            "U+1F3FE"
+        ],
+        "parent": "1f933",
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_medium-dark-skin-tone_1f933-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Prop",
+        "code": "1f933-1f3ff",
+        "emoji": "🤳🏿",
+        "title": "Selfie: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":selfie_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "camera",
+            "dark skin tone",
+            "phone",
+            "selfie"
+        ],
+        "codepoints": [
+            "U+1F933",
+            "U+1F3FF"
+        ],
+        "parent": "1f933",
+        "related": [
+            "1f933",
+            "1f933-1f3fb",
+            "1f933-1f3fc",
+            "1f933-1f3fd",
+            "1f933-1f3fe",
+            "1f933-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "selfie_dark-skin-tone_1f933-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926",
+        "emoji": "🤦",
+        "title": "Person Facepalming",
+        "aliases": [
+            "Facepalm",
+            "Hitting Head",
+            "Picard",
+            "SMH",
+            "Face Palm"
+        ],
+        "shortcodes": {
+            "github": [
+                ":facepalm:"
+            ],
+            "slack": [
+                ":face_palm:"
+            ],
+            "emojipedia": [
+                ":person_facepalming:"
+            ]
+        },
+        "tags": [
+            "disbelief",
+            "exasperation",
+            "face",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926"
+        ],
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_1f926.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926-1f3fb",
+        "emoji": "🤦🏻",
+        "title": "Person Facepalming: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "disbelief",
+            "exasperation",
+            "face",
+            "light skin tone",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926",
+            "U+1F3FB"
+        ],
+        "parent": "1f926",
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_light-skin-tone_1f926-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926-1f3fc",
+        "emoji": "🤦🏼",
+        "title": "Person Facepalming: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "disbelief",
+            "exasperation",
+            "face",
+            "medium-light skin tone",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926",
+            "U+1F3FC"
+        ],
+        "parent": "1f926",
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_medium-light-skin-tone_1f926-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926-1f3fd",
+        "emoji": "🤦🏽",
+        "title": "Person Facepalming: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "disbelief",
+            "exasperation",
+            "face",
+            "medium skin tone",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926",
+            "U+1F3FD"
+        ],
+        "parent": "1f926",
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_medium-skin-tone_1f926-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926-1f3fe",
+        "emoji": "🤦🏾",
+        "title": "Person Facepalming: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "disbelief",
+            "exasperation",
+            "face",
+            "medium-dark skin tone",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926",
+            "U+1F3FE"
+        ],
+        "parent": "1f926",
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_medium-dark-skin-tone_1f926-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f926-1f3ff",
+        "emoji": "🤦🏿",
+        "title": "Person Facepalming: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_facepalming_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "disbelief",
+            "exasperation",
+            "face",
+            "palm",
+            "person facepalming"
+        ],
+        "codepoints": [
+            "U+1F926",
+            "U+1F3FF"
+        ],
+        "parent": "1f926",
+        "related": [
+            "1f926",
+            "1f926-1f3fb",
+            "1f926-1f3fc",
+            "1f926-1f3fd",
+            "1f926-1f3fe",
+            "1f926-1f3ff",
+            "1f926-200d-2642-fe0f",
+            "1f926-1f3fb-200d-2642-fe0f",
+            "1f926-1f3fc-200d-2642-fe0f",
+            "1f926-1f3fd-200d-2642-fe0f",
+            "1f926-1f3fe-200d-2642-fe0f",
+            "1f926-1f3ff-200d-2642-fe0f",
+            "1f926-200d-2640-fe0f",
+            "1f926-1f3fb-200d-2640-fe0f",
+            "1f926-1f3fc-200d-2640-fe0f",
+            "1f926-1f3fd-200d-2640-fe0f",
+            "1f926-1f3fe-200d-2640-fe0f",
+            "1f926-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-facepalming_dark-skin-tone_1f926-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937",
+        "emoji": "🤷",
+        "title": "Person Shrugging",
+        "aliases": [
+            "¯\\_(ツ)_/¯",
+            "Shrug",
+            "Shruggie"
+        ],
+        "shortcodes": {
+            "github": [
+                ":shrug:"
+            ],
+            "slack": [
+                ":shrug:"
+            ],
+            "emojipedia": [
+                ":person_shrugging:"
+            ]
+        },
+        "tags": [
+            "doubt",
+            "ignorance",
+            "indifference",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937"
+        ],
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_1f937.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937-1f3fb",
+        "emoji": "🤷🏻",
+        "title": "Person Shrugging: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "doubt",
+            "ignorance",
+            "indifference",
+            "light skin tone",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937",
+            "U+1F3FB"
+        ],
+        "parent": "1f937",
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_light-skin-tone_1f937-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937-1f3fc",
+        "emoji": "🤷🏼",
+        "title": "Person Shrugging: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "doubt",
+            "ignorance",
+            "indifference",
+            "medium-light skin tone",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937",
+            "U+1F3FC"
+        ],
+        "parent": "1f937",
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_medium-light-skin-tone_1f937-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937-1f3fd",
+        "emoji": "🤷🏽",
+        "title": "Person Shrugging: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "doubt",
+            "ignorance",
+            "indifference",
+            "medium skin tone",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937",
+            "U+1F3FD"
+        ],
+        "parent": "1f937",
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_medium-skin-tone_1f937-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937-1f3fe",
+        "emoji": "🤷🏾",
+        "title": "Person Shrugging: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "doubt",
+            "ignorance",
+            "indifference",
+            "medium-dark skin tone",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937",
+            "U+1F3FE"
+        ],
+        "parent": "1f937",
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_medium-dark-skin-tone_1f937-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Gesture",
+        "code": "1f937-1f3ff",
+        "emoji": "🤷🏿",
+        "title": "Person Shrugging: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_shrugging_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "doubt",
+            "ignorance",
+            "indifference",
+            "person shrugging",
+            "shrug"
+        ],
+        "codepoints": [
+            "U+1F937",
+            "U+1F3FF"
+        ],
+        "parent": "1f937",
+        "related": [
+            "1f937",
+            "1f937-1f3fb",
+            "1f937-1f3fc",
+            "1f937-1f3fd",
+            "1f937-1f3fe",
+            "1f937-1f3ff",
+            "1f937-200d-2642-fe0f",
+            "1f937-1f3fb-200d-2642-fe0f",
+            "1f937-1f3fc-200d-2642-fe0f",
+            "1f937-1f3fd-200d-2642-fe0f",
+            "1f937-1f3fe-200d-2642-fe0f",
+            "1f937-1f3ff-200d-2642-fe0f",
+            "1f937-200d-2640-fe0f",
+            "1f937-1f3fb-200d-2640-fe0f",
+            "1f937-1f3fc-200d-2640-fe0f",
+            "1f937-1f3fd-200d-2640-fe0f",
+            "1f937-1f3fe-200d-2640-fe0f",
+            "1f937-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-shrugging_dark-skin-tone_1f937-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934",
+        "emoji": "🤴",
+        "title": "Prince",
+        "shortcodes": {
+            "github": [
+                ":prince:"
+            ],
+            "slack": [
+                ":prince:"
+            ],
+            "emojipedia": [
+                ":prince:"
+            ]
+        },
+        "tags": [
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934"
+        ],
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_1f934.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934-1f3fb",
+        "emoji": "🤴🏻",
+        "title": "Prince: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "light skin tone",
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934",
+            "U+1F3FB"
+        ],
+        "parent": "1f934",
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_light-skin-tone_1f934-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934-1f3fc",
+        "emoji": "🤴🏼",
+        "title": "Prince: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-light skin tone",
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934",
+            "U+1F3FC"
+        ],
+        "parent": "1f934",
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_medium-light-skin-tone_1f934-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934-1f3fd",
+        "emoji": "🤴🏽",
+        "title": "Prince: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium skin tone",
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934",
+            "U+1F3FD"
+        ],
+        "parent": "1f934",
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_medium-skin-tone_1f934-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934-1f3fe",
+        "emoji": "🤴🏾",
+        "title": "Prince: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-dark skin tone",
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934",
+            "U+1F3FE"
+        ],
+        "parent": "1f934",
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_medium-dark-skin-tone_1f934-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f934-1f3ff",
+        "emoji": "🤴🏿",
+        "title": "Prince: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":prince_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "prince"
+        ],
+        "codepoints": [
+            "U+1F934",
+            "U+1F3FF"
+        ],
+        "parent": "1f934",
+        "related": [
+            "1f934",
+            "1f934-1f3fb",
+            "1f934-1f3fc",
+            "1f934-1f3fd",
+            "1f934-1f3fe",
+            "1f934-1f3ff",
+            "1f478",
+            "1f478-1f3fb",
+            "1f478-1f3fc",
+            "1f478-1f3fd",
+            "1f478-1f3fe",
+            "1f478-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "prince_dark-skin-tone_1f934-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935",
+        "emoji": "🤵",
+        "title": "Person in Tuxedo",
+        "aliases": [
+            "Groom",
+            "Man In Suit",
+            "Man in Tuxedo"
+        ],
+        "shortcodes": {
+            "github": [
+                ":man_in_tuxedo:"
+            ],
+            "slack": [
+                ":man_in_tuxedo:"
+            ],
+            "emojipedia": [
+                ":person_in_tuxedo:"
+            ]
+        },
+        "tags": [
+            "groom",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935"
+        ],
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_1f935.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935-1f3fb",
+        "emoji": "🤵🏻",
+        "title": "Person in Tuxedo: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "groom",
+            "light skin tone",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935",
+            "U+1F3FB"
+        ],
+        "parent": "1f935",
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_light-skin-tone_1f935-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935-1f3fc",
+        "emoji": "🤵🏼",
+        "title": "Person in Tuxedo: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "groom",
+            "medium-light skin tone",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935",
+            "U+1F3FC"
+        ],
+        "parent": "1f935",
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_medium-light-skin-tone_1f935-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935-1f3fd",
+        "emoji": "🤵🏽",
+        "title": "Person in Tuxedo: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "groom",
+            "medium skin tone",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935",
+            "U+1F3FD"
+        ],
+        "parent": "1f935",
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_medium-skin-tone_1f935-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935-1f3fe",
+        "emoji": "🤵🏾",
+        "title": "Person in Tuxedo: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "groom",
+            "medium-dark skin tone",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935",
+            "U+1F3FE"
+        ],
+        "parent": "1f935",
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_medium-dark-skin-tone_1f935-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f935-1f3ff",
+        "emoji": "🤵🏿",
+        "title": "Person in Tuxedo: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_in_tuxedo_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "groom",
+            "person",
+            "person in tuxedo",
+            "tuxedo"
+        ],
+        "codepoints": [
+            "U+1F935",
+            "U+1F3FF"
+        ],
+        "parent": "1f935",
+        "related": [
+            "1f935",
+            "1f935-1f3fb",
+            "1f935-1f3fc",
+            "1f935-1f3fd",
+            "1f935-1f3fe",
+            "1f935-1f3ff",
+            "1f935-200d-2642-fe0f",
+            "1f935-1f3fb-200d-2642-fe0f",
+            "1f935-1f3fc-200d-2642-fe0f",
+            "1f935-1f3fd-200d-2642-fe0f",
+            "1f935-1f3fe-200d-2642-fe0f",
+            "1f935-1f3ff-200d-2642-fe0f",
+            "1f935-200d-2640-fe0f",
+            "1f935-1f3fb-200d-2640-fe0f",
+            "1f935-1f3fc-200d-2640-fe0f",
+            "1f935-1f3fd-200d-2640-fe0f",
+            "1f935-1f3fe-200d-2640-fe0f",
+            "1f935-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-in-tuxedo_dark-skin-tone_1f935-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930",
+        "emoji": "🤰",
+        "title": "Pregnant Woman",
+        "aliases": [
+            "Pregnancy",
+            "Pregnant Lady"
+        ],
+        "shortcodes": {
+            "github": [
+                ":pregnant_woman:"
+            ],
+            "slack": [
+                ":pregnant_woman:"
+            ],
+            "emojipedia": [
+                ":pregnant_woman:"
+            ]
+        },
+        "tags": [
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930"
+        ],
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_1f930.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930-1f3fb",
+        "emoji": "🤰🏻",
+        "title": "Pregnant Woman: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "light skin tone",
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930",
+            "U+1F3FB"
+        ],
+        "parent": "1f930",
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_light-skin-tone_1f930-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930-1f3fc",
+        "emoji": "🤰🏼",
+        "title": "Pregnant Woman: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-light skin tone",
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930",
+            "U+1F3FC"
+        ],
+        "parent": "1f930",
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_medium-light-skin-tone_1f930-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930-1f3fd",
+        "emoji": "🤰🏽",
+        "title": "Pregnant Woman: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium skin tone",
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930",
+            "U+1F3FD"
+        ],
+        "parent": "1f930",
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_medium-skin-tone_1f930-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930-1f3fe",
+        "emoji": "🤰🏾",
+        "title": "Pregnant Woman: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-dark skin tone",
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930",
+            "U+1F3FE"
+        ],
+        "parent": "1f930",
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_medium-dark-skin-tone_1f930-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Role",
+        "code": "1f930-1f3ff",
+        "emoji": "🤰🏿",
+        "title": "Pregnant Woman: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":pregnant_woman_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "pregnant",
+            "woman"
+        ],
+        "codepoints": [
+            "U+1F930",
+            "U+1F3FF"
+        ],
+        "parent": "1f930",
+        "related": [
+            "1f930",
+            "1f930-1f3fb",
+            "1f930-1f3fc",
+            "1f930-1f3fd",
+            "1f930-1f3fe",
+            "1f930-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pregnant-woman_dark-skin-tone_1f930-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936",
+        "emoji": "🤶",
+        "title": "Mrs. Claus",
+        "aliases": [
+            "Mrs Claus",
+            "Mother Christmas"
+        ],
+        "shortcodes": {
+            "github": [
+                ":mrs_claus:"
+            ],
+            "slack": [
+                ":mrs_claus:",
+                ":mother_christmas:"
+            ],
+            "emojipedia": [
+                ":mrs_claus:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936"
+        ],
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_1f936.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936-1f3fb",
+        "emoji": "🤶🏻",
+        "title": "Mrs. Claus: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "light skin tone",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936",
+            "U+1F3FB"
+        ],
+        "parent": "1f936",
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_light-skin-tone_1f936-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936-1f3fc",
+        "emoji": "🤶🏼",
+        "title": "Mrs. Claus: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "medium-light skin tone",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936",
+            "U+1F3FC"
+        ],
+        "parent": "1f936",
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_medium-light-skin-tone_1f936-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936-1f3fd",
+        "emoji": "🤶🏽",
+        "title": "Mrs. Claus: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "medium skin tone",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936",
+            "U+1F3FD"
+        ],
+        "parent": "1f936",
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_medium-skin-tone_1f936-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936-1f3fe",
+        "emoji": "🤶🏾",
+        "title": "Mrs. Claus: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "medium-dark skin tone",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936",
+            "U+1F3FE"
+        ],
+        "parent": "1f936",
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_medium-dark-skin-tone_1f936-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Fantasy",
+        "code": "1f936-1f3ff",
+        "emoji": "🤶🏿",
+        "title": "Mrs. Claus: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":mrs_claus_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "celebration",
+            "christmas",
+            "claus",
+            "dark skin tone",
+            "mother",
+            "mrs.",
+            "mrs. claus",
+            "Christmas",
+            "Mrs.",
+            "Mrs. Claus"
+        ],
+        "codepoints": [
+            "U+1F936",
+            "U+1F3FF"
+        ],
+        "parent": "1f936",
+        "related": [
+            "1f385",
+            "1f385-1f3fb",
+            "1f385-1f3fc",
+            "1f385-1f3fd",
+            "1f385-1f3fe",
+            "1f385-1f3ff",
+            "1f936",
+            "1f936-1f3fb",
+            "1f936-1f3fc",
+            "1f936-1f3fd",
+            "1f936-1f3fe",
+            "1f936-1f3ff",
+            "1f9d1-200d-1f384",
+            "1f9d1-1f3fb-200d-1f384",
+            "1f9d1-1f3fc-200d-1f384",
+            "1f9d1-1f3fd-200d-1f384",
+            "1f9d1-1f3fe-200d-1f384",
+            "1f9d1-1f3ff-200d-1f384"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "mrs-claus_dark-skin-tone_1f936-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a",
+        "emoji": "🕺",
+        "title": "Man Dancing",
+        "aliases": [
+            "Disco Dancer",
+            "Male Dancer"
+        ],
+        "shortcodes": {
+            "github": [
+                ":man_dancing:"
+            ],
+            "slack": [
+                ":man_dancing:"
+            ],
+            "emojipedia": [
+                ":man_dancing:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F57A"
+        ],
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_1f57a.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a-1f3fb",
+        "emoji": "🕺🏻",
+        "title": "Man Dancing: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "light skin tone",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F57A",
+            "U+1F3FB"
+        ],
+        "parent": "1f57a",
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_light-skin-tone_1f57a-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a-1f3fc",
+        "emoji": "🕺🏼",
+        "title": "Man Dancing: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "man",
+            "medium-light skin tone"
+        ],
+        "codepoints": [
+            "U+1F57A",
+            "U+1F3FC"
+        ],
+        "parent": "1f57a",
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_medium-light-skin-tone_1f57a-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a-1f3fd",
+        "emoji": "🕺🏽",
+        "title": "Man Dancing: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "man",
+            "medium skin tone"
+        ],
+        "codepoints": [
+            "U+1F57A",
+            "U+1F3FD"
+        ],
+        "parent": "1f57a",
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_medium-skin-tone_1f57a-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a-1f3fe",
+        "emoji": "🕺🏾",
+        "title": "Man Dancing: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "man",
+            "medium-dark skin tone"
+        ],
+        "codepoints": [
+            "U+1F57A",
+            "U+1F3FE"
+        ],
+        "parent": "1f57a",
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_medium-dark-skin-tone_1f57a-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Person Activity",
+        "code": "1f57a-1f3ff",
+        "emoji": "🕺🏿",
+        "title": "Man Dancing: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":man_dancing_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dance",
+            "dancing",
+            "dark skin tone",
+            "man"
+        ],
+        "codepoints": [
+            "U+1F57A",
+            "U+1F3FF"
+        ],
+        "parent": "1f57a",
+        "related": [
+            "1f483",
+            "1f483-1f3fb",
+            "1f483-1f3fc",
+            "1f483-1f3fd",
+            "1f483-1f3fe",
+            "1f483-1f3ff",
+            "1f57a",
+            "1f57a-1f3fb",
+            "1f57a-1f3fc",
+            "1f57a-1f3fd",
+            "1f57a-1f3fe",
+            "1f57a-1f3ff"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "man-dancing_dark-skin-tone_1f57a-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93a",
+        "emoji": "🤺",
+        "title": "Person Fencing",
+        "aliases": [
+            "Fencer"
+        ],
+        "shortcodes": {
+            "github": [
+                ":person_fencing:"
+            ],
+            "emojipedia": [
+                ":person_fencing:"
+            ],
+            "slack": [
+                ":fencer:"
+            ]
+        },
+        "tags": [
+            "fencer",
+            "fencing",
+            "person fencing",
+            "sword"
+        ],
+        "codepoints": [
+            "U+1F93A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-fencing_1f93a.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938",
+        "emoji": "🤸",
+        "title": "Person Cartwheeling",
+        "aliases": [
+            "Gymnast",
+            "Gymnastics",
+            "Person Doing a Cartwheel",
+            "Person Doing Cartwheel"
+        ],
+        "shortcodes": {
+            "github": [
+                ":cartwheeling:"
+            ],
+            "emojipedia": [
+                ":person_cartwheeling:"
+            ],
+            "slack": [
+                ":person_doing_cartwheel:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "gymnastics",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938"
+        ],
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_1f938.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938-1f3fb",
+        "emoji": "🤸🏻",
+        "title": "Person Cartwheeling: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "gymnastics",
+            "light skin tone",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938",
+            "U+1F3FB"
+        ],
+        "parent": "1f938",
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_light-skin-tone_1f938-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938-1f3fc",
+        "emoji": "🤸🏼",
+        "title": "Person Cartwheeling: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "gymnastics",
+            "medium-light skin tone",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938",
+            "U+1F3FC"
+        ],
+        "parent": "1f938",
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_medium-light-skin-tone_1f938-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938-1f3fd",
+        "emoji": "🤸🏽",
+        "title": "Person Cartwheeling: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "gymnastics",
+            "medium skin tone",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938",
+            "U+1F3FD"
+        ],
+        "parent": "1f938",
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_medium-skin-tone_1f938-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938-1f3fe",
+        "emoji": "🤸🏾",
+        "title": "Person Cartwheeling: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "gymnastics",
+            "medium-dark skin tone",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938",
+            "U+1F3FE"
+        ],
+        "parent": "1f938",
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_medium-dark-skin-tone_1f938-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f938-1f3ff",
+        "emoji": "🤸🏿",
+        "title": "Person Cartwheeling: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_cartwheeling_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "cartwheel",
+            "dark skin tone",
+            "gymnastics",
+            "person cartwheeling"
+        ],
+        "codepoints": [
+            "U+1F938",
+            "U+1F3FF"
+        ],
+        "parent": "1f938",
+        "related": [
+            "1f938",
+            "1f938-1f3fb",
+            "1f938-1f3fc",
+            "1f938-1f3fd",
+            "1f938-1f3fe",
+            "1f938-1f3ff",
+            "1f938-200d-2642-fe0f",
+            "1f938-1f3fb-200d-2642-fe0f",
+            "1f938-1f3fc-200d-2642-fe0f",
+            "1f938-1f3fd-200d-2642-fe0f",
+            "1f938-1f3fe-200d-2642-fe0f",
+            "1f938-1f3ff-200d-2642-fe0f",
+            "1f938-200d-2640-fe0f",
+            "1f938-1f3fb-200d-2640-fe0f",
+            "1f938-1f3fc-200d-2640-fe0f",
+            "1f938-1f3fd-200d-2640-fe0f",
+            "1f938-1f3fe-200d-2640-fe0f",
+            "1f938-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-cartwheeling_dark-skin-tone_1f938-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93c",
+        "emoji": "🤼",
+        "title": "People Wrestling",
+        "aliases": [
+            "Wrestling",
+            "Wrestlers"
+        ],
+        "shortcodes": {
+            "slack": [
+                ":wrestlers:"
+            ],
+            "github": [
+                ":wrestling:"
+            ],
+            "emojipedia": [
+                ":people_wrestling:"
+            ]
+        },
+        "tags": [
+            "people wrestling",
+            "wrestle",
+            "wrestler"
+        ],
+        "codepoints": [
+            "U+1F93C"
+        ],
+        "related": [
+            "1f93c",
+            "1f93c-200d-2642-fe0f",
+            "1f93c-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "people-wrestling_1f93c.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d",
+        "emoji": "🤽",
+        "title": "Person Playing Water Polo",
+        "aliases": [
+            "Water Polo"
+        ],
+        "shortcodes": {
+            "github": [
+                ":water_polo:"
+            ],
+            "slack": [
+                ":water_polo:"
+            ],
+            "emojipedia": [
+                ":person_playing_water_polo:"
+            ]
+        },
+        "tags": [
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D"
+        ],
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_1f93d.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d-1f3fb",
+        "emoji": "🤽🏻",
+        "title": "Person Playing Water Polo: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "light skin tone",
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D",
+            "U+1F3FB"
+        ],
+        "parent": "1f93d",
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_light-skin-tone_1f93d-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d-1f3fc",
+        "emoji": "🤽🏼",
+        "title": "Person Playing Water Polo: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-light skin tone",
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D",
+            "U+1F3FC"
+        ],
+        "parent": "1f93d",
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_medium-light-skin-tone_1f93d-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d-1f3fd",
+        "emoji": "🤽🏽",
+        "title": "Person Playing Water Polo: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium skin tone",
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D",
+            "U+1F3FD"
+        ],
+        "parent": "1f93d",
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_medium-skin-tone_1f93d-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d-1f3fe",
+        "emoji": "🤽🏾",
+        "title": "Person Playing Water Polo: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "medium-dark skin tone",
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D",
+            "U+1F3FE"
+        ],
+        "parent": "1f93d",
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_medium-dark-skin-tone_1f93d-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93d-1f3ff",
+        "emoji": "🤽🏿",
+        "title": "Person Playing Water Polo: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_water_polo_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "dark skin tone",
+            "person playing water polo",
+            "polo",
+            "water"
+        ],
+        "codepoints": [
+            "U+1F93D",
+            "U+1F3FF"
+        ],
+        "parent": "1f93d",
+        "related": [
+            "1f93d",
+            "1f93d-1f3fb",
+            "1f93d-1f3fc",
+            "1f93d-1f3fd",
+            "1f93d-1f3fe",
+            "1f93d-1f3ff",
+            "1f93d-200d-2642-fe0f",
+            "1f93d-1f3fb-200d-2642-fe0f",
+            "1f93d-1f3fc-200d-2642-fe0f",
+            "1f93d-1f3fd-200d-2642-fe0f",
+            "1f93d-1f3fe-200d-2642-fe0f",
+            "1f93d-1f3ff-200d-2642-fe0f",
+            "1f93d-200d-2640-fe0f",
+            "1f93d-1f3fb-200d-2640-fe0f",
+            "1f93d-1f3fc-200d-2640-fe0f",
+            "1f93d-1f3fd-200d-2640-fe0f",
+            "1f93d-1f3fe-200d-2640-fe0f",
+            "1f93d-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-water-polo_dark-skin-tone_1f93d-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e",
+        "emoji": "🤾",
+        "title": "Person Playing Handball",
+        "aliases": [
+            "Handball"
+        ],
+        "shortcodes": {
+            "slack": [
+                ":handball:"
+            ],
+            "github": [
+                ":handball_person:"
+            ],
+            "emojipedia": [
+                ":person_playing_handball:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "handball",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E"
+        ],
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_1f93e.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e-1f3fb",
+        "emoji": "🤾🏻",
+        "title": "Person Playing Handball: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "handball",
+            "light skin tone",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E",
+            "U+1F3FB"
+        ],
+        "parent": "1f93e",
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_light-skin-tone_1f93e-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e-1f3fc",
+        "emoji": "🤾🏼",
+        "title": "Person Playing Handball: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "handball",
+            "medium-light skin tone",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E",
+            "U+1F3FC"
+        ],
+        "parent": "1f93e",
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_medium-light-skin-tone_1f93e-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e-1f3fd",
+        "emoji": "🤾🏽",
+        "title": "Person Playing Handball: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "handball",
+            "medium skin tone",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E",
+            "U+1F3FD"
+        ],
+        "parent": "1f93e",
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_medium-skin-tone_1f93e-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e-1f3fe",
+        "emoji": "🤾🏾",
+        "title": "Person Playing Handball: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "handball",
+            "medium-dark skin tone",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E",
+            "U+1F3FE"
+        ],
+        "parent": "1f93e",
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_medium-dark-skin-tone_1f93e-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f93e-1f3ff",
+        "emoji": "🤾🏿",
+        "title": "Person Playing Handball: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_playing_handball_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "ball",
+            "dark skin tone",
+            "handball",
+            "person playing handball"
+        ],
+        "codepoints": [
+            "U+1F93E",
+            "U+1F3FF"
+        ],
+        "parent": "1f93e",
+        "related": [
+            "1f93e",
+            "1f93e-1f3fb",
+            "1f93e-1f3fc",
+            "1f93e-1f3fd",
+            "1f93e-1f3fe",
+            "1f93e-1f3ff",
+            "1f93e-200d-2642-fe0f",
+            "1f93e-1f3fb-200d-2642-fe0f",
+            "1f93e-1f3fc-200d-2642-fe0f",
+            "1f93e-1f3fd-200d-2642-fe0f",
+            "1f93e-1f3fe-200d-2642-fe0f",
+            "1f93e-1f3ff-200d-2642-fe0f",
+            "1f93e-200d-2640-fe0f",
+            "1f93e-1f3fb-200d-2640-fe0f",
+            "1f93e-1f3fc-200d-2640-fe0f",
+            "1f93e-1f3fd-200d-2640-fe0f",
+            "1f93e-1f3fe-200d-2640-fe0f",
+            "1f93e-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-playing-handball_dark-skin-tone_1f93e-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939",
+        "emoji": "🤹",
+        "title": "Person Juggling",
+        "aliases": [
+            "Juggler",
+            "Juggling"
+        ],
+        "shortcodes": {
+            "slack": [
+                ":juggling:"
+            ],
+            "github": [
+                ":juggling_person:"
+            ],
+            "emojipedia": [
+                ":person_juggling:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "juggle",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939"
+        ],
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_1f939.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939-1f3fb",
+        "emoji": "🤹🏻",
+        "title": "Person Juggling: Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "juggle",
+            "light skin tone",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939",
+            "U+1F3FB"
+        ],
+        "parent": "1f939",
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_light-skin-tone_1f939-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939-1f3fc",
+        "emoji": "🤹🏼",
+        "title": "Person Juggling: Medium-Light Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_light_skin_tone:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "juggle",
+            "medium-light skin tone",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939",
+            "U+1F3FC"
+        ],
+        "parent": "1f939",
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_medium-light-skin-tone_1f939-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939-1f3fd",
+        "emoji": "🤹🏽",
+        "title": "Person Juggling: Medium Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_skin_tone:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "juggle",
+            "medium skin tone",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939",
+            "U+1F3FD"
+        ],
+        "parent": "1f939",
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_medium-skin-tone_1f939-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939-1f3fe",
+        "emoji": "🤹🏾",
+        "title": "Person Juggling: Medium-Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_medium_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "juggle",
+            "medium-dark skin tone",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939",
+            "U+1F3FE"
+        ],
+        "parent": "1f939",
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_medium-dark-skin-tone_1f939-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Person Sport",
+        "code": "1f939-1f3ff",
+        "emoji": "🤹🏿",
+        "title": "Person Juggling: Dark Skin Tone",
+        "shortcodes": {
+            "emojipedia": [
+                ":person_juggling_dark_skin_tone:"
+            ]
+        },
+        "tags": [
+            "balance",
+            "dark skin tone",
+            "juggle",
+            "multitask",
+            "person juggling",
+            "skill"
+        ],
+        "codepoints": [
+            "U+1F939",
+            "U+1F3FF"
+        ],
+        "parent": "1f939",
+        "related": [
+            "1f939",
+            "1f939-1f3fb",
+            "1f939-1f3fc",
+            "1f939-1f3fd",
+            "1f939-1f3fe",
+            "1f939-1f3ff",
+            "1f939-200d-2642-fe0f",
+            "1f939-1f3fb-200d-2642-fe0f",
+            "1f939-1f3fc-200d-2642-fe0f",
+            "1f939-1f3fd-200d-2642-fe0f",
+            "1f939-1f3fe-200d-2642-fe0f",
+            "1f939-1f3ff-200d-2642-fe0f",
+            "1f939-200d-2640-fe0f",
+            "1f939-1f3fb-200d-2640-fe0f",
+            "1f939-1f3fc-200d-2640-fe0f",
+            "1f939-1f3fd-200d-2640-fe0f",
+            "1f939-1f3fe-200d-2640-fe0f",
+            "1f939-1f3ff-200d-2640-fe0f"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "person-juggling_dark-skin-tone_1f939-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f98d",
+        "emoji": "🦍",
+        "title": "Gorilla",
+        "shortcodes": {
+            "github": [
+                ":gorilla:"
+            ],
+            "slack": [
+                ":gorilla:"
+            ],
+            "emojipedia": [
+                ":gorilla:"
+            ]
+        },
+        "tags": [
+            "gorilla"
+        ],
+        "codepoints": [
+            "U+1F98D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "gorilla_1f98d.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f98a",
+        "emoji": "🦊",
+        "title": "Fox",
+        "aliases": [
+            "Fox Face"
+        ],
+        "shortcodes": {
+            "github": [
+                ":fox_face:"
+            ],
+            "slack": [
+                ":fox_face:"
+            ],
+            "emojipedia": [
+                ":fox:"
+            ]
+        },
+        "tags": [
+            "face",
+            "fox"
+        ],
+        "codepoints": [
+            "U+1F98A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "fox_1f98a.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f98c",
+        "emoji": "🦌",
+        "title": "Deer",
+        "aliases": [
+            "Buck",
+            "Reindeer",
+            "Stag"
+        ],
+        "shortcodes": {
+            "github": [
+                ":deer:"
+            ],
+            "slack": [
+                ":deer:"
+            ],
+            "emojipedia": [
+                ":deer:"
+            ]
+        },
+        "tags": [
+            "deer"
+        ],
+        "codepoints": [
+            "U+1F98C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "deer_1f98c.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f98f",
+        "emoji": "🦏",
+        "title": "Rhinoceros",
+        "aliases": [
+            "Rhino"
+        ],
+        "shortcodes": {
+            "github": [
+                ":rhinoceros:"
+            ],
+            "slack": [
+                ":rhinoceros:"
+            ],
+            "emojipedia": [
+                ":rhinoceros:"
+            ]
+        },
+        "tags": [
+            "rhinoceros"
+        ],
+        "codepoints": [
+            "U+1F98F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "rhinoceros_1f98f.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1f987",
+        "emoji": "🦇",
+        "title": "Bat",
+        "aliases": [
+            "Batman"
+        ],
+        "shortcodes": {
+            "github": [
+                ":bat:"
+            ],
+            "slack": [
+                ":bat:"
+            ],
+            "emojipedia": [
+                ":bat:"
+            ]
+        },
+        "tags": [
+            "bat",
+            "vampire"
+        ],
+        "codepoints": [
+            "U+1F987"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "bat_1f987.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f985",
+        "emoji": "🦅",
+        "title": "Eagle",
+        "aliases": [
+            "Bald Eagle"
+        ],
+        "shortcodes": {
+            "github": [
+                ":eagle:"
+            ],
+            "slack": [
+                ":eagle:"
+            ],
+            "emojipedia": [
+                ":eagle:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "eagle"
+        ],
+        "codepoints": [
+            "U+1F985"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "eagle_1f985.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f986",
+        "emoji": "🦆",
+        "title": "Duck",
+        "shortcodes": {
+            "github": [
+                ":duck:"
+            ],
+            "slack": [
+                ":duck:"
+            ],
+            "emojipedia": [
+                ":duck:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "duck"
+        ],
+        "codepoints": [
+            "U+1F986"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "duck_1f986.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f989",
+        "emoji": "🦉",
+        "title": "Owl",
+        "shortcodes": {
+            "github": [
+                ":owl:"
+            ],
+            "slack": [
+                ":owl:"
+            ],
+            "emojipedia": [
+                ":owl:"
+            ]
+        },
+        "tags": [
+            "bird",
+            "owl",
+            "wise"
+        ],
+        "codepoints": [
+            "U+1F989"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "owl_1f989.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Reptile",
+        "code": "1f98e",
+        "emoji": "🦎",
+        "title": "Lizard",
+        "aliases": [
+            "Gecko"
+        ],
+        "shortcodes": {
+            "github": [
+                ":lizard:"
+            ],
+            "slack": [
+                ":lizard:"
+            ],
+            "emojipedia": [
+                ":lizard:"
+            ]
+        },
+        "tags": [
+            "lizard",
+            "reptile"
+        ],
+        "codepoints": [
+            "U+1F98E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "lizard_1f98e.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Marine",
+        "code": "1f988",
+        "emoji": "🦈",
+        "title": "Shark",
+        "aliases": [
+            "Great White Shark"
+        ],
+        "shortcodes": {
+            "github": [
+                ":shark:"
+            ],
+            "slack": [
+                ":shark:"
+            ],
+            "emojipedia": [
+                ":shark:"
+            ]
+        },
+        "tags": [
+            "fish",
+            "shark"
+        ],
+        "codepoints": [
+            "U+1F988"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "shark_1f988.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Animal Bug",
+        "code": "1f98b",
+        "emoji": "🦋",
+        "title": "Butterfly",
+        "shortcodes": {
+            "github": [
+                ":butterfly:"
+            ],
+            "slack": [
+                ":butterfly:"
+            ],
+            "emojipedia": [
+                ":butterfly:"
+            ]
+        },
+        "tags": [
+            "butterfly",
+            "insect",
+            "pretty"
+        ],
+        "codepoints": [
+            "U+1F98B"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "butterfly_1f98b.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Plant Flower",
+        "code": "1f940",
+        "emoji": "🥀",
+        "title": "Wilted Flower",
+        "aliases": [
+            "Dead Flower",
+            "Drooping Flower",
+            "Wilted Rose"
+        ],
+        "shortcodes": {
+            "github": [
+                ":wilted_flower:"
+            ],
+            "slack": [
+                ":wilted_flower:"
+            ],
+            "emojipedia": [
+                ":wilted_flower:"
+            ]
+        },
+        "tags": [
+            "flower",
+            "wilted"
+        ],
+        "codepoints": [
+            "U+1F940"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "wilted-flower_1f940.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Fruit",
+        "code": "1f95d",
+        "emoji": "🥝",
+        "title": "Kiwi Fruit",
+        "aliases": [
+            "Chinese Gooseberry",
+            "Kiwi",
+            "Kiwifruit"
+        ],
+        "shortcodes": {
+            "github": [
+                ":kiwi_fruit:"
+            ],
+            "emojipedia": [
+                ":kiwi_fruit:"
+            ],
+            "slack": [
+                ":kiwifruit:"
+            ]
+        },
+        "tags": [
+            "food",
+            "fruit",
+            "kiwi"
+        ],
+        "codepoints": [
+            "U+1F95D"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "kiwi-fruit_1f95d.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f951",
+        "emoji": "🥑",
+        "title": "Avocado",
+        "shortcodes": {
+            "github": [
+                ":avocado:"
+            ],
+            "slack": [
+                ":avocado:"
+            ],
+            "emojipedia": [
+                ":avocado:"
+            ]
+        },
+        "tags": [
+            "avocado",
+            "food",
+            "fruit"
+        ],
+        "codepoints": [
+            "U+1F951"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "avocado_1f951.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f954",
+        "emoji": "🥔",
+        "title": "Potato",
+        "aliases": [
+            "Baked Potato",
+            "Idaho Potato"
+        ],
+        "shortcodes": {
+            "github": [
+                ":potato:"
+            ],
+            "slack": [
+                ":potato:"
+            ],
+            "emojipedia": [
+                ":potato:"
+            ]
+        },
+        "tags": [
+            "food",
+            "potato",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1F954"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "potato_1f954.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f955",
+        "emoji": "🥕",
+        "title": "Carrot",
+        "shortcodes": {
+            "github": [
+                ":carrot:"
+            ],
+            "slack": [
+                ":carrot:"
+            ],
+            "emojipedia": [
+                ":carrot:"
+            ]
+        },
+        "tags": [
+            "carrot",
+            "food",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1F955"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "carrot_1f955.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f952",
+        "emoji": "🥒",
+        "title": "Cucumber",
+        "aliases": [
+            "Gherkin",
+            "Pickle"
+        ],
+        "shortcodes": {
+            "github": [
+                ":cucumber:"
+            ],
+            "slack": [
+                ":cucumber:"
+            ],
+            "emojipedia": [
+                ":cucumber:"
+            ]
+        },
+        "tags": [
+            "cucumber",
+            "food",
+            "pickle",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1F952"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "cucumber_1f952.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1f95c",
+        "emoji": "🥜",
+        "title": "Peanuts",
+        "aliases": [
+            "Nuts"
+        ],
+        "shortcodes": {
+            "github": [
+                ":peanuts:"
+            ],
+            "slack": [
+                ":peanuts:"
+            ],
+            "emojipedia": [
+                ":peanuts:"
+            ]
+        },
+        "tags": [
+            "food",
+            "nut",
+            "peanut",
+            "peanuts",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1F95C"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "peanuts_1f95c.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f950",
+        "emoji": "🥐",
+        "title": "Croissant",
+        "shortcodes": {
+            "github": [
+                ":croissant:"
+            ],
+            "slack": [
+                ":croissant:"
+            ],
+            "emojipedia": [
+                ":croissant:"
+            ]
+        },
+        "tags": [
+            "bread",
+            "breakfast",
+            "croissant",
+            "food",
+            "french",
+            "roll"
+        ],
+        "codepoints": [
+            "U+1F950"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "croissant_1f950.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f956",
+        "emoji": "🥖",
+        "title": "Baguette Bread",
+        "aliases": [
+            "French Bread",
+            "Baguette"
+        ],
+        "shortcodes": {
+            "github": [
+                ":baguette_bread:"
+            ],
+            "slack": [
+                ":baguette_bread:"
+            ],
+            "emojipedia": [
+                ":baguette_bread:"
+            ]
+        },
+        "tags": [
+            "baguette",
+            "bread",
+            "food",
+            "french"
+        ],
+        "codepoints": [
+            "U+1F956"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "baguette-bread_1f956.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f95e",
+        "emoji": "🥞",
+        "title": "Pancakes",
+        "aliases": [
+            "Crêpes",
+            "Hotcakes"
+        ],
+        "shortcodes": {
+            "github": [
+                ":pancakes:"
+            ],
+            "slack": [
+                ":pancakes:"
+            ],
+            "emojipedia": [
+                ":pancakes:"
+            ]
+        },
+        "tags": [
+            "breakfast",
+            "crêpe",
+            "food",
+            "hotcake",
+            "pancake",
+            "pancakes"
+        ],
+        "codepoints": [
+            "U+1F95E"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "pancakes_1f95e.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f953",
+        "emoji": "🥓",
+        "title": "Bacon",
+        "aliases": [
+            "Rashers"
+        ],
+        "shortcodes": {
+            "github": [
+                ":bacon:"
+            ],
+            "slack": [
+                ":bacon:"
+            ],
+            "emojipedia": [
+                ":bacon:"
+            ]
+        },
+        "tags": [
+            "bacon",
+            "breakfast",
+            "food",
+            "meat"
+        ],
+        "codepoints": [
+            "U+1F953"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "bacon_1f953.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f959",
+        "emoji": "🥙",
+        "title": "Stuffed Flatbread",
+        "aliases": [
+            "Doner Kebab",
+            "Gyro",
+            "Shawarma",
+            "Pita Sandwich"
+        ],
+        "shortcodes": {
+            "github": [
+                ":stuffed_flatbread:"
+            ],
+            "slack": [
+                ":stuffed_flatbread:"
+            ],
+            "emojipedia": [
+                ":stuffed_flatbread:"
+            ]
+        },
+        "tags": [
+            "falafel",
+            "flatbread",
+            "food",
+            "gyro",
+            "kebab",
+            "stuffed"
+        ],
+        "codepoints": [
+            "U+1F959"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "stuffed-flatbread_1f959.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f95a",
+        "emoji": "🥚",
+        "title": "Egg",
+        "shortcodes": {
+            "github": [
+                ":egg:"
+            ],
+            "slack": [
+                ":egg:"
+            ],
+            "emojipedia": [
+                ":egg:"
+            ]
+        },
+        "tags": [
+            "breakfast",
+            "egg",
+            "food"
+        ],
+        "codepoints": [
+            "U+1F95A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "egg_1f95a.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f958",
+        "emoji": "🥘",
+        "title": "Shallow Pan of Food",
+        "aliases": [
+            "Paella",
+            "Pan of Food"
+        ],
+        "shortcodes": {
+            "github": [
+                ":shallow_pan_of_food:"
+            ],
+            "slack": [
+                ":shallow_pan_of_food:"
+            ],
+            "emojipedia": [
+                ":shallow_pan_of_food:"
+            ]
+        },
+        "tags": [
+            "casserole",
+            "food",
+            "paella",
+            "pan",
+            "shallow",
+            "shallow pan of food"
+        ],
+        "codepoints": [
+            "U+1F958"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "shallow-pan-of-food_1f958.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Prepared",
+        "code": "1f957",
+        "emoji": "🥗",
+        "title": "Green Salad",
+        "aliases": [
+            "Salad"
+        ],
+        "shortcodes": {
+            "github": [
+                ":green_salad:"
+            ],
+            "slack": [
+                ":green_salad:"
+            ],
+            "emojipedia": [
+                ":green_salad:"
+            ]
+        },
+        "tags": [
+            "food",
+            "green",
+            "salad"
+        ],
+        "codepoints": [
+            "U+1F957"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "green-salad_1f957.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Food Marine",
+        "code": "1f990",
+        "emoji": "🦐",
+        "title": "Shrimp",
+        "aliases": [
+            "Prawn"
+        ],
+        "shortcodes": {
+            "github": [
+                ":shrimp:"
+            ],
+            "slack": [
+                ":shrimp:"
+            ],
+            "emojipedia": [
+                ":shrimp:"
+            ]
+        },
+        "tags": [
+            "food",
+            "shellfish",
+            "shrimp",
+            "small"
+        ],
+        "codepoints": [
+            "U+1F990"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "shrimp_1f990.png"
+        }
+    },
+    {
+        "category": "Nature",
+        "sub_category": "Food Marine",
+        "code": "1f991",
+        "emoji": "🦑",
+        "title": "Squid",
+        "shortcodes": {
+            "github": [
+                ":squid:"
+            ],
+            "slack": [
+                ":squid:"
+            ],
+            "emojipedia": [
+                ":squid:"
+            ]
+        },
+        "tags": [
+            "food",
+            "molusc",
+            "squid"
+        ],
+        "codepoints": [
+            "U+1F991"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "squid_1f991.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "code": "1f95b",
+        "emoji": "🥛",
+        "title": "Glass of Milk",
+        "aliases": [
+            "Milk"
+        ],
+        "shortcodes": {
+            "slack": [
+                ":glass_of_milk:"
+            ],
+            "emojipedia": [
+                ":glass_of_milk:"
+            ],
+            "github": [
+                ":milk_glass:"
+            ]
+        },
+        "tags": [
+            "drink",
+            "glass",
+            "glass of milk",
+            "milk"
+        ],
+        "codepoints": [
+            "U+1F95B"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "glass-of-milk_1f95b.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "code": "1f942",
+        "emoji": "🥂",
+        "title": "Clinking Glasses",
+        "aliases": [
+            "Celebration",
+            "Champagne Glasses",
+            "Cheers"
+        ],
+        "shortcodes": {
+            "github": [
+                ":clinking_glasses:"
+            ],
+            "slack": [
+                ":clinking_glasses:"
+            ],
+            "emojipedia": [
+                ":clinking_glasses:"
+            ]
+        },
+        "tags": [
+            "celebrate",
+            "clink",
+            "clinking glasses",
+            "drink",
+            "glass"
+        ],
+        "codepoints": [
+            "U+1F942"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "clinking-glasses_1f942.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Drink",
+        "code": "1f943",
+        "emoji": "🥃",
+        "title": "Tumbler Glass",
+        "aliases": [
+            "Bourbon",
+            "Liquor",
+            "Rum",
+            "Whiskey",
+            "Whisky"
+        ],
+        "shortcodes": {
+            "github": [
+                ":tumbler_glass:"
+            ],
+            "slack": [
+                ":tumbler_glass:"
+            ],
+            "emojipedia": [
+                ":tumbler_glass:"
+            ]
+        },
+        "tags": [
+            "glass",
+            "liquor",
+            "shot",
+            "tumbler",
+            "whisky"
+        ],
+        "codepoints": [
+            "U+1F943"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "tumbler-glass_1f943.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Dishware",
+        "code": "1f944",
+        "emoji": "🥄",
+        "title": "Spoon",
+        "shortcodes": {
+            "github": [
+                ":spoon:"
+            ],
+            "slack": [
+                ":spoon:"
+            ],
+            "emojipedia": [
+                ":spoon:"
+            ]
+        },
+        "tags": [
+            "spoon",
+            "tableware"
+        ],
+        "codepoints": [
+            "U+1F944"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "spoon_1f944.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f6f5",
+        "emoji": "🛵",
+        "title": "Motor Scooter",
+        "aliases": [
+            "Motor Bike",
+            "Motor Cycle",
+            "Vespa"
+        ],
+        "shortcodes": {
+            "github": [
+                ":motor_scooter:"
+            ],
+            "slack": [
+                ":motor_scooter:"
+            ],
+            "emojipedia": [
+                ":motor_scooter:"
+            ]
+        },
+        "tags": [
+            "motor",
+            "scooter"
+        ],
+        "codepoints": [
+            "U+1F6F5"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "motor-scooter_1f6f5.png"
+        }
+    },
+    {
+        "category": "Travel & Places",
+        "sub_category": "Transport Ground",
+        "code": "1f6f4",
+        "emoji": "🛴",
+        "title": "Kick Scooter",
+        "aliases": [
+            "Scooter"
+        ],
+        "shortcodes": {
+            "github": [
+                ":kick_scooter:"
+            ],
+            "emojipedia": [
+                ":kick_scooter:"
+            ],
+            "slack": [
+                ":scooter:"
+            ]
+        },
+        "tags": [
+            "kick",
+            "scooter"
+        ],
+        "codepoints": [
+            "U+1F6F4"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "kick-scooter_1f6f4.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Transport Ground",
+        "code": "1f6d1",
+        "emoji": "🛑",
+        "title": "Stop Sign",
+        "aliases": [
+            "Octagonal Sign"
+        ],
+        "shortcodes": {
+            "github": [
+                ":stop_sign:"
+            ],
+            "emojipedia": [
+                ":stop_sign:"
+            ],
+            "slack": [
+                ":octagonal_sign:"
+            ]
+        },
+        "tags": [
+            "octagonal",
+            "sign",
+            "stop"
+        ],
+        "codepoints": [
+            "U+1F6D1"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "stop-sign_1f6d1.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Transport Water",
+        "code": "1f6f6",
+        "emoji": "🛶",
+        "title": "Canoe",
+        "shortcodes": {
+            "github": [
+                ":canoe:"
+            ],
+            "slack": [
+                ":canoe:"
+            ],
+            "emojipedia": [
+                ":canoe:"
+            ]
+        },
+        "tags": [
+            "boat",
+            "canoe"
+        ],
+        "codepoints": [
+            "U+1F6F6"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "canoe_1f6f6.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Award Medal",
+        "code": "1f947",
+        "emoji": "🥇",
+        "title": "1st Place Medal",
+        "aliases": [
+            "Gold Medal",
+            "First Place Medal"
+        ],
+        "shortcodes": {
+            "github": [
+                ":1st_place_medal:"
+            ],
+            "emojipedia": [
+                ":1st_place_medal:"
+            ],
+            "slack": [
+                ":first_place_medal:"
+            ]
+        },
+        "tags": [
+            "1st place medal",
+            "first",
+            "gold",
+            "medal"
+        ],
+        "codepoints": [
+            "U+1F947"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "1st-place-medal_1f947.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Award Medal",
+        "code": "1f948",
+        "emoji": "🥈",
+        "title": "2nd Place Medal",
+        "aliases": [
+            "Silver Medal",
+            "Second Place Medal"
+        ],
+        "shortcodes": {
+            "github": [
+                ":2nd_place_medal:"
+            ],
+            "emojipedia": [
+                ":2nd_place_medal:"
+            ],
+            "slack": [
+                ":second_place_medal:"
+            ]
+        },
+        "tags": [
+            "2nd place medal",
+            "medal",
+            "second",
+            "silver"
+        ],
+        "codepoints": [
+            "U+1F948"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "2nd-place-medal_1f948.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Award Medal",
+        "code": "1f949",
+        "emoji": "🥉",
+        "title": "3rd Place Medal",
+        "aliases": [
+            "Bronze Medal",
+            "Third Place Medal"
+        ],
+        "shortcodes": {
+            "github": [
+                ":3rd_place_medal:"
+            ],
+            "emojipedia": [
+                ":3rd_place_medal:"
+            ],
+            "slack": [
+                ":third_place_medal:"
+            ]
+        },
+        "tags": [
+            "3rd place medal",
+            "bronze",
+            "medal",
+            "third"
+        ],
+        "codepoints": [
+            "U+1F949"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "3rd-place-medal_1f949.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f94a",
+        "emoji": "🥊",
+        "title": "Boxing Glove",
+        "shortcodes": {
+            "github": [
+                ":boxing_glove:"
+            ],
+            "slack": [
+                ":boxing_glove:"
+            ],
+            "emojipedia": [
+                ":boxing_glove:"
+            ]
+        },
+        "tags": [
+            "boxing",
+            "glove"
+        ],
+        "codepoints": [
+            "U+1F94A"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "boxing-glove_1f94a.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f94b",
+        "emoji": "🥋",
+        "title": "Martial Arts Uniform",
+        "aliases": [
+            "Judo"
+        ],
+        "shortcodes": {
+            "github": [
+                ":martial_arts_uniform:"
+            ],
+            "slack": [
+                ":martial_arts_uniform:"
+            ],
+            "emojipedia": [
+                ":martial_arts_uniform:"
+            ]
+        },
+        "tags": [
+            "judo",
+            "karate",
+            "martial arts",
+            "martial arts uniform",
+            "taekwondo",
+            "uniform"
+        ],
+        "codepoints": [
+            "U+1F94B"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "martial-arts-uniform_1f94b.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Sport",
+        "code": "1f945",
+        "emoji": "🥅",
+        "title": "Goal Net",
+        "shortcodes": {
+            "github": [
+                ":goal_net:"
+            ],
+            "slack": [
+                ":goal_net:"
+            ],
+            "emojipedia": [
+                ":goal_net:"
+            ]
+        },
+        "tags": [
+            "goal",
+            "net"
+        ],
+        "codepoints": [
+            "U+1F945"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "goal-net_1f945.png"
+        }
+    },
+    {
+        "category": "Activity",
+        "sub_category": "Musical Instrument",
+        "code": "1f941",
+        "emoji": "🥁",
+        "title": "Drum",
+        "aliases": [
+            "Drum with Drumsticks"
+        ],
+        "shortcodes": {
+            "github": [
+                ":drum:"
+            ],
+            "emojipedia": [
+                ":drum:"
+            ],
+            "slack": [
+                ":drum_with_drumsticks:"
+            ]
+        },
+        "tags": [
+            "drum",
+            "drumsticks",
+            "music"
+        ],
+        "codepoints": [
+            "U+1F941"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "drum_1f941.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Household",
+        "code": "1f6d2",
+        "emoji": "🛒",
+        "title": "Shopping Cart",
+        "aliases": [
+            "Shopping Trolley"
+        ],
+        "shortcodes": {
+            "github": [
+                ":shopping_cart:"
+            ],
+            "emojipedia": [
+                ":shopping_cart:"
+            ],
+            "slack": [
+                ":shopping_trolley:"
+            ]
+        },
+        "tags": [
+            "cart",
+            "shopping",
+            "trolley"
+        ],
+        "codepoints": [
+            "U+1F6D2"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 15.4"
+            ],
+            "folder_id": "325",
+            "file_name": "shopping-cart_1f6d2.png"
+        }
+    }
+]
