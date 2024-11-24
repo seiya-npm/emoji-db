@@ -1,0 +1,861 @@
+﻿[
+    {
+        "category": "Smileys",
+        "sub_category": "Face Neutral-Skeptical",
+        "code": "1fae8",
+        "emoji": "🫨",
+        "title": "Shaking Face",
+        "tags": [
+            "earthquake",
+            "face",
+            "shaking",
+            "shock",
+            "vibrate"
+        ],
+        "codepoints": [
+            "U+1FAE8"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/shaking-face_1fae8.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Heart",
+        "code": "1fa77",
+        "emoji": "🩷",
+        "title": "Pink Heart",
+        "tags": [
+            "cute",
+            "heart",
+            "like",
+            "love",
+            "pink"
+        ],
+        "codepoints": [
+            "U+1FA77"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/pink-heart_1fa77.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Heart",
+        "code": "1fa75",
+        "emoji": "🩵",
+        "title": "Light Blue Heart",
+        "tags": [
+            "cyan",
+            "heart",
+            "light blue",
+            "light blue heart",
+            "teal"
+        ],
+        "codepoints": [
+            "U+1FA75"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/light-blue-heart_1fa75.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Heart",
+        "code": "1fa76",
+        "emoji": "🩶",
+        "title": "Grey Heart",
+        "tags": [
+            "gray",
+            "grey heart",
+            "heart",
+            "silver",
+            "slate"
+        ],
+        "codepoints": [
+            "U+1FA76"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/grey-heart_1fa76.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7",
+        "emoji": "🫷",
+        "title": "Leftwards Pushing Hand",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_1faf7.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7-1f3fb",
+        "emoji": "🫷🏻",
+        "title": "Leftwards Pushing Hand: Light Skin Tone",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7",
+            "U+1F3FB"
+        ],
+        "parent": "1faf7",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_light-skin-tone_1faf7-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7-1f3fc",
+        "emoji": "🫷🏼",
+        "title": "Leftwards Pushing Hand: Medium-Light Skin Tone",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7",
+            "U+1F3FC"
+        ],
+        "parent": "1faf7",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_medium-light-skin-tone_1faf7-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7-1f3fd",
+        "emoji": "🫷🏽",
+        "title": "Leftwards Pushing Hand: Medium Skin Tone",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7",
+            "U+1F3FD"
+        ],
+        "parent": "1faf7",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_medium-skin-tone_1faf7-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7-1f3fe",
+        "emoji": "🫷🏾",
+        "title": "Leftwards Pushing Hand: Medium-Dark Skin Tone",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7",
+            "U+1F3FE"
+        ],
+        "parent": "1faf7",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_medium-dark-skin-tone_1faf7-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf7-1f3ff",
+        "emoji": "🫷🏿",
+        "title": "Leftwards Pushing Hand: Dark Skin Tone",
+        "tags": [
+            "high five",
+            "leftward",
+            "leftwards pushing hand",
+            "push",
+            "refuse",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF7",
+            "U+1F3FF"
+        ],
+        "parent": "1faf7",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/leftwards-pushing-hand_dark-skin-tone_1faf7-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "People",
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8",
+        "emoji": "🫸",
+        "title": "Rightwards Pushing Hand",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_1faf8.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8-1f3fb",
+        "emoji": "🫸🏻",
+        "title": "Rightwards Pushing Hand: Light Skin Tone",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8",
+            "U+1F3FB"
+        ],
+        "parent": "1faf8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_light-skin-tone_1faf8-1f3fb_1f3fb.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8-1f3fc",
+        "emoji": "🫸🏼",
+        "title": "Rightwards Pushing Hand: Medium-Light Skin Tone",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8",
+            "U+1F3FC"
+        ],
+        "parent": "1faf8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_medium-light-skin-tone_1faf8-1f3fc_1f3fc.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8-1f3fd",
+        "emoji": "🫸🏽",
+        "title": "Rightwards Pushing Hand: Medium Skin Tone",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8",
+            "U+1F3FD"
+        ],
+        "parent": "1faf8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_medium-skin-tone_1faf8-1f3fd_1f3fd.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8-1f3fe",
+        "emoji": "🫸🏾",
+        "title": "Rightwards Pushing Hand: Medium-Dark Skin Tone",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8",
+            "U+1F3FE"
+        ],
+        "parent": "1faf8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_medium-dark-skin-tone_1faf8-1f3fe_1f3fe.png"
+        }
+    },
+    {
+        "category": {
+            "cat": "People",
+            "sub": "Hands & Body Parts"
+        },
+        "sub_category": "Hand Fingers-Open",
+        "code": "1faf8-1f3ff",
+        "emoji": "🫸🏿",
+        "title": "Rightwards Pushing Hand: Dark Skin Tone",
+        "tags": [
+            "high five",
+            "push",
+            "refuse",
+            "rightward",
+            "rightwards pushing hand",
+            "stop",
+            "wait"
+        ],
+        "codepoints": [
+            "U+1FAF8",
+            "U+1F3FF"
+        ],
+        "parent": "1faf8",
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/rightwards-pushing-hand_dark-skin-tone_1faf8-1f3ff_1f3ff.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1face",
+        "emoji": "🫎",
+        "title": "Moose",
+        "tags": [
+            "animal",
+            "antlers",
+            "elk",
+            "mammal",
+            "moose"
+        ],
+        "codepoints": [
+            "U+1FACE"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/moose_1face.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Mammal",
+        "code": "1facf",
+        "emoji": "🫏",
+        "title": "Donkey",
+        "tags": [
+            "animal",
+            "ass",
+            "burro",
+            "donkey",
+            "mammal",
+            "mule",
+            "stubborn"
+        ],
+        "codepoints": [
+            "U+1FACF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/donkey_1facf.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1fabd",
+        "emoji": "🪽",
+        "title": "Wing",
+        "tags": [
+            "angelic",
+            "aviation",
+            "bird",
+            "flying",
+            "mythology",
+            "wing"
+        ],
+        "codepoints": [
+            "U+1FABD"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/wing_1fabd.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1f426-200d-2b1b",
+        "emoji": "🐦‍⬛",
+        "title": "Black Bird",
+        "tags": [
+            "bird",
+            "black",
+            "crow",
+            "raven",
+            "rook"
+        ],
+        "codepoints": [
+            "U+1F426",
+            "U+200D",
+            "U+2B1B"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/black-bird_1f426-200d-2b1b.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Bird",
+        "code": "1fabf",
+        "emoji": "🪿",
+        "title": "Goose",
+        "tags": [
+            "bird",
+            "fowl",
+            "goose",
+            "honk",
+            "silly"
+        ],
+        "codepoints": [
+            "U+1FABF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/goose_1fabf.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Animal Marine",
+        "code": "1fabc",
+        "emoji": "🪼",
+        "title": "Jellyfish",
+        "tags": [
+            "burn",
+            "invertebrate",
+            "jelly",
+            "jellyfish",
+            "marine",
+            "ouch",
+            "stinger"
+        ],
+        "codepoints": [
+            "U+1FABC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/jellyfish_1fabc.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Plant Flower",
+        "code": "1fabb",
+        "emoji": "🪻",
+        "title": "Hyacinth",
+        "tags": [
+            "bluebonnet",
+            "flower",
+            "hyacinth",
+            "lavender",
+            "lupine",
+            "snapdragon"
+        ],
+        "codepoints": [
+            "U+1FABB"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/hyacinth_1fabb.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1fada",
+        "emoji": "🫚",
+        "title": "Ginger",
+        "tags": [
+            "beer",
+            "ginger root",
+            "root",
+            "spice"
+        ],
+        "codepoints": [
+            "U+1FADA"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/ginger_1fada.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1fadb",
+        "emoji": "🫛",
+        "title": "Pea Pod",
+        "tags": [
+            "beans",
+            "edamame",
+            "legume",
+            "pea",
+            "pod",
+            "vegetable"
+        ],
+        "codepoints": [
+            "U+1FADB"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/pea-pod_1fadb.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1faad",
+        "emoji": "🪭",
+        "title": "Folding Hand Fan",
+        "tags": [
+            "cooling",
+            "dance",
+            "fan",
+            "flutter",
+            "folding hand fan",
+            "hot",
+            "shy"
+        ],
+        "codepoints": [
+            "U+1FAAD"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/folding-hand-fan_1faad.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Clothing",
+        "code": "1faae",
+        "emoji": "🪮",
+        "title": "Hair Pick",
+        "tags": [
+            "Afro",
+            "comb",
+            "hair",
+            "pick"
+        ],
+        "codepoints": [
+            "U+1FAAE"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/hair-pick_1faae.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Musical Instrument",
+        "code": "1fa87",
+        "emoji": "🪇",
+        "title": "Maracas",
+        "tags": [
+            "instrument",
+            "maracas",
+            "music",
+            "percussion",
+            "rattle",
+            "shake"
+        ],
+        "codepoints": [
+            "U+1FA87"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/maracas_1fa87.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Musical Instrument",
+        "code": "1fa88",
+        "emoji": "🪈",
+        "title": "Flute",
+        "tags": [
+            "fife",
+            "flute",
+            "music",
+            "pipe",
+            "recorder",
+            "woodwind"
+        ],
+        "codepoints": [
+            "U+1FA88"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/flute_1fa88.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Religion",
+        "code": "1faaf",
+        "emoji": "🪯",
+        "title": "Khanda",
+        "tags": [
+            "khanda",
+            "religion",
+            "Sikh"
+        ],
+        "codepoints": [
+            "U+1FAAF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/khanda_1faaf.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Av Symbol",
+        "code": "1f6dc",
+        "emoji": "🛜",
+        "title": "Wireless",
+        "tags": [
+            "computer",
+            "internet",
+            "network",
+            "wi-fi",
+            "wifi",
+            "wireless"
+        ],
+        "codepoints": [
+            "U+1F6DC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 17.4"
+            ],
+            "source": "source/apple/391/wireless_1f6dc.png"
+        }
+    }
+]

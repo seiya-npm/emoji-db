@@ -16,6 +16,18 @@
         "qualified": "23ea"
     },
     {
+        "code": "23eb-fe0f",
+        "qualified": "23eb"
+    },
+    {
+        "code": "23ec-fe0f",
+        "qualified": "23ec"
+    },
+    {
+        "code": "23f0-fe0f",
+        "qualified": "23f0"
+    },
+    {
         "code": "23f3-fe0f",
         "qualified": "23f3"
     },
@@ -120,6 +132,10 @@
         "qualified": "26c5"
     },
     {
+        "code": "26ce-fe0f",
+        "qualified": "26ce"
+    },
+    {
         "code": "26d4-fe0f",
         "qualified": "26d4"
     },
@@ -148,12 +164,64 @@
         "qualified": "26fd"
     },
     {
+        "code": "2705-fe0f",
+        "qualified": "2705"
+    },
+    {
+        "code": "270a-fe0f",
+        "qualified": "270a"
+    },
+    {
+        "code": "270b-fe0f",
+        "qualified": "270b"
+    },
+    {
+        "code": "2728-fe0f",
+        "qualified": "2728"
+    },
+    {
+        "code": "274c-fe0f",
+        "qualified": "274c"
+    },
+    {
+        "code": "274e-fe0f",
+        "qualified": "274e"
+    },
+    {
         "code": "2753-fe0f",
         "qualified": "2753"
     },
     {
+        "code": "2754-fe0f",
+        "qualified": "2754"
+    },
+    {
+        "code": "2755-fe0f",
+        "qualified": "2755"
+    },
+    {
         "code": "2757-fe0f",
         "qualified": "2757"
+    },
+    {
+        "code": "2795-fe0f",
+        "qualified": "2795"
+    },
+    {
+        "code": "2796-fe0f",
+        "qualified": "2796"
+    },
+    {
+        "code": "2797-fe0f",
+        "qualified": "2797"
+    },
+    {
+        "code": "27b0-fe0f",
+        "qualified": "27b0"
+    },
+    {
+        "code": "27bf-fe0f",
+        "qualified": "27bf"
     },
     {
         "code": "2b1b-fe0f",

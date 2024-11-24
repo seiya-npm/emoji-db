@@ -1,22 +1,26 @@
 ﻿[
     {
-        "category": "People",
+        "category": "Smileys",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1f610",
         "emoji": "😐",
         "title": "Neutral Face",
         "aliases": [
             "Face With Straight Mouth",
-            "Straight Faced"
+            "Straight Faced",
+            "Neutral Face"
         ],
         "shortcodes": {
+            "cldr": [
+                ":neutral_face:"
+            ],
             "github": [
                 ":neutral_face:"
             ],
             "slack": [
                 ":neutral_face:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":neutral_face:"
             ]
         },
@@ -33,30 +37,33 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "neutral-face_1f610.png"
+            "source": "source/apple/391/neutral-face_1f610.png"
         }
     },
     {
-        "category": "People",
+        "category": "Smileys",
         "sub_category": "Face Concerned",
         "code": "2639-fe0f",
         "emoji": "☹️",
         "title": "Frowning Face",
         "aliases": [
             "Megafrown",
-            "White Frowning Face"
+            "Frowning Face"
         ],
         "shortcodes": {
+            "cldr": [
+                ":frowning_face:"
+            ],
             "github": [
                 ":frowning_face:"
             ],
-            "emojipedia": [
-                ":frowning_face:"
-            ],
             "slack": [
+                ":white_frowning_face:"
+            ],
+            "discord": [
+                ":frowning2:",
                 ":white_frowning_face:"
             ]
         },
@@ -73,26 +80,31 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "frowning-face_2639-fe0f.png"
+            "source": "source/apple/391/frowning-face_2639-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Symbols & Flags",
         "sub_category": "Emotion",
         "code": "1f573-fe0f",
         "emoji": "🕳️",
         "title": "Hole",
+        "aliases": [
+            "Hole"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":hole:"
+            ],
             "github": [
                 ":hole:"
             ],
             "slack": [
                 ":hole:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":hole:"
             ]
         },
@@ -107,10 +119,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "hole_1f573-fe0f.png"
+            "source": "source/apple/391/hole_1f573-fe0f.png"
         }
     },
     {
@@ -124,13 +135,17 @@
             "Angry Speech Bubble"
         ],
         "shortcodes": {
+            "cldr": [
+                ":right_anger_bubble:"
+            ],
             "github": [
                 ":right_anger_bubble:"
             ],
             "slack": [
                 ":right_anger_bubble:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":anger_right:",
                 ":right_anger_bubble:"
             ]
         },
@@ -149,10 +164,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "right-anger-bubble_1f5ef-fe0f.png"
+            "source": "source/apple/391/right-anger-bubble_1f5ef-fe0f.png"
         }
     },
     {
@@ -167,14 +181,18 @@
             "Raised Hand with Fingers Splayed"
         ],
         "shortcodes": {
+            "cldr": [
+                ":hand_with_fingers_splayed:"
+            ],
             "github": [
                 ":raised_hand_with_fingers_splayed:"
             ],
             "slack": [
                 ":raised_hand_with_fingers_splayed:"
             ],
-            "emojipedia": [
-                ":hand_with_fingers_splayed:"
+            "discord": [
+                ":hand_splayed:",
+                ":raised_hand_with_fingers_splayed:"
             ]
         },
         "tags": [
@@ -187,22 +205,13 @@
             "U+1F590",
             "U+FE0F"
         ],
-        "related": [
-            "1f590-fe0f",
-            "1f590-1f3fb",
-            "1f590-1f3fc",
-            "1f590-1f3fd",
-            "1f590-1f3fe",
-            "1f590-1f3ff"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "hand-with-fingers-splayed_1f590-fe0f.png"
+            "source": "source/apple/391/hand-with-fingers-splayed_1f590-fe0f.png"
         }
     },
     {
@@ -211,14 +220,20 @@
         "code": "270d-fe0f",
         "emoji": "✍️",
         "title": "Writing Hand",
+        "aliases": [
+            "Writing Hand"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":writing_hand:"
+            ],
             "github": [
                 ":writing_hand:"
             ],
             "slack": [
                 ":writing_hand:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":writing_hand:"
             ]
         },
@@ -231,22 +246,13 @@
             "U+270D",
             "U+FE0F"
         ],
-        "related": [
-            "270d-fe0f",
-            "270d-1f3fb",
-            "270d-1f3fc",
-            "270d-1f3fd",
-            "270d-1f3fe",
-            "270d-1f3ff"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "writing-hand_270d-fe0f.png"
+            "source": "source/apple/391/writing-hand_270d-fe0f.png"
         }
     },
     {
@@ -256,16 +262,20 @@
         "emoji": "👁️",
         "title": "Eye",
         "aliases": [
-            "Single Eye"
+            "Single Eye",
+            "Eye"
         ],
         "shortcodes": {
+            "cldr": [
+                ":eye:"
+            ],
             "github": [
                 ":eye:"
             ],
             "slack": [
                 ":eye:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":eye:"
             ]
         },
@@ -281,10 +291,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "eye_1f441-fe0f.png"
+            "source": "source/apple/391/eye_1f441-fe0f.png"
         }
     },
     {
@@ -297,16 +306,21 @@
             "Private Eye",
             "Sleuth",
             "Spy",
-            "Sleuth or Spy"
+            "Detective"
         ],
         "shortcodes": {
+            "cldr": [
+                ":detective:"
+            ],
             "github": [
                 ":detective:"
             ],
-            "emojipedia": [
-                ":detective:"
-            ],
             "slack": [
+                ":sleuth_or_spy:"
+            ],
+            "discord": [
+                ":detective:",
+                ":spy:",
                 ":sleuth_or_spy:"
             ]
         },
@@ -319,38 +333,17 @@
             "U+1F575",
             "U+FE0F"
         ],
-        "related": [
-            "1f575-fe0f",
-            "1f575-1f3fb",
-            "1f575-1f3fc",
-            "1f575-1f3fd",
-            "1f575-1f3fe",
-            "1f575-1f3ff",
-            "1f575-fe0f-200d-2642-fe0f",
-            "1f575-1f3fb-200d-2642-fe0f",
-            "1f575-1f3fc-200d-2642-fe0f",
-            "1f575-1f3fd-200d-2642-fe0f",
-            "1f575-1f3fe-200d-2642-fe0f",
-            "1f575-1f3ff-200d-2642-fe0f",
-            "1f575-fe0f-200d-2640-fe0f",
-            "1f575-1f3fb-200d-2640-fe0f",
-            "1f575-1f3fc-200d-2640-fe0f",
-            "1f575-1f3fd-200d-2640-fe0f",
-            "1f575-1f3fe-200d-2640-fe0f",
-            "1f575-1f3ff-200d-2640-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "detective_1f575-fe0f.png"
+            "source": "source/apple/391/detective_1f575-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "People",
         "sub_category": "Person Activity",
         "code": "1f574-fe0f",
         "emoji": "🕴️",
@@ -362,13 +355,17 @@
             "Man in Business Suit Levitating"
         ],
         "shortcodes": {
+            "cldr": [
+                ":person_in_suit_levitating:"
+            ],
             "github": [
                 ":business_suit_levitating:"
             ],
-            "emojipedia": [
-                ":person_in_suit_levitating:"
-            ],
             "slack": [
+                ":man_in_business_suit_levitating:"
+            ],
+            "discord": [
+                ":levitate:",
                 ":man_in_business_suit_levitating:"
             ]
         },
@@ -382,38 +379,32 @@
             "U+1F574",
             "U+FE0F"
         ],
-        "related": [
-            "1f574-fe0f",
-            "1f574-1f3fb",
-            "1f574-1f3fc",
-            "1f574-1f3fd",
-            "1f574-1f3fe",
-            "1f574-1f3ff"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "person-in-suit-levitating_1f574-fe0f.png"
+            "source": "source/apple/391/person-in-suit-levitating_1f574-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "People",
         "sub_category": "Person Sport",
         "code": "26f7-fe0f",
         "emoji": "⛷️",
         "title": "Skier",
+        "aliases": [
+            "Skier"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":skier:"
+            ],
             "github": [
                 ":skier:"
             ],
             "slack": [
-                ":skier:"
-            ],
-            "emojipedia": [
                 ":skier:"
             ]
         },
@@ -426,21 +417,17 @@
             "U+26F7",
             "U+FE0F"
         ],
-        "related": [
-            "26f7-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "skier_26f7-fe0f.png"
+            "source": "source/apple/391/skier_26f7-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "People",
         "sub_category": "Person Sport",
         "code": "1f3cc-fe0f",
         "emoji": "🏌️",
@@ -451,14 +438,18 @@
             "Golfer"
         ],
         "shortcodes": {
-            "slack": [
-                ":golfer:"
+            "cldr": [
+                ":person_golfing:"
             ],
             "github": [
                 ":golfing:"
             ],
-            "emojipedia": [
-                ":person_golfing:"
+            "slack": [
+                ":golfer:"
+            ],
+            "discord": [
+                ":person_golfing:",
+                ":golfer:"
             ]
         },
         "tags": [
@@ -470,55 +461,38 @@
             "U+1F3CC",
             "U+FE0F"
         ],
-        "related": [
-            "1f3cc-fe0f",
-            "1f3cc-1f3fb",
-            "1f3cc-1f3fc",
-            "1f3cc-1f3fd",
-            "1f3cc-1f3fe",
-            "1f3cc-1f3ff",
-            "1f3cc-fe0f-200d-2642-fe0f",
-            "1f3cc-1f3fb-200d-2642-fe0f",
-            "1f3cc-1f3fc-200d-2642-fe0f",
-            "1f3cc-1f3fd-200d-2642-fe0f",
-            "1f3cc-1f3fe-200d-2642-fe0f",
-            "1f3cc-1f3ff-200d-2642-fe0f",
-            "1f3cc-fe0f-200d-2640-fe0f",
-            "1f3cc-1f3fb-200d-2640-fe0f",
-            "1f3cc-1f3fc-200d-2640-fe0f",
-            "1f3cc-1f3fd-200d-2640-fe0f",
-            "1f3cc-1f3fe-200d-2640-fe0f",
-            "1f3cc-1f3ff-200d-2640-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "person-golfing_1f3cc-fe0f.png"
+            "source": "source/apple/391/person-golfing_1f3cc-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "People",
         "sub_category": "Person Sport",
         "code": "26f9-fe0f",
         "emoji": "⛹️",
         "title": "Person Bouncing Ball",
         "aliases": [
-            "Basketball Player",
-            "Person with Ball"
+            "Basketball Player"
         ],
         "shortcodes": {
-            "slack": [
-                ":person_with_ball:"
+            "cldr": [
+                ":person_bouncing_ball:"
             ],
             "github": [
                 ":bouncing_ball_person:"
             ],
-            "emojipedia": [
-                ":person_bouncing_ball:"
+            "slack": [
+                ":person_with_ball:"
+            ],
+            "discord": [
+                ":person_bouncing_ball:",
+                ":basketball_player:",
+                ":person_with_ball:"
             ]
         },
         "tags": [
@@ -529,56 +503,39 @@
             "U+26F9",
             "U+FE0F"
         ],
-        "related": [
-            "26f9-fe0f",
-            "26f9-1f3fb",
-            "26f9-1f3fc",
-            "26f9-1f3fd",
-            "26f9-1f3fe",
-            "26f9-1f3ff",
-            "26f9-fe0f-200d-2642-fe0f",
-            "26f9-1f3fb-200d-2642-fe0f",
-            "26f9-1f3fc-200d-2642-fe0f",
-            "26f9-1f3fd-200d-2642-fe0f",
-            "26f9-1f3fe-200d-2642-fe0f",
-            "26f9-1f3ff-200d-2642-fe0f",
-            "26f9-fe0f-200d-2640-fe0f",
-            "26f9-1f3fb-200d-2640-fe0f",
-            "26f9-1f3fc-200d-2640-fe0f",
-            "26f9-1f3fd-200d-2640-fe0f",
-            "26f9-1f3fe-200d-2640-fe0f",
-            "26f9-1f3ff-200d-2640-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "person-bouncing-ball_26f9-fe0f.png"
+            "source": "source/apple/391/person-bouncing-ball_26f9-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "People",
         "sub_category": "Person Sport",
         "code": "1f3cb-fe0f",
         "emoji": "🏋️",
         "title": "Person Lifting Weights",
         "aliases": [
             "Bodybuilder",
-            "Weightlifter",
-            "Weight Lifter"
+            "Weightlifter"
         ],
         "shortcodes": {
-            "slack": [
-                ":weight_lifter:"
+            "cldr": [
+                ":person_lifting_weights:"
             ],
             "github": [
                 ":weight_lifting:"
             ],
-            "emojipedia": [
-                ":person_lifting_weights:"
+            "slack": [
+                ":weight_lifter:"
+            ],
+            "discord": [
+                ":person_lifting_weights:",
+                ":lifter:",
+                ":weight_lifter:"
             ]
         },
         "tags": [
@@ -590,34 +547,13 @@
             "U+1F3CB",
             "U+FE0F"
         ],
-        "related": [
-            "1f3cb-fe0f",
-            "1f3cb-1f3fb",
-            "1f3cb-1f3fc",
-            "1f3cb-1f3fd",
-            "1f3cb-1f3fe",
-            "1f3cb-1f3ff",
-            "1f3cb-fe0f-200d-2642-fe0f",
-            "1f3cb-1f3fb-200d-2642-fe0f",
-            "1f3cb-1f3fc-200d-2642-fe0f",
-            "1f3cb-1f3fd-200d-2642-fe0f",
-            "1f3cb-1f3fe-200d-2642-fe0f",
-            "1f3cb-1f3ff-200d-2642-fe0f",
-            "1f3cb-fe0f-200d-2640-fe0f",
-            "1f3cb-1f3fb-200d-2640-fe0f",
-            "1f3cb-1f3fc-200d-2640-fe0f",
-            "1f3cb-1f3fd-200d-2640-fe0f",
-            "1f3cb-1f3fe-200d-2640-fe0f",
-            "1f3cb-1f3ff-200d-2640-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "person-lifting-weights_1f3cb-fe0f.png"
+            "source": "source/apple/391/person-lifting-weights_1f3cb-fe0f.png"
         }
     },
     {
@@ -630,17 +566,20 @@
             "Mansplaining",
             "Shout",
             "Shouting",
-            "Speaking Silhouette Head",
-            "Speaking Head in Silhouette"
+            "Speaking Silhouette Head"
         ],
         "shortcodes": {
+            "cldr": [
+                ":speaking_head:"
+            ],
             "github": [
                 ":speaking_head:"
             ],
-            "emojipedia": [
-                ":speaking_head:"
-            ],
             "slack": [
+                ":speaking_head_in_silhouette:"
+            ],
+            "discord": [
+                ":speaking_head:",
                 ":speaking_head_in_silhouette:"
             ]
         },
@@ -659,30 +598,33 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "speaking-head_1f5e3-fe0f.png"
+            "source": "source/apple/391/speaking-head_1f5e3-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Mammal",
         "code": "1f415",
         "emoji": "🐕",
         "title": "Dog",
         "aliases": [
-            "Doggo"
+            "Doggo",
+            "Dog"
         ],
         "shortcodes": {
+            "cldr": [
+                ":dog:"
+            ],
             "github": [
                 ":dog2:"
             ],
             "slack": [
                 ":dog2:"
             ],
-            "emojipedia": [
-                ":dog:"
+            "discord": [
+                ":dog2:"
             ]
         },
         "tags": [
@@ -696,14 +638,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "dog_1f415.png"
+            "source": "source/apple/391/dog_1f415.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Mammal",
         "code": "1f408",
         "emoji": "🐈",
@@ -711,17 +652,21 @@
         "aliases": [
             "Domestic Cat",
             "Feline",
-            "Housecat"
+            "Housecat",
+            "Cat"
         ],
         "shortcodes": {
+            "cldr": [
+                ":cat:"
+            ],
             "github": [
                 ":cat2:"
             ],
             "slack": [
                 ":cat2:"
             ],
-            "emojipedia": [
-                ":cat:"
+            "discord": [
+                ":cat2:"
             ]
         },
         "tags": [
@@ -735,29 +680,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cat_1f408.png"
+            "source": "source/apple/391/cat_1f408.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Mammal",
         "code": "1f43f-fe0f",
         "emoji": "🐿️",
         "title": "Chipmunk",
         "aliases": [
-            "Squirrel"
+            "Squirrel",
+            "Chipmunk"
         ],
         "shortcodes": {
+            "cldr": [
+                ":chipmunk:"
+            ],
             "github": [
                 ":chipmunk:"
             ],
             "slack": [
                 ":chipmunk:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":chipmunk:"
             ]
         },
@@ -773,29 +721,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "chipmunk_1f43f-fe0f.png"
+            "source": "source/apple/391/chipmunk_1f43f-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Bird",
         "code": "1f54a-fe0f",
         "emoji": "🕊️",
         "title": "Dove",
         "aliases": [
-            "Dove of Peace"
+            "Dove"
         ],
         "shortcodes": {
+            "cldr": [
+                ":dove:"
+            ],
             "github": [
                 ":dove:"
             ],
-            "emojipedia": [
-                ":dove:"
-            ],
             "slack": [
+                ":dove_of_peace:"
+            ],
+            "discord": [
+                ":dove:",
                 ":dove_of_peace:"
             ]
         },
@@ -813,26 +764,31 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "dove_1f54a-fe0f.png"
+            "source": "source/apple/391/dove_1f54a-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Bug",
         "code": "1f577-fe0f",
         "emoji": "🕷️",
         "title": "Spider",
+        "aliases": [
+            "Spider"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":spider:"
+            ],
             "github": [
                 ":spider:"
             ],
             "slack": [
                 ":spider:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":spider:"
             ]
         },
@@ -848,14 +804,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "spider_1f577-fe0f.png"
+            "source": "source/apple/391/spider_1f577-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Animal Bug",
         "code": "1f578-fe0f",
         "emoji": "🕸️",
@@ -866,13 +821,16 @@
             "Spiderweb"
         ],
         "shortcodes": {
+            "cldr": [
+                ":spider_web:"
+            ],
             "github": [
                 ":spider_web:"
             ],
             "slack": [
                 ":spider_web:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":spider_web:"
             ]
         },
@@ -884,33 +842,35 @@
             "U+1F578",
             "U+FE0F"
         ],
-        "related": [
-            "1f3c0"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "spider-web_1f578-fe0f.png"
+            "source": "source/apple/391/spider-web_1f578-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Plant Flower",
         "code": "1f3f5-fe0f",
         "emoji": "🏵️",
         "title": "Rosette",
+        "aliases": [
+            "Rosette"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":rosette:"
+            ],
             "github": [
                 ":rosette:"
             ],
             "slack": [
                 ":rosette:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":rosette:"
             ]
         },
@@ -926,10 +886,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "rosette_1f3f5-fe0f.png"
+            "source": "source/apple/391/rosette_1f3f5-fe0f.png"
         }
     },
     {
@@ -940,16 +899,20 @@
         "title": "Hot Pepper",
         "aliases": [
             "Chili Pepper",
-            "Spicy"
+            "Spicy",
+            "Hot Pepper"
         ],
         "shortcodes": {
+            "cldr": [
+                ":hot_pepper:"
+            ],
             "github": [
                 ":hot_pepper:"
             ],
             "slack": [
                 ":hot_pepper:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":hot_pepper:"
             ]
         },
@@ -965,10 +928,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "hot-pepper_1f336-fe0f.png"
+            "source": "source/apple/391/hot-pepper_1f336-fe0f.png"
         }
     },
     {
@@ -978,16 +940,21 @@
         "emoji": "🍽️",
         "title": "Fork and Knife with Plate",
         "aliases": [
-            "Dinner"
+            "Dinner",
+            "Fork and Knife with Plate"
         ],
         "shortcodes": {
-            "slack": [
-                ":knife_fork_plate:"
+            "cldr": [
+                ":fork_and_knife_with_plate:"
             ],
             "github": [
                 ":plate_with_cutlery:"
             ],
-            "emojipedia": [
+            "slack": [
+                ":knife_fork_plate:"
+            ],
+            "discord": [
+                ":fork_knife_plate:",
                 ":fork_and_knife_with_plate:"
             ]
         },
@@ -1006,47 +973,45 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "fork-and-knife-with-plate_1f37d-fe0f.png"
+            "source": "source/apple/391/fork-and-knife-with-plate_1f37d-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Travel & Places",
         "sub_category": "Place Map",
         "code": "1f30d",
         "emoji": "🌍",
         "title": "Globe Showing Europe-Africa",
         "aliases": [
-            "Earth",
             "Globe",
             "Planet",
+            "Earth",
             "World",
-            "Globe Showing Europe and Africa",
-            "Earth Globe Europe-Africa"
+            "Globe Showing Europe and Africa"
         ],
         "shortcodes": {
+            "cldr": [
+                ":globe_showing_europe_africa:"
+            ],
             "github": [
                 ":earth_africa:"
             ],
             "slack": [
                 ":earth_africa:"
             ],
-            "emojipedia": [
-                ":globe_showing_europe_africa:"
+            "discord": [
+                ":earth_africa:"
             ]
         },
         "tags": [
-            "africa",
-            "earth",
-            "europe",
-            "globe",
-            "globe showing europe-africa",
-            "world",
             "Africa",
+            "earth",
             "Europe",
-            "globe showing Europe-Africa"
+            "globe",
+            "globe showing Europe-Africa",
+            "world"
         ],
         "codepoints": [
             "U+1F30D"
@@ -1055,14 +1020,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "globe-showing-europe-africa_1f30d.png"
+            "source": "source/apple/391/globe-showing-europe-africa_1f30d.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Travel & Places",
         "sub_category": "Place Map",
         "code": "1f30e",
         "emoji": "🌎",
@@ -1072,27 +1036,28 @@
             "Globe",
             "Planet",
             "World",
-            "Earth Globe Americas"
+            "Globe Showing Americas"
         ],
         "shortcodes": {
+            "cldr": [
+                ":globe_showing_americas:"
+            ],
             "github": [
                 ":earth_americas:"
             ],
             "slack": [
                 ":earth_americas:"
             ],
-            "emojipedia": [
-                ":globe_showing_americas:"
+            "discord": [
+                ":earth_americas:"
             ]
         },
         "tags": [
-            "americas",
+            "Americas",
             "earth",
             "globe",
-            "globe showing americas",
-            "world",
-            "Americas",
-            "globe showing Americas"
+            "globe showing Americas",
+            "world"
         ],
         "codepoints": [
             "U+1F30E"
@@ -1101,26 +1066,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "globe-showing-americas_1f30e.png"
+            "source": "source/apple/391/globe-showing-americas_1f30e.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Travel & Places",
         "sub_category": "Place Map",
         "code": "1f5fa-fe0f",
         "emoji": "🗺️",
         "title": "World Map",
+        "aliases": [
+            "World Map"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":world_map:"
+            ],
             "github": [
                 ":world_map:"
             ],
             "slack": [
                 ":world_map:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":map:",
                 ":world_map:"
             ]
         },
@@ -1136,10 +1107,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "world-map_1f5fa-fe0f.png"
+            "source": "source/apple/391/world-map_1f5fa-fe0f.png"
         }
     },
     {
@@ -1152,14 +1122,18 @@
             "Snow Capped Mountain"
         ],
         "shortcodes": {
-            "slack": [
-                ":snow_capped_mountain:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":snow_capped_mountain:"
             ],
             "github": [
                 ":mountain_snow:"
+            ],
+            "slack": [
+                ":snow_capped_mountain:"
+            ],
+            "discord": [
+                ":mountain_snow:",
+                ":snow_capped_mountain:"
             ]
         },
         "tags": [
@@ -1176,10 +1150,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "snow-capped-mountain_1f3d4-fe0f.png"
+            "source": "source/apple/391/snow-capped-mountain_1f3d4-fe0f.png"
         }
     },
     {
@@ -1188,14 +1161,20 @@
         "code": "26f0-fe0f",
         "emoji": "⛰️",
         "title": "Mountain",
+        "aliases": [
+            "Mountain"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":mountain:"
+            ],
             "github": [
                 ":mountain:"
             ],
             "slack": [
                 ":mountain:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":mountain:"
             ]
         },
@@ -1210,10 +1189,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "mountain_26f0-fe0f.png"
+            "source": "source/apple/391/mountain_26f0-fe0f.png"
         }
     },
     {
@@ -1223,16 +1201,20 @@
         "emoji": "🏕️",
         "title": "Camping",
         "aliases": [
-            "Campsite"
+            "Campsite",
+            "Camping"
         ],
         "shortcodes": {
+            "cldr": [
+                ":camping:"
+            ],
             "github": [
                 ":camping:"
             ],
             "slack": [
                 ":camping:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":camping:"
             ]
         },
@@ -1247,10 +1229,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "camping_1f3d5-fe0f.png"
+            "source": "source/apple/391/camping_1f3d5-fe0f.png"
         }
     },
     {
@@ -1259,15 +1240,22 @@
         "code": "1f3d6-fe0f",
         "emoji": "🏖️",
         "title": "Beach with Umbrella",
+        "aliases": [
+            "Beach with Umbrella"
+        ],
         "shortcodes": {
-            "slack": [
-                ":beach_with_umbrella:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":beach_with_umbrella:"
             ],
             "github": [
                 ":beach_umbrella:"
+            ],
+            "slack": [
+                ":beach_with_umbrella:"
+            ],
+            "discord": [
+                ":beach:",
+                ":beach_with_umbrella:"
             ]
         },
         "tags": [
@@ -1283,10 +1271,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "beach-with-umbrella_1f3d6-fe0f.png"
+            "source": "source/apple/391/beach-with-umbrella_1f3d6-fe0f.png"
         }
     },
     {
@@ -1295,14 +1282,20 @@
         "code": "1f3dc-fe0f",
         "emoji": "🏜️",
         "title": "Desert",
+        "aliases": [
+            "Desert"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":desert:"
+            ],
             "github": [
                 ":desert:"
             ],
             "slack": [
                 ":desert:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":desert:"
             ]
         },
@@ -1317,10 +1310,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "desert_1f3dc-fe0f.png"
+            "source": "source/apple/391/desert_1f3dc-fe0f.png"
         }
     },
     {
@@ -1329,14 +1321,21 @@
         "code": "1f3dd-fe0f",
         "emoji": "🏝️",
         "title": "Desert Island",
+        "aliases": [
+            "Desert Island"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":desert_island:"
+            ],
             "github": [
                 ":desert_island:"
             ],
             "slack": [
                 ":desert_island:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":island:",
                 ":desert_island:"
             ]
         },
@@ -1352,10 +1351,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "desert-island_1f3dd-fe0f.png"
+            "source": "source/apple/391/desert-island_1f3dd-fe0f.png"
         }
     },
     {
@@ -1364,14 +1362,21 @@
         "code": "1f3de-fe0f",
         "emoji": "🏞️",
         "title": "National Park",
+        "aliases": [
+            "National Park"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":national_park:"
+            ],
             "github": [
                 ":national_park:"
             ],
             "slack": [
                 ":national_park:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":park:",
                 ":national_park:"
             ]
         },
@@ -1387,10 +1392,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "national-park_1f3de-fe0f.png"
+            "source": "source/apple/391/national-park_1f3de-fe0f.png"
         }
     },
     {
@@ -1401,16 +1405,20 @@
         "title": "Stadium",
         "aliases": [
             "Grandstand",
-            "Sport Stadium"
+            "Sport Stadium",
+            "Stadium"
         ],
         "shortcodes": {
+            "cldr": [
+                ":stadium:"
+            ],
             "github": [
                 ":stadium:"
             ],
             "slack": [
                 ":stadium:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":stadium:"
             ]
         },
@@ -1425,10 +1433,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "stadium_1f3df-fe0f.png"
+            "source": "source/apple/391/stadium_1f3df-fe0f.png"
         }
     },
     {
@@ -1437,14 +1444,20 @@
         "code": "1f3db-fe0f",
         "emoji": "🏛️",
         "title": "Classical Building",
+        "aliases": [
+            "Classical Building"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":classical_building:"
+            ],
             "github": [
                 ":classical_building:"
             ],
             "slack": [
                 ":classical_building:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":classical_building:"
             ]
         },
@@ -1460,10 +1473,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "classical-building_1f3db-fe0f.png"
+            "source": "source/apple/391/classical-building_1f3db-fe0f.png"
         }
     },
     {
@@ -1473,16 +1485,21 @@
         "emoji": "🏗️",
         "title": "Building Construction",
         "aliases": [
-            "Crane"
+            "Crane",
+            "Building Construction"
         ],
         "shortcodes": {
+            "cldr": [
+                ":building_construction:"
+            ],
             "github": [
                 ":building_construction:"
             ],
             "slack": [
                 ":building_construction:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":construction_site:",
                 ":building_construction:"
             ]
         },
@@ -1498,10 +1515,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "building-construction_1f3d7-fe0f.png"
+            "source": "source/apple/391/building-construction_1f3d7-fe0f.png"
         }
     },
     {
@@ -1511,17 +1527,20 @@
         "emoji": "🏘️",
         "title": "Houses",
         "aliases": [
-            "Group of Houses",
-            "House Buildings"
+            "Group of Houses"
         ],
         "shortcodes": {
+            "cldr": [
+                ":houses:"
+            ],
             "github": [
                 ":houses:"
             ],
-            "emojipedia": [
-                ":houses:"
-            ],
             "slack": [
+                ":house_buildings:"
+            ],
+            "discord": [
+                ":homes:",
                 ":house_buildings:"
             ]
         },
@@ -1536,10 +1555,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "houses_1f3d8-fe0f.png"
+            "source": "source/apple/391/houses_1f3d8-fe0f.png"
         }
     },
     {
@@ -1552,16 +1570,20 @@
             "Abandoned House",
             "Haunted House",
             "Old House",
-            "Derelict House Building"
+            "Derelict House"
         ],
         "shortcodes": {
+            "cldr": [
+                ":derelict_house:"
+            ],
             "github": [
                 ":derelict_house:"
             ],
-            "emojipedia": [
-                ":derelict_house:"
-            ],
             "slack": [
+                ":derelict_house_building:"
+            ],
+            "discord": [
+                ":house_abandoned:",
                 ":derelict_house_building:"
             ]
         },
@@ -1577,10 +1599,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "derelict-house_1f3da-fe0f.png"
+            "source": "source/apple/391/derelict-house_1f3da-fe0f.png"
         }
     },
     {
@@ -1590,16 +1611,20 @@
         "emoji": "⛩️",
         "title": "Shinto Shrine",
         "aliases": [
-            "Kami-no-michi"
+            "Kami-no-michi",
+            "Shinto Shrine"
         ],
         "shortcodes": {
+            "cldr": [
+                ":shinto_shrine:"
+            ],
             "github": [
                 ":shinto_shrine:"
             ],
             "slack": [
                 ":shinto_shrine:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":shinto_shrine:"
             ]
         },
@@ -1616,10 +1641,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "shinto-shrine_26e9-fe0f.png"
+            "source": "source/apple/391/shinto-shrine_26e9-fe0f.png"
         }
     },
     {
@@ -1628,14 +1652,20 @@
         "code": "1f3d9-fe0f",
         "emoji": "🏙️",
         "title": "Cityscape",
+        "aliases": [
+            "Cityscape"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":cityscape:"
+            ],
             "github": [
                 ":cityscape:"
             ],
             "slack": [
                 ":cityscape:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":cityscape:"
             ]
         },
@@ -1651,10 +1681,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cityscape_1f3d9-fe0f.png"
+            "source": "source/apple/391/cityscape_1f3d9-fe0f.png"
         }
     },
     {
@@ -1664,16 +1693,20 @@
         "emoji": "🚍",
         "title": "Oncoming Bus",
         "aliases": [
-            "Front Of Bus"
+            "Front Of Bus",
+            "Oncoming Bus"
         ],
         "shortcodes": {
+            "cldr": [
+                ":oncoming_bus:"
+            ],
             "github": [
                 ":oncoming_bus:"
             ],
             "slack": [
                 ":oncoming_bus:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":oncoming_bus:"
             ]
         },
@@ -1688,10 +1721,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "oncoming-bus_1f68d.png"
+            "source": "source/apple/391/oncoming-bus_1f68d.png"
         }
     },
     {
@@ -1701,17 +1733,21 @@
         "emoji": "🚔",
         "title": "Oncoming Police Car",
         "aliases": [
+            "🚓 Cop Car",
             "🚓 Front Of Police Car",
-            "🚓 Cop Car"
+            "Oncoming Police Car"
         ],
         "shortcodes": {
+            "cldr": [
+                ":oncoming_police_car:"
+            ],
             "github": [
                 ":oncoming_police_car:"
             ],
             "slack": [
                 ":oncoming_police_car:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":oncoming_police_car:"
             ]
         },
@@ -1727,10 +1763,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "oncoming-police-car_1f694.png"
+            "source": "source/apple/391/oncoming-police-car_1f694.png"
         }
     },
     {
@@ -1744,13 +1779,16 @@
             "Oncoming Car"
         ],
         "shortcodes": {
+            "cldr": [
+                ":oncoming_automobile:"
+            ],
             "github": [
                 ":oncoming_automobile:"
             ],
             "slack": [
                 ":oncoming_automobile:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":oncoming_automobile:"
             ]
         },
@@ -1766,10 +1804,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "oncoming-automobile_1f698.png"
+            "source": "source/apple/391/oncoming-automobile_1f698.png"
         }
     },
     {
@@ -1784,13 +1821,17 @@
             "Race Car"
         ],
         "shortcodes": {
+            "cldr": [
+                ":racing_car:"
+            ],
             "github": [
                 ":racing_car:"
             ],
             "slack": [
                 ":racing_car:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":race_car:",
                 ":racing_car:"
             ]
         },
@@ -1806,10 +1847,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "racing-car_1f3ce-fe0f.png"
+            "source": "source/apple/391/racing-car_1f3ce-fe0f.png"
         }
     },
     {
@@ -1820,16 +1860,20 @@
         "title": "Motorcycle",
         "aliases": [
             "Motorbike",
-            "Racing Motorcycle"
+            "Motorcycle"
         ],
         "shortcodes": {
+            "cldr": [
+                ":motorcycle:"
+            ],
             "github": [
                 ":motorcycle:"
             ],
-            "emojipedia": [
-                ":motorcycle:"
-            ],
             "slack": [
+                ":racing_motorcycle:"
+            ],
+            "discord": [
+                ":motorcycle:",
                 ":racing_motorcycle:"
             ]
         },
@@ -1845,10 +1889,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "motorcycle_1f3cd-fe0f.png"
+            "source": "source/apple/391/motorcycle_1f3cd-fe0f.png"
         }
     },
     {
@@ -1858,18 +1901,22 @@
         "emoji": "🛣️",
         "title": "Motorway",
         "aliases": [
-            "Highway",
             "Interstate",
-            "Road"
+            "Highway",
+            "Road",
+            "Motorway"
         ],
         "shortcodes": {
+            "cldr": [
+                ":motorway:"
+            ],
             "github": [
                 ":motorway:"
             ],
             "slack": [
                 ":motorway:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":motorway:"
             ]
         },
@@ -1886,10 +1933,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "motorway_1f6e3-fe0f.png"
+            "source": "source/apple/391/motorway_1f6e3-fe0f.png"
         }
     },
     {
@@ -1898,15 +1944,22 @@
         "code": "1f6e4-fe0f",
         "emoji": "🛤️",
         "title": "Railway Track",
+        "aliases": [
+            "Railway Track"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":railway_track:"
+            ],
             "github": [
                 ":railway_track:"
             ],
             "slack": [
                 ":railway_track:"
             ],
-            "emojipedia": [
-                ":railway_track:"
+            "discord": [
+                ":railway_track:",
+                ":railroad_track:"
             ]
         },
         "tags": [
@@ -1922,26 +1975,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "railway-track_1f6e4-fe0f.png"
+            "source": "source/apple/391/railway-track_1f6e4-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Travel & Places",
         "sub_category": "Transport Ground",
         "code": "1f6e2-fe0f",
         "emoji": "🛢️",
         "title": "Oil Drum",
+        "aliases": [
+            "Oil Drum"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":oil_drum:"
+            ],
             "github": [
                 ":oil_drum:"
             ],
             "slack": [
                 ":oil_drum:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":oil:",
                 ":oil_drum:"
             ]
         },
@@ -1957,10 +2016,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "oil-drum_1f6e2-fe0f.png"
+            "source": "source/apple/391/oil-drum_1f6e2-fe0f.png"
         }
     },
     {
@@ -1969,14 +2027,21 @@
         "code": "1f6f3-fe0f",
         "emoji": "🛳️",
         "title": "Passenger Ship",
+        "aliases": [
+            "Passenger Ship"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":passenger_ship:"
+            ],
             "github": [
                 ":passenger_ship:"
             ],
             "slack": [
                 ":passenger_ship:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":cruise_ship:",
                 ":passenger_ship:"
             ]
         },
@@ -1992,10 +2057,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "passenger-ship_1f6f3-fe0f.png"
+            "source": "source/apple/391/passenger-ship_1f6f3-fe0f.png"
         }
     },
     {
@@ -2004,14 +2068,20 @@
         "code": "26f4-fe0f",
         "emoji": "⛴️",
         "title": "Ferry",
+        "aliases": [
+            "Ferry"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":ferry:"
+            ],
             "github": [
                 ":ferry:"
             ],
             "slack": [
                 ":ferry:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":ferry:"
             ]
         },
@@ -2028,10 +2098,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "ferry_26f4-fe0f.png"
+            "source": "source/apple/391/ferry_26f4-fe0f.png"
         }
     },
     {
@@ -2044,20 +2113,23 @@
             "Motorboat"
         ],
         "shortcodes": {
+            "cldr": [
+                ":motor_boat:"
+            ],
             "github": [
                 ":motor_boat:"
             ],
             "slack": [
                 ":motor_boat:"
             ],
-            "emojipedia": [
-                ":motor_boat:"
+            "discord": [
+                ":motorboat:"
             ]
         },
         "tags": [
             "boat",
-            "motorboat",
-            "motor boat"
+            "motor boat",
+            "motorboat"
         ],
         "codepoints": [
             "U+1F6E5",
@@ -2067,10 +2139,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "motor-boat_1f6e5-fe0f.png"
+            "source": "source/apple/391/motor-boat_1f6e5-fe0f.png"
         }
     },
     {
@@ -2081,16 +2152,21 @@
         "title": "Small Airplane",
         "aliases": [
             "Small Aeroplane",
-            "Small Plane"
+            "Small Plane",
+            "Small Airplane"
         ],
         "shortcodes": {
+            "cldr": [
+                ":small_airplane:"
+            ],
             "github": [
                 ":small_airplane:"
             ],
             "slack": [
                 ":small_airplane:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":airplane_small:",
                 ":small_airplane:"
             ]
         },
@@ -2107,10 +2183,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "small-airplane_1f6e9-fe0f.png"
+            "source": "source/apple/391/small-airplane_1f6e9-fe0f.png"
         }
     },
     {
@@ -2119,15 +2194,21 @@
         "code": "1f6f0-fe0f",
         "emoji": "🛰️",
         "title": "Satellite",
+        "aliases": [
+            "Satellite"
+        ],
         "shortcodes": {
-            "slack": [
-                ":satellite:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":satellite:"
             ],
             "github": [
                 ":artificial_satellite:"
+            ],
+            "slack": [
+                ":satellite:"
+            ],
+            "discord": [
+                ":satellite_orbital:"
             ]
         },
         "tags": [
@@ -2142,26 +2223,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "satellite_1f6f0-fe0f.png"
+            "source": "source/apple/391/satellite_1f6f0-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Travel & Places",
         "sub_category": "Hotel",
         "code": "1f6ce-fe0f",
         "emoji": "🛎️",
         "title": "Bellhop Bell",
+        "aliases": [
+            "Bellhop Bell"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":bellhop_bell:"
+            ],
             "github": [
                 ":bellhop_bell:"
             ],
             "slack": [
                 ":bellhop_bell:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":bellhop:",
                 ":bellhop_bell:"
             ]
         },
@@ -2178,10 +2265,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "bellhop-bell_1f6ce-fe0f.png"
+            "source": "source/apple/391/bellhop-bell_1f6ce-fe0f.png"
         }
     },
     {
@@ -2190,15 +2276,22 @@
         "code": "1f570-fe0f",
         "emoji": "🕰️",
         "title": "Mantelpiece Clock",
+        "aliases": [
+            "Mantelpiece Clock"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":mantelpiece_clock:"
+            ],
             "github": [
                 ":mantelpiece_clock:"
             ],
             "slack": [
                 ":mantelpiece_clock:"
             ],
-            "emojipedia": [
-                ":mantelpiece_clock:"
+            "discord": [
+                ":clock:",
+                ":mantlepiece_clock:"
             ]
         },
         "tags": [
@@ -2213,30 +2306,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "mantelpiece-clock_1f570-fe0f.png"
+            "source": "source/apple/391/mantelpiece-clock_1f570-fe0f.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f567",
         "emoji": "🕧",
         "title": "Twelve-Thirty",
         "aliases": [
-            "Clock Face Twelve-Thirty"
+            "Twelve-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":twelve_thirty:"
+            ],
             "github": [
                 ":clock1230:"
             ],
             "slack": [
                 ":clock1230:"
             ],
-            "emojipedia": [
-                ":twelve_thirty:"
+            "discord": [
+                ":clock1230:"
             ]
         },
         "tags": [
@@ -2254,30 +2349,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "twelve-thirty_1f567.png"
+            "source": "source/apple/391/twelve-thirty_1f567.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f55c",
         "emoji": "🕜",
         "title": "One-Thirty",
         "aliases": [
-            "Clock Face One-Thirty"
+            "One-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":one_thirty:"
+            ],
             "github": [
                 ":clock130:"
             ],
             "slack": [
                 ":clock130:"
             ],
-            "emojipedia": [
-                ":one_thirty:"
+            "discord": [
+                ":clock130:"
             ]
         },
         "tags": [
@@ -2295,30 +2392,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "one-thirty_1f55c.png"
+            "source": "source/apple/391/one-thirty_1f55c.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f55d",
         "emoji": "🕝",
         "title": "Two-Thirty",
         "aliases": [
-            "Clock Face Two-Thirty"
+            "Two-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":two_thirty:"
+            ],
             "github": [
                 ":clock230:"
             ],
             "slack": [
                 ":clock230:"
             ],
-            "emojipedia": [
-                ":two_thirty:"
+            "discord": [
+                ":clock230:"
             ]
         },
         "tags": [
@@ -2336,30 +2435,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "two-thirty_1f55d.png"
+            "source": "source/apple/391/two-thirty_1f55d.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f55e",
         "emoji": "🕞",
         "title": "Three-Thirty",
         "aliases": [
-            "Clock Face Three-Thirty"
+            "Three-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":three_thirty:"
+            ],
             "github": [
                 ":clock330:"
             ],
             "slack": [
                 ":clock330:"
             ],
-            "emojipedia": [
-                ":three_thirty:"
+            "discord": [
+                ":clock330:"
             ]
         },
         "tags": [
@@ -2377,30 +2478,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "three-thirty_1f55e.png"
+            "source": "source/apple/391/three-thirty_1f55e.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f55f",
         "emoji": "🕟",
         "title": "Four-Thirty",
         "aliases": [
-            "Clock Face Four-Thirty"
+            "Four-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":four_thirty:"
+            ],
             "github": [
                 ":clock430:"
             ],
             "slack": [
                 ":clock430:"
             ],
-            "emojipedia": [
-                ":four_thirty:"
+            "discord": [
+                ":clock430:"
             ]
         },
         "tags": [
@@ -2418,30 +2521,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "four-thirty_1f55f.png"
+            "source": "source/apple/391/four-thirty_1f55f.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f560",
         "emoji": "🕠",
         "title": "Five-Thirty",
         "aliases": [
-            "Clock Face Five-Thirty"
+            "Five-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":five_thirty:"
+            ],
             "github": [
                 ":clock530:"
             ],
             "slack": [
                 ":clock530:"
             ],
-            "emojipedia": [
-                ":five_thirty:"
+            "discord": [
+                ":clock530:"
             ]
         },
         "tags": [
@@ -2459,30 +2564,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "five-thirty_1f560.png"
+            "source": "source/apple/391/five-thirty_1f560.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f561",
         "emoji": "🕡",
         "title": "Six-Thirty",
         "aliases": [
-            "Clock Face Six-Thirty"
+            "Six-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":six_thirty:"
+            ],
             "github": [
                 ":clock630:"
             ],
             "slack": [
                 ":clock630:"
             ],
-            "emojipedia": [
-                ":six_thirty:"
+            "discord": [
+                ":clock630:"
             ]
         },
         "tags": [
@@ -2500,30 +2607,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "six-thirty_1f561.png"
+            "source": "source/apple/391/six-thirty_1f561.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f562",
         "emoji": "🕢",
         "title": "Seven-Thirty",
         "aliases": [
-            "Clock Face Seven-Thirty"
+            "Seven-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":seven_thirty:"
+            ],
             "github": [
                 ":clock730:"
             ],
             "slack": [
                 ":clock730:"
             ],
-            "emojipedia": [
-                ":seven_thirty:"
+            "discord": [
+                ":clock730:"
             ]
         },
         "tags": [
@@ -2541,30 +2650,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "seven-thirty_1f562.png"
+            "source": "source/apple/391/seven-thirty_1f562.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f563",
         "emoji": "🕣",
         "title": "Eight-Thirty",
         "aliases": [
-            "Clock Face Eight-Thirty"
+            "Eight-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":eight_thirty:"
+            ],
             "github": [
                 ":clock830:"
             ],
             "slack": [
                 ":clock830:"
             ],
-            "emojipedia": [
-                ":eight_thirty:"
+            "discord": [
+                ":clock830:"
             ]
         },
         "tags": [
@@ -2582,30 +2693,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "eight-thirty_1f563.png"
+            "source": "source/apple/391/eight-thirty_1f563.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f564",
         "emoji": "🕤",
         "title": "Nine-Thirty",
         "aliases": [
-            "Clock Face Nine-Thirty"
+            "Nine-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":nine_thirty:"
+            ],
             "github": [
                 ":clock930:"
             ],
             "slack": [
                 ":clock930:"
             ],
-            "emojipedia": [
-                ":nine_thirty:"
+            "discord": [
+                ":clock930:"
             ]
         },
         "tags": [
@@ -2623,30 +2736,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "nine-thirty_1f564.png"
+            "source": "source/apple/391/nine-thirty_1f564.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f565",
         "emoji": "🕥",
         "title": "Ten-Thirty",
         "aliases": [
-            "Clock Face Ten-Thirty"
+            "Ten-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":ten_thirty:"
+            ],
             "github": [
                 ":clock1030:"
             ],
             "slack": [
                 ":clock1030:"
             ],
-            "emojipedia": [
-                ":ten_thirty:"
+            "discord": [
+                ":clock1030:"
             ]
         },
         "tags": [
@@ -2664,30 +2779,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "ten-thirty_1f565.png"
+            "source": "source/apple/391/ten-thirty_1f565.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Time",
         "code": "1f566",
         "emoji": "🕦",
         "title": "Eleven-Thirty",
         "aliases": [
-            "Clock Face Eleven-Thirty"
+            "Eleven-Thirty"
         ],
         "shortcodes": {
+            "cldr": [
+                ":eleven_thirty:"
+            ],
             "github": [
                 ":clock1130:"
             ],
             "slack": [
                 ":clock1130:"
             ],
-            "emojipedia": [
-                ":eleven_thirty:"
+            "discord": [
+                ":clock1130:"
             ]
         },
         "tags": [
@@ -2705,14 +2822,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "eleven-thirty_1f566.png"
+            "source": "source/apple/391/eleven-thirty_1f566.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f31c",
         "emoji": "🌜",
@@ -2721,14 +2837,17 @@
             "Last Quarter Moon with Face"
         ],
         "shortcodes": {
+            "cldr": [
+                ":last_quarter_moon_face:"
+            ],
             "github": [
                 ":last_quarter_moon_with_face:"
             ],
             "slack": [
                 ":last_quarter_moon_with_face:"
             ],
-            "emojipedia": [
-                ":last_quarter_moon_face:"
+            "discord": [
+                ":last_quarter_moon_with_face:"
             ]
         },
         "tags": [
@@ -2744,10 +2863,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "last-quarter-moon-face_1f31c.png"
+            "source": "source/apple/391/last-quarter-moon-face_1f31c.png"
         }
     },
     {
@@ -2758,16 +2876,20 @@
         "title": "Thermometer",
         "aliases": [
             "Hot Weather",
-            "Temperature"
+            "Temperature",
+            "Thermometer"
         ],
         "shortcodes": {
+            "cldr": [
+                ":thermometer:"
+            ],
             "github": [
                 ":thermometer:"
             ],
             "slack": [
                 ":thermometer:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":thermometer:"
             ]
         },
@@ -2783,29 +2905,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "thermometer_1f321-fe0f.png"
+            "source": "source/apple/391/thermometer_1f321-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "26c8-fe0f",
         "emoji": "⛈️",
         "title": "Cloud with Lightning and Rain",
         "aliases": [
-            "Thunder Cloud and Rain"
+            "Cloud with Lightning and Rain"
         ],
         "shortcodes": {
+            "cldr": [
+                ":cloud_with_lightning_and_rain:"
+            ],
             "github": [
                 ":cloud_with_lightning_and_rain:"
             ],
-            "emojipedia": [
-                ":cloud_with_lightning_and_rain:"
-            ],
             "slack": [
+                ":thunder_cloud_and_rain:"
+            ],
+            "discord": [
+                ":thunder_cloud_rain:",
                 ":thunder_cloud_and_rain:"
             ]
         },
@@ -2823,31 +2948,34 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cloud-with-lightning-and-rain_26c8-fe0f.png"
+            "source": "source/apple/391/cloud-with-lightning-and-rain_26c8-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f324-fe0f",
         "emoji": "🌤️",
         "title": "Sun Behind Small Cloud",
         "aliases": [
-            "White Sun with Small Cloud"
+            "Sun Behind Small Cloud"
         ],
         "shortcodes": {
-            "slack": [
-                ":mostly_sunny:",
-                ":sun_small_cloud:"
+            "cldr": [
+                ":sun_behind_small_cloud:"
             ],
             "github": [
                 ":sun_behind_small_cloud:"
             ],
-            "emojipedia": [
-                ":sun_behind_small_cloud:"
+            "slack": [
+                ":mostly_sunny:",
+                ":sun_small_cloud:"
+            ],
+            "discord": [
+                ":white_sun_small_cloud:",
+                ":white_sun_with_small_cloud:"
             ]
         },
         "tags": [
@@ -2863,31 +2991,34 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "sun-behind-small-cloud_1f324-fe0f.png"
+            "source": "source/apple/391/sun-behind-small-cloud_1f324-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f325-fe0f",
         "emoji": "🌥️",
         "title": "Sun Behind Large Cloud",
         "aliases": [
-            "White Sun Behind Cloud"
+            "Sun Behind Large Cloud"
         ],
         "shortcodes": {
-            "slack": [
-                ":barely_sunny:",
-                ":sun_behind_cloud:"
+            "cldr": [
+                ":sun_behind_large_cloud:"
             ],
             "github": [
                 ":sun_behind_large_cloud:"
             ],
-            "emojipedia": [
-                ":sun_behind_large_cloud:"
+            "slack": [
+                ":barely_sunny:",
+                ":sun_behind_cloud:"
+            ],
+            "discord": [
+                ":white_sun_cloud:",
+                ":white_sun_behind_cloud:"
             ]
         },
         "tags": [
@@ -2903,31 +3034,34 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "sun-behind-large-cloud_1f325-fe0f.png"
+            "source": "source/apple/391/sun-behind-large-cloud_1f325-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f326-fe0f",
         "emoji": "🌦️",
         "title": "Sun Behind Rain Cloud",
         "aliases": [
-            "White Sun Behind Cloud with Rain"
+            "Sun Behind Rain Cloud"
         ],
         "shortcodes": {
+            "cldr": [
+                ":sun_behind_rain_cloud:"
+            ],
             "github": [
                 ":sun_behind_rain_cloud:"
             ],
             "slack": [
-                ":sun_behind_rain_cloud:",
-                ":partly_sunny_rain:"
-            ],
-            "emojipedia": [
+                ":partly_sunny_rain:",
                 ":sun_behind_rain_cloud:"
+            ],
+            "discord": [
+                ":white_sun_rain_cloud:",
+                ":white_sun_behind_cloud_with_rain:"
             ]
         },
         "tags": [
@@ -2944,27 +3078,33 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "sun-behind-rain-cloud_1f326-fe0f.png"
+            "source": "source/apple/391/sun-behind-rain-cloud_1f326-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f327-fe0f",
         "emoji": "🌧️",
         "title": "Cloud with Rain",
+        "aliases": [
+            "Cloud with Rain"
+        ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":cloud_with_rain:"
             ],
-            "emojipedia": [
+            "github": [
                 ":cloud_with_rain:"
             ],
             "slack": [
                 ":rain_cloud:"
+            ],
+            "discord": [
+                ":cloud_rain:",
+                ":cloud_with_rain:"
             ]
         },
         "tags": [
@@ -2980,27 +3120,33 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cloud-with-rain_1f327-fe0f.png"
+            "source": "source/apple/391/cloud-with-rain_1f327-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f328-fe0f",
         "emoji": "🌨️",
         "title": "Cloud with Snow",
+        "aliases": [
+            "Cloud with Snow"
+        ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":cloud_with_snow:"
             ],
-            "emojipedia": [
+            "github": [
                 ":cloud_with_snow:"
             ],
             "slack": [
                 ":snow_cloud:"
+            ],
+            "discord": [
+                ":cloud_snow:",
+                ":cloud_with_snow:"
             ]
         },
         "tags": [
@@ -3017,27 +3163,33 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cloud-with-snow_1f328-fe0f.png"
+            "source": "source/apple/391/cloud-with-snow_1f328-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f329-fe0f",
         "emoji": "🌩️",
         "title": "Cloud with Lightning",
+        "aliases": [
+            "Cloud with Lightning"
+        ],
         "shortcodes": {
-            "slack": [
-                ":lightning:",
-                ":lightning_cloud:"
+            "cldr": [
+                ":cloud_with_lightning:"
             ],
             "github": [
                 ":cloud_with_lightning:"
             ],
-            "emojipedia": [
+            "slack": [
+                ":lightning:",
+                ":lightning_cloud:"
+            ],
+            "discord": [
+                ":cloud_lightning:",
                 ":cloud_with_lightning:"
             ]
         },
@@ -3054,22 +3206,24 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "cloud-with-lightning_1f329-fe0f.png"
+            "source": "source/apple/391/cloud-with-lightning_1f329-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f32a-fe0f",
         "emoji": "🌪️",
         "title": "Tornado",
         "aliases": [
-            "Cloud with Tornado"
+            "Tornado"
         ],
         "shortcodes": {
+            "cldr": [
+                ":tornado:"
+            ],
             "github": [
                 ":tornado:"
             ],
@@ -3077,8 +3231,9 @@
                 ":tornado:",
                 ":tornado_cloud:"
             ],
-            "emojipedia": [
-                ":tornado:"
+            "discord": [
+                ":cloud_tornado:",
+                ":cloud_with_tornado:"
             ]
         },
         "tags": [
@@ -3094,26 +3249,31 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "tornado_1f32a-fe0f.png"
+            "source": "source/apple/391/tornado_1f32a-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f32b-fe0f",
         "emoji": "🌫️",
         "title": "Fog",
+        "aliases": [
+            "Fog"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":fog:"
+            ],
             "github": [
                 ":fog:"
             ],
             "slack": [
                 ":fog:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":fog:"
             ]
         },
@@ -3129,14 +3289,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "fog_1f32b-fe0f.png"
+            "source": "source/apple/391/fog_1f32b-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "1f32c-fe0f",
         "emoji": "🌬️",
@@ -3147,13 +3306,16 @@
             "Wind Blowing Face"
         ],
         "shortcodes": {
+            "cldr": [
+                ":wind_face:"
+            ],
             "github": [
                 ":wind_face:"
             ],
-            "emojipedia": [
-                ":wind_face:"
-            ],
             "slack": [
+                ":wind_blowing_face:"
+            ],
+            "discord": [
                 ":wind_blowing_face:"
             ]
         },
@@ -3171,27 +3333,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "wind-face_1f32c-fe0f.png"
+            "source": "source/apple/391/wind-face_1f32c-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "2602-fe0f",
         "emoji": "☂️",
         "title": "Umbrella",
+        "aliases": [
+            "Umbrella"
+        ],
         "shortcodes": {
-            "slack": [
-                ":umbrella:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":umbrella:"
             ],
             "github": [
                 ":open_umbrella:"
+            ],
+            "slack": [
+                ":umbrella:"
+            ],
+            "discord": [
+                ":umbrella2:"
             ]
         },
         "tags": [
@@ -3207,14 +3374,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "umbrella_2602-fe0f.png"
+            "source": "source/apple/391/umbrella_2602-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "26f1-fe0f",
         "emoji": "⛱️",
@@ -3223,14 +3389,18 @@
             "Beach Umbrella"
         ],
         "shortcodes": {
-            "slack": [
-                ":umbrella_on_ground:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":umbrella_on_ground:"
             ],
             "github": [
                 ":parasol_on_ground:"
+            ],
+            "slack": [
+                ":umbrella_on_ground:"
+            ],
+            "discord": [
+                ":beach_umbrella:",
+                ":umbrella_on_ground:"
             ]
         },
         "tags": [
@@ -3247,14 +3417,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "umbrella-on-ground_26f1-fe0f.png"
+            "source": "source/apple/391/umbrella-on-ground_26f1-fe0f.png"
         }
     },
     {
-        "category": "Nature",
+        "category": "Animals & Nature",
         "sub_category": "Sky & Weather",
         "code": "2603-fe0f",
         "emoji": "☃️",
@@ -3264,14 +3433,17 @@
             "Snowman with Snowflakes"
         ],
         "shortcodes": {
-            "slack": [
-                ":snowman:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":snowman:"
             ],
             "github": [
                 ":snowman_with_snow:"
+            ],
+            "slack": [
+                ":snowman:"
+            ],
+            "discord": [
+                ":snowman2:"
             ]
         },
         "tags": [
@@ -3287,26 +3459,31 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "snowman_2603-fe0f.png"
+            "source": "source/apple/391/snowman_2603-fe0f.png"
         }
     },
     {
-        "category": "Activity",
+        "category": "Objects",
         "sub_category": "Event",
         "code": "1f397-fe0f",
         "emoji": "🎗️",
         "title": "Reminder Ribbon",
+        "aliases": [
+            "Reminder Ribbon"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":reminder_ribbon:"
+            ],
             "github": [
                 ":reminder_ribbon:"
             ],
             "slack": [
                 ":reminder_ribbon:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":reminder_ribbon:"
             ]
         },
@@ -3323,10 +3500,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "reminder-ribbon_1f397-fe0f.png"
+            "source": "source/apple/391/reminder-ribbon_1f397-fe0f.png"
         }
     },
     {
@@ -3339,14 +3515,18 @@
             "Admission Ticket"
         ],
         "shortcodes": {
-            "slack": [
-                ":admission_tickets:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":admission_tickets:"
             ],
             "github": [
                 ":tickets:"
+            ],
+            "slack": [
+                ":admission_tickets:"
+            ],
+            "discord": [
+                ":tickets:",
+                ":admission_tickets:"
             ]
         },
         "tags": [
@@ -3362,10 +3542,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "admission-tickets_1f39f-fe0f.png"
+            "source": "source/apple/391/admission-tickets_1f39f-fe0f.png"
         }
     },
     {
@@ -3377,16 +3556,20 @@
         "aliases": [
             "Medal",
             "Medallion",
-            "Military Decoration"
+            "Military Decoration",
+            "Military Medal"
         ],
         "shortcodes": {
-            "slack": [
-                ":medal:"
+            "cldr": [
+                ":military_medal:"
             ],
             "github": [
                 ":medal_military:"
             ],
-            "emojipedia": [
+            "slack": [
+                ":medal:"
+            ],
+            "discord": [
                 ":military_medal:"
             ]
         },
@@ -3403,10 +3586,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "military-medal_1f396-fe0f.png"
+            "source": "source/apple/391/military-medal_1f396-fe0f.png"
         }
     },
     {
@@ -3416,16 +3598,17 @@
         "emoji": "⛸️",
         "title": "Ice Skate",
         "aliases": [
-            "Ice Skating"
+            "Ice Skating",
+            "Ice Skate"
         ],
         "shortcodes": {
+            "cldr": [
+                ":ice_skate:"
+            ],
             "github": [
                 ":ice_skate:"
             ],
             "slack": [
-                ":ice_skate:"
-            ],
-            "emojipedia": [
                 ":ice_skate:"
             ]
         },
@@ -3441,26 +3624,31 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "ice-skate_26f8-fe0f.png"
+            "source": "source/apple/391/ice-skate_26f8-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Activity",
         "sub_category": "Game",
         "code": "1f579-fe0f",
         "emoji": "🕹️",
         "title": "Joystick",
+        "aliases": [
+            "Joystick"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":joystick:"
+            ],
             "github": [
                 ":joystick:"
             ],
             "slack": [
                 ":joystick:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":joystick:"
             ]
         },
@@ -3477,14 +3665,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "joystick_1f579-fe0f.png"
+            "source": "source/apple/391/joystick_1f579-fe0f.png"
         }
     },
     {
-        "category": "Objects",
+        "category": "Activity",
         "sub_category": "Arts & Crafts",
         "code": "1f5bc-fe0f",
         "emoji": "🖼️",
@@ -3495,13 +3682,17 @@
             "Frame with Picture"
         ],
         "shortcodes": {
+            "cldr": [
+                ":framed_picture:"
+            ],
             "github": [
                 ":framed_picture:"
             ],
-            "emojipedia": [
-                ":framed_picture:"
-            ],
             "slack": [
+                ":frame_with_picture:"
+            ],
+            "discord": [
+                ":frame_photo:",
                 ":frame_with_picture:"
             ]
         },
@@ -3521,30 +3712,32 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "framed-picture_1f5bc-fe0f.png"
+            "source": "source/apple/391/framed-picture_1f5bc-fe0f.png"
         }
     },
     {
-        "category": "People",
+        "category": "Objects",
         "sub_category": "Clothing",
         "code": "1f576-fe0f",
         "emoji": "🕶️",
         "title": "Sunglasses",
         "aliases": [
-            "Dark Sunglasses"
+            "Sunglasses"
         ],
         "shortcodes": {
+            "cldr": [
+                ":sunglasses:"
+            ],
             "github": [
                 ":dark_sunglasses:"
             ],
             "slack": [
                 ":dark_sunglasses:"
             ],
-            "emojipedia": [
-                ":sunglasses:"
+            "discord": [
+                ":dark_sunglasses:"
             ]
         },
         "tags": [
@@ -3562,10 +3755,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "sunglasses_1f576-fe0f.png"
+            "source": "source/apple/391/sunglasses_1f576-fe0f.png"
         }
     },
     {
@@ -3574,15 +3766,21 @@
         "code": "1f6cd-fe0f",
         "emoji": "🛍️",
         "title": "Shopping Bags",
+        "aliases": [
+            "Shopping Bags"
+        ],
         "shortcodes": {
-            "slack": [
-                ":shopping_bags:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":shopping_bags:"
             ],
             "github": [
                 ":shopping:"
+            ],
+            "slack": [
+                ":shopping_bags:"
+            ],
+            "discord": [
+                ":shopping_bags:"
             ]
         },
         "tags": [
@@ -3599,14 +3797,13 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "shopping-bags_1f6cd-fe0f.png"
+            "source": "source/apple/391/shopping-bags_1f6cd-fe0f.png"
         }
     },
     {
-        "category": "People",
+        "category": "Objects",
         "sub_category": "Clothing",
         "code": "26d1-fe0f",
         "emoji": "⛑️",
@@ -3615,13 +3812,17 @@
             "Helmet with White Cross"
         ],
         "shortcodes": {
+            "cldr": [
+                ":rescue_workers_helmet:"
+            ],
             "github": [
                 ":rescue_worker_helmet:"
             ],
-            "emojipedia": [
-                ":rescue_workers_helmet:"
-            ],
             "slack": [
+                ":helmet_with_white_cross:"
+            ],
+            "discord": [
+                ":helmet_with_cross:",
                 ":helmet_with_white_cross:"
             ]
         },
@@ -3637,21 +3838,17 @@
             "U+26D1",
             "U+FE0F"
         ],
-        "related": [
-            "26d1-fe0f"
-        ],
         "image": {
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "rescue-workers-helmet_26d1-fe0f.png"
+            "source": "source/apple/391/rescue-workers-helmet_26d1-fe0f.png"
         }
     },
     {
-        "category": "Symbols & Flags",
+        "category": "Objects",
         "sub_category": "Sound",
         "code": "1f508",
         "emoji": "🔈",
@@ -3661,14 +3858,17 @@
             "Speaker"
         ],
         "shortcodes": {
+            "cldr": [
+                ":speaker_low_volume:"
+            ],
             "github": [
                 ":speaker:"
             ],
             "slack": [
                 ":speaker:"
             ],
-            "emojipedia": [
-                ":speaker_low_volume:"
+            "discord": [
+                ":speaker:"
             ]
         },
         "tags": [
@@ -3682,10 +3882,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "speaker-low-volume_1f508.png"
+            "source": "source/apple/391/speaker-low-volume_1f508.png"
         }
     },
     {
@@ -3694,14 +3893,21 @@
         "code": "1f399-fe0f",
         "emoji": "🎙️",
         "title": "Studio Microphone",
+        "aliases": [
+            "Studio Microphone"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":studio_microphone:"
+            ],
             "github": [
                 ":studio_microphone:"
             ],
             "slack": [
                 ":studio_microphone:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":microphone2:",
                 ":studio_microphone:"
             ]
         },
@@ -3719,10 +3925,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "studio-microphone_1f399-fe0f.png"
+            "source": "source/apple/391/studio-microphone_1f399-fe0f.png"
         }
     },
     {
@@ -3731,14 +3936,20 @@
         "code": "1f39a-fe0f",
         "emoji": "🎚️",
         "title": "Level Slider",
+        "aliases": [
+            "Level Slider"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":level_slider:"
+            ],
             "github": [
                 ":level_slider:"
             ],
             "slack": [
                 ":level_slider:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":level_slider:"
             ]
         },
@@ -3755,10 +3966,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "level-slider_1f39a-fe0f.png"
+            "source": "source/apple/391/level-slider_1f39a-fe0f.png"
         }
     },
     {
@@ -3767,14 +3977,20 @@
         "code": "1f39b-fe0f",
         "emoji": "🎛️",
         "title": "Control Knobs",
+        "aliases": [
+            "Control Knobs"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":control_knobs:"
+            ],
             "github": [
                 ":control_knobs:"
             ],
             "slack": [
                 ":control_knobs:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":control_knobs:"
             ]
         },
@@ -3791,10 +4007,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "control-knobs_1f39b-fe0f.png"
+            "source": "source/apple/391/control-knobs_1f39b-fe0f.png"
         }
     },
     {
@@ -3804,16 +4019,21 @@
         "emoji": "🖥️",
         "title": "Desktop Computer",
         "aliases": [
-            "iMac"
+            "iMac",
+            "Desktop Computer"
         ],
         "shortcodes": {
+            "cldr": [
+                ":desktop_computer:"
+            ],
             "github": [
                 ":desktop_computer:"
             ],
             "slack": [
                 ":desktop_computer:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":desktop:",
                 ":desktop_computer:"
             ]
         },
@@ -3829,10 +4049,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "desktop-computer_1f5a5-fe0f.png"
+            "source": "source/apple/391/desktop-computer_1f5a5-fe0f.png"
         }
     },
     {
@@ -3841,14 +4060,20 @@
         "code": "1f5a8-fe0f",
         "emoji": "🖨️",
         "title": "Printer",
+        "aliases": [
+            "Printer"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":printer:"
+            ],
             "github": [
                 ":printer:"
             ],
             "slack": [
                 ":printer:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":printer:"
             ]
         },
@@ -3864,10 +4089,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "printer_1f5a8-fe0f.png"
+            "source": "source/apple/391/printer_1f5a8-fe0f.png"
         }
     },
     {
@@ -3877,16 +4101,20 @@
         "emoji": "🖱️",
         "title": "Computer Mouse",
         "aliases": [
-            "Three Button Mouse"
+            "Computer Mouse"
         ],
         "shortcodes": {
+            "cldr": [
+                ":computer_mouse:"
+            ],
             "github": [
                 ":computer_mouse:"
             ],
-            "emojipedia": [
-                ":computer_mouse:"
-            ],
             "slack": [
+                ":three_button_mouse:"
+            ],
+            "discord": [
+                ":mouse_three_button:",
                 ":three_button_mouse:"
             ]
         },
@@ -3902,10 +4130,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "computer-mouse_1f5b1-fe0f.png"
+            "source": "source/apple/391/computer-mouse_1f5b1-fe0f.png"
         }
     },
     {
@@ -3914,14 +4141,20 @@
         "code": "1f5b2-fe0f",
         "emoji": "🖲️",
         "title": "Trackball",
+        "aliases": [
+            "Trackball"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":trackball:"
+            ],
             "github": [
                 ":trackball:"
             ],
             "slack": [
                 ":trackball:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":trackball:"
             ]
         },
@@ -3937,10 +4170,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "trackball_1f5b2-fe0f.png"
+            "source": "source/apple/391/trackball_1f5b2-fe0f.png"
         }
     },
     {
@@ -3949,15 +4181,21 @@
         "code": "1f39e-fe0f",
         "emoji": "🎞️",
         "title": "Film Frames",
+        "aliases": [
+            "Film Frames"
+        ],
         "shortcodes": {
-            "slack": [
-                ":film_frames:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":film_frames:"
             ],
             "github": [
                 ":film_strip:"
+            ],
+            "slack": [
+                ":film_frames:"
+            ],
+            "discord": [
+                ":film_frames:"
             ]
         },
         "tags": [
@@ -3974,10 +4212,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "film-frames_1f39e-fe0f.png"
+            "source": "source/apple/391/film-frames_1f39e-fe0f.png"
         }
     },
     {
@@ -3986,14 +4223,21 @@
         "code": "1f4fd-fe0f",
         "emoji": "📽️",
         "title": "Film Projector",
+        "aliases": [
+            "Film Projector"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":film_projector:"
+            ],
             "github": [
                 ":film_projector:"
             ],
             "slack": [
                 ":film_projector:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":projector:",
                 ":film_projector:"
             ]
         },
@@ -4012,10 +4256,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "film-projector_1f4fd-fe0f.png"
+            "source": "source/apple/391/film-projector_1f4fd-fe0f.png"
         }
     },
     {
@@ -4024,14 +4267,20 @@
         "code": "1f56f-fe0f",
         "emoji": "🕯️",
         "title": "Candle",
+        "aliases": [
+            "Candle"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":candle:"
+            ],
             "github": [
                 ":candle:"
             ],
             "slack": [
                 ":candle:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":candle:"
             ]
         },
@@ -4047,10 +4296,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "candle_1f56f-fe0f.png"
+            "source": "source/apple/391/candle_1f56f-fe0f.png"
         }
     },
     {
@@ -4060,17 +4308,22 @@
         "emoji": "🗞️",
         "title": "Rolled-Up Newspaper",
         "aliases": [
-            "Newspaper Delivery"
+            "Newspaper Delivery",
+            "Rolled-Up Newspaper"
         ],
         "shortcodes": {
-            "slack": [
-                ":rolled_up_newspaper:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":rolled_up_newspaper:"
             ],
             "github": [
                 ":newspaper_roll:"
+            ],
+            "slack": [
+                ":rolled_up_newspaper:"
+            ],
+            "discord": [
+                ":newspaper2:",
+                ":rolled_up_newspaper:"
             ]
         },
         "tags": [
@@ -4088,10 +4341,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "rolled-up-newspaper_1f5de-fe0f.png"
+            "source": "source/apple/391/rolled-up-newspaper_1f5de-fe0f.png"
         }
     },
     {
@@ -4104,13 +4356,16 @@
             "Label Tag"
         ],
         "shortcodes": {
+            "cldr": [
+                ":label:"
+            ],
             "github": [
                 ":label:"
             ],
             "slack": [
                 ":label:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":label:"
             ]
         },
@@ -4125,10 +4380,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "label_1f3f7-fe0f.png"
+            "source": "source/apple/391/label_1f3f7-fe0f.png"
         }
     },
     {
@@ -4138,17 +4392,21 @@
         "emoji": "📬",
         "title": "Open Mailbox with Raised Flag",
         "aliases": [
-            "Open Mailbox"
+            "Open Mailbox",
+            "Open Mailbox with Raised Flag"
         ],
         "shortcodes": {
+            "cldr": [
+                ":open_mailbox_with_raised_flag:"
+            ],
             "github": [
                 ":mailbox_with_mail:"
             ],
             "slack": [
                 ":mailbox_with_mail:"
             ],
-            "emojipedia": [
-                ":open_mailbox_with_raised_flag:"
+            "discord": [
+                ":mailbox_with_mail:"
             ]
         },
         "tags": [
@@ -4165,10 +4423,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "open-mailbox-with-raised-flag_1f4ec.png"
+            "source": "source/apple/391/open-mailbox-with-raised-flag_1f4ec.png"
         }
     },
     {
@@ -4177,15 +4434,21 @@
         "code": "1f4ed",
         "emoji": "📭",
         "title": "Open Mailbox with Lowered Flag",
+        "aliases": [
+            "Open Mailbox with Lowered Flag"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":open_mailbox_with_lowered_flag:"
+            ],
             "github": [
                 ":mailbox_with_no_mail:"
             ],
             "slack": [
                 ":mailbox_with_no_mail:"
             ],
-            "emojipedia": [
-                ":open_mailbox_with_lowered_flag:"
+            "discord": [
+                ":mailbox_with_no_mail:"
             ]
         },
         "tags": [
@@ -4203,10 +4466,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "open-mailbox-with-lowered-flag_1f4ed.png"
+            "source": "source/apple/391/open-mailbox-with-lowered-flag_1f4ed.png"
         }
     },
     {
@@ -4217,16 +4479,21 @@
         "title": "Ballot Box with Ballot",
         "aliases": [
             "Vote Box",
-            "Voting"
+            "Voting",
+            "Ballot Box with Ballot"
         ],
         "shortcodes": {
+            "cldr": [
+                ":ballot_box_with_ballot:"
+            ],
             "github": [
                 ":ballot_box:"
             ],
             "slack": [
                 ":ballot_box_with_ballot:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":ballot_box:",
                 ":ballot_box_with_ballot:"
             ]
         },
@@ -4243,10 +4510,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "ballot-box-with-ballot_1f5f3-fe0f.png"
+            "source": "source/apple/391/ballot-box-with-ballot_1f5f3-fe0f.png"
         }
     },
     {
@@ -4256,16 +4522,20 @@
         "emoji": "🖋️",
         "title": "Fountain Pen",
         "aliases": [
-            "Lower Left Fountain Pen"
+            "Fountain Pen"
         ],
         "shortcodes": {
+            "cldr": [
+                ":fountain_pen:"
+            ],
             "github": [
                 ":fountain_pen:"
             ],
-            "emojipedia": [
-                ":fountain_pen:"
-            ],
             "slack": [
+                ":lower_left_fountain_pen:"
+            ],
+            "discord": [
+                ":pen_fountain:",
                 ":lower_left_fountain_pen:"
             ]
         },
@@ -4281,10 +4551,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "fountain-pen_1f58b-fe0f.png"
+            "source": "source/apple/391/fountain-pen_1f58b-fe0f.png"
         }
     },
     {
@@ -4294,17 +4563,20 @@
         "emoji": "🖊️",
         "title": "Pen",
         "aliases": [
-            "Ballpoint Pen",
-            "Lower Left Ballpoint Pen"
+            "Ballpoint Pen"
         ],
         "shortcodes": {
+            "cldr": [
+                ":pen:"
+            ],
             "github": [
                 ":pen:"
             ],
-            "emojipedia": [
-                ":pen:"
-            ],
             "slack": [
+                ":lower_left_ballpoint_pen:"
+            ],
+            "discord": [
+                ":pen_ballpoint:",
                 ":lower_left_ballpoint_pen:"
             ]
         },
@@ -4320,10 +4592,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "pen_1f58a-fe0f.png"
+            "source": "source/apple/391/pen_1f58a-fe0f.png"
         }
     },
     {
@@ -4334,16 +4605,20 @@
         "title": "Paintbrush",
         "aliases": [
             "Brush",
-            "Lower Left Paintbrush"
+            "Paintbrush"
         ],
         "shortcodes": {
+            "cldr": [
+                ":paintbrush:"
+            ],
             "github": [
                 ":paintbrush:"
             ],
-            "emojipedia": [
-                ":paintbrush:"
-            ],
             "slack": [
+                ":lower_left_paintbrush:"
+            ],
+            "discord": [
+                ":paintbrush:",
                 ":lower_left_paintbrush:"
             ]
         },
@@ -4359,10 +4634,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "paintbrush_1f58c-fe0f.png"
+            "source": "source/apple/391/paintbrush_1f58c-fe0f.png"
         }
     },
     {
@@ -4372,16 +4646,20 @@
         "emoji": "🖍️",
         "title": "Crayon",
         "aliases": [
-            "Lower Left Crayon"
+            "Crayon"
         ],
         "shortcodes": {
+            "cldr": [
+                ":crayon:"
+            ],
             "github": [
                 ":crayon:"
             ],
-            "emojipedia": [
-                ":crayon:"
-            ],
             "slack": [
+                ":lower_left_crayon:"
+            ],
+            "discord": [
+                ":crayon:",
                 ":lower_left_crayon:"
             ]
         },
@@ -4396,10 +4674,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "crayon_1f58d-fe0f.png"
+            "source": "source/apple/391/crayon_1f58d-fe0f.png"
         }
     },
     {
@@ -4408,14 +4685,21 @@
         "code": "1f5c2-fe0f",
         "emoji": "🗂️",
         "title": "Card Index Dividers",
+        "aliases": [
+            "Card Index Dividers"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":card_index_dividers:"
+            ],
             "github": [
                 ":card_index_dividers:"
             ],
             "slack": [
                 ":card_index_dividers:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":dividers:",
                 ":card_index_dividers:"
             ]
         },
@@ -4432,10 +4716,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "card-index-dividers_1f5c2-fe0f.png"
+            "source": "source/apple/391/card-index-dividers_1f5c2-fe0f.png"
         }
     },
     {
@@ -4445,16 +4728,20 @@
         "emoji": "🗒️",
         "title": "Spiral Notepad",
         "aliases": [
-            "Spiral Note Pad"
+            "Spiral Notepad"
         ],
         "shortcodes": {
+            "cldr": [
+                ":spiral_notepad:"
+            ],
             "github": [
                 ":spiral_notepad:"
             ],
-            "emojipedia": [
-                ":spiral_notepad:"
-            ],
             "slack": [
+                ":spiral_note_pad:"
+            ],
+            "discord": [
+                ":notepad_spiral:",
                 ":spiral_note_pad:"
             ]
         },
@@ -4472,10 +4759,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "spiral-notepad_1f5d2-fe0f.png"
+            "source": "source/apple/391/spiral-notepad_1f5d2-fe0f.png"
         }
     },
     {
@@ -4485,16 +4771,20 @@
         "emoji": "🗓️",
         "title": "Spiral Calendar",
         "aliases": [
-            "Spiral Calendar Pad"
+            "Spiral Calendar"
         ],
         "shortcodes": {
+            "cldr": [
+                ":spiral_calendar:"
+            ],
             "github": [
                 ":spiral_calendar:"
             ],
-            "emojipedia": [
-                ":spiral_calendar:"
-            ],
             "slack": [
+                ":spiral_calendar_pad:"
+            ],
+            "discord": [
+                ":calendar_spiral:",
                 ":spiral_calendar_pad:"
             ]
         },
@@ -4511,10 +4801,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "spiral-calendar_1f5d3-fe0f.png"
+            "source": "source/apple/391/spiral-calendar_1f5d3-fe0f.png"
         }
     },
     {
@@ -4523,15 +4812,22 @@
         "code": "1f587-fe0f",
         "emoji": "🖇️",
         "title": "Linked Paperclips",
+        "aliases": [
+            "Linked Paperclips"
+        ],
         "shortcodes": {
-            "slack": [
-                ":linked_paperclips:"
-            ],
-            "emojipedia": [
+            "cldr": [
                 ":linked_paperclips:"
             ],
             "github": [
                 ":paperclips:"
+            ],
+            "slack": [
+                ":linked_paperclips:"
+            ],
+            "discord": [
+                ":paperclips:",
+                ":linked_paperclips:"
             ]
         },
         "tags": [
@@ -4547,10 +4843,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "linked-paperclips_1f587-fe0f.png"
+            "source": "source/apple/391/linked-paperclips_1f587-fe0f.png"
         }
     },
     {
@@ -4559,14 +4854,21 @@
         "code": "1f5c3-fe0f",
         "emoji": "🗃️",
         "title": "Card File Box",
+        "aliases": [
+            "Card File Box"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":card_file_box:"
+            ],
             "github": [
                 ":card_file_box:"
             ],
             "slack": [
                 ":card_file_box:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":card_box:",
                 ":card_file_box:"
             ]
         },
@@ -4583,10 +4885,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "card-file-box_1f5c3-fe0f.png"
+            "source": "source/apple/391/card-file-box_1f5c3-fe0f.png"
         }
     },
     {
@@ -4596,16 +4897,20 @@
         "emoji": "🗄️",
         "title": "File Cabinet",
         "aliases": [
-            "Filing Cabinet"
+            "Filing Cabinet",
+            "File Cabinet"
         ],
         "shortcodes": {
+            "cldr": [
+                ":file_cabinet:"
+            ],
             "github": [
                 ":file_cabinet:"
             ],
             "slack": [
                 ":file_cabinet:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":file_cabinet:"
             ]
         },
@@ -4622,10 +4927,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "file-cabinet_1f5c4-fe0f.png"
+            "source": "source/apple/391/file-cabinet_1f5c4-fe0f.png"
         }
     },
     {
@@ -4638,16 +4942,20 @@
             "Garbage Can",
             "Rubbish Bin",
             "Trash Can",
-            "Wastepaper Basket"
+            "Wastepaper Basket",
+            "Wastebasket"
         ],
         "shortcodes": {
+            "cldr": [
+                ":wastebasket:"
+            ],
             "github": [
                 ":wastebasket:"
             ],
             "slack": [
                 ":wastebasket:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":wastebasket:"
             ]
         },
@@ -4662,10 +4970,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "wastebasket_1f5d1-fe0f.png"
+            "source": "source/apple/391/wastebasket_1f5d1-fe0f.png"
         }
     },
     {
@@ -4674,14 +4981,21 @@
         "code": "1f5dd-fe0f",
         "emoji": "🗝️",
         "title": "Old Key",
+        "aliases": [
+            "Old Key"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":old_key:"
+            ],
             "github": [
                 ":old_key:"
             ],
             "slack": [
                 ":old_key:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":key2:",
                 ":old_key:"
             ]
         },
@@ -4699,10 +5013,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "old-key_1f5dd-fe0f.png"
+            "source": "source/apple/391/old-key_1f5dd-fe0f.png"
         }
     },
     {
@@ -4712,16 +5025,20 @@
         "emoji": "⛏️",
         "title": "Pick",
         "aliases": [
-            "Pickaxe"
+            "Pickaxe",
+            "Pick"
         ],
         "shortcodes": {
+            "cldr": [
+                ":pick:"
+            ],
             "github": [
                 ":pick:"
             ],
             "slack": [
                 ":pick:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":pick:"
             ]
         },
@@ -4738,10 +5055,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "pick_26cf-fe0f.png"
+            "source": "source/apple/391/pick_26cf-fe0f.png"
         }
     },
     {
@@ -4750,14 +5066,21 @@
         "code": "1f6e0-fe0f",
         "emoji": "🛠️",
         "title": "Hammer and Wrench",
+        "aliases": [
+            "Hammer and Wrench"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":hammer_and_wrench:"
+            ],
             "github": [
                 ":hammer_and_wrench:"
             ],
             "slack": [
                 ":hammer_and_wrench:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":tools:",
                 ":hammer_and_wrench:"
             ]
         },
@@ -4776,10 +5099,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "hammer-and-wrench_1f6e0-fe0f.png"
+            "source": "source/apple/391/hammer-and-wrench_1f6e0-fe0f.png"
         }
     },
     {
@@ -4790,16 +5112,20 @@
         "title": "Dagger",
         "aliases": [
             "Knife Weapon",
-            "Dagger Knife"
+            "Dagger"
         ],
         "shortcodes": {
+            "cldr": [
+                ":dagger:"
+            ],
             "github": [
                 ":dagger:"
             ],
-            "emojipedia": [
-                ":dagger:"
-            ],
             "slack": [
+                ":dagger_knife:"
+            ],
+            "discord": [
+                ":dagger:",
                 ":dagger_knife:"
             ]
         },
@@ -4816,10 +5142,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "dagger_1f5e1-fe0f.png"
+            "source": "source/apple/391/dagger_1f5e1-fe0f.png"
         }
     },
     {
@@ -4828,14 +5153,20 @@
         "code": "1f6e1-fe0f",
         "emoji": "🛡️",
         "title": "Shield",
+        "aliases": [
+            "Shield"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":shield:"
+            ],
             "github": [
                 ":shield:"
             ],
             "slack": [
                 ":shield:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":shield:"
             ]
         },
@@ -4851,10 +5182,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "shield_1f6e1-fe0f.png"
+            "source": "source/apple/391/shield_1f6e1-fe0f.png"
         }
     },
     {
@@ -4866,16 +5196,19 @@
         "aliases": [
             "Table Vice",
             "WinZip",
-            "Compression"
+            "Clamp"
         ],
         "shortcodes": {
+            "cldr": [
+                ":clamp:"
+            ],
             "github": [
                 ":clamp:"
             ],
-            "emojipedia": [
-                ":clamp:"
-            ],
             "slack": [
+                ":compression:"
+            ],
+            "discord": [
                 ":compression:"
             ]
         },
@@ -4893,10 +5226,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "clamp_1f5dc-fe0f.png"
+            "source": "source/apple/391/clamp_1f5dc-fe0f.png"
         }
     },
     {
@@ -4905,14 +5237,20 @@
         "code": "26d3-fe0f",
         "emoji": "⛓️",
         "title": "Chains",
+        "aliases": [
+            "Chains"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":chains:"
+            ],
             "github": [
                 ":chains:"
             ],
             "slack": [
                 ":chains:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":chains:"
             ]
         },
@@ -4928,10 +5266,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "chains_26d3-fe0f.png"
+            "source": "source/apple/391/chains_26d3-fe0f.png"
         }
     },
     {
@@ -4941,16 +5278,20 @@
         "emoji": "🛏️",
         "title": "Bed",
         "aliases": [
-            "Bedroom"
+            "Bedroom",
+            "Bed"
         ],
         "shortcodes": {
+            "cldr": [
+                ":bed:"
+            ],
             "github": [
                 ":bed:"
             ],
             "slack": [
                 ":bed:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":bed:"
             ]
         },
@@ -4967,10 +5308,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "bed_1f6cf-fe0f.png"
+            "source": "source/apple/391/bed_1f6cf-fe0f.png"
         }
     },
     {
@@ -4982,16 +5322,21 @@
         "aliases": [
             "Lounge",
             "Settee",
-            "Sofa"
+            "Sofa",
+            "Couch and Lamp"
         ],
         "shortcodes": {
+            "cldr": [
+                ":couch_and_lamp:"
+            ],
             "github": [
                 ":couch_and_lamp:"
             ],
             "slack": [
                 ":couch_and_lamp:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":couch:",
                 ":couch_and_lamp:"
             ]
         },
@@ -5009,10 +5354,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "couch-and-lamp_1f6cb-fe0f.png"
+            "source": "source/apple/391/couch-and-lamp_1f6cb-fe0f.png"
         }
     },
     {
@@ -5028,21 +5372,23 @@
             "Om Symbol"
         ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":om:"
             ],
-            "emojipedia": [
+            "github": [
                 ":om:"
             ],
             "slack": [
                 ":om_symbol:"
+            ],
+            "discord": [
+                ":om_symbol:"
             ]
         },
         "tags": [
-            "hindu",
+            "Hindu",
             "om",
-            "religion",
-            "Hindu"
+            "religion"
         ],
         "codepoints": [
             "U+1F549",
@@ -5052,10 +5398,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "om_1f549-fe0f.png"
+            "source": "source/apple/391/om_1f549-fe0f.png"
         }
     },
     {
@@ -5065,29 +5410,29 @@
         "emoji": "✡️",
         "title": "Star of David",
         "aliases": [
-            "Magen David"
+            "Magen David",
+            "Star of David"
         ],
         "shortcodes": {
+            "cldr": [
+                ":star_of_david:"
+            ],
             "github": [
                 ":star_of_david:"
             ],
             "slack": [
                 ":star_of_david:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":star_of_david:"
             ]
         },
         "tags": [
-            "david",
-            "jew",
-            "jewish",
-            "religion",
-            "star",
-            "star of david",
             "David",
             "Jew",
             "Jewish",
+            "religion",
+            "star",
             "star of David"
         ],
         "codepoints": [
@@ -5098,10 +5443,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "star-of-david_2721-fe0f.png"
+            "source": "source/apple/391/star-of-david_2721-fe0f.png"
         }
     },
     {
@@ -5111,26 +5455,29 @@
         "emoji": "☸️",
         "title": "Wheel of Dharma",
         "aliases": [
-            "Helm"
+            "Helm",
+            "Wheel of Dharma"
         ],
         "shortcodes": {
+            "cldr": [
+                ":wheel_of_dharma:"
+            ],
             "github": [
                 ":wheel_of_dharma:"
             ],
             "slack": [
                 ":wheel_of_dharma:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":wheel_of_dharma:"
             ]
         },
         "tags": [
-            "buddhist",
+            "Buddhist",
             "dharma",
             "religion",
             "wheel",
-            "wheel of dharma",
-            "Buddhist"
+            "wheel of dharma"
         ],
         "codepoints": [
             "U+2638",
@@ -5140,10 +5487,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "wheel-of-dharma_2638-fe0f.png"
+            "source": "source/apple/391/wheel-of-dharma_2638-fe0f.png"
         }
     },
     {
@@ -5152,14 +5498,20 @@
         "code": "262f-fe0f",
         "emoji": "☯️",
         "title": "Yin Yang",
+        "aliases": [
+            "Yin Yang"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":yin_yang:"
+            ],
             "github": [
                 ":yin_yang:"
             ],
             "slack": [
                 ":yin_yang:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":yin_yang:"
             ]
         },
@@ -5178,10 +5530,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "yin-yang_262f-fe0f.png"
+            "source": "source/apple/391/yin-yang_262f-fe0f.png"
         }
     },
     {
@@ -5191,25 +5542,29 @@
         "emoji": "✝️",
         "title": "Latin Cross",
         "aliases": [
-            "Christian Cross"
+            "Christian Cross",
+            "Latin Cross"
         ],
         "shortcodes": {
+            "cldr": [
+                ":latin_cross:"
+            ],
             "github": [
                 ":latin_cross:"
             ],
             "slack": [
                 ":latin_cross:"
             ],
-            "emojipedia": [
+            "discord": [
+                ":cross:",
                 ":latin_cross:"
             ]
         },
         "tags": [
-            "christian",
+            "Christian",
             "cross",
             "latin cross",
-            "religion",
-            "Christian"
+            "religion"
         ],
         "codepoints": [
             "U+271D",
@@ -5219,10 +5574,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "latin-cross_271d-fe0f.png"
+            "source": "source/apple/391/latin-cross_271d-fe0f.png"
         }
     },
     {
@@ -5231,23 +5585,28 @@
         "code": "262a-fe0f",
         "emoji": "☪️",
         "title": "Star and Crescent",
+        "aliases": [
+            "Star and Crescent"
+        ],
         "shortcodes": {
+            "cldr": [
+                ":star_and_crescent:"
+            ],
             "github": [
                 ":star_and_crescent:"
             ],
             "slack": [
                 ":star_and_crescent:"
             ],
-            "emojipedia": [
+            "discord": [
                 ":star_and_crescent:"
             ]
         },
         "tags": [
             "islam",
-            "muslim",
+            "Muslim",
             "religion",
-            "star and crescent",
-            "Muslim"
+            "star and crescent"
         ],
         "codepoints": [
             "U+262A",
@@ -5257,10 +5616,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "star-and-crescent_262a-fe0f.png"
+            "source": "source/apple/391/star-and-crescent_262a-fe0f.png"
         }
     },
     {
@@ -5271,18 +5629,21 @@
         "title": "Next Track Button",
         "aliases": [
             "Next Track",
-            "Skip Forward Symbol",
-            "Black Right-Pointing Double Triangle with Vertical Bar"
+            "Skip Forward Symbol"
         ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":next_track_button:"
             ],
-            "emojipedia": [
+            "github": [
                 ":next_track_button:"
             ],
             "slack": [
                 ":black_right_pointing_double_triangle_with_vertical_bar:"
+            ],
+            "discord": [
+                ":track_next:",
+                ":next_track:"
             ]
         },
         "tags": [
@@ -5300,10 +5661,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "next-track-button_23ed-fe0f.png"
+            "source": "source/apple/391/next-track-button_23ed-fe0f.png"
         }
     },
     {
@@ -5314,11 +5674,10 @@
         "title": "Last Track Button",
         "aliases": [
             "Previous Track",
-            "Skip Backward Symbol",
-            "Black Left-Pointing Double Triangle with Vertical Bar"
+            "Skip Backward Symbol"
         ],
         "shortcodes": {
-            "emojipedia": [
+            "cldr": [
                 ":last_track_button:"
             ],
             "github": [
@@ -5326,6 +5685,10 @@
             ],
             "slack": [
                 ":black_left_pointing_double_triangle_with_vertical_bar:"
+            ],
+            "discord": [
+                ":track_previous:",
+                ":previous_track:"
             ]
         },
         "tags": [
@@ -5343,10 +5706,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "last-track-button_23ee-fe0f.png"
+            "source": "source/apple/391/last-track-button_23ee-fe0f.png"
         }
     },
     {
@@ -5357,17 +5719,20 @@
         "title": "Pause Button",
         "aliases": [
             "Pause",
-            "Pause Symbol",
-            "Double Vertical Bar"
+            "Pause Symbol"
         ],
         "shortcodes": {
+            "cldr": [
+                ":pause_button:"
+            ],
             "github": [
                 ":pause_button:"
             ],
-            "emojipedia": [
-                ":pause_button:"
-            ],
             "slack": [
+                ":double_vertical_bar:"
+            ],
+            "discord": [
+                ":pause_button:",
                 ":double_vertical_bar:"
             ]
         },
@@ -5386,10 +5751,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "pause-button_23f8-fe0f.png"
+            "source": "source/apple/391/pause-button_23f8-fe0f.png"
         }
     },
     {
@@ -5400,18 +5764,20 @@
         "title": "Stop Button",
         "aliases": [
             "Stop",
-            "Stop Symbol",
-            "Black Square for Stop"
+            "Stop Symbol"
         ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":stop_button:"
             ],
-            "emojipedia": [
+            "github": [
                 ":stop_button:"
             ],
             "slack": [
                 ":black_square_for_stop:"
+            ],
+            "discord": [
+                ":stop_button:"
             ]
         },
         "tags": [
@@ -5427,10 +5793,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "stop-button_23f9-fe0f.png"
+            "source": "source/apple/391/stop-button_23f9-fe0f.png"
         }
     },
     {
@@ -5441,18 +5806,20 @@
         "title": "Record Button",
         "aliases": [
             "Record",
-            "Record Symbol",
-            "Black Circle for Record"
+            "Record Symbol"
         ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":record_button:"
             ],
-            "emojipedia": [
+            "github": [
                 ":record_button:"
             ],
             "slack": [
                 ":black_circle_for_record:"
+            ],
+            "discord": [
+                ":record_button:"
             ]
         },
         "tags": [
@@ -5468,10 +5835,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "record-button_23fa-fe0f.png"
+            "source": "source/apple/391/record-button_23fa-fe0f.png"
         }
     },
     {
@@ -5481,17 +5847,20 @@
         "emoji": "🏳️",
         "title": "White Flag",
         "aliases": [
-            "Waving White Flag"
+            "White Flag"
         ],
         "shortcodes": {
-            "github": [
+            "cldr": [
                 ":white_flag:"
             ],
-            "emojipedia": [
+            "github": [
                 ":white_flag:"
             ],
             "slack": [
                 ":waving_white_flag:"
+            ],
+            "discord": [
+                ":flag_white:"
             ]
         },
         "tags": [
@@ -5506,10 +5875,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 15.4"
+                "iOS 17.4"
             ],
-            "folder_id": "325",
-            "file_name": "white-flag_1f3f3-fe0f.png"
+            "source": "source/apple/391/white-flag_1f3f3-fe0f.png"
         }
     }
 ]
