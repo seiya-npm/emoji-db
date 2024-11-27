@@ -1,6 +1,6 @@
 ﻿[
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Smiling",
         "code": "1fae0",
         "emoji": "🫠",
@@ -33,7 +33,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Hand",
         "code": "1fae2",
         "emoji": "🫢",
@@ -68,7 +68,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Hand",
         "code": "1fae3",
         "emoji": "🫣",
@@ -100,7 +100,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Hand",
         "code": "1fae1",
         "emoji": "🫡",
@@ -134,7 +134,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1fae5",
         "emoji": "🫥",
@@ -168,7 +168,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Concerned",
         "code": "1fae4",
         "emoji": "🫤",
@@ -201,7 +201,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Concerned",
         "code": "1f979",
         "emoji": "🥹",
@@ -235,7 +235,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1",
         "emoji": "🫱",
@@ -267,10 +267,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1-1f3fb",
         "emoji": "🫱🏻",
@@ -305,10 +302,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1-1f3fc",
         "emoji": "🫱🏼",
@@ -343,10 +337,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1-1f3fd",
         "emoji": "🫱🏽",
@@ -381,10 +372,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1-1f3fe",
         "emoji": "🫱🏾",
@@ -419,10 +407,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf1-1f3ff",
         "emoji": "🫱🏿",
@@ -457,7 +442,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2",
         "emoji": "🫲",
@@ -489,10 +474,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2-1f3fb",
         "emoji": "🫲🏻",
@@ -527,10 +509,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2-1f3fc",
         "emoji": "🫲🏼",
@@ -565,10 +544,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2-1f3fd",
         "emoji": "🫲🏽",
@@ -603,10 +579,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2-1f3fe",
         "emoji": "🫲🏾",
@@ -641,10 +614,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf2-1f3ff",
         "emoji": "🫲🏿",
@@ -679,7 +649,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3",
         "emoji": "🫳",
@@ -711,10 +681,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3-1f3fb",
         "emoji": "🫳🏻",
@@ -749,10 +716,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3-1f3fc",
         "emoji": "🫳🏼",
@@ -787,10 +751,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3-1f3fd",
         "emoji": "🫳🏽",
@@ -825,10 +786,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3-1f3fe",
         "emoji": "🫳🏾",
@@ -863,10 +821,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf3-1f3ff",
         "emoji": "🫳🏿",
@@ -901,7 +856,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4",
         "emoji": "🫴",
@@ -934,10 +889,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4-1f3fb",
         "emoji": "🫴🏻",
@@ -973,10 +925,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4-1f3fc",
         "emoji": "🫴🏼",
@@ -1012,10 +961,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4-1f3fd",
         "emoji": "🫴🏽",
@@ -1051,10 +997,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4-1f3fe",
         "emoji": "🫴🏾",
@@ -1090,10 +1033,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1faf4-1f3ff",
         "emoji": "🫴🏿",
@@ -1129,7 +1069,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0",
         "emoji": "🫰",
@@ -1163,10 +1103,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0-1f3fb",
         "emoji": "🫰🏻",
@@ -1203,10 +1140,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0-1f3fc",
         "emoji": "🫰🏼",
@@ -1243,10 +1177,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0-1f3fd",
         "emoji": "🫰🏽",
@@ -1283,10 +1214,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0-1f3fe",
         "emoji": "🫰🏾",
@@ -1323,10 +1251,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1faf0-1f3ff",
         "emoji": "🫰🏿",
@@ -1363,7 +1288,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5",
         "emoji": "🫵",
@@ -1394,10 +1319,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5-1f3fb",
         "emoji": "🫵🏻",
@@ -1431,10 +1353,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5-1f3fc",
         "emoji": "🫵🏼",
@@ -1468,10 +1387,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5-1f3fd",
         "emoji": "🫵🏽",
@@ -1505,10 +1421,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5-1f3fe",
         "emoji": "🫵🏾",
@@ -1542,10 +1455,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Single-Finger",
         "code": "1faf5-1f3ff",
         "emoji": "🫵🏿",
@@ -1579,7 +1489,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6",
         "emoji": "🫶",
@@ -1609,10 +1519,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6-1f3fb",
         "emoji": "🫶🏻",
@@ -1645,10 +1552,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6-1f3fc",
         "emoji": "🫶🏼",
@@ -1681,10 +1585,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6-1f3fd",
         "emoji": "🫶🏽",
@@ -1717,10 +1618,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6-1f3fe",
         "emoji": "🫶🏾",
@@ -1753,10 +1651,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf6-1f3ff",
         "emoji": "🫶🏿",
@@ -1789,10 +1684,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1f91d-1f3fb",
         "emoji": "🤝🏻",
@@ -1827,10 +1719,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1f91d-1f3fc",
         "emoji": "🤝🏼",
@@ -1865,10 +1754,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1f91d-1f3fd",
         "emoji": "🤝🏽",
@@ -1903,10 +1789,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1f91d-1f3fe",
         "emoji": "🤝🏾",
@@ -1941,10 +1824,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1f91d-1f3ff",
         "emoji": "🤝🏿",
@@ -1979,10 +1859,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fb-200d-1faf2-1f3fc",
         "emoji": "🫱🏻‍🫲🏼",
@@ -2018,10 +1895,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fb-200d-1faf2-1f3fd",
         "emoji": "🫱🏻‍🫲🏽",
@@ -2057,10 +1931,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fb-200d-1faf2-1f3fe",
         "emoji": "🫱🏻‍🫲🏾",
@@ -2096,10 +1967,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fb-200d-1faf2-1f3ff",
         "emoji": "🫱🏻‍🫲🏿",
@@ -2135,10 +2003,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fc-200d-1faf2-1f3fb",
         "emoji": "🫱🏼‍🫲🏻",
@@ -2174,10 +2039,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fc-200d-1faf2-1f3fd",
         "emoji": "🫱🏼‍🫲🏽",
@@ -2213,10 +2075,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fc-200d-1faf2-1f3fe",
         "emoji": "🫱🏼‍🫲🏾",
@@ -2252,10 +2111,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fc-200d-1faf2-1f3ff",
         "emoji": "🫱🏼‍🫲🏿",
@@ -2291,10 +2147,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fd-200d-1faf2-1f3fb",
         "emoji": "🫱🏽‍🫲🏻",
@@ -2330,10 +2183,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fd-200d-1faf2-1f3fc",
         "emoji": "🫱🏽‍🫲🏼",
@@ -2369,10 +2219,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fd-200d-1faf2-1f3fe",
         "emoji": "🫱🏽‍🫲🏾",
@@ -2408,10 +2255,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fd-200d-1faf2-1f3ff",
         "emoji": "🫱🏽‍🫲🏿",
@@ -2447,10 +2291,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fe-200d-1faf2-1f3fb",
         "emoji": "🫱🏾‍🫲🏻",
@@ -2486,10 +2327,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fe-200d-1faf2-1f3fc",
         "emoji": "🫱🏾‍🫲🏼",
@@ -2525,10 +2363,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fe-200d-1faf2-1f3fd",
         "emoji": "🫱🏾‍🫲🏽",
@@ -2564,10 +2399,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3fe-200d-1faf2-1f3ff",
         "emoji": "🫱🏾‍🫲🏿",
@@ -2603,10 +2435,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3ff-200d-1faf2-1f3fb",
         "emoji": "🫱🏿‍🫲🏻",
@@ -2642,10 +2471,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3ff-200d-1faf2-1f3fc",
         "emoji": "🫱🏿‍🫲🏼",
@@ -2681,10 +2507,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3ff-200d-1faf2-1f3fd",
         "emoji": "🫱🏿‍🫲🏽",
@@ -2720,10 +2543,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hands",
         "code": "1faf1-1f3ff-200d-1faf2-1f3fe",
         "emoji": "🫱🏿‍🫲🏾",
@@ -2759,7 +2579,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1fae6",
         "emoji": "🫦",
@@ -2794,7 +2614,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5",
         "emoji": "🫅",
@@ -2827,10 +2647,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Professions, Roles & Fantasy"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5-1f3fb",
         "emoji": "🫅🏻",
@@ -2863,10 +2680,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Professions, Roles & Fantasy"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5-1f3fc",
         "emoji": "🫅🏼",
@@ -2899,10 +2713,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Professions, Roles & Fantasy"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5-1f3fd",
         "emoji": "🫅🏽",
@@ -2935,10 +2746,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Professions, Roles & Fantasy"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5-1f3fe",
         "emoji": "🫅🏾",
@@ -2971,10 +2779,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Professions, Roles & Fantasy"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac5-1f3ff",
         "emoji": "🫅🏿",
@@ -3007,7 +2812,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3",
         "emoji": "🫃",
@@ -3040,10 +2845,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3-1f3fb",
         "emoji": "🫃🏻",
@@ -3076,10 +2878,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3-1f3fc",
         "emoji": "🫃🏼",
@@ -3112,10 +2911,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3-1f3fd",
         "emoji": "🫃🏽",
@@ -3148,10 +2944,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3-1f3fe",
         "emoji": "🫃🏾",
@@ -3184,10 +2977,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac3-1f3ff",
         "emoji": "🫃🏿",
@@ -3220,7 +3010,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4",
         "emoji": "🫄",
@@ -3253,10 +3043,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4-1f3fb",
         "emoji": "🫄🏻",
@@ -3289,10 +3076,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4-1f3fc",
         "emoji": "🫄🏼",
@@ -3325,10 +3109,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4-1f3fd",
         "emoji": "🫄🏽",
@@ -3361,10 +3142,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4-1f3fe",
         "emoji": "🫄🏾",
@@ -3397,10 +3175,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "People & Appearance"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1fac4-1f3ff",
         "emoji": "🫄🏿",
@@ -3433,7 +3208,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Fantasy",
         "code": "1f9cc",
         "emoji": "🧌",

@@ -1,6 +1,6 @@
 ﻿[
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1f610",
         "emoji": "😐",
@@ -43,7 +43,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Concerned",
         "code": "2639-fe0f",
         "emoji": "☹️",
@@ -170,7 +170,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Open",
         "code": "1f590-fe0f",
         "emoji": "🖐️",
@@ -215,7 +215,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Prop",
         "code": "270d-fe0f",
         "emoji": "✍️",
@@ -256,7 +256,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f441-fe0f",
         "emoji": "👁️",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Role",
         "code": "1f575-fe0f",
         "emoji": "🕵️",
@@ -343,7 +343,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f574-fe0f",
         "emoji": "🕴️",
@@ -389,7 +389,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Sport",
         "code": "26f7-fe0f",
         "emoji": "⛷️",
@@ -427,7 +427,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Sport",
         "code": "1f3cc-fe0f",
         "emoji": "🏌️",
@@ -471,7 +471,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Sport",
         "code": "26f9-fe0f",
         "emoji": "⛹️",
@@ -513,7 +513,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Sport",
         "code": "1f3cb-fe0f",
         "emoji": "🏋️",
@@ -557,7 +557,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Symbol",
         "code": "1f5e3-fe0f",
         "emoji": "🗣️",

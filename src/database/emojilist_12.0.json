@@ -1,6 +1,6 @@
 ﻿[
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Concerned",
         "code": "1f971",
         "emoji": "🥱",
@@ -119,7 +119,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f",
         "emoji": "🤏",
@@ -158,10 +158,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f-1f3fb",
         "emoji": "🤏🏻",
@@ -194,10 +191,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f-1f3fc",
         "emoji": "🤏🏼",
@@ -230,10 +224,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f-1f3fd",
         "emoji": "🤏🏽",
@@ -266,10 +257,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f-1f3fe",
         "emoji": "🤏🏾",
@@ -302,10 +290,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Hand Fingers-Partial",
         "code": "1f90f-1f3ff",
         "emoji": "🤏🏿",
@@ -338,7 +323,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9be",
         "emoji": "🦾",
@@ -378,7 +363,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bf",
         "emoji": "🦿",
@@ -418,7 +403,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb",
         "emoji": "🦻",
@@ -458,10 +443,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb-1f3fb",
         "emoji": "🦻🏻",
@@ -495,10 +477,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb-1f3fc",
         "emoji": "🦻🏼",
@@ -532,10 +511,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb-1f3fd",
         "emoji": "🦻🏽",
@@ -569,10 +545,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb-1f3fe",
         "emoji": "🦻🏾",
@@ -606,10 +579,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Hands & Body Parts"
-        },
+        "category": "Emoji & People",
         "sub_category": "Body Parts",
         "code": "1f9bb-1f3ff",
         "emoji": "🦻🏿",
@@ -643,7 +613,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf",
         "emoji": "🧏",
@@ -685,10 +655,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fb",
         "emoji": "🧏🏻",
@@ -724,10 +691,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fc",
         "emoji": "🧏🏼",
@@ -763,10 +727,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fd",
         "emoji": "🧏🏽",
@@ -802,10 +763,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fe",
         "emoji": "🧏🏾",
@@ -841,10 +799,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3ff",
         "emoji": "🧏🏿",
@@ -880,7 +835,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-200d-2642-fe0f",
         "emoji": "🧏‍♂️",
@@ -922,10 +877,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fb-200d-2642-fe0f",
         "emoji": "🧏🏻‍♂️",
@@ -961,10 +913,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fc-200d-2642-fe0f",
         "emoji": "🧏🏼‍♂️",
@@ -1000,10 +949,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fd-200d-2642-fe0f",
         "emoji": "🧏🏽‍♂️",
@@ -1039,10 +985,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fe-200d-2642-fe0f",
         "emoji": "🧏🏾‍♂️",
@@ -1078,10 +1021,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3ff-200d-2642-fe0f",
         "emoji": "🧏🏿‍♂️",
@@ -1117,7 +1057,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-200d-2640-fe0f",
         "emoji": "🧏‍♀️",
@@ -1159,10 +1099,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fb-200d-2640-fe0f",
         "emoji": "🧏🏻‍♀️",
@@ -1198,10 +1135,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fc-200d-2640-fe0f",
         "emoji": "🧏🏼‍♀️",
@@ -1237,10 +1171,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fd-200d-2640-fe0f",
         "emoji": "🧏🏽‍♀️",
@@ -1276,10 +1207,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3fe-200d-2640-fe0f",
         "emoji": "🧏🏾‍♀️",
@@ -1315,10 +1243,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Gestures & Expressions"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Gesture",
         "code": "1f9cf-1f3ff-200d-2640-fe0f",
         "emoji": "🧏🏿‍♀️",
@@ -1354,7 +1279,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd",
         "emoji": "🧍",
@@ -1394,10 +1319,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fb",
         "emoji": "🧍🏻",
@@ -1431,10 +1353,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fc",
         "emoji": "🧍🏼",
@@ -1468,10 +1387,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fd",
         "emoji": "🧍🏽",
@@ -1505,10 +1421,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fe",
         "emoji": "🧍🏾",
@@ -1542,10 +1455,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3ff",
         "emoji": "🧍🏿",
@@ -1579,7 +1489,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-200d-2642-fe0f",
         "emoji": "🧍‍♂️",
@@ -1621,10 +1531,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fb-200d-2642-fe0f",
         "emoji": "🧍🏻‍♂️",
@@ -1660,10 +1567,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fc-200d-2642-fe0f",
         "emoji": "🧍🏼‍♂️",
@@ -1699,10 +1603,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fd-200d-2642-fe0f",
         "emoji": "🧍🏽‍♂️",
@@ -1738,10 +1639,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fe-200d-2642-fe0f",
         "emoji": "🧍🏾‍♂️",
@@ -1777,10 +1675,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3ff-200d-2642-fe0f",
         "emoji": "🧍🏿‍♂️",
@@ -1816,7 +1711,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-200d-2640-fe0f",
         "emoji": "🧍‍♀️",
@@ -1858,10 +1753,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fb-200d-2640-fe0f",
         "emoji": "🧍🏻‍♀️",
@@ -1897,10 +1789,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fc-200d-2640-fe0f",
         "emoji": "🧍🏼‍♀️",
@@ -1936,10 +1825,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fd-200d-2640-fe0f",
         "emoji": "🧍🏽‍♀️",
@@ -1975,10 +1861,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3fe-200d-2640-fe0f",
         "emoji": "🧍🏾‍♀️",
@@ -2014,10 +1897,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9cd-1f3ff-200d-2640-fe0f",
         "emoji": "🧍🏿‍♀️",
@@ -2053,7 +1933,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce",
         "emoji": "🧎",
@@ -2093,10 +1973,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb",
         "emoji": "🧎🏻",
@@ -2130,10 +2007,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc",
         "emoji": "🧎🏼",
@@ -2167,10 +2041,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd",
         "emoji": "🧎🏽",
@@ -2204,10 +2075,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe",
         "emoji": "🧎🏾",
@@ -2241,10 +2109,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff",
         "emoji": "🧎🏿",
@@ -2278,7 +2143,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-200d-2642-fe0f",
         "emoji": "🧎‍♂️",
@@ -2320,10 +2185,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb-200d-2642-fe0f",
         "emoji": "🧎🏻‍♂️",
@@ -2359,10 +2221,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc-200d-2642-fe0f",
         "emoji": "🧎🏼‍♂️",
@@ -2398,10 +2257,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd-200d-2642-fe0f",
         "emoji": "🧎🏽‍♂️",
@@ -2437,10 +2293,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe-200d-2642-fe0f",
         "emoji": "🧎🏾‍♂️",
@@ -2476,10 +2329,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff-200d-2642-fe0f",
         "emoji": "🧎🏿‍♂️",
@@ -2515,7 +2365,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-200d-2640-fe0f",
         "emoji": "🧎‍♀️",
@@ -2557,10 +2407,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb-200d-2640-fe0f",
         "emoji": "🧎🏻‍♀️",
@@ -2596,10 +2443,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc-200d-2640-fe0f",
         "emoji": "🧎🏼‍♀️",
@@ -2635,10 +2479,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd-200d-2640-fe0f",
         "emoji": "🧎🏽‍♀️",
@@ -2674,10 +2515,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe-200d-2640-fe0f",
         "emoji": "🧎🏾‍♀️",
@@ -2713,10 +2551,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff-200d-2640-fe0f",
         "emoji": "🧎🏿‍♀️",
@@ -2752,7 +2587,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9af",
         "emoji": "👨‍🦯",
@@ -2795,10 +2630,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9af",
         "emoji": "👨🏻‍🦯",
@@ -2835,10 +2667,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9af",
         "emoji": "👨🏼‍🦯",
@@ -2875,10 +2704,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9af",
         "emoji": "👨🏽‍🦯",
@@ -2915,10 +2741,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9af",
         "emoji": "👨🏾‍🦯",
@@ -2955,10 +2778,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9af",
         "emoji": "👨🏿‍🦯",
@@ -2995,7 +2815,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9af",
         "emoji": "👩‍🦯",
@@ -3038,10 +2858,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9af",
         "emoji": "👩🏻‍🦯",
@@ -3078,10 +2895,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9af",
         "emoji": "👩🏼‍🦯",
@@ -3118,10 +2932,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9af",
         "emoji": "👩🏽‍🦯",
@@ -3158,10 +2969,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9af",
         "emoji": "👩🏾‍🦯",
@@ -3198,10 +3006,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9af",
         "emoji": "👩🏿‍🦯",
@@ -3238,7 +3043,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9bc",
         "emoji": "👨‍🦼",
@@ -3281,10 +3086,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9bc",
         "emoji": "👨🏻‍🦼",
@@ -3321,10 +3123,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9bc",
         "emoji": "👨🏼‍🦼",
@@ -3361,10 +3160,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9bc",
         "emoji": "👨🏽‍🦼",
@@ -3401,10 +3197,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9bc",
         "emoji": "👨🏾‍🦼",
@@ -3441,10 +3234,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9bc",
         "emoji": "👨🏿‍🦼",
@@ -3481,7 +3271,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9bc",
         "emoji": "👩‍🦼",
@@ -3524,10 +3314,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9bc",
         "emoji": "👩🏻‍🦼",
@@ -3564,10 +3351,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9bc",
         "emoji": "👩🏼‍🦼",
@@ -3604,10 +3388,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9bc",
         "emoji": "👩🏽‍🦼",
@@ -3644,10 +3425,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9bc",
         "emoji": "👩🏾‍🦼",
@@ -3684,10 +3462,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9bc",
         "emoji": "👩🏿‍🦼",
@@ -3724,7 +3499,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9bd",
         "emoji": "👨‍🦽",
@@ -3767,10 +3542,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9bd",
         "emoji": "👨🏻‍🦽",
@@ -3807,10 +3579,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9bd",
         "emoji": "👨🏼‍🦽",
@@ -3847,10 +3616,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9bd",
         "emoji": "👨🏽‍🦽",
@@ -3887,10 +3653,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9bd",
         "emoji": "👨🏾‍🦽",
@@ -3927,10 +3690,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9bd",
         "emoji": "👨🏿‍🦽",
@@ -3967,7 +3727,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9bd",
         "emoji": "👩‍🦽",
@@ -4010,10 +3770,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9bd",
         "emoji": "👩🏻‍🦽",
@@ -4050,10 +3807,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9bd",
         "emoji": "👩🏼‍🦽",
@@ -4090,10 +3844,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9bd",
         "emoji": "👩🏽‍🦽",
@@ -4130,10 +3881,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9bd",
         "emoji": "👩🏾‍🦽",
@@ -4170,10 +3918,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9bd",
         "emoji": "👩🏿‍🦽",
@@ -4210,7 +3955,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-200d-1f91d-200d-1f9d1",
         "emoji": "🧑‍🤝‍🧑",
@@ -4260,10 +4005,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏻‍🤝‍🧑🏻",
@@ -4305,10 +4047,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏼‍🤝‍🧑🏻",
@@ -4350,10 +4089,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏼‍🤝‍🧑🏼",
@@ -4395,10 +4131,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏽‍🤝‍🧑🏻",
@@ -4440,10 +4173,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏽‍🤝‍🧑🏼",
@@ -4485,10 +4215,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏽‍🤝‍🧑🏽",
@@ -4530,10 +4257,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏾‍🤝‍🧑🏻",
@@ -4575,10 +4299,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏾‍🤝‍🧑🏼",
@@ -4620,10 +4341,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏾‍🤝‍🧑🏽",
@@ -4665,10 +4383,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe",
         "emoji": "🧑🏾‍🤝‍🧑🏾",
@@ -4710,10 +4425,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb",
         "emoji": "🧑🏿‍🤝‍🧑🏻",
@@ -4755,10 +4467,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc",
         "emoji": "🧑🏿‍🤝‍🧑🏼",
@@ -4800,10 +4509,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd",
         "emoji": "🧑🏿‍🤝‍🧑🏽",
@@ -4845,10 +4551,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe",
         "emoji": "🧑🏿‍🤝‍🧑🏾",
@@ -4890,10 +4593,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff",
         "emoji": "🧑🏿‍🤝‍🧑🏿",
@@ -4935,10 +4635,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46d-1f3fb",
         "emoji": "👭🏻",
@@ -4974,10 +4671,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏼‍🤝‍👩🏻",
@@ -5018,10 +4712,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46d-1f3fc",
         "emoji": "👭🏼",
@@ -5057,10 +4748,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏽‍🤝‍👩🏻",
@@ -5101,10 +4789,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏽‍🤝‍👩🏼",
@@ -5145,10 +4830,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46d-1f3fd",
         "emoji": "👭🏽",
@@ -5184,10 +4866,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏾‍🤝‍👩🏻",
@@ -5228,10 +4907,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏾‍🤝‍👩🏼",
@@ -5272,10 +4948,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd",
         "emoji": "👩🏾‍🤝‍👩🏽",
@@ -5316,10 +4989,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46d-1f3fe",
         "emoji": "👭🏾",
@@ -5355,10 +5025,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb",
         "emoji": "👩🏿‍🤝‍👩🏻",
@@ -5399,10 +5066,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc",
         "emoji": "👩🏿‍🤝‍👩🏼",
@@ -5443,10 +5107,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd",
         "emoji": "👩🏿‍🤝‍👩🏽",
@@ -5487,10 +5148,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe",
         "emoji": "👩🏿‍🤝‍👩🏾",
@@ -5531,10 +5189,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46d-1f3ff",
         "emoji": "👭🏿",
@@ -5570,10 +5225,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46b-1f3fb",
         "emoji": "👫🏻",
@@ -5611,10 +5263,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏻‍🤝‍👨🏼",
@@ -5657,10 +5306,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏻‍🤝‍👨🏽",
@@ -5703,10 +5349,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏻‍🤝‍👨🏾",
@@ -5749,10 +5392,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏻‍🤝‍👨🏿",
@@ -5795,10 +5435,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏼‍🤝‍👨🏻",
@@ -5841,10 +5478,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46b-1f3fc",
         "emoji": "👫🏼",
@@ -5882,10 +5516,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏼‍🤝‍👨🏽",
@@ -5928,10 +5559,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏼‍🤝‍👨🏾",
@@ -5974,10 +5602,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏼‍🤝‍👨🏿",
@@ -6020,10 +5645,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏽‍🤝‍👨🏻",
@@ -6066,10 +5688,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏽‍🤝‍👨🏼",
@@ -6112,10 +5731,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46b-1f3fd",
         "emoji": "👫🏽",
@@ -6153,10 +5769,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏽‍🤝‍👨🏾",
@@ -6199,10 +5812,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏽‍🤝‍👨🏿",
@@ -6245,10 +5855,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏾‍🤝‍👨🏻",
@@ -6291,10 +5898,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏾‍🤝‍👨🏼",
@@ -6337,10 +5941,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏾‍🤝‍👨🏽",
@@ -6383,10 +5984,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46b-1f3fe",
         "emoji": "👫🏾",
@@ -6424,10 +6022,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff",
         "emoji": "👩🏾‍🤝‍👨🏿",
@@ -6470,10 +6065,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👩🏿‍🤝‍👨🏻",
@@ -6516,10 +6108,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👩🏿‍🤝‍👨🏼",
@@ -6562,10 +6151,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👩🏿‍🤝‍👨🏽",
@@ -6608,10 +6194,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👩🏿‍🤝‍👨🏾",
@@ -6654,10 +6237,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46b-1f3ff",
         "emoji": "👫🏿",
@@ -6695,10 +6275,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46c-1f3fb",
         "emoji": "👬🏻",
@@ -6737,10 +6314,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏼‍🤝‍👨🏻",
@@ -6784,10 +6358,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46c-1f3fc",
         "emoji": "👬🏼",
@@ -6826,10 +6397,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏽‍🤝‍👨🏻",
@@ -6873,10 +6441,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏽‍🤝‍👨🏼",
@@ -6920,10 +6485,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46c-1f3fd",
         "emoji": "👬🏽",
@@ -6962,10 +6524,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏾‍🤝‍👨🏻",
@@ -7009,10 +6568,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏾‍🤝‍👨🏼",
@@ -7056,10 +6612,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👨🏾‍🤝‍👨🏽",
@@ -7103,10 +6656,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46c-1f3fe",
         "emoji": "👬🏾",
@@ -7145,10 +6695,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb",
         "emoji": "👨🏿‍🤝‍👨🏻",
@@ -7192,10 +6739,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc",
         "emoji": "👨🏿‍🤝‍👨🏼",
@@ -7239,10 +6783,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd",
         "emoji": "👨🏿‍🤝‍👨🏽",
@@ -7286,10 +6827,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe",
         "emoji": "👨🏿‍🤝‍👨🏾",
@@ -7333,10 +6871,7 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Families & Couples"
-        },
+        "category": "Emoji & People",
         "sub_category": "Family",
         "code": "1f46c-1f3ff",
         "emoji": "👬🏿",
@@ -8787,7 +8322,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Medical",
         "code": "1fa78",
         "emoji": "🩸",

@@ -1,6 +1,6 @@
 ﻿[
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1f642-200d-2194-fe0f",
         "emoji": "🙂‍↔️",
@@ -26,7 +26,7 @@
         }
     },
     {
-        "category": "Smileys",
+        "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
         "code": "1f642-200d-2195-fe0f",
         "emoji": "🙂‍↕️",
@@ -52,14 +52,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-200d-27a1-fe0f",
         "emoji": "🚶‍➡️",
         "title": "Person Walking Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+200D",
@@ -76,17 +73,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fb-200d-27a1-fe0f",
         "emoji": "🚶🏻‍➡️",
         "title": "Person Walking Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FB",
@@ -105,17 +96,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fc-200d-27a1-fe0f",
         "emoji": "🚶🏼‍➡️",
         "title": "Person Walking Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FC",
@@ -134,17 +119,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fd-200d-27a1-fe0f",
         "emoji": "🚶🏽‍➡️",
         "title": "Person Walking Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FD",
@@ -163,17 +142,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fe-200d-27a1-fe0f",
         "emoji": "🚶🏾‍➡️",
         "title": "Person Walking Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FE",
@@ -192,17 +165,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3ff-200d-27a1-fe0f",
         "emoji": "🚶🏿‍➡️",
         "title": "Person Walking Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FF",
@@ -221,14 +188,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶‍♀️‍➡️",
         "title": "Woman Walking Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+200D",
@@ -248,17 +212,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏻‍♀️‍➡️",
         "title": "Woman Walking Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FB",
@@ -280,17 +238,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏼‍♀️‍➡️",
         "title": "Woman Walking Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FC",
@@ -312,17 +264,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏽‍♀️‍➡️",
         "title": "Woman Walking Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FD",
@@ -344,17 +290,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏾‍♀️‍➡️",
         "title": "Woman Walking Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FE",
@@ -376,17 +316,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏿‍♀️‍➡️",
         "title": "Woman Walking Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FF",
@@ -408,14 +342,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶‍♂️‍➡️",
         "title": "Man Walking Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+200D",
@@ -435,17 +366,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏻‍♂️‍➡️",
         "title": "Man Walking Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FB",
@@ -467,17 +392,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏼‍♂️‍➡️",
         "title": "Man Walking Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FC",
@@ -499,17 +418,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏽‍♂️‍➡️",
         "title": "Man Walking Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FD",
@@ -531,17 +444,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏾‍♂️‍➡️",
         "title": "Man Walking Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FE",
@@ -563,17 +470,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f6b6-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🚶🏿‍♂️‍➡️",
         "title": "Man Walking Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F6B6",
             "U+1F3FF",
@@ -595,14 +496,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-200d-27a1-fe0f",
         "emoji": "🧎‍➡️",
         "title": "Person Kneeling Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+200D",
@@ -619,17 +517,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb-200d-27a1-fe0f",
         "emoji": "🧎🏻‍➡️",
         "title": "Person Kneeling Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FB",
@@ -648,17 +540,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc-200d-27a1-fe0f",
         "emoji": "🧎🏼‍➡️",
         "title": "Person Kneeling Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FC",
@@ -677,17 +563,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd-200d-27a1-fe0f",
         "emoji": "🧎🏽‍➡️",
         "title": "Person Kneeling Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FD",
@@ -706,17 +586,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe-200d-27a1-fe0f",
         "emoji": "🧎🏾‍➡️",
         "title": "Person Kneeling Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FE",
@@ -735,17 +609,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff-200d-27a1-fe0f",
         "emoji": "🧎🏿‍➡️",
         "title": "Person Kneeling Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FF",
@@ -764,14 +632,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+200D",
@@ -791,17 +656,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏻‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FB",
@@ -823,17 +682,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏼‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FC",
@@ -855,17 +708,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏽‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FD",
@@ -887,17 +734,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏾‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FE",
@@ -919,17 +760,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏿‍♀️‍➡️",
         "title": "Woman Kneeling Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FF",
@@ -951,14 +786,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎‍♂️‍➡️",
         "title": "Man Kneeling Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+200D",
@@ -978,17 +810,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏻‍♂️‍➡️",
         "title": "Man Kneeling Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FB",
@@ -1010,17 +836,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏼‍♂️‍➡️",
         "title": "Man Kneeling Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FC",
@@ -1042,17 +862,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏽‍♂️‍➡️",
         "title": "Man Kneeling Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FD",
@@ -1074,17 +888,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏾‍♂️‍➡️",
         "title": "Man Kneeling Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FE",
@@ -1106,17 +914,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9ce-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🧎🏿‍♂️‍➡️",
         "title": "Man Kneeling Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9CE",
             "U+1F3FF",
@@ -1138,14 +940,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑‍🦯‍➡️",
         "title": "Person with White Cane Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+200D",
@@ -1164,17 +963,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fb-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑🏻‍🦯‍➡️",
         "title": "Person with White Cane Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FB",
@@ -1195,17 +988,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fc-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑🏼‍🦯‍➡️",
         "title": "Person with White Cane Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FC",
@@ -1226,17 +1013,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fd-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑🏽‍🦯‍➡️",
         "title": "Person with White Cane Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FD",
@@ -1257,17 +1038,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fe-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑🏾‍🦯‍➡️",
         "title": "Person with White Cane Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FE",
@@ -1288,17 +1063,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3ff-200d-1f9af-200d-27a1-fe0f",
         "emoji": "🧑🏿‍🦯‍➡️",
         "title": "Person with White Cane Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FF",
@@ -1319,14 +1088,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨‍🦯‍➡️",
         "title": "Man with White Cane Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+200D",
@@ -1345,17 +1111,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨🏻‍🦯‍➡️",
         "title": "Man with White Cane Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FB",
@@ -1376,17 +1136,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨🏼‍🦯‍➡️",
         "title": "Man with White Cane Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FC",
@@ -1407,17 +1161,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨🏽‍🦯‍➡️",
         "title": "Man with White Cane Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FD",
@@ -1438,17 +1186,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨🏾‍🦯‍➡️",
         "title": "Man with White Cane Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FE",
@@ -1469,17 +1211,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👨🏿‍🦯‍➡️",
         "title": "Man with White Cane Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FF",
@@ -1500,14 +1236,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+200D",
@@ -1526,17 +1259,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩🏻‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FB",
@@ -1557,17 +1284,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩🏼‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FC",
@@ -1588,17 +1309,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩🏽‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FD",
@@ -1619,17 +1334,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩🏾‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FE",
@@ -1650,17 +1359,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9af-200d-27a1-fe0f",
         "emoji": "👩🏿‍🦯‍➡️",
         "title": "Woman with White Cane Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FF",
@@ -1681,14 +1384,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+200D",
@@ -1707,17 +1407,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fb-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑🏻‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FB",
@@ -1738,17 +1432,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fc-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑🏼‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FC",
@@ -1769,17 +1457,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fd-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑🏽‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FD",
@@ -1800,17 +1482,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fe-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑🏾‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FE",
@@ -1831,17 +1507,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3ff-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "🧑🏿‍🦼‍➡️",
         "title": "Person in Motorized Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FF",
@@ -1862,14 +1532,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+200D",
@@ -1888,17 +1555,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨🏻‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FB",
@@ -1919,17 +1580,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨🏼‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FC",
@@ -1950,17 +1605,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨🏽‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FD",
@@ -1981,17 +1630,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨🏾‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FE",
@@ -2012,17 +1655,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👨🏿‍🦼‍➡️",
         "title": "Man in Motorized Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FF",
@@ -2043,14 +1680,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+200D",
@@ -2069,17 +1703,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩🏻‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FB",
@@ -2100,17 +1728,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩🏼‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FC",
@@ -2131,17 +1753,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩🏽‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FD",
@@ -2162,17 +1778,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩🏾‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FE",
@@ -2193,17 +1803,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9bc-200d-27a1-fe0f",
         "emoji": "👩🏿‍🦼‍➡️",
         "title": "Woman in Motorized Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FF",
@@ -2224,14 +1828,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+200D",
@@ -2250,17 +1851,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fb-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑🏻‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FB",
@@ -2281,17 +1876,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fc-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑🏼‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FC",
@@ -2312,17 +1901,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fd-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑🏽‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FD",
@@ -2343,17 +1926,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3fe-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑🏾‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FE",
@@ -2374,17 +1951,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f9d1-1f3ff-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "🧑🏿‍🦽‍➡️",
         "title": "Person in Manual Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F9D1",
             "U+1F3FF",
@@ -2405,14 +1976,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+200D",
@@ -2431,17 +1999,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fb-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨🏻‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FB",
@@ -2462,17 +2024,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fc-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨🏼‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FC",
@@ -2493,17 +2049,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fd-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨🏽‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FD",
@@ -2524,17 +2074,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3fe-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨🏾‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FE",
@@ -2555,17 +2099,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f468-1f3ff-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👨🏿‍🦽‍➡️",
         "title": "Man in Manual Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F468",
             "U+1F3FF",
@@ -2586,14 +2124,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+200D",
@@ -2612,17 +2147,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fb-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩🏻‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FB",
@@ -2643,17 +2172,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fc-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩🏼‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FC",
@@ -2674,17 +2197,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fd-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩🏽‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FD",
@@ -2705,17 +2222,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3fe-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩🏾‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FE",
@@ -2736,17 +2247,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f469-1f3ff-200d-1f9bd-200d-27a1-fe0f",
         "emoji": "👩🏿‍🦽‍➡️",
         "title": "Woman in Manual Wheelchair Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F469",
             "U+1F3FF",
@@ -2767,14 +2272,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-200d-27a1-fe0f",
         "emoji": "🏃‍➡️",
         "title": "Person Running Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+200D",
@@ -2791,17 +2293,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fb-200d-27a1-fe0f",
         "emoji": "🏃🏻‍➡️",
         "title": "Person Running Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FB",
@@ -2820,17 +2316,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fc-200d-27a1-fe0f",
         "emoji": "🏃🏼‍➡️",
         "title": "Person Running Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FC",
@@ -2849,17 +2339,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fd-200d-27a1-fe0f",
         "emoji": "🏃🏽‍➡️",
         "title": "Person Running Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FD",
@@ -2878,17 +2362,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fe-200d-27a1-fe0f",
         "emoji": "🏃🏾‍➡️",
         "title": "Person Running Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FE",
@@ -2907,17 +2385,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3ff-200d-27a1-fe0f",
         "emoji": "🏃🏿‍➡️",
         "title": "Person Running Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FF",
@@ -2936,14 +2408,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃‍♀️‍➡️",
         "title": "Woman Running Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+200D",
@@ -2963,17 +2432,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fb-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏻‍♀️‍➡️",
         "title": "Woman Running Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FB",
@@ -2995,17 +2458,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fc-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏼‍♀️‍➡️",
         "title": "Woman Running Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FC",
@@ -3027,17 +2484,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fd-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏽‍♀️‍➡️",
         "title": "Woman Running Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FD",
@@ -3059,17 +2510,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fe-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏾‍♀️‍➡️",
         "title": "Woman Running Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FE",
@@ -3091,17 +2536,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3ff-200d-2640-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏿‍♀️‍➡️",
         "title": "Woman Running Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FF",
@@ -3123,14 +2562,11 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃‍♂️‍➡️",
         "title": "Man Running Facing Right",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+200D",
@@ -3150,17 +2586,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fb-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏻‍♂️‍➡️",
         "title": "Man Running Facing Right: Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FB",
@@ -3182,17 +2612,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fc-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏼‍♂️‍➡️",
         "title": "Man Running Facing Right: Medium-Light Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FC",
@@ -3214,17 +2638,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fd-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏽‍♂️‍➡️",
         "title": "Man Running Facing Right: Medium Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FD",
@@ -3246,17 +2664,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3fe-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏾‍♂️‍➡️",
         "title": "Man Running Facing Right: Medium-Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FE",
@@ -3278,17 +2690,11 @@
         }
     },
     {
-        "category": {
-            "cat": "People",
-            "sub": "Activities & Sports"
-        },
+        "category": "Emoji & People",
         "sub_category": "Person Activity",
         "code": "1f3c3-1f3ff-200d-2642-fe0f-200d-27a1-fe0f",
         "emoji": "🏃🏿‍♂️‍➡️",
         "title": "Man Running Facing Right: Dark Skin Tone",
-        "tags": [
-            ""
-        ],
         "codepoints": [
             "U+1F3C3",
             "U+1F3FF",
@@ -3310,7 +2716,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Symbol",
         "code": "1f9d1-200d-1f9d1-200d-1f9d2",
         "emoji": "🧑‍🧑‍🧒",
@@ -3335,7 +2741,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Symbol",
         "code": "1f9d1-200d-1f9d1-200d-1f9d2-200d-1f9d2",
         "emoji": "🧑‍🧑‍🧒‍🧒",
@@ -3362,7 +2768,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Symbol",
         "code": "1f9d1-200d-1f9d2",
         "emoji": "🧑‍🧒",
@@ -3385,7 +2791,7 @@
         }
     },
     {
-        "category": "People",
+        "category": "Emoji & People",
         "sub_category": "Person Symbol",
         "code": "1f9d1-200d-1f9d2-200d-1f9d2",
         "emoji": "🧑‍🧒‍🧒",
