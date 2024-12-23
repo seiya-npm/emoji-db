@@ -1,15 +1,23 @@
-on: push
+name: Release Builds
+
+on:
+  push:
+    tags:
+      - "*.*.*"
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
         with:
-          node-version: 16
-      - run: npm install
-      - run: npm test
-      - uses: JS-DevTools/npm-publish@v1
+          node-version: 20
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+      - run: pnpm install
+      - run: pnpm test
+      - uses: JS-DevTools/npm-publish@v3
         with:
           token: ${{ secrets.NPM_TOKEN }}
