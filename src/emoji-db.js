@@ -1,5 +1,4 @@
 const fs = require('fs');
-const path = require('path');
 const EmojiSearcher = require('./emoji-searcher');
 
 function initDb({ dbDir, ignoreUnqualified }){
@@ -31,11 +30,14 @@ function initDb({ dbDir, ignoreUnqualified }){
     console.log('[LOG] Emoji versions:', dbFiles.join(', '));
     // load dbs
     let emojiDbData = {};
+    if(!/[\/\\]$/.test(dbDir)){
+        dbDir += '/';
+    }
     for (const dbFile of dbFiles) {
         if(ignoreUnqualified && dbFile.match(/nfq/)){
             continue;
         }
-        let loadEmojiDbData = require(path.join(dbDir, filePrefx + dbFile + fileSuffx).replace(/\\/g, '/'));
+        let loadEmojiDbData = require(dbDir + filePrefx + dbFile + fileSuffx);
         for(let e of loadEmojiDbData){
             if(dbFile.match(/xdd/) && emojiDbData[e.code]){
                 emojiDbData[e.code].description = e.description;
