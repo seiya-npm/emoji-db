@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "Symbols & Flags",
         "sub_category": "Emotion",
@@ -27,7 +27,6 @@
             "balloon",
             "bubble",
             "eye",
-            "eye in speech bubble",
             "speech",
             "witness"
         ],
@@ -42,9 +41,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
+            "source": "source/apple/419/eye-in-speech-bubble_1f441-fe0f-200d-1f5e8-fe0f.png"
         }
     },
     {
@@ -72,7 +71,7 @@
             "balloon",
             "bubble",
             "dialog",
-            "left speech bubble",
+            "left",
             "speech"
         ],
         "codepoints": [
@@ -83,9 +82,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/left-speech-bubble_1f5e8-fe0f.png"
+            "source": "source/apple/419/left-speech-bubble_1f5e8-fe0f.png"
         }
     },
     {
@@ -118,9 +117,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_light-skin-tone_1f575-1f3fb_1f3fb.png"
+            "source": "source/apple/419/detective_light-skin-tone_1f575-1f3fb_1f3fb.png"
         }
     },
     {
@@ -153,9 +152,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_medium-light-skin-tone_1f575-1f3fc_1f3fc.png"
+            "source": "source/apple/419/detective_medium-light-skin-tone_1f575-1f3fc_1f3fc.png"
         }
     },
     {
@@ -188,9 +187,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_medium-skin-tone_1f575-1f3fd_1f3fd.png"
+            "source": "source/apple/419/detective_medium-skin-tone_1f575-1f3fd_1f3fd.png"
         }
     },
     {
@@ -223,9 +222,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png"
+            "source": "source/apple/419/detective_medium-dark-skin-tone_1f575-1f3fe_1f3fe.png"
         }
     },
     {
@@ -258,9 +257,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_dark-skin-tone_1f575-1f3ff_1f3ff.png"
+            "source": "source/apple/419/detective_dark-skin-tone_1f575-1f3ff_1f3ff.png"
         }
     },
     {
@@ -280,8 +279,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -292,9 +299,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_light-skin-tone_26f9-1f3fb_1f3fb.png"
+            "source": "source/apple/419/person-bouncing-ball_light-skin-tone_26f9-1f3fb_1f3fb.png"
         }
     },
     {
@@ -314,8 +321,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -326,9 +341,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_medium-light-skin-tone_26f9-1f3fc_1f3fc.png"
+            "source": "source/apple/419/person-bouncing-ball_medium-light-skin-tone_26f9-1f3fc_1f3fc.png"
         }
     },
     {
@@ -348,8 +363,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -360,9 +383,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_medium-skin-tone_26f9-1f3fd_1f3fd.png"
+            "source": "source/apple/419/person-bouncing-ball_medium-skin-tone_26f9-1f3fd_1f3fd.png"
         }
     },
     {
@@ -382,8 +405,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -394,9 +425,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_medium-dark-skin-tone_26f9-1f3fe_1f3fe.png"
+            "source": "source/apple/419/person-bouncing-ball_medium-dark-skin-tone_26f9-1f3fe_1f3fe.png"
         }
     },
     {
@@ -416,8 +447,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -428,9 +467,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_dark-skin-tone_26f9-1f3ff_1f3ff.png"
+            "source": "source/apple/419/person-bouncing-ball_dark-skin-tone_26f9-1f3ff_1f3ff.png"
         }
     },
     {
@@ -450,9 +489,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -463,9 +510,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_light-skin-tone_1f3cb-1f3fb_1f3fb.png"
+            "source": "source/apple/419/person-lifting-weights_light-skin-tone_1f3cb-1f3fb_1f3fb.png"
         }
     },
     {
@@ -485,9 +532,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -498,9 +553,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_medium-light-skin-tone_1f3cb-1f3fc_1f3fc.png"
+            "source": "source/apple/419/person-lifting-weights_medium-light-skin-tone_1f3cb-1f3fc_1f3fc.png"
         }
     },
     {
@@ -520,9 +575,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -533,9 +596,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_medium-skin-tone_1f3cb-1f3fd_1f3fd.png"
+            "source": "source/apple/419/person-lifting-weights_medium-skin-tone_1f3cb-1f3fd_1f3fd.png"
         }
     },
     {
@@ -555,9 +618,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -568,9 +639,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_medium-dark-skin-tone_1f3cb-1f3fe_1f3fe.png"
+            "source": "source/apple/419/person-lifting-weights_medium-dark-skin-tone_1f3cb-1f3fe_1f3fe.png"
         }
     },
     {
@@ -590,9 +661,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -603,9 +682,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_dark-skin-tone_1f3cb-1f3ff_1f3ff.png"
+            "source": "source/apple/419/person-lifting-weights_dark-skin-tone_1f3cb-1f3ff_1f3ff.png"
         }
     },
     {
@@ -632,10 +711,22 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
+            "date",
+            "dating",
+            "heart",
             "kiss",
+            "love",
             "man",
-            "woman"
+            "mwah",
+            "person",
+            "romance",
+            "together",
+            "woman",
+            "xoxo"
         ],
         "codepoints": [
             "U+1F469",
@@ -651,9 +742,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/kiss-woman-man_1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+            "source": "source/apple/419/kiss-woman-man_1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
         }
     },
     {
@@ -681,9 +772,21 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
+            "date",
+            "dating",
+            "heart",
             "kiss",
-            "man"
+            "love",
+            "man",
+            "mwah",
+            "person",
+            "romance",
+            "together",
+            "xoxo"
         ],
         "codepoints": [
             "U+1F468",
@@ -699,9 +802,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
+            "source": "source/apple/419/kiss-man-man_1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png"
         }
     },
     {
@@ -729,9 +832,21 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
+            "date",
+            "dating",
+            "heart",
             "kiss",
-            "woman"
+            "love",
+            "mwah",
+            "person",
+            "romance",
+            "together",
+            "woman",
+            "xoxo"
         ],
         "codepoints": [
             "U+1F469",
@@ -747,9 +862,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/kiss-woman-woman_1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png"
+            "source": "source/apple/419/kiss-woman-woman_1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png"
         }
     },
     {
@@ -776,11 +891,21 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
-            "couple with heart",
+            "dating",
+            "heart",
+            "kiss",
             "love",
             "man",
-            "woman"
+            "person",
+            "relationship",
+            "romance",
+            "together",
+            "woman",
+            "you"
         ],
         "codepoints": [
             "U+1F469",
@@ -794,9 +919,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/couple-with-heart-woman-man_1f469-200d-2764-fe0f-200d-1f468.png"
+            "source": "source/apple/419/couple-with-heart-woman-man_1f469-200d-2764-fe0f-200d-1f468.png"
         }
     },
     {
@@ -824,10 +949,20 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
-            "couple with heart",
+            "dating",
+            "heart",
+            "kiss",
             "love",
-            "man"
+            "man",
+            "person",
+            "relationship",
+            "romance",
+            "together",
+            "you"
         ],
         "codepoints": [
             "U+1F468",
@@ -841,9 +976,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/couple-with-heart-man-man_1f468-200d-2764-fe0f-200d-1f468.png"
+            "source": "source/apple/419/couple-with-heart-man-man_1f468-200d-2764-fe0f-200d-1f468.png"
         }
     },
     {
@@ -871,10 +1006,20 @@
             ]
         },
         "tags": [
+            "anniversary",
+            "babe",
+            "bae",
             "couple",
-            "couple with heart",
+            "dating",
+            "heart",
+            "kiss",
             "love",
-            "woman"
+            "person",
+            "relationship",
+            "romance",
+            "together",
+            "woman",
+            "you"
         ],
         "codepoints": [
             "U+1F469",
@@ -888,9 +1033,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/couple-with-heart-woman-woman_1f469-200d-2764-fe0f-200d-1f469.png"
+            "source": "source/apple/419/couple-with-heart-woman-woman_1f469-200d-2764-fe0f-200d-1f469.png"
         }
     },
     {
@@ -918,6 +1063,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "man",
             "woman"
@@ -933,9 +1079,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-woman-boy_1f468-200d-1f469-200d-1f466.png"
+            "source": "source/apple/419/family-man-woman-boy_1f468-200d-1f469-200d-1f466.png"
         }
     },
     {
@@ -962,6 +1108,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "man",
@@ -978,9 +1125,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
+            "source": "source/apple/419/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"
         }
     },
     {
@@ -1008,6 +1155,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "girl",
             "man",
@@ -1026,9 +1174,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-woman-girl-boy_1f468-200d-1f469-200d-1f467-200d-1f466.png"
+            "source": "source/apple/419/family-man-woman-girl-boy_1f468-200d-1f469-200d-1f467-200d-1f466.png"
         }
     },
     {
@@ -1056,6 +1204,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "man",
             "woman"
@@ -1073,9 +1222,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-woman-boy-boy_1f468-200d-1f469-200d-1f466-200d-1f466.png"
+            "source": "source/apple/419/family-man-woman-boy-boy_1f468-200d-1f469-200d-1f466-200d-1f466.png"
         }
     },
     {
@@ -1102,6 +1251,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "man",
@@ -1120,9 +1270,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-woman-girl-girl_1f468-200d-1f469-200d-1f467-200d-1f467.png"
+            "source": "source/apple/419/family-man-woman-girl-girl_1f468-200d-1f469-200d-1f467-200d-1f467.png"
         }
     },
     {
@@ -1150,6 +1300,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "man"
         ],
@@ -1164,9 +1315,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-man-boy_1f468-200d-1f468-200d-1f466.png"
+            "source": "source/apple/419/family-man-man-boy_1f468-200d-1f468-200d-1f466.png"
         }
     },
     {
@@ -1193,6 +1344,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "man"
@@ -1208,9 +1360,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-man-girl_1f468-200d-1f468-200d-1f467.png"
+            "source": "source/apple/419/family-man-man-girl_1f468-200d-1f468-200d-1f467.png"
         }
     },
     {
@@ -1238,6 +1390,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "girl",
             "man"
@@ -1255,9 +1408,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-man-girl-boy_1f468-200d-1f468-200d-1f467-200d-1f466.png"
+            "source": "source/apple/419/family-man-man-girl-boy_1f468-200d-1f468-200d-1f467-200d-1f466.png"
         }
     },
     {
@@ -1285,6 +1438,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "man"
         ],
@@ -1301,9 +1455,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-man-boy-boy_1f468-200d-1f468-200d-1f466-200d-1f466.png"
+            "source": "source/apple/419/family-man-man-boy-boy_1f468-200d-1f468-200d-1f466-200d-1f466.png"
         }
     },
     {
@@ -1330,6 +1484,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "man"
@@ -1347,9 +1502,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-man-man-girl-girl_1f468-200d-1f468-200d-1f467-200d-1f467.png"
+            "source": "source/apple/419/family-man-man-girl-girl_1f468-200d-1f468-200d-1f467-200d-1f467.png"
         }
     },
     {
@@ -1377,6 +1532,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "woman"
         ],
@@ -1391,9 +1547,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-woman-woman-boy_1f469-200d-1f469-200d-1f466.png"
+            "source": "source/apple/419/family-woman-woman-boy_1f469-200d-1f469-200d-1f466.png"
         }
     },
     {
@@ -1420,6 +1576,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "woman"
@@ -1435,9 +1592,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-woman-woman-girl_1f469-200d-1f469-200d-1f467.png"
+            "source": "source/apple/419/family-woman-woman-girl_1f469-200d-1f469-200d-1f467.png"
         }
     },
     {
@@ -1465,6 +1622,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "girl",
             "woman"
@@ -1482,9 +1640,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-woman-woman-girl-boy_1f469-200d-1f469-200d-1f467-200d-1f466.png"
+            "source": "source/apple/419/family-woman-woman-girl-boy_1f469-200d-1f469-200d-1f467-200d-1f466.png"
         }
     },
     {
@@ -1512,6 +1670,7 @@
         },
         "tags": [
             "boy",
+            "child",
             "family",
             "woman"
         ],
@@ -1528,9 +1687,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-woman-woman-boy-boy_1f469-200d-1f469-200d-1f466-200d-1f466.png"
+            "source": "source/apple/419/family-woman-woman-boy-boy_1f469-200d-1f469-200d-1f466-200d-1f466.png"
         }
     },
     {
@@ -1557,6 +1716,7 @@
             ]
         },
         "tags": [
+            "child",
             "family",
             "girl",
             "woman"
@@ -1574,9 +1734,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/family-woman-woman-girl-girl_1f469-200d-1f469-200d-1f467-200d-1f467.png"
+            "source": "source/apple/419/family-woman-woman-girl-girl_1f469-200d-1f469-200d-1f467-200d-1f467.png"
         }
     },
     {
@@ -1616,9 +1776,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/keycap-asterisk_2a-fe0f-20e3.png"
+            "source": "source/apple/419/keycap-asterisk_2a-fe0f-20e3.png"
         }
     },
     {
@@ -1655,9 +1815,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ascension-island_1f1e6-1f1e8.png"
+            "source": "source/apple/419/flag-ascension-island_1f1e6-1f1e8.png"
         }
     },
     {
@@ -1695,9 +1855,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-andorra_1f1e6-1f1e9.png"
+            "source": "source/apple/419/flag-andorra_1f1e6-1f1e9.png"
         }
     },
     {
@@ -1736,9 +1896,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-united-arab-emirates_1f1e6-1f1ea.png"
+            "source": "source/apple/419/flag-united-arab-emirates_1f1e6-1f1ea.png"
         }
     },
     {
@@ -1776,9 +1936,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-afghanistan_1f1e6-1f1eb.png"
+            "source": "source/apple/419/flag-afghanistan_1f1e6-1f1eb.png"
         }
     },
     {
@@ -1815,9 +1975,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-antigua-barbuda_1f1e6-1f1ec.png"
+            "source": "source/apple/419/flag-antigua-barbuda_1f1e6-1f1ec.png"
         }
     },
     {
@@ -1855,9 +2015,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-anguilla_1f1e6-1f1ee.png"
+            "source": "source/apple/419/flag-anguilla_1f1e6-1f1ee.png"
         }
     },
     {
@@ -1895,9 +2055,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-albania_1f1e6-1f1f1.png"
+            "source": "source/apple/419/flag-albania_1f1e6-1f1f1.png"
         }
     },
     {
@@ -1935,9 +2095,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-armenia_1f1e6-1f1f2.png"
+            "source": "source/apple/419/flag-armenia_1f1e6-1f1f2.png"
         }
     },
     {
@@ -1975,9 +2135,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-angola_1f1e6-1f1f4.png"
+            "source": "source/apple/419/flag-angola_1f1e6-1f1f4.png"
         }
     },
     {
@@ -2015,9 +2175,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-antarctica_1f1e6-1f1f6.png"
+            "source": "source/apple/419/flag-antarctica_1f1e6-1f1f6.png"
         }
     },
     {
@@ -2055,9 +2215,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-argentina_1f1e6-1f1f7.png"
+            "source": "source/apple/419/flag-argentina_1f1e6-1f1f7.png"
         }
     },
     {
@@ -2095,9 +2255,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-american-samoa_1f1e6-1f1f8.png"
+            "source": "source/apple/419/flag-american-samoa_1f1e6-1f1f8.png"
         }
     },
     {
@@ -2135,9 +2295,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-austria_1f1e6-1f1f9.png"
+            "source": "source/apple/419/flag-austria_1f1e6-1f1f9.png"
         }
     },
     {
@@ -2176,9 +2336,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-australia_1f1e6-1f1fa.png"
+            "source": "source/apple/419/flag-australia_1f1e6-1f1fa.png"
         }
     },
     {
@@ -2216,9 +2376,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-aruba_1f1e6-1f1fc.png"
+            "source": "source/apple/419/flag-aruba_1f1e6-1f1fc.png"
         }
     },
     {
@@ -2256,9 +2416,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-aland-islands_1f1e6-1f1fd.png"
+            "source": "source/apple/419/flag-aland-islands_1f1e6-1f1fd.png"
         }
     },
     {
@@ -2296,9 +2456,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-azerbaijan_1f1e6-1f1ff.png"
+            "source": "source/apple/419/flag-azerbaijan_1f1e6-1f1ff.png"
         }
     },
     {
@@ -2335,9 +2495,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bosnia-herzegovina_1f1e7-1f1e6.png"
+            "source": "source/apple/419/flag-bosnia-herzegovina_1f1e7-1f1e6.png"
         }
     },
     {
@@ -2376,9 +2536,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-barbados_1f1e7-1f1e7.png"
+            "source": "source/apple/419/flag-barbados_1f1e7-1f1e7.png"
         }
     },
     {
@@ -2416,9 +2576,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bangladesh_1f1e7-1f1e9.png"
+            "source": "source/apple/419/flag-bangladesh_1f1e7-1f1e9.png"
         }
     },
     {
@@ -2456,9 +2616,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-belgium_1f1e7-1f1ea.png"
+            "source": "source/apple/419/flag-belgium_1f1e7-1f1ea.png"
         }
     },
     {
@@ -2496,9 +2656,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-burkina-faso_1f1e7-1f1eb.png"
+            "source": "source/apple/419/flag-burkina-faso_1f1e7-1f1eb.png"
         }
     },
     {
@@ -2536,9 +2696,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bulgaria_1f1e7-1f1ec.png"
+            "source": "source/apple/419/flag-bulgaria_1f1e7-1f1ec.png"
         }
     },
     {
@@ -2577,9 +2737,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bahrain_1f1e7-1f1ed.png"
+            "source": "source/apple/419/flag-bahrain_1f1e7-1f1ed.png"
         }
     },
     {
@@ -2617,9 +2777,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-burundi_1f1e7-1f1ee.png"
+            "source": "source/apple/419/flag-burundi_1f1e7-1f1ee.png"
         }
     },
     {
@@ -2657,9 +2817,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-benin_1f1e7-1f1ef.png"
+            "source": "source/apple/419/flag-benin_1f1e7-1f1ef.png"
         }
     },
     {
@@ -2696,9 +2856,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-barthelemy_1f1e7-1f1f1.png"
+            "source": "source/apple/419/flag-st-barthelemy_1f1e7-1f1f1.png"
         }
     },
     {
@@ -2736,9 +2896,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bermuda_1f1e7-1f1f2.png"
+            "source": "source/apple/419/flag-bermuda_1f1e7-1f1f2.png"
         }
     },
     {
@@ -2776,9 +2936,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-brunei_1f1e7-1f1f3.png"
+            "source": "source/apple/419/flag-brunei_1f1e7-1f1f3.png"
         }
     },
     {
@@ -2816,9 +2976,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bolivia_1f1e7-1f1f4.png"
+            "source": "source/apple/419/flag-bolivia_1f1e7-1f1f4.png"
         }
     },
     {
@@ -2856,9 +3016,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-caribbean-netherlands_1f1e7-1f1f6.png"
+            "source": "source/apple/419/flag-caribbean-netherlands_1f1e7-1f1f6.png"
         }
     },
     {
@@ -2897,9 +3057,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-brazil_1f1e7-1f1f7.png"
+            "source": "source/apple/419/flag-brazil_1f1e7-1f1f7.png"
         }
     },
     {
@@ -2937,9 +3097,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bahamas_1f1e7-1f1f8.png"
+            "source": "source/apple/419/flag-bahamas_1f1e7-1f1f8.png"
         }
     },
     {
@@ -2977,9 +3137,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bhutan_1f1e7-1f1f9.png"
+            "source": "source/apple/419/flag-bhutan_1f1e7-1f1f9.png"
         }
     },
     {
@@ -3013,9 +3173,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-bouvet-island_1f1e7-1f1fb.png"
+            "source": "source/apple/419/flag-bouvet-island_1f1e7-1f1fb.png"
         }
     },
     {
@@ -3053,9 +3213,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-botswana_1f1e7-1f1fc.png"
+            "source": "source/apple/419/flag-botswana_1f1e7-1f1fc.png"
         }
     },
     {
@@ -3093,9 +3253,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-belarus_1f1e7-1f1fe.png"
+            "source": "source/apple/419/flag-belarus_1f1e7-1f1fe.png"
         }
     },
     {
@@ -3133,9 +3293,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-belize_1f1e7-1f1ff.png"
+            "source": "source/apple/419/flag-belize_1f1e7-1f1ff.png"
         }
     },
     {
@@ -3173,9 +3333,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-canada_1f1e8-1f1e6.png"
+            "source": "source/apple/419/flag-canada_1f1e8-1f1e6.png"
         }
     },
     {
@@ -3212,9 +3372,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cocos-keeling-islands_1f1e8-1f1e8.png"
+            "source": "source/apple/419/flag-cocos-keeling-islands_1f1e8-1f1e8.png"
         }
     },
     {
@@ -3251,9 +3411,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-congo-kinshasa_1f1e8-1f1e9.png"
+            "source": "source/apple/419/flag-congo-kinshasa_1f1e8-1f1e9.png"
         }
     },
     {
@@ -3291,9 +3451,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-central-african-republic_1f1e8-1f1eb.png"
+            "source": "source/apple/419/flag-central-african-republic_1f1e8-1f1eb.png"
         }
     },
     {
@@ -3330,9 +3490,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-congo-brazzaville_1f1e8-1f1ec.png"
+            "source": "source/apple/419/flag-congo-brazzaville_1f1e8-1f1ec.png"
         }
     },
     {
@@ -3371,9 +3531,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-switzerland_1f1e8-1f1ed.png"
+            "source": "source/apple/419/flag-switzerland_1f1e8-1f1ed.png"
         }
     },
     {
@@ -3410,9 +3570,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cote-divoire_1f1e8-1f1ee.png"
+            "source": "source/apple/419/flag-cote-divoire_1f1e8-1f1ee.png"
         }
     },
     {
@@ -3450,9 +3610,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cook-islands_1f1e8-1f1f0.png"
+            "source": "source/apple/419/flag-cook-islands_1f1e8-1f1f0.png"
         }
     },
     {
@@ -3490,9 +3650,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-chile_1f1e8-1f1f1.png"
+            "source": "source/apple/419/flag-chile_1f1e8-1f1f1.png"
         }
     },
     {
@@ -3530,9 +3690,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cameroon_1f1e8-1f1f2.png"
+            "source": "source/apple/419/flag-cameroon_1f1e8-1f1f2.png"
         }
     },
     {
@@ -3570,9 +3730,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-colombia_1f1e8-1f1f4.png"
+            "source": "source/apple/419/flag-colombia_1f1e8-1f1f4.png"
         }
     },
     {
@@ -3606,9 +3766,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-clipperton-island_1f1e8-1f1f5.png"
+            "source": "source/apple/419/flag-clipperton-island_1f1e8-1f1f5.png"
         }
     },
     {
@@ -3646,9 +3806,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-costa-rica_1f1e8-1f1f7.png"
+            "source": "source/apple/419/flag-costa-rica_1f1e8-1f1f7.png"
         }
     },
     {
@@ -3686,9 +3846,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cuba_1f1e8-1f1fa.png"
+            "source": "source/apple/419/flag-cuba_1f1e8-1f1fa.png"
         }
     },
     {
@@ -3726,9 +3886,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cape-verde_1f1e8-1f1fb.png"
+            "source": "source/apple/419/flag-cape-verde_1f1e8-1f1fb.png"
         }
     },
     {
@@ -3766,9 +3926,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-curacao_1f1e8-1f1fc.png"
+            "source": "source/apple/419/flag-curacao_1f1e8-1f1fc.png"
         }
     },
     {
@@ -3806,9 +3966,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-christmas-island_1f1e8-1f1fd.png"
+            "source": "source/apple/419/flag-christmas-island_1f1e8-1f1fd.png"
         }
     },
     {
@@ -3846,9 +4006,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cyprus_1f1e8-1f1fe.png"
+            "source": "source/apple/419/flag-cyprus_1f1e8-1f1fe.png"
         }
     },
     {
@@ -3886,9 +4046,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-czechia_1f1e8-1f1ff.png"
+            "source": "source/apple/419/flag-czechia_1f1e8-1f1ff.png"
         }
     },
     {
@@ -3922,9 +4082,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-diego-garcia_1f1e9-1f1ec.png"
+            "source": "source/apple/419/flag-diego-garcia_1f1e9-1f1ec.png"
         }
     },
     {
@@ -3963,9 +4123,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-djibouti_1f1e9-1f1ef.png"
+            "source": "source/apple/419/flag-djibouti_1f1e9-1f1ef.png"
         }
     },
     {
@@ -4003,9 +4163,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-denmark_1f1e9-1f1f0.png"
+            "source": "source/apple/419/flag-denmark_1f1e9-1f1f0.png"
         }
     },
     {
@@ -4042,9 +4202,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-dominica_1f1e9-1f1f2.png"
+            "source": "source/apple/419/flag-dominica_1f1e9-1f1f2.png"
         }
     },
     {
@@ -4083,9 +4243,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-dominican-republic_1f1e9-1f1f4.png"
+            "source": "source/apple/419/flag-dominican-republic_1f1e9-1f1f4.png"
         }
     },
     {
@@ -4123,9 +4283,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-algeria_1f1e9-1f1ff.png"
+            "source": "source/apple/419/flag-algeria_1f1e9-1f1ff.png"
         }
     },
     {
@@ -4159,9 +4319,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ceuta-melilla_1f1ea-1f1e6.png"
+            "source": "source/apple/419/flag-ceuta-melilla_1f1ea-1f1e6.png"
         }
     },
     {
@@ -4199,9 +4359,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ecuador_1f1ea-1f1e8.png"
+            "source": "source/apple/419/flag-ecuador_1f1ea-1f1e8.png"
         }
     },
     {
@@ -4239,9 +4399,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-estonia_1f1ea-1f1ea.png"
+            "source": "source/apple/419/flag-estonia_1f1ea-1f1ea.png"
         }
     },
     {
@@ -4279,9 +4439,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-egypt_1f1ea-1f1ec.png"
+            "source": "source/apple/419/flag-egypt_1f1ea-1f1ec.png"
         }
     },
     {
@@ -4319,9 +4479,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-western-sahara_1f1ea-1f1ed.png"
+            "source": "source/apple/419/flag-western-sahara_1f1ea-1f1ed.png"
         }
     },
     {
@@ -4359,9 +4519,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-eritrea_1f1ea-1f1f7.png"
+            "source": "source/apple/419/flag-eritrea_1f1ea-1f1f7.png"
         }
     },
     {
@@ -4399,9 +4559,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ethiopia_1f1ea-1f1f9.png"
+            "source": "source/apple/419/flag-ethiopia_1f1ea-1f1f9.png"
         }
     },
     {
@@ -4440,9 +4600,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-european-union_1f1ea-1f1fa.png"
+            "source": "source/apple/419/flag-european-union_1f1ea-1f1fa.png"
         }
     },
     {
@@ -4480,9 +4640,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-finland_1f1eb-1f1ee.png"
+            "source": "source/apple/419/flag-finland_1f1eb-1f1ee.png"
         }
     },
     {
@@ -4520,9 +4680,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-fiji_1f1eb-1f1ef.png"
+            "source": "source/apple/419/flag-fiji_1f1eb-1f1ef.png"
         }
     },
     {
@@ -4560,9 +4720,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-falkland-islands_1f1eb-1f1f0.png"
+            "source": "source/apple/419/flag-falkland-islands_1f1eb-1f1f0.png"
         }
     },
     {
@@ -4600,9 +4760,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-micronesia_1f1eb-1f1f2.png"
+            "source": "source/apple/419/flag-micronesia_1f1eb-1f1f2.png"
         }
     },
     {
@@ -4640,9 +4800,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-faroe-islands_1f1eb-1f1f4.png"
+            "source": "source/apple/419/flag-faroe-islands_1f1eb-1f1f4.png"
         }
     },
     {
@@ -4680,9 +4840,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-gabon_1f1ec-1f1e6.png"
+            "source": "source/apple/419/flag-gabon_1f1ec-1f1e6.png"
         }
     },
     {
@@ -4720,9 +4880,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-grenada_1f1ec-1f1e9.png"
+            "source": "source/apple/419/flag-grenada_1f1ec-1f1e9.png"
         }
     },
     {
@@ -4760,9 +4920,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-georgia_1f1ec-1f1ea.png"
+            "source": "source/apple/419/flag-georgia_1f1ec-1f1ea.png"
         }
     },
     {
@@ -4800,9 +4960,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-french-guiana_1f1ec-1f1eb.png"
+            "source": "source/apple/419/flag-french-guiana_1f1ec-1f1eb.png"
         }
     },
     {
@@ -4840,9 +5000,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guernsey_1f1ec-1f1ec.png"
+            "source": "source/apple/419/flag-guernsey_1f1ec-1f1ec.png"
         }
     },
     {
@@ -4880,9 +5040,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ghana_1f1ec-1f1ed.png"
+            "source": "source/apple/419/flag-ghana_1f1ec-1f1ed.png"
         }
     },
     {
@@ -4920,9 +5080,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-gibraltar_1f1ec-1f1ee.png"
+            "source": "source/apple/419/flag-gibraltar_1f1ec-1f1ee.png"
         }
     },
     {
@@ -4960,9 +5120,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-greenland_1f1ec-1f1f1.png"
+            "source": "source/apple/419/flag-greenland_1f1ec-1f1f1.png"
         }
     },
     {
@@ -5000,9 +5160,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-gambia_1f1ec-1f1f2.png"
+            "source": "source/apple/419/flag-gambia_1f1ec-1f1f2.png"
         }
     },
     {
@@ -5040,9 +5200,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guinea_1f1ec-1f1f3.png"
+            "source": "source/apple/419/flag-guinea_1f1ec-1f1f3.png"
         }
     },
     {
@@ -5080,9 +5240,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guadeloupe_1f1ec-1f1f5.png"
+            "source": "source/apple/419/flag-guadeloupe_1f1ec-1f1f5.png"
         }
     },
     {
@@ -5121,9 +5281,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-equatorial-guinea_1f1ec-1f1f6.png"
+            "source": "source/apple/419/flag-equatorial-guinea_1f1ec-1f1f6.png"
         }
     },
     {
@@ -5161,9 +5321,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-greece_1f1ec-1f1f7.png"
+            "source": "source/apple/419/flag-greece_1f1ec-1f1f7.png"
         }
     },
     {
@@ -5200,9 +5360,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-south-georgia-south-sandwich-islands_1f1ec-1f1f8.png"
+            "source": "source/apple/419/flag-south-georgia-south-sandwich-islands_1f1ec-1f1f8.png"
         }
     },
     {
@@ -5240,9 +5400,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guatemala_1f1ec-1f1f9.png"
+            "source": "source/apple/419/flag-guatemala_1f1ec-1f1f9.png"
         }
     },
     {
@@ -5281,9 +5441,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guam_1f1ec-1f1fa.png"
+            "source": "source/apple/419/flag-guam_1f1ec-1f1fa.png"
         }
     },
     {
@@ -5321,9 +5481,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guinea-bissau_1f1ec-1f1fc.png"
+            "source": "source/apple/419/flag-guinea-bissau_1f1ec-1f1fc.png"
         }
     },
     {
@@ -5361,9 +5521,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-guyana_1f1ec-1f1fe.png"
+            "source": "source/apple/419/flag-guyana_1f1ec-1f1fe.png"
         }
     },
     {
@@ -5401,9 +5561,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-hong-kong-sar-china_1f1ed-1f1f0.png"
+            "source": "source/apple/419/flag-hong-kong-sar-china_1f1ed-1f1f0.png"
         }
     },
     {
@@ -5437,9 +5597,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
+            "source": "source/apple/419/flag-heard-mcdonald-islands_1f1ed-1f1f2.png"
         }
     },
     {
@@ -5477,9 +5637,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-honduras_1f1ed-1f1f3.png"
+            "source": "source/apple/419/flag-honduras_1f1ed-1f1f3.png"
         }
     },
     {
@@ -5517,9 +5677,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-croatia_1f1ed-1f1f7.png"
+            "source": "source/apple/419/flag-croatia_1f1ed-1f1f7.png"
         }
     },
     {
@@ -5557,9 +5717,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-haiti_1f1ed-1f1f9.png"
+            "source": "source/apple/419/flag-haiti_1f1ed-1f1f9.png"
         }
     },
     {
@@ -5597,9 +5757,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-hungary_1f1ed-1f1fa.png"
+            "source": "source/apple/419/flag-hungary_1f1ed-1f1fa.png"
         }
     },
     {
@@ -5636,9 +5796,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-canary-islands_1f1ee-1f1e8.png"
+            "source": "source/apple/419/flag-canary-islands_1f1ee-1f1e8.png"
         }
     },
     {
@@ -5676,9 +5836,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-indonesia_1f1ee-1f1e9.png"
+            "source": "source/apple/419/flag-indonesia_1f1ee-1f1e9.png"
         }
     },
     {
@@ -5716,9 +5876,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ireland_1f1ee-1f1ea.png"
+            "source": "source/apple/419/flag-ireland_1f1ee-1f1ea.png"
         }
     },
     {
@@ -5756,9 +5916,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-israel_1f1ee-1f1f1.png"
+            "source": "source/apple/419/flag-israel_1f1ee-1f1f1.png"
         }
     },
     {
@@ -5796,9 +5956,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-isle-of-man_1f1ee-1f1f2.png"
+            "source": "source/apple/419/flag-isle-of-man_1f1ee-1f1f2.png"
         }
     },
     {
@@ -5836,9 +5996,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-india_1f1ee-1f1f3.png"
+            "source": "source/apple/419/flag-india_1f1ee-1f1f3.png"
         }
     },
     {
@@ -5876,9 +6036,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
+            "source": "source/apple/419/flag-british-indian-ocean-territory_1f1ee-1f1f4.png"
         }
     },
     {
@@ -5916,9 +6076,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-iraq_1f1ee-1f1f6.png"
+            "source": "source/apple/419/flag-iraq_1f1ee-1f1f6.png"
         }
     },
     {
@@ -5956,9 +6116,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-iran_1f1ee-1f1f7.png"
+            "source": "source/apple/419/flag-iran_1f1ee-1f1f7.png"
         }
     },
     {
@@ -5996,9 +6156,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-iceland_1f1ee-1f1f8.png"
+            "source": "source/apple/419/flag-iceland_1f1ee-1f1f8.png"
         }
     },
     {
@@ -6036,9 +6196,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-jersey_1f1ef-1f1ea.png"
+            "source": "source/apple/419/flag-jersey_1f1ef-1f1ea.png"
         }
     },
     {
@@ -6076,9 +6236,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-jamaica_1f1ef-1f1f2.png"
+            "source": "source/apple/419/flag-jamaica_1f1ef-1f1f2.png"
         }
     },
     {
@@ -6116,9 +6276,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-jordan_1f1ef-1f1f4.png"
+            "source": "source/apple/419/flag-jordan_1f1ef-1f1f4.png"
         }
     },
     {
@@ -6156,9 +6316,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kenya_1f1f0-1f1ea.png"
+            "source": "source/apple/419/flag-kenya_1f1f0-1f1ea.png"
         }
     },
     {
@@ -6196,9 +6356,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kyrgyzstan_1f1f0-1f1ec.png"
+            "source": "source/apple/419/flag-kyrgyzstan_1f1f0-1f1ec.png"
         }
     },
     {
@@ -6236,9 +6396,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cambodia_1f1f0-1f1ed.png"
+            "source": "source/apple/419/flag-cambodia_1f1f0-1f1ed.png"
         }
     },
     {
@@ -6276,9 +6436,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kiribati_1f1f0-1f1ee.png"
+            "source": "source/apple/419/flag-kiribati_1f1f0-1f1ee.png"
         }
     },
     {
@@ -6316,9 +6476,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-comoros_1f1f0-1f1f2.png"
+            "source": "source/apple/419/flag-comoros_1f1f0-1f1f2.png"
         }
     },
     {
@@ -6355,9 +6515,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-kitts-nevis_1f1f0-1f1f3.png"
+            "source": "source/apple/419/flag-st-kitts-nevis_1f1f0-1f1f3.png"
         }
     },
     {
@@ -6395,9 +6555,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-north-korea_1f1f0-1f1f5.png"
+            "source": "source/apple/419/flag-north-korea_1f1f0-1f1f5.png"
         }
     },
     {
@@ -6435,9 +6595,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kuwait_1f1f0-1f1fc.png"
+            "source": "source/apple/419/flag-kuwait_1f1f0-1f1fc.png"
         }
     },
     {
@@ -6475,9 +6635,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-cayman-islands_1f1f0-1f1fe.png"
+            "source": "source/apple/419/flag-cayman-islands_1f1f0-1f1fe.png"
         }
     },
     {
@@ -6516,9 +6676,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kazakhstan_1f1f0-1f1ff.png"
+            "source": "source/apple/419/flag-kazakhstan_1f1f0-1f1ff.png"
         }
     },
     {
@@ -6557,9 +6717,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-laos_1f1f1-1f1e6.png"
+            "source": "source/apple/419/flag-laos_1f1f1-1f1e6.png"
         }
     },
     {
@@ -6597,9 +6757,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-lebanon_1f1f1-1f1e7.png"
+            "source": "source/apple/419/flag-lebanon_1f1f1-1f1e7.png"
         }
     },
     {
@@ -6636,9 +6796,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-lucia_1f1f1-1f1e8.png"
+            "source": "source/apple/419/flag-st-lucia_1f1f1-1f1e8.png"
         }
     },
     {
@@ -6676,9 +6836,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-liechtenstein_1f1f1-1f1ee.png"
+            "source": "source/apple/419/flag-liechtenstein_1f1f1-1f1ee.png"
         }
     },
     {
@@ -6716,9 +6876,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sri-lanka_1f1f1-1f1f0.png"
+            "source": "source/apple/419/flag-sri-lanka_1f1f1-1f1f0.png"
         }
     },
     {
@@ -6756,9 +6916,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-liberia_1f1f1-1f1f7.png"
+            "source": "source/apple/419/flag-liberia_1f1f1-1f1f7.png"
         }
     },
     {
@@ -6796,9 +6956,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-lesotho_1f1f1-1f1f8.png"
+            "source": "source/apple/419/flag-lesotho_1f1f1-1f1f8.png"
         }
     },
     {
@@ -6836,9 +6996,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-lithuania_1f1f1-1f1f9.png"
+            "source": "source/apple/419/flag-lithuania_1f1f1-1f1f9.png"
         }
     },
     {
@@ -6876,9 +7036,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-luxembourg_1f1f1-1f1fa.png"
+            "source": "source/apple/419/flag-luxembourg_1f1f1-1f1fa.png"
         }
     },
     {
@@ -6916,9 +7076,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-latvia_1f1f1-1f1fb.png"
+            "source": "source/apple/419/flag-latvia_1f1f1-1f1fb.png"
         }
     },
     {
@@ -6956,9 +7116,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-libya_1f1f1-1f1fe.png"
+            "source": "source/apple/419/flag-libya_1f1f1-1f1fe.png"
         }
     },
     {
@@ -6996,9 +7156,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-morocco_1f1f2-1f1e6.png"
+            "source": "source/apple/419/flag-morocco_1f1f2-1f1e6.png"
         }
     },
     {
@@ -7036,9 +7196,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-monaco_1f1f2-1f1e8.png"
+            "source": "source/apple/419/flag-monaco_1f1f2-1f1e8.png"
         }
     },
     {
@@ -7076,9 +7236,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-moldova_1f1f2-1f1e9.png"
+            "source": "source/apple/419/flag-moldova_1f1f2-1f1e9.png"
         }
     },
     {
@@ -7116,9 +7276,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-montenegro_1f1f2-1f1ea.png"
+            "source": "source/apple/419/flag-montenegro_1f1f2-1f1ea.png"
         }
     },
     {
@@ -7152,9 +7312,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-martin_1f1f2-1f1eb.png"
+            "source": "source/apple/419/flag-st-martin_1f1f2-1f1eb.png"
         }
     },
     {
@@ -7192,9 +7352,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-madagascar_1f1f2-1f1ec.png"
+            "source": "source/apple/419/flag-madagascar_1f1f2-1f1ec.png"
         }
     },
     {
@@ -7232,9 +7392,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-marshall-islands_1f1f2-1f1ed.png"
+            "source": "source/apple/419/flag-marshall-islands_1f1f2-1f1ed.png"
         }
     },
     {
@@ -7272,9 +7432,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-north-macedonia_1f1f2-1f1f0.png"
+            "source": "source/apple/419/flag-north-macedonia_1f1f2-1f1f0.png"
         }
     },
     {
@@ -7312,9 +7472,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mali_1f1f2-1f1f1.png"
+            "source": "source/apple/419/flag-mali_1f1f2-1f1f1.png"
         }
     },
     {
@@ -7354,9 +7514,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-myanmar-burma_1f1f2-1f1f2.png"
+            "source": "source/apple/419/flag-myanmar-burma_1f1f2-1f1f2.png"
         }
     },
     {
@@ -7394,9 +7554,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mongolia_1f1f2-1f1f3.png"
+            "source": "source/apple/419/flag-mongolia_1f1f2-1f1f3.png"
         }
     },
     {
@@ -7434,9 +7594,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-macao-sar-china_1f1f2-1f1f4.png"
+            "source": "source/apple/419/flag-macao-sar-china_1f1f2-1f1f4.png"
         }
     },
     {
@@ -7474,9 +7634,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-northern-mariana-islands_1f1f2-1f1f5.png"
+            "source": "source/apple/419/flag-northern-mariana-islands_1f1f2-1f1f5.png"
         }
     },
     {
@@ -7515,9 +7675,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-martinique_1f1f2-1f1f6.png"
+            "source": "source/apple/419/flag-martinique_1f1f2-1f1f6.png"
         }
     },
     {
@@ -7555,9 +7715,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mauritania_1f1f2-1f1f7.png"
+            "source": "source/apple/419/flag-mauritania_1f1f2-1f1f7.png"
         }
     },
     {
@@ -7595,9 +7755,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-montserrat_1f1f2-1f1f8.png"
+            "source": "source/apple/419/flag-montserrat_1f1f2-1f1f8.png"
         }
     },
     {
@@ -7635,9 +7795,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-malta_1f1f2-1f1f9.png"
+            "source": "source/apple/419/flag-malta_1f1f2-1f1f9.png"
         }
     },
     {
@@ -7675,9 +7835,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mauritius_1f1f2-1f1fa.png"
+            "source": "source/apple/419/flag-mauritius_1f1f2-1f1fa.png"
         }
     },
     {
@@ -7715,9 +7875,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-maldives_1f1f2-1f1fb.png"
+            "source": "source/apple/419/flag-maldives_1f1f2-1f1fb.png"
         }
     },
     {
@@ -7755,9 +7915,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-malawi_1f1f2-1f1fc.png"
+            "source": "source/apple/419/flag-malawi_1f1f2-1f1fc.png"
         }
     },
     {
@@ -7795,9 +7955,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mexico_1f1f2-1f1fd.png"
+            "source": "source/apple/419/flag-mexico_1f1f2-1f1fd.png"
         }
     },
     {
@@ -7835,9 +7995,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-malaysia_1f1f2-1f1fe.png"
+            "source": "source/apple/419/flag-malaysia_1f1f2-1f1fe.png"
         }
     },
     {
@@ -7875,9 +8035,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mozambique_1f1f2-1f1ff.png"
+            "source": "source/apple/419/flag-mozambique_1f1f2-1f1ff.png"
         }
     },
     {
@@ -7915,9 +8075,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-namibia_1f1f3-1f1e6.png"
+            "source": "source/apple/419/flag-namibia_1f1f3-1f1e6.png"
         }
     },
     {
@@ -7955,9 +8115,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-new-caledonia_1f1f3-1f1e8.png"
+            "source": "source/apple/419/flag-new-caledonia_1f1f3-1f1e8.png"
         }
     },
     {
@@ -7995,9 +8155,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-niger_1f1f3-1f1ea.png"
+            "source": "source/apple/419/flag-niger_1f1f3-1f1ea.png"
         }
     },
     {
@@ -8035,9 +8195,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-norfolk-island_1f1f3-1f1eb.png"
+            "source": "source/apple/419/flag-norfolk-island_1f1f3-1f1eb.png"
         }
     },
     {
@@ -8075,9 +8235,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-nigeria_1f1f3-1f1ec.png"
+            "source": "source/apple/419/flag-nigeria_1f1f3-1f1ec.png"
         }
     },
     {
@@ -8115,9 +8275,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-nicaragua_1f1f3-1f1ee.png"
+            "source": "source/apple/419/flag-nicaragua_1f1f3-1f1ee.png"
         }
     },
     {
@@ -8155,9 +8315,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-netherlands_1f1f3-1f1f1.png"
+            "source": "source/apple/419/flag-netherlands_1f1f3-1f1f1.png"
         }
     },
     {
@@ -8195,9 +8355,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-norway_1f1f3-1f1f4.png"
+            "source": "source/apple/419/flag-norway_1f1f3-1f1f4.png"
         }
     },
     {
@@ -8235,9 +8395,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-nepal_1f1f3-1f1f5.png"
+            "source": "source/apple/419/flag-nepal_1f1f3-1f1f5.png"
         }
     },
     {
@@ -8275,9 +8435,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-nauru_1f1f3-1f1f7.png"
+            "source": "source/apple/419/flag-nauru_1f1f3-1f1f7.png"
         }
     },
     {
@@ -8315,9 +8475,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-niue_1f1f3-1f1fa.png"
+            "source": "source/apple/419/flag-niue_1f1f3-1f1fa.png"
         }
     },
     {
@@ -8355,9 +8515,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-new-zealand_1f1f3-1f1ff.png"
+            "source": "source/apple/419/flag-new-zealand_1f1f3-1f1ff.png"
         }
     },
     {
@@ -8395,9 +8555,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-oman_1f1f4-1f1f2.png"
+            "source": "source/apple/419/flag-oman_1f1f4-1f1f2.png"
         }
     },
     {
@@ -8435,9 +8595,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-panama_1f1f5-1f1e6.png"
+            "source": "source/apple/419/flag-panama_1f1f5-1f1e6.png"
         }
     },
     {
@@ -8475,9 +8635,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-peru_1f1f5-1f1ea.png"
+            "source": "source/apple/419/flag-peru_1f1f5-1f1ea.png"
         }
     },
     {
@@ -8515,9 +8675,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-french-polynesia_1f1f5-1f1eb.png"
+            "source": "source/apple/419/flag-french-polynesia_1f1f5-1f1eb.png"
         }
     },
     {
@@ -8556,9 +8716,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-papua-new-guinea_1f1f5-1f1ec.png"
+            "source": "source/apple/419/flag-papua-new-guinea_1f1f5-1f1ec.png"
         }
     },
     {
@@ -8595,9 +8755,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-philippines_1f1f5-1f1ed.png"
+            "source": "source/apple/419/flag-philippines_1f1f5-1f1ed.png"
         }
     },
     {
@@ -8635,9 +8795,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-pakistan_1f1f5-1f1f0.png"
+            "source": "source/apple/419/flag-pakistan_1f1f5-1f1f0.png"
         }
     },
     {
@@ -8675,9 +8835,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-poland_1f1f5-1f1f1.png"
+            "source": "source/apple/419/flag-poland_1f1f5-1f1f1.png"
         }
     },
     {
@@ -8714,9 +8874,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
+            "source": "source/apple/419/flag-st-pierre-miquelon_1f1f5-1f1f2.png"
         }
     },
     {
@@ -8753,9 +8913,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-pitcairn-islands_1f1f5-1f1f3.png"
+            "source": "source/apple/419/flag-pitcairn-islands_1f1f5-1f1f3.png"
         }
     },
     {
@@ -8793,9 +8953,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-puerto-rico_1f1f5-1f1f7.png"
+            "source": "source/apple/419/flag-puerto-rico_1f1f5-1f1f7.png"
         }
     },
     {
@@ -8833,9 +8993,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-palestinian-territories_1f1f5-1f1f8.png"
+            "source": "source/apple/419/flag-palestinian-territories_1f1f5-1f1f8.png"
         }
     },
     {
@@ -8873,9 +9033,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-portugal_1f1f5-1f1f9.png"
+            "source": "source/apple/419/flag-portugal_1f1f5-1f1f9.png"
         }
     },
     {
@@ -8913,9 +9073,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-palau_1f1f5-1f1fc.png"
+            "source": "source/apple/419/flag-palau_1f1f5-1f1fc.png"
         }
     },
     {
@@ -8953,9 +9113,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-paraguay_1f1f5-1f1fe.png"
+            "source": "source/apple/419/flag-paraguay_1f1f5-1f1fe.png"
         }
     },
     {
@@ -8993,9 +9153,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-qatar_1f1f6-1f1e6.png"
+            "source": "source/apple/419/flag-qatar_1f1f6-1f1e6.png"
         }
     },
     {
@@ -9033,9 +9193,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-reunion_1f1f7-1f1ea.png"
+            "source": "source/apple/419/flag-reunion_1f1f7-1f1ea.png"
         }
     },
     {
@@ -9073,9 +9233,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-romania_1f1f7-1f1f4.png"
+            "source": "source/apple/419/flag-romania_1f1f7-1f1f4.png"
         }
     },
     {
@@ -9113,9 +9273,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-serbia_1f1f7-1f1f8.png"
+            "source": "source/apple/419/flag-serbia_1f1f7-1f1f8.png"
         }
     },
     {
@@ -9153,9 +9313,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-rwanda_1f1f7-1f1fc.png"
+            "source": "source/apple/419/flag-rwanda_1f1f7-1f1fc.png"
         }
     },
     {
@@ -9193,9 +9353,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-saudi-arabia_1f1f8-1f1e6.png"
+            "source": "source/apple/419/flag-saudi-arabia_1f1f8-1f1e6.png"
         }
     },
     {
@@ -9233,9 +9393,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-solomon-islands_1f1f8-1f1e7.png"
+            "source": "source/apple/419/flag-solomon-islands_1f1f8-1f1e7.png"
         }
     },
     {
@@ -9273,9 +9433,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-seychelles_1f1f8-1f1e8.png"
+            "source": "source/apple/419/flag-seychelles_1f1f8-1f1e8.png"
         }
     },
     {
@@ -9313,9 +9473,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sudan_1f1f8-1f1e9.png"
+            "source": "source/apple/419/flag-sudan_1f1f8-1f1e9.png"
         }
     },
     {
@@ -9353,9 +9513,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sweden_1f1f8-1f1ea.png"
+            "source": "source/apple/419/flag-sweden_1f1f8-1f1ea.png"
         }
     },
     {
@@ -9393,9 +9553,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-singapore_1f1f8-1f1ec.png"
+            "source": "source/apple/419/flag-singapore_1f1f8-1f1ec.png"
         }
     },
     {
@@ -9432,9 +9592,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-helena_1f1f8-1f1ed.png"
+            "source": "source/apple/419/flag-st-helena_1f1f8-1f1ed.png"
         }
     },
     {
@@ -9472,9 +9632,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-slovenia_1f1f8-1f1ee.png"
+            "source": "source/apple/419/flag-slovenia_1f1f8-1f1ee.png"
         }
     },
     {
@@ -9508,9 +9668,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
+            "source": "source/apple/419/flag-svalbard-jan-mayen_1f1f8-1f1ef.png"
         }
     },
     {
@@ -9549,9 +9709,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-slovakia_1f1f8-1f1f0.png"
+            "source": "source/apple/419/flag-slovakia_1f1f8-1f1f0.png"
         }
     },
     {
@@ -9589,9 +9749,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sierra-leone_1f1f8-1f1f1.png"
+            "source": "source/apple/419/flag-sierra-leone_1f1f8-1f1f1.png"
         }
     },
     {
@@ -9629,9 +9789,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-san-marino_1f1f8-1f1f2.png"
+            "source": "source/apple/419/flag-san-marino_1f1f8-1f1f2.png"
         }
     },
     {
@@ -9669,9 +9829,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-senegal_1f1f8-1f1f3.png"
+            "source": "source/apple/419/flag-senegal_1f1f8-1f1f3.png"
         }
     },
     {
@@ -9709,9 +9869,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-somalia_1f1f8-1f1f4.png"
+            "source": "source/apple/419/flag-somalia_1f1f8-1f1f4.png"
         }
     },
     {
@@ -9749,9 +9909,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-suriname_1f1f8-1f1f7.png"
+            "source": "source/apple/419/flag-suriname_1f1f8-1f1f7.png"
         }
     },
     {
@@ -9789,9 +9949,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-south-sudan_1f1f8-1f1f8.png"
+            "source": "source/apple/419/flag-south-sudan_1f1f8-1f1f8.png"
         }
     },
     {
@@ -9828,9 +9988,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sao-tome-principe_1f1f8-1f1f9.png"
+            "source": "source/apple/419/flag-sao-tome-principe_1f1f8-1f1f9.png"
         }
     },
     {
@@ -9868,9 +10028,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-el-salvador_1f1f8-1f1fb.png"
+            "source": "source/apple/419/flag-el-salvador_1f1f8-1f1fb.png"
         }
     },
     {
@@ -9907,9 +10067,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-sint-maarten_1f1f8-1f1fd.png"
+            "source": "source/apple/419/flag-sint-maarten_1f1f8-1f1fd.png"
         }
     },
     {
@@ -9947,9 +10107,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-syria_1f1f8-1f1fe.png"
+            "source": "source/apple/419/flag-syria_1f1f8-1f1fe.png"
         }
     },
     {
@@ -9987,9 +10147,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-eswatini_1f1f8-1f1ff.png"
+            "source": "source/apple/419/flag-eswatini_1f1f8-1f1ff.png"
         }
     },
     {
@@ -10023,9 +10183,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tristan-da-cunha_1f1f9-1f1e6.png"
+            "source": "source/apple/419/flag-tristan-da-cunha_1f1f9-1f1e6.png"
         }
     },
     {
@@ -10062,9 +10222,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-turks-caicos-islands_1f1f9-1f1e8.png"
+            "source": "source/apple/419/flag-turks-caicos-islands_1f1f9-1f1e8.png"
         }
     },
     {
@@ -10102,9 +10262,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-chad_1f1f9-1f1e9.png"
+            "source": "source/apple/419/flag-chad_1f1f9-1f1e9.png"
         }
     },
     {
@@ -10142,9 +10302,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-french-southern-territories_1f1f9-1f1eb.png"
+            "source": "source/apple/419/flag-french-southern-territories_1f1f9-1f1eb.png"
         }
     },
     {
@@ -10182,9 +10342,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-togo_1f1f9-1f1ec.png"
+            "source": "source/apple/419/flag-togo_1f1f9-1f1ec.png"
         }
     },
     {
@@ -10222,9 +10382,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-thailand_1f1f9-1f1ed.png"
+            "source": "source/apple/419/flag-thailand_1f1f9-1f1ed.png"
         }
     },
     {
@@ -10262,9 +10422,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tajikistan_1f1f9-1f1ef.png"
+            "source": "source/apple/419/flag-tajikistan_1f1f9-1f1ef.png"
         }
     },
     {
@@ -10302,9 +10462,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tokelau_1f1f9-1f1f0.png"
+            "source": "source/apple/419/flag-tokelau_1f1f9-1f1f0.png"
         }
     },
     {
@@ -10343,9 +10503,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-timor-leste_1f1f9-1f1f1.png"
+            "source": "source/apple/419/flag-timor-leste_1f1f9-1f1f1.png"
         }
     },
     {
@@ -10383,9 +10543,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-turkmenistan_1f1f9-1f1f2.png"
+            "source": "source/apple/419/flag-turkmenistan_1f1f9-1f1f2.png"
         }
     },
     {
@@ -10423,9 +10583,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tunisia_1f1f9-1f1f3.png"
+            "source": "source/apple/419/flag-tunisia_1f1f9-1f1f3.png"
         }
     },
     {
@@ -10463,9 +10623,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tonga_1f1f9-1f1f4.png"
+            "source": "source/apple/419/flag-tonga_1f1f9-1f1f4.png"
         }
     },
     {
@@ -10473,7 +10633,7 @@
         "sub_category": "Country Flag",
         "code": "1f1f9-1f1f7",
         "emoji": "🇹🇷",
-        "title": "Flag: Turkey",
+        "title": "Flag: Türkiye",
         "aliases": [
             "Turkish Flag",
             "Flag of Turkey"
@@ -10503,9 +10663,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-turkey_1f1f9-1f1f7.png"
+            "source": "source/apple/419/flag-turkey_1f1f9-1f1f7.png"
         }
     },
     {
@@ -10542,9 +10702,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-trinidad-tobago_1f1f9-1f1f9.png"
+            "source": "source/apple/419/flag-trinidad-tobago_1f1f9-1f1f9.png"
         }
     },
     {
@@ -10582,9 +10742,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tuvalu_1f1f9-1f1fb.png"
+            "source": "source/apple/419/flag-tuvalu_1f1f9-1f1fb.png"
         }
     },
     {
@@ -10622,9 +10782,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-taiwan_1f1f9-1f1fc.png"
+            "source": "source/apple/419/flag-taiwan_1f1f9-1f1fc.png"
         }
     },
     {
@@ -10662,9 +10822,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-tanzania_1f1f9-1f1ff.png"
+            "source": "source/apple/419/flag-tanzania_1f1f9-1f1ff.png"
         }
     },
     {
@@ -10702,9 +10862,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-ukraine_1f1fa-1f1e6.png"
+            "source": "source/apple/419/flag-ukraine_1f1fa-1f1e6.png"
         }
     },
     {
@@ -10742,9 +10902,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-uganda_1f1fa-1f1ec.png"
+            "source": "source/apple/419/flag-uganda_1f1fa-1f1ec.png"
         }
     },
     {
@@ -10778,9 +10938,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-us-outlying-islands_1f1fa-1f1f2.png"
+            "source": "source/apple/419/flag-us-outlying-islands_1f1fa-1f1f2.png"
         }
     },
     {
@@ -10818,9 +10978,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-uruguay_1f1fa-1f1fe.png"
+            "source": "source/apple/419/flag-uruguay_1f1fa-1f1fe.png"
         }
     },
     {
@@ -10859,9 +11019,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-uzbekistan_1f1fa-1f1ff.png"
+            "source": "source/apple/419/flag-uzbekistan_1f1fa-1f1ff.png"
         }
     },
     {
@@ -10899,9 +11059,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-vatican-city_1f1fb-1f1e6.png"
+            "source": "source/apple/419/flag-vatican-city_1f1fb-1f1e6.png"
         }
     },
     {
@@ -10938,9 +11098,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-st-vincent-grenadines_1f1fb-1f1e8.png"
+            "source": "source/apple/419/flag-st-vincent-grenadines_1f1fb-1f1e8.png"
         }
     },
     {
@@ -10978,9 +11138,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-venezuela_1f1fb-1f1ea.png"
+            "source": "source/apple/419/flag-venezuela_1f1fb-1f1ea.png"
         }
     },
     {
@@ -11018,9 +11178,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-british-virgin-islands_1f1fb-1f1ec.png"
+            "source": "source/apple/419/flag-british-virgin-islands_1f1fb-1f1ec.png"
         }
     },
     {
@@ -11058,9 +11218,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-us-virgin-islands_1f1fb-1f1ee.png"
+            "source": "source/apple/419/flag-us-virgin-islands_1f1fb-1f1ee.png"
         }
     },
     {
@@ -11098,9 +11258,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-vietnam_1f1fb-1f1f3.png"
+            "source": "source/apple/419/flag-vietnam_1f1fb-1f1f3.png"
         }
     },
     {
@@ -11138,9 +11298,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-vanuatu_1f1fb-1f1fa.png"
+            "source": "source/apple/419/flag-vanuatu_1f1fb-1f1fa.png"
         }
     },
     {
@@ -11177,9 +11337,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-wallis-futuna_1f1fc-1f1eb.png"
+            "source": "source/apple/419/flag-wallis-futuna_1f1fc-1f1eb.png"
         }
     },
     {
@@ -11217,9 +11377,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-samoa_1f1fc-1f1f8.png"
+            "source": "source/apple/419/flag-samoa_1f1fc-1f1f8.png"
         }
     },
     {
@@ -11257,9 +11417,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-kosovo_1f1fd-1f1f0.png"
+            "source": "source/apple/419/flag-kosovo_1f1fd-1f1f0.png"
         }
     },
     {
@@ -11297,9 +11457,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-yemen_1f1fe-1f1ea.png"
+            "source": "source/apple/419/flag-yemen_1f1fe-1f1ea.png"
         }
     },
     {
@@ -11337,9 +11497,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-mayotte_1f1fe-1f1f9.png"
+            "source": "source/apple/419/flag-mayotte_1f1fe-1f1f9.png"
         }
     },
     {
@@ -11377,9 +11537,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-south-africa_1f1ff-1f1e6.png"
+            "source": "source/apple/419/flag-south-africa_1f1ff-1f1e6.png"
         }
     },
     {
@@ -11417,9 +11577,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-zambia_1f1ff-1f1f2.png"
+            "source": "source/apple/419/flag-zambia_1f1ff-1f1f2.png"
         }
     },
     {
@@ -11458,9 +11618,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flag-zimbabwe_1f1ff-1f1fc.png"
+            "source": "source/apple/419/flag-zimbabwe_1f1ff-1f1fc.png"
         }
     }
 ]

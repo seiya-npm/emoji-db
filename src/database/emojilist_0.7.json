@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
@@ -25,10 +25,22 @@
             ]
         },
         "tags": [
+            "awkward",
+            "blank",
             "deadpan",
+            "expressionless",
             "face",
+            "fine",
+            "jealous",
             "meh",
-            "neutral"
+            "neutral",
+            "oh",
+            "shade",
+            "straight",
+            "unamused",
+            "unhappy",
+            "unimpressed",
+            "whatever"
         ],
         "codepoints": [
             "U+1F610"
@@ -37,9 +49,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/neutral-face_1f610.png"
+            "source": "source/apple/419/neutral-face_1f610.png"
         }
     },
     {
@@ -70,7 +82,8 @@
         "tags": [
             "face",
             "frown",
-            "frowning face"
+            "frowning",
+            "sad"
         ],
         "codepoints": [
             "U+2639",
@@ -80,9 +93,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/frowning-face_2639-fe0f.png"
+            "source": "source/apple/419/frowning-face_2639-fe0f.png"
         }
     },
     {
@@ -119,9 +132,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hole_1f573-fe0f.png"
+            "source": "source/apple/419/hole_1f573-fe0f.png"
         }
     },
     {
@@ -150,11 +163,12 @@
             ]
         },
         "tags": [
+            "anger",
             "angry",
             "balloon",
             "bubble",
             "mad",
-            "right anger bubble"
+            "right"
         ],
         "codepoints": [
             "U+1F5EF",
@@ -164,9 +178,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/right-anger-bubble_1f5ef-fe0f.png"
+            "source": "source/apple/419/right-anger-bubble_1f5ef-fe0f.png"
         }
     },
     {
@@ -197,9 +211,11 @@
         },
         "tags": [
             "finger",
+            "fingers",
             "hand",
-            "hand with fingers splayed",
-            "splayed"
+            "raised",
+            "splayed",
+            "stop"
         ],
         "codepoints": [
             "U+1F590",
@@ -209,9 +225,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hand-with-fingers-splayed_1f590-fe0f.png"
+            "source": "source/apple/419/hand-with-fingers-splayed_1f590-fe0f.png"
         }
     },
     {
@@ -240,7 +256,7 @@
         "tags": [
             "hand",
             "write",
-            "writing hand"
+            "writing"
         ],
         "codepoints": [
             "U+270D",
@@ -250,9 +266,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/writing-hand_270d-fe0f.png"
+            "source": "source/apple/419/writing-hand_270d-fe0f.png"
         }
     },
     {
@@ -280,8 +296,10 @@
             ]
         },
         "tags": [
+            "1",
             "body",
-            "eye"
+            "eye",
+            "one"
         ],
         "codepoints": [
             "U+1F441",
@@ -291,9 +309,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/eye_1f441-fe0f.png"
+            "source": "source/apple/419/eye_1f441-fe0f.png"
         }
     },
     {
@@ -337,9 +355,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/detective_1f575-fe0f.png"
+            "source": "source/apple/419/detective_1f575-fe0f.png"
         }
     },
     {
@@ -371,8 +389,8 @@
         },
         "tags": [
             "business",
+            "levitating",
             "person",
-            "person in suit levitating",
             "suit"
         ],
         "codepoints": [
@@ -383,9 +401,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-in-suit-levitating_1f574-fe0f.png"
+            "source": "source/apple/419/person-in-suit-levitating_1f574-fe0f.png"
         }
     },
     {
@@ -421,9 +439,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/skier_26f7-fe0f.png"
+            "source": "source/apple/419/skier_26f7-fe0f.png"
         }
     },
     {
@@ -454,8 +472,17 @@
         },
         "tags": [
             "ball",
+            "birdie",
+            "caddy",
+            "driving",
             "golf",
-            "person golfing"
+            "golfing",
+            "green",
+            "person",
+            "pga",
+            "putt",
+            "range",
+            "tee"
         ],
         "codepoints": [
             "U+1F3CC",
@@ -465,9 +492,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-golfing_1f3cc-fe0f.png"
+            "source": "source/apple/419/person-golfing_1f3cc-fe0f.png"
         }
     },
     {
@@ -496,8 +523,16 @@
             ]
         },
         "tags": [
+            "athletic",
             "ball",
-            "person bouncing ball"
+            "basketball",
+            "bouncing",
+            "championship",
+            "dribble",
+            "net",
+            "person",
+            "player",
+            "throw"
         ],
         "codepoints": [
             "U+26F9",
@@ -507,9 +542,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-bouncing-ball_26f9-fe0f.png"
+            "source": "source/apple/419/person-bouncing-ball_26f9-fe0f.png"
         }
     },
     {
@@ -539,9 +574,17 @@
             ]
         },
         "tags": [
+            "barbell",
+            "bodybuilder",
+            "deadlift",
             "lifter",
-            "person lifting weights",
-            "weight"
+            "lifting",
+            "person",
+            "powerlifting",
+            "weight",
+            "weightlifter",
+            "weights",
+            "workout"
         ],
         "codepoints": [
             "U+1F3CB",
@@ -551,9 +594,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-lifting-weights_1f3cb-fe0f.png"
+            "source": "source/apple/419/person-lifting-weights_1f3cb-fe0f.png"
         }
     },
     {
@@ -598,9 +641,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/speaking-head_1f5e3-fe0f.png"
+            "source": "source/apple/419/speaking-head_1f5e3-fe0f.png"
         }
     },
     {
@@ -628,7 +671,10 @@
             ]
         },
         "tags": [
+            "animal",
+            "animals",
             "dog",
+            "dogs",
             "pet"
         ],
         "codepoints": [
@@ -638,9 +684,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/dog_1f415.png"
+            "source": "source/apple/419/dog_1f415.png"
         }
     },
     {
@@ -670,7 +716,11 @@
             ]
         },
         "tags": [
+            "animal",
+            "animals",
             "cat",
+            "cats",
+            "kitten",
             "pet"
         ],
         "codepoints": [
@@ -680,9 +730,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cat_1f408.png"
+            "source": "source/apple/419/cat_1f408.png"
         }
     },
     {
@@ -710,6 +760,7 @@
             ]
         },
         "tags": [
+            "animal",
             "chipmunk",
             "squirrel"
         ],
@@ -721,9 +772,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/chipmunk_1f43f-fe0f.png"
+            "source": "source/apple/419/chipmunk_1f43f-fe0f.png"
         }
     },
     {
@@ -754,6 +805,7 @@
             "bird",
             "dove",
             "fly",
+            "ornithology",
             "peace"
         ],
         "codepoints": [
@@ -764,9 +816,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/dove_1f54a-fe0f.png"
+            "source": "source/apple/419/dove_1f54a-fe0f.png"
         }
     },
     {
@@ -793,6 +845,7 @@
             ]
         },
         "tags": [
+            "animal",
             "insect",
             "spider"
         ],
@@ -804,9 +857,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/spider_1f577-fe0f.png"
+            "source": "source/apple/419/spider_1f577-fe0f.png"
         }
     },
     {
@@ -846,9 +899,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/spider-web_1f578-fe0f.png"
+            "source": "source/apple/419/spider-web_1f578-fe0f.png"
         }
     },
     {
@@ -886,9 +939,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rosette_1f3f5-fe0f.png"
+            "source": "source/apple/419/rosette_1f3f5-fe0f.png"
         }
     },
     {
@@ -928,9 +981,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hot-pepper_1f336-fe0f.png"
+            "source": "source/apple/419/hot-pepper_1f336-fe0f.png"
         }
     },
     {
@@ -960,8 +1013,9 @@
         },
         "tags": [
             "cooking",
+            "dinner",
+            "eat",
             "fork",
-            "fork and knife with plate",
             "knife",
             "plate"
         ],
@@ -973,9 +1027,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/fork-and-knife-with-plate_1f37d-fe0f.png"
+            "source": "source/apple/419/fork-and-knife-with-plate_1f37d-fe0f.png"
         }
     },
     {
@@ -1009,8 +1063,9 @@
             "Africa",
             "earth",
             "Europe",
+            "Europe-Africa",
             "globe",
-            "globe showing Europe-Africa",
+            "showing",
             "world"
         ],
         "codepoints": [
@@ -1020,9 +1075,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/globe-showing-europe-africa_1f30d.png"
+            "source": "source/apple/419/globe-showing-europe-africa_1f30d.png"
         }
     },
     {
@@ -1056,7 +1111,7 @@
             "Americas",
             "earth",
             "globe",
-            "globe showing Americas",
+            "showing",
             "world"
         ],
         "codepoints": [
@@ -1066,9 +1121,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/globe-showing-americas_1f30e.png"
+            "source": "source/apple/419/globe-showing-americas_1f30e.png"
         }
     },
     {
@@ -1107,9 +1162,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/world-map_1f5fa-fe0f.png"
+            "source": "source/apple/419/world-map_1f5fa-fe0f.png"
         }
     },
     {
@@ -1140,7 +1195,7 @@
             "cold",
             "mountain",
             "snow",
-            "snow-capped mountain"
+            "snow-capped"
         ],
         "codepoints": [
             "U+1F3D4",
@@ -1150,9 +1205,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/snow-capped-mountain_1f3d4-fe0f.png"
+            "source": "source/apple/419/snow-capped-mountain_1f3d4-fe0f.png"
         }
     },
     {
@@ -1189,9 +1244,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mountain_26f0-fe0f.png"
+            "source": "source/apple/419/mountain_26f0-fe0f.png"
         }
     },
     {
@@ -1229,9 +1284,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/camping_1f3d5-fe0f.png"
+            "source": "source/apple/419/camping_1f3d5-fe0f.png"
         }
     },
     {
@@ -1260,7 +1315,6 @@
         },
         "tags": [
             "beach",
-            "beach with umbrella",
             "umbrella"
         ],
         "codepoints": [
@@ -1271,9 +1325,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/beach-with-umbrella_1f3d6-fe0f.png"
+            "source": "source/apple/419/beach-with-umbrella_1f3d6-fe0f.png"
         }
     },
     {
@@ -1310,9 +1364,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/desert_1f3dc-fe0f.png"
+            "source": "source/apple/419/desert_1f3dc-fe0f.png"
         }
     },
     {
@@ -1351,9 +1405,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/desert-island_1f3dd-fe0f.png"
+            "source": "source/apple/419/desert-island_1f3dd-fe0f.png"
         }
     },
     {
@@ -1381,7 +1435,7 @@
             ]
         },
         "tags": [
-            "national park",
+            "national",
             "park"
         ],
         "codepoints": [
@@ -1392,9 +1446,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/national-park_1f3de-fe0f.png"
+            "source": "source/apple/419/national-park_1f3de-fe0f.png"
         }
     },
     {
@@ -1433,9 +1487,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/stadium_1f3df-fe0f.png"
+            "source": "source/apple/419/stadium_1f3df-fe0f.png"
         }
     },
     {
@@ -1462,8 +1516,8 @@
             ]
         },
         "tags": [
-            "classical",
-            "classical building"
+            "building",
+            "classical"
         ],
         "codepoints": [
             "U+1F3DB",
@@ -1473,9 +1527,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/classical-building_1f3db-fe0f.png"
+            "source": "source/apple/419/classical-building_1f3db-fe0f.png"
         }
     },
     {
@@ -1504,8 +1558,9 @@
             ]
         },
         "tags": [
-            "building construction",
-            "construction"
+            "building",
+            "construction",
+            "crane"
         ],
         "codepoints": [
             "U+1F3D7",
@@ -1515,9 +1570,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/building-construction_1f3d7-fe0f.png"
+            "source": "source/apple/419/building-construction_1f3d7-fe0f.png"
         }
     },
     {
@@ -1545,6 +1600,7 @@
             ]
         },
         "tags": [
+            "house",
             "houses"
         ],
         "codepoints": [
@@ -1555,9 +1611,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/houses_1f3d8-fe0f.png"
+            "source": "source/apple/419/houses_1f3d8-fe0f.png"
         }
     },
     {
@@ -1589,6 +1645,7 @@
         },
         "tags": [
             "derelict",
+            "home",
             "house"
         ],
         "codepoints": [
@@ -1599,9 +1656,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/derelict-house_1f3da-fe0f.png"
+            "source": "source/apple/419/derelict-house_1f3da-fe0f.png"
         }
     },
     {
@@ -1641,9 +1698,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/shinto-shrine_26e9-fe0f.png"
+            "source": "source/apple/419/shinto-shrine_26e9-fe0f.png"
         }
     },
     {
@@ -1681,9 +1738,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cityscape_1f3d9-fe0f.png"
+            "source": "source/apple/419/cityscape_1f3d9-fe0f.png"
         }
     },
     {
@@ -1712,6 +1769,7 @@
         },
         "tags": [
             "bus",
+            "cars",
             "oncoming"
         ],
         "codepoints": [
@@ -1721,9 +1779,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/oncoming-bus_1f68d.png"
+            "source": "source/apple/419/oncoming-bus_1f68d.png"
         }
     },
     {
@@ -1763,9 +1821,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/oncoming-police-car_1f694.png"
+            "source": "source/apple/419/oncoming-police-car_1f694.png"
         }
     },
     {
@@ -1795,7 +1853,10 @@
         "tags": [
             "automobile",
             "car",
-            "oncoming"
+            "cars",
+            "drove",
+            "oncoming",
+            "vehicle"
         ],
         "codepoints": [
             "U+1F698"
@@ -1804,9 +1865,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/oncoming-automobile_1f698.png"
+            "source": "source/apple/419/oncoming-automobile_1f698.png"
         }
     },
     {
@@ -1837,7 +1898,8 @@
         },
         "tags": [
             "car",
-            "racing"
+            "racing",
+            "zoom"
         ],
         "codepoints": [
             "U+1F3CE",
@@ -1847,9 +1909,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/racing-car_1f3ce-fe0f.png"
+            "source": "source/apple/419/racing-car_1f3ce-fe0f.png"
         }
     },
     {
@@ -1889,9 +1951,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/motorcycle_1f3cd-fe0f.png"
+            "source": "source/apple/419/motorcycle_1f3cd-fe0f.png"
         }
     },
     {
@@ -1933,9 +1995,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/motorway_1f6e3-fe0f.png"
+            "source": "source/apple/419/motorway_1f6e3-fe0f.png"
         }
     },
     {
@@ -1964,7 +2026,7 @@
         },
         "tags": [
             "railway",
-            "railway track",
+            "track",
             "train"
         ],
         "codepoints": [
@@ -1975,9 +2037,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/railway-track_1f6e4-fe0f.png"
+            "source": "source/apple/419/railway-track_1f6e4-fe0f.png"
         }
     },
     {
@@ -2016,9 +2078,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/oil-drum_1f6e2-fe0f.png"
+            "source": "source/apple/419/oil-drum_1f6e2-fe0f.png"
         }
     },
     {
@@ -2057,9 +2119,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/passenger-ship_1f6f3-fe0f.png"
+            "source": "source/apple/419/passenger-ship_1f6f3-fe0f.png"
         }
     },
     {
@@ -2098,9 +2160,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ferry_26f4-fe0f.png"
+            "source": "source/apple/419/ferry_26f4-fe0f.png"
         }
     },
     {
@@ -2128,7 +2190,7 @@
         },
         "tags": [
             "boat",
-            "motor boat",
+            "motor",
             "motorboat"
         ],
         "codepoints": [
@@ -2139,9 +2201,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/motor-boat_1f6e5-fe0f.png"
+            "source": "source/apple/419/motor-boat_1f6e5-fe0f.png"
         }
     },
     {
@@ -2173,7 +2235,8 @@
         "tags": [
             "aeroplane",
             "airplane",
-            "small airplane"
+            "plane",
+            "small"
         ],
         "codepoints": [
             "U+1F6E9",
@@ -2183,9 +2246,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/small-airplane_1f6e9-fe0f.png"
+            "source": "source/apple/419/small-airplane_1f6e9-fe0f.png"
         }
     },
     {
@@ -2223,9 +2286,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/satellite_1f6f0-fe0f.png"
+            "source": "source/apple/419/satellite_1f6f0-fe0f.png"
         }
     },
     {
@@ -2265,9 +2328,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bellhop-bell_1f6ce-fe0f.png"
+            "source": "source/apple/419/bellhop-bell_1f6ce-fe0f.png"
         }
     },
     {
@@ -2296,7 +2359,8 @@
         },
         "tags": [
             "clock",
-            "mantelpiece clock"
+            "mantelpiece",
+            "time"
         ],
         "codepoints": [
             "U+1F570",
@@ -2306,9 +2370,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mantelpiece-clock_1f570-fe0f.png"
+            "source": "source/apple/419/mantelpiece-clock_1f570-fe0f.png"
         }
     },
     {
@@ -2337,8 +2401,10 @@
         "tags": [
             "12",
             "12:30",
+            "30",
             "clock",
             "thirty",
+            "time",
             "twelve",
             "twelve-thirty"
         ],
@@ -2349,9 +2415,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/twelve-thirty_1f567.png"
+            "source": "source/apple/419/twelve-thirty_1f567.png"
         }
     },
     {
@@ -2380,10 +2446,12 @@
         "tags": [
             "1",
             "1:30",
+            "30",
             "clock",
             "one",
             "one-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F55C"
@@ -2392,9 +2460,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/one-thirty_1f55c.png"
+            "source": "source/apple/419/one-thirty_1f55c.png"
         }
     },
     {
@@ -2423,8 +2491,10 @@
         "tags": [
             "2",
             "2:30",
+            "30",
             "clock",
             "thirty",
+            "time",
             "two",
             "two-thirty"
         ],
@@ -2435,9 +2505,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/two-thirty_1f55d.png"
+            "source": "source/apple/419/two-thirty_1f55d.png"
         }
     },
     {
@@ -2466,10 +2536,12 @@
         "tags": [
             "3",
             "3:30",
+            "30",
             "clock",
             "thirty",
             "three",
-            "three-thirty"
+            "three-thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F55E"
@@ -2478,9 +2550,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/three-thirty_1f55e.png"
+            "source": "source/apple/419/three-thirty_1f55e.png"
         }
     },
     {
@@ -2507,12 +2579,14 @@
             ]
         },
         "tags": [
+            "30",
             "4",
             "4:30",
             "clock",
             "four",
             "four-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F55F"
@@ -2521,9 +2595,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/four-thirty_1f55f.png"
+            "source": "source/apple/419/four-thirty_1f55f.png"
         }
     },
     {
@@ -2550,12 +2624,14 @@
             ]
         },
         "tags": [
+            "30",
             "5",
             "5:30",
             "clock",
             "five",
             "five-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F560"
@@ -2564,9 +2640,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/five-thirty_1f560.png"
+            "source": "source/apple/419/five-thirty_1f560.png"
         }
     },
     {
@@ -2593,6 +2669,7 @@
             ]
         },
         "tags": [
+            "30",
             "6",
             "6:30",
             "clock",
@@ -2607,9 +2684,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/six-thirty_1f561.png"
+            "source": "source/apple/419/six-thirty_1f561.png"
         }
     },
     {
@@ -2636,6 +2713,7 @@
             ]
         },
         "tags": [
+            "30",
             "7",
             "7:30",
             "clock",
@@ -2650,9 +2728,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/seven-thirty_1f562.png"
+            "source": "source/apple/419/seven-thirty_1f562.png"
         }
     },
     {
@@ -2679,12 +2757,14 @@
             ]
         },
         "tags": [
+            "30",
             "8",
             "8:30",
             "clock",
             "eight",
             "eight-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F563"
@@ -2693,9 +2773,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/eight-thirty_1f563.png"
+            "source": "source/apple/419/eight-thirty_1f563.png"
         }
     },
     {
@@ -2722,12 +2802,14 @@
             ]
         },
         "tags": [
+            "30",
             "9",
             "9:30",
             "clock",
             "nine",
             "nine-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F564"
@@ -2736,9 +2818,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/nine-thirty_1f564.png"
+            "source": "source/apple/419/nine-thirty_1f564.png"
         }
     },
     {
@@ -2767,10 +2849,12 @@
         "tags": [
             "10",
             "10:30",
+            "30",
             "clock",
             "ten",
             "ten-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F565"
@@ -2779,9 +2863,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ten-thirty_1f565.png"
+            "source": "source/apple/419/ten-thirty_1f565.png"
         }
     },
     {
@@ -2810,10 +2894,12 @@
         "tags": [
             "11",
             "11:30",
+            "30",
             "clock",
             "eleven",
             "eleven-thirty",
-            "thirty"
+            "thirty",
+            "time"
         ],
         "codepoints": [
             "U+1F566"
@@ -2822,9 +2908,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/eleven-thirty_1f566.png"
+            "source": "source/apple/419/eleven-thirty_1f566.png"
         }
     },
     {
@@ -2851,8 +2937,9 @@
             ]
         },
         "tags": [
+            "dreams",
             "face",
-            "last quarter moon face",
+            "last",
             "moon",
             "quarter"
         ],
@@ -2863,9 +2950,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/last-quarter-moon-face_1f31c.png"
+            "source": "source/apple/419/last-quarter-moon-face_1f31c.png"
         }
     },
     {
@@ -2905,9 +2992,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/thermometer_1f321-fe0f.png"
+            "source": "source/apple/419/thermometer_1f321-fe0f.png"
         }
     },
     {
@@ -2936,9 +3023,10 @@
         },
         "tags": [
             "cloud",
-            "cloud with lightning and rain",
+            "lightning",
             "rain",
-            "thunder"
+            "thunder",
+            "thunderstorm"
         ],
         "codepoints": [
             "U+26C8",
@@ -2948,9 +3036,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cloud-with-lightning-and-rain_26c8-fe0f.png"
+            "source": "source/apple/419/cloud-with-lightning-and-rain_26c8-fe0f.png"
         }
     },
     {
@@ -2979,9 +3067,10 @@
             ]
         },
         "tags": [
+            "behind",
             "cloud",
             "sun",
-            "sun behind small cloud"
+            "weather"
         ],
         "codepoints": [
             "U+1F324",
@@ -2991,9 +3080,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/sun-behind-small-cloud_1f324-fe0f.png"
+            "source": "source/apple/419/sun-behind-small-cloud_1f324-fe0f.png"
         }
     },
     {
@@ -3022,9 +3111,10 @@
             ]
         },
         "tags": [
+            "behind",
             "cloud",
             "sun",
-            "sun behind large cloud"
+            "weather"
         ],
         "codepoints": [
             "U+1F325",
@@ -3034,9 +3124,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/sun-behind-large-cloud_1f325-fe0f.png"
+            "source": "source/apple/419/sun-behind-large-cloud_1f325-fe0f.png"
         }
     },
     {
@@ -3065,10 +3155,11 @@
             ]
         },
         "tags": [
+            "behind",
             "cloud",
             "rain",
             "sun",
-            "sun behind rain cloud"
+            "weather"
         ],
         "codepoints": [
             "U+1F326",
@@ -3078,9 +3169,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/sun-behind-rain-cloud_1f326-fe0f.png"
+            "source": "source/apple/419/sun-behind-rain-cloud_1f326-fe0f.png"
         }
     },
     {
@@ -3109,8 +3200,8 @@
         },
         "tags": [
             "cloud",
-            "cloud with rain",
-            "rain"
+            "rain",
+            "weather"
         ],
         "codepoints": [
             "U+1F327",
@@ -3120,9 +3211,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cloud-with-rain_1f327-fe0f.png"
+            "source": "source/apple/419/cloud-with-rain_1f327-fe0f.png"
         }
     },
     {
@@ -3151,9 +3242,9 @@
         },
         "tags": [
             "cloud",
-            "cloud with snow",
             "cold",
-            "snow"
+            "snow",
+            "weather"
         ],
         "codepoints": [
             "U+1F328",
@@ -3163,9 +3254,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cloud-with-snow_1f328-fe0f.png"
+            "source": "source/apple/419/cloud-with-snow_1f328-fe0f.png"
         }
     },
     {
@@ -3195,8 +3286,8 @@
         },
         "tags": [
             "cloud",
-            "cloud with lightning",
-            "lightning"
+            "lightning",
+            "weather"
         ],
         "codepoints": [
             "U+1F329",
@@ -3206,9 +3297,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cloud-with-lightning_1f329-fe0f.png"
+            "source": "source/apple/419/cloud-with-lightning_1f329-fe0f.png"
         }
     },
     {
@@ -3239,6 +3330,7 @@
         "tags": [
             "cloud",
             "tornado",
+            "weather",
             "whirlwind"
         ],
         "codepoints": [
@@ -3249,9 +3341,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/tornado_1f32a-fe0f.png"
+            "source": "source/apple/419/tornado_1f32a-fe0f.png"
         }
     },
     {
@@ -3279,7 +3371,8 @@
         },
         "tags": [
             "cloud",
-            "fog"
+            "fog",
+            "weather"
         ],
         "codepoints": [
             "U+1F32B",
@@ -3289,9 +3382,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/fog_1f32b-fe0f.png"
+            "source": "source/apple/419/fog_1f32b-fe0f.png"
         }
     },
     {
@@ -3333,9 +3426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wind-face_1f32c-fe0f.png"
+            "source": "source/apple/419/wind-face_1f32c-fe0f.png"
         }
     },
     {
@@ -3374,9 +3467,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/umbrella_2602-fe0f.png"
+            "source": "source/apple/419/umbrella_2602-fe0f.png"
         }
     },
     {
@@ -3404,10 +3497,10 @@
             ]
         },
         "tags": [
+            "ground",
             "rain",
             "sun",
-            "umbrella",
-            "umbrella on ground"
+            "umbrella"
         ],
         "codepoints": [
             "U+26F1",
@@ -3417,9 +3510,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/umbrella-on-ground_26f1-fe0f.png"
+            "source": "source/apple/419/umbrella-on-ground_26f1-fe0f.png"
         }
     },
     {
@@ -3448,6 +3541,7 @@
         },
         "tags": [
             "cold",
+            "man",
             "snow",
             "snowman"
         ],
@@ -3459,9 +3553,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/snowman_2603-fe0f.png"
+            "source": "source/apple/419/snowman_2603-fe0f.png"
         }
     },
     {
@@ -3500,9 +3594,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/reminder-ribbon_1f397-fe0f.png"
+            "source": "source/apple/419/reminder-ribbon_1f397-fe0f.png"
         }
     },
     {
@@ -3531,8 +3625,8 @@
         },
         "tags": [
             "admission",
-            "admission tickets",
-            "ticket"
+            "ticket",
+            "tickets"
         ],
         "codepoints": [
             "U+1F39F",
@@ -3542,9 +3636,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/admission-tickets_1f39f-fe0f.png"
+            "source": "source/apple/419/admission-tickets_1f39f-fe0f.png"
         }
     },
     {
@@ -3574,6 +3668,7 @@
             ]
         },
         "tags": [
+            "award",
             "celebration",
             "medal",
             "military"
@@ -3586,9 +3681,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/military-medal_1f396-fe0f.png"
+            "source": "source/apple/419/military-medal_1f396-fe0f.png"
         }
     },
     {
@@ -3614,7 +3709,8 @@
         },
         "tags": [
             "ice",
-            "skate"
+            "skate",
+            "skating"
         ],
         "codepoints": [
             "U+26F8",
@@ -3624,9 +3720,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ice-skate_26f8-fe0f.png"
+            "source": "source/apple/419/ice-skate_26f8-fe0f.png"
         }
     },
     {
@@ -3655,7 +3751,8 @@
         "tags": [
             "game",
             "joystick",
-            "video game"
+            "video",
+            "videogame"
         ],
         "codepoints": [
             "U+1F579",
@@ -3665,9 +3762,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/joystick_1f579-fe0f.png"
+            "source": "source/apple/419/joystick_1f579-fe0f.png"
         }
     },
     {
@@ -3699,7 +3796,7 @@
         "tags": [
             "art",
             "frame",
-            "framed picture",
+            "framed",
             "museum",
             "painting",
             "picture"
@@ -3712,9 +3809,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/framed-picture_1f5bc-fe0f.png"
+            "source": "source/apple/419/framed-picture_1f5bc-fe0f.png"
         }
     },
     {
@@ -3755,9 +3852,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/sunglasses_1f576-fe0f.png"
+            "source": "source/apple/419/sunglasses_1f576-fe0f.png"
         }
     },
     {
@@ -3785,9 +3882,9 @@
         },
         "tags": [
             "bag",
+            "bags",
             "hotel",
-            "shopping",
-            "shopping bags"
+            "shopping"
         ],
         "codepoints": [
             "U+1F6CD",
@@ -3797,9 +3894,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/shopping-bags_1f6cd-fe0f.png"
+            "source": "source/apple/419/shopping-bags_1f6cd-fe0f.png"
         }
     },
     {
@@ -3832,7 +3929,8 @@
             "face",
             "hat",
             "helmet",
-            "rescue worker’s helmet"
+            "rescue",
+            "worker’s"
         ],
         "codepoints": [
             "U+26D1",
@@ -3842,9 +3940,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rescue-workers-helmet_26d1-fe0f.png"
+            "source": "source/apple/419/rescue-workers-helmet_26d1-fe0f.png"
         }
     },
     {
@@ -3872,8 +3970,11 @@
             ]
         },
         "tags": [
+            "low",
             "soft",
-            "speaker low volume"
+            "sound",
+            "speaker",
+            "volume"
         ],
         "codepoints": [
             "U+1F508"
@@ -3882,9 +3983,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/speaker-low-volume_1f508.png"
+            "source": "source/apple/419/speaker-low-volume_1f508.png"
         }
     },
     {
@@ -3925,9 +4026,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/studio-microphone_1f399-fe0f.png"
+            "source": "source/apple/419/studio-microphone_1f399-fe0f.png"
         }
     },
     {
@@ -3966,9 +4067,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/level-slider_1f39a-fe0f.png"
+            "source": "source/apple/419/level-slider_1f39a-fe0f.png"
         }
     },
     {
@@ -4007,9 +4108,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/control-knobs_1f39b-fe0f.png"
+            "source": "source/apple/419/control-knobs_1f39b-fe0f.png"
         }
     },
     {
@@ -4039,7 +4140,8 @@
         },
         "tags": [
             "computer",
-            "desktop"
+            "desktop",
+            "monitor"
         ],
         "codepoints": [
             "U+1F5A5",
@@ -4049,9 +4151,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/desktop-computer_1f5a5-fe0f.png"
+            "source": "source/apple/419/desktop-computer_1f5a5-fe0f.png"
         }
     },
     {
@@ -4089,9 +4191,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/printer_1f5a8-fe0f.png"
+            "source": "source/apple/419/printer_1f5a8-fe0f.png"
         }
     },
     {
@@ -4120,7 +4222,7 @@
         },
         "tags": [
             "computer",
-            "computer mouse"
+            "mouse"
         ],
         "codepoints": [
             "U+1F5B1",
@@ -4130,9 +4232,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/computer-mouse_1f5b1-fe0f.png"
+            "source": "source/apple/419/computer-mouse_1f5b1-fe0f.png"
         }
     },
     {
@@ -4170,9 +4272,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/trackball_1f5b2-fe0f.png"
+            "source": "source/apple/419/trackball_1f5b2-fe0f.png"
         }
     },
     {
@@ -4212,9 +4314,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/film-frames_1f39e-fe0f.png"
+            "source": "source/apple/419/film-frames_1f39e-fe0f.png"
         }
     },
     {
@@ -4256,9 +4358,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/film-projector_1f4fd-fe0f.png"
+            "source": "source/apple/419/film-projector_1f4fd-fe0f.png"
         }
     },
     {
@@ -4296,9 +4398,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/candle_1f56f-fe0f.png"
+            "source": "source/apple/419/candle_1f56f-fe0f.png"
         }
     },
     {
@@ -4331,7 +4433,7 @@
             "newspaper",
             "paper",
             "rolled",
-            "rolled-up newspaper"
+            "rolled-up"
         ],
         "codepoints": [
             "U+1F5DE",
@@ -4341,9 +4443,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rolled-up-newspaper_1f5de-fe0f.png"
+            "source": "source/apple/419/rolled-up-newspaper_1f5de-fe0f.png"
         }
     },
     {
@@ -4370,7 +4472,8 @@
             ]
         },
         "tags": [
-            "label"
+            "label",
+            "tag"
         ],
         "codepoints": [
             "U+1F3F7",
@@ -4380,9 +4483,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/label_1f3f7-fe0f.png"
+            "source": "source/apple/419/label_1f3f7-fe0f.png"
         }
     },
     {
@@ -4410,11 +4513,12 @@
             ]
         },
         "tags": [
+            "flag",
             "mail",
             "mailbox",
             "open",
-            "open mailbox with raised flag",
-            "postbox"
+            "postbox",
+            "raised"
         ],
         "codepoints": [
             "U+1F4EC"
@@ -4423,9 +4527,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/open-mailbox-with-raised-flag_1f4ec.png"
+            "source": "source/apple/419/open-mailbox-with-raised-flag_1f4ec.png"
         }
     },
     {
@@ -4452,11 +4556,11 @@
             ]
         },
         "tags": [
+            "flag",
             "lowered",
             "mail",
             "mailbox",
             "open",
-            "open mailbox with lowered flag",
             "postbox"
         ],
         "codepoints": [
@@ -4466,9 +4570,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/open-mailbox-with-lowered-flag_1f4ed.png"
+            "source": "source/apple/419/open-mailbox-with-lowered-flag_1f4ed.png"
         }
     },
     {
@@ -4499,7 +4603,6 @@
         },
         "tags": [
             "ballot",
-            "ballot box with ballot",
             "box"
         ],
         "codepoints": [
@@ -4510,9 +4613,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ballot-box-with-ballot_1f5f3-fe0f.png"
+            "source": "source/apple/419/ballot-box-with-ballot_1f5f3-fe0f.png"
         }
     },
     {
@@ -4551,9 +4654,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/fountain-pen_1f58b-fe0f.png"
+            "source": "source/apple/419/fountain-pen_1f58b-fe0f.png"
         }
     },
     {
@@ -4592,9 +4695,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pen_1f58a-fe0f.png"
+            "source": "source/apple/419/pen_1f58a-fe0f.png"
         }
     },
     {
@@ -4634,9 +4737,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/paintbrush_1f58c-fe0f.png"
+            "source": "source/apple/419/paintbrush_1f58c-fe0f.png"
         }
     },
     {
@@ -4674,9 +4777,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/crayon_1f58d-fe0f.png"
+            "source": "source/apple/419/crayon_1f58d-fe0f.png"
         }
     },
     {
@@ -4716,9 +4819,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/card-index-dividers_1f5c2-fe0f.png"
+            "source": "source/apple/419/card-index-dividers_1f5c2-fe0f.png"
         }
     },
     {
@@ -4747,9 +4850,9 @@
         },
         "tags": [
             "note",
+            "notepad",
             "pad",
-            "spiral",
-            "spiral notepad"
+            "spiral"
         ],
         "codepoints": [
             "U+1F5D2",
@@ -4759,9 +4862,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/spiral-notepad_1f5d2-fe0f.png"
+            "source": "source/apple/419/spiral-notepad_1f5d2-fe0f.png"
         }
     },
     {
@@ -4801,9 +4904,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/spiral-calendar_1f5d3-fe0f.png"
+            "source": "source/apple/419/spiral-calendar_1f5d3-fe0f.png"
         }
     },
     {
@@ -4832,8 +4935,9 @@
         },
         "tags": [
             "link",
-            "linked paperclips",
-            "paperclip"
+            "linked",
+            "paperclip",
+            "paperclips"
         ],
         "codepoints": [
             "U+1F587",
@@ -4843,9 +4947,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/linked-paperclips_1f587-fe0f.png"
+            "source": "source/apple/419/linked-paperclips_1f587-fe0f.png"
         }
     },
     {
@@ -4885,9 +4989,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/card-file-box_1f5c3-fe0f.png"
+            "source": "source/apple/419/card-file-box_1f5c3-fe0f.png"
         }
     },
     {
@@ -4917,7 +5021,8 @@
         "tags": [
             "cabinet",
             "file",
-            "filing"
+            "filing",
+            "paper"
         ],
         "codepoints": [
             "U+1F5C4",
@@ -4927,9 +5032,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/file-cabinet_1f5c4-fe0f.png"
+            "source": "source/apple/419/file-cabinet_1f5c4-fe0f.png"
         }
     },
     {
@@ -4960,6 +5065,10 @@
             ]
         },
         "tags": [
+            "can",
+            "garbage",
+            "trash",
+            "waste",
             "wastebasket"
         ],
         "codepoints": [
@@ -4970,9 +5079,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wastebasket_1f5d1-fe0f.png"
+            "source": "source/apple/419/wastebasket_1f5d1-fe0f.png"
         }
     },
     {
@@ -5013,9 +5122,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/old-key_1f5dd-fe0f.png"
+            "source": "source/apple/419/old-key_1f5dd-fe0f.png"
         }
     },
     {
@@ -5043,6 +5152,7 @@
             ]
         },
         "tags": [
+            "hammer",
             "mining",
             "pick",
             "tool"
@@ -5055,9 +5165,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pick_26cf-fe0f.png"
+            "source": "source/apple/419/pick_26cf-fe0f.png"
         }
     },
     {
@@ -5086,7 +5196,6 @@
         },
         "tags": [
             "hammer",
-            "hammer and wrench",
             "spanner",
             "tool",
             "wrench"
@@ -5099,9 +5208,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hammer-and-wrench_1f6e0-fe0f.png"
+            "source": "source/apple/419/hammer-and-wrench_1f6e0-fe0f.png"
         }
     },
     {
@@ -5142,9 +5251,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/dagger_1f5e1-fe0f.png"
+            "source": "source/apple/419/dagger_1f5e1-fe0f.png"
         }
     },
     {
@@ -5182,9 +5291,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/shield_1f6e1-fe0f.png"
+            "source": "source/apple/419/shield_1f6e1-fe0f.png"
         }
     },
     {
@@ -5226,9 +5335,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/clamp_1f5dc-fe0f.png"
+            "source": "source/apple/419/clamp_1f5dc-fe0f.png"
         }
     },
     {
@@ -5266,9 +5375,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/chains_26d3-fe0f.png"
+            "source": "source/apple/419/chains_26d3-fe0f.png"
         }
     },
     {
@@ -5308,9 +5417,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bed_1f6cf-fe0f.png"
+            "source": "source/apple/419/bed_1f6cf-fe0f.png"
         }
     },
     {
@@ -5342,7 +5451,6 @@
         },
         "tags": [
             "couch",
-            "couch and lamp",
             "hotel",
             "lamp"
         ],
@@ -5354,9 +5462,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/couch-and-lamp_1f6cb-fe0f.png"
+            "source": "source/apple/419/couch-and-lamp_1f6cb-fe0f.png"
         }
     },
     {
@@ -5398,9 +5506,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/om_1f549-fe0f.png"
+            "source": "source/apple/419/om_1f549-fe0f.png"
         }
     },
     {
@@ -5431,9 +5539,9 @@
             "David",
             "Jew",
             "Jewish",
+            "judaism",
             "religion",
-            "star",
-            "star of David"
+            "star"
         ],
         "codepoints": [
             "U+2721",
@@ -5443,9 +5551,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/star-of-david_2721-fe0f.png"
+            "source": "source/apple/419/star-of-david_2721-fe0f.png"
         }
     },
     {
@@ -5476,8 +5584,7 @@
             "Buddhist",
             "dharma",
             "religion",
-            "wheel",
-            "wheel of dharma"
+            "wheel"
         ],
         "codepoints": [
             "U+2638",
@@ -5487,9 +5594,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wheel-of-dharma_2638-fe0f.png"
+            "source": "source/apple/419/wheel-of-dharma_2638-fe0f.png"
         }
     },
     {
@@ -5516,11 +5623,15 @@
             ]
         },
         "tags": [
+            "difficult",
+            "lives",
             "religion",
             "tao",
             "taoist",
+            "total",
             "yang",
-            "yin"
+            "yin",
+            "yinyang"
         ],
         "codepoints": [
             "U+262F",
@@ -5530,9 +5641,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/yin-yang_262f-fe0f.png"
+            "source": "source/apple/419/yin-yang_262f-fe0f.png"
         }
     },
     {
@@ -5561,9 +5672,10 @@
             ]
         },
         "tags": [
+            "christ",
             "Christian",
             "cross",
-            "latin cross",
+            "latin",
             "religion"
         ],
         "codepoints": [
@@ -5574,9 +5686,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/latin-cross_271d-fe0f.png"
+            "source": "source/apple/419/latin-cross_271d-fe0f.png"
         }
     },
     {
@@ -5603,10 +5715,12 @@
             ]
         },
         "tags": [
+            "crescent",
             "islam",
             "Muslim",
+            "ramadan",
             "religion",
-            "star and crescent"
+            "star"
         ],
         "codepoints": [
             "U+262A",
@@ -5616,9 +5730,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/star-and-crescent_262a-fe0f.png"
+            "source": "source/apple/419/star-and-crescent_262a-fe0f.png"
         }
     },
     {
@@ -5648,9 +5762,10 @@
         },
         "tags": [
             "arrow",
-            "next scene",
-            "next track",
-            "next track button",
+            "button",
+            "next",
+            "scene",
+            "track",
             "triangle"
         ],
         "codepoints": [
@@ -5661,9 +5776,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/next-track-button_23ed-fe0f.png"
+            "source": "source/apple/419/next-track-button_23ed-fe0f.png"
         }
     },
     {
@@ -5693,9 +5808,11 @@
         },
         "tags": [
             "arrow",
-            "last track button",
-            "previous scene",
-            "previous track",
+            "button",
+            "last",
+            "previous",
+            "scene",
+            "track",
             "triangle"
         ],
         "codepoints": [
@@ -5706,9 +5823,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/last-track-button_23ee-fe0f.png"
+            "source": "source/apple/419/last-track-button_23ee-fe0f.png"
         }
     },
     {
@@ -5738,9 +5855,9 @@
         },
         "tags": [
             "bar",
+            "button",
             "double",
             "pause",
-            "pause button",
             "vertical"
         ],
         "codepoints": [
@@ -5751,9 +5868,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pause-button_23f8-fe0f.png"
+            "source": "source/apple/419/pause-button_23f8-fe0f.png"
         }
     },
     {
@@ -5781,9 +5898,9 @@
             ]
         },
         "tags": [
+            "button",
             "square",
-            "stop",
-            "stop button"
+            "stop"
         ],
         "codepoints": [
             "U+23F9",
@@ -5793,9 +5910,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/stop-button_23f9-fe0f.png"
+            "source": "source/apple/419/stop-button_23f9-fe0f.png"
         }
     },
     {
@@ -5823,9 +5940,9 @@
             ]
         },
         "tags": [
+            "button",
             "circle",
-            "record",
-            "record button"
+            "record"
         ],
         "codepoints": [
             "U+23FA",
@@ -5835,9 +5952,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/record-button_23fa-fe0f.png"
+            "source": "source/apple/419/record-button_23fa-fe0f.png"
         }
     },
     {
@@ -5864,8 +5981,9 @@
             ]
         },
         "tags": [
+            "flag",
             "waving",
-            "white flag"
+            "white"
         ],
         "codepoints": [
             "U+1F3F3",
@@ -5875,9 +5993,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/white-flag_1f3f3-fe0f.png"
+            "source": "source/apple/419/white-flag_1f3f3-fe0f.png"
         }
     }
 ]

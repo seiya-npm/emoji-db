@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "Emoji & People",
         "sub_category": "Face Affection",
@@ -17,11 +17,17 @@
             ]
         },
         "tags": [
+            "face",
+            "glad",
             "grateful",
+            "happy",
+            "joy",
+            "pain",
             "proud",
             "relieved",
+            "smile",
+            "smiley",
             "smiling",
-            "smiling face with tear",
             "tear",
             "touched"
         ],
@@ -32,9 +38,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/smiling-face-with-tear_1f972.png"
+            "source": "source/apple/419/smiling-face-with-tear_1f972.png"
         }
     },
     {
@@ -56,11 +62,17 @@
         },
         "tags": [
             "disguise",
-            "disguised face",
+            "eyebrow",
             "face",
             "glasses",
             "incognito",
-            "nose"
+            "moustache",
+            "mustache",
+            "nose",
+            "person",
+            "spy",
+            "tache",
+            "tash"
         ],
         "codepoints": [
             "U+1F978"
@@ -69,9 +81,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/disguised-face_1f978.png"
+            "source": "source/apple/419/disguised-face_1f978.png"
         }
     },
     {
@@ -95,10 +107,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C"
@@ -107,9 +127,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_1f90c.png"
+            "source": "source/apple/419/pinched-fingers_1f90c.png"
         }
     },
     {
@@ -129,10 +149,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C",
@@ -143,9 +171,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_light-skin-tone_1f90c-1f3fb_1f3fb.png"
+            "source": "source/apple/419/pinched-fingers_light-skin-tone_1f90c-1f3fb_1f3fb.png"
         }
     },
     {
@@ -165,10 +193,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C",
@@ -179,9 +215,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_medium-light-skin-tone_1f90c-1f3fc_1f3fc.png"
+            "source": "source/apple/419/pinched-fingers_medium-light-skin-tone_1f90c-1f3fc_1f3fc.png"
         }
     },
     {
@@ -201,10 +237,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C",
@@ -215,9 +259,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_medium-skin-tone_1f90c-1f3fd_1f3fd.png"
+            "source": "source/apple/419/pinched-fingers_medium-skin-tone_1f90c-1f3fd_1f3fd.png"
         }
     },
     {
@@ -237,10 +281,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C",
@@ -251,9 +303,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_medium-dark-skin-tone_1f90c-1f3fe_1f3fe.png"
+            "source": "source/apple/419/pinched-fingers_medium-dark-skin-tone_1f90c-1f3fe_1f3fe.png"
         }
     },
     {
@@ -273,10 +325,18 @@
         },
         "tags": [
             "fingers",
-            "hand gesture",
+            "gesture",
+            "hand",
+            "hold",
+            "huh",
             "interrogation",
+            "patience",
             "pinched",
-            "sarcastic"
+            "relax",
+            "sarcastic",
+            "ugh",
+            "what",
+            "zip"
         ],
         "codepoints": [
             "U+1F90C",
@@ -287,9 +347,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinched-fingers_dark-skin-tone_1f90c-1f3ff_1f3ff.png"
+            "source": "source/apple/419/pinched-fingers_dark-skin-tone_1f90c-1f3ff_1f3ff.png"
         }
     },
     {
@@ -311,10 +371,14 @@
         },
         "tags": [
             "anatomical",
+            "beat",
             "cardiology",
             "heart",
+            "heartbeat",
             "organ",
-            "pulse"
+            "pulse",
+            "real",
+            "red"
         ],
         "codepoints": [
             "U+1FAC0"
@@ -323,9 +387,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/anatomical-heart_1fac0.png"
+            "source": "source/apple/419/anatomical-heart_1fac0.png"
         }
     },
     {
@@ -347,8 +411,10 @@
         },
         "tags": [
             "breath",
+            "breathe",
             "exhalation",
             "inhalation",
+            "lung",
             "lungs",
             "organ",
             "respiration"
@@ -360,9 +426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/lungs_1fac1.png"
+            "source": "source/apple/419/lungs_1fac1.png"
         }
     },
     {
@@ -383,10 +449,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977"
@@ -395,9 +469,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_1f977.png"
+            "source": "source/apple/419/ninja_1f977.png"
         }
     },
     {
@@ -416,10 +490,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977",
@@ -430,9 +512,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_light-skin-tone_1f977-1f3fb_1f3fb.png"
+            "source": "source/apple/419/ninja_light-skin-tone_1f977-1f3fb_1f3fb.png"
         }
     },
     {
@@ -451,10 +533,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977",
@@ -465,9 +555,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_medium-light-skin-tone_1f977-1f3fc_1f3fc.png"
+            "source": "source/apple/419/ninja_medium-light-skin-tone_1f977-1f3fc_1f3fc.png"
         }
     },
     {
@@ -486,10 +576,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977",
@@ -500,9 +598,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_medium-skin-tone_1f977-1f3fd_1f3fd.png"
+            "source": "source/apple/419/ninja_medium-skin-tone_1f977-1f3fd_1f3fd.png"
         }
     },
     {
@@ -521,10 +619,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977",
@@ -535,9 +641,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_medium-dark-skin-tone_1f977-1f3fe_1f3fe.png"
+            "source": "source/apple/419/ninja_medium-dark-skin-tone_1f977-1f3fe_1f3fe.png"
         }
     },
     {
@@ -556,10 +662,18 @@
             ]
         },
         "tags": [
+            "assassin",
+            "fight",
             "fighter",
             "hidden",
             "ninja",
-            "stealth"
+            "person",
+            "secret",
+            "skills",
+            "sly",
+            "soldier",
+            "stealth",
+            "war"
         ],
         "codepoints": [
             "U+1F977",
@@ -570,9 +684,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ninja_dark-skin-tone_1f977-1f3ff_1f3ff.png"
+            "source": "source/apple/419/ninja_dark-skin-tone_1f977-1f3ff_1f3ff.png"
         }
     },
     {
@@ -593,9 +707,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -607,9 +723,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo_1f935-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo_1f935-200d-2642-fe0f.png"
         }
     },
     {
@@ -628,9 +744,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -644,9 +762,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2642-fe0f.png"
         }
     },
     {
@@ -665,9 +783,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -681,9 +801,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2642-fe0f.png"
         }
     },
     {
@@ -702,9 +822,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -718,9 +840,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2642-fe0f.png"
         }
     },
     {
@@ -739,9 +861,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -755,9 +879,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2642-fe0f.png"
         }
     },
     {
@@ -776,9 +900,11 @@
             ]
         },
         "tags": [
+            "formal",
+            "groom",
             "man",
-            "man in tuxedo",
-            "tuxedo"
+            "tuxedo",
+            "wedding"
         ],
         "codepoints": [
             "U+1F935",
@@ -792,9 +918,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2642-fe0f.png"
         }
     },
     {
@@ -815,9 +941,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -829,9 +956,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo_1f935-200d-2640-fe0f.png"
         }
     },
     {
@@ -850,9 +977,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -866,9 +994,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo-light-skin-tone_1f935-1f3fb-200d-2640-fe0f.png"
         }
     },
     {
@@ -887,9 +1015,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -903,9 +1032,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo-medium-light-skin-tone_1f935-1f3fc-200d-2640-fe0f.png"
         }
     },
     {
@@ -924,9 +1053,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -940,9 +1070,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo-medium-skin-tone_1f935-1f3fd-200d-2640-fe0f.png"
         }
     },
     {
@@ -961,9 +1091,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -977,9 +1108,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo-medium-dark-skin-tone_1f935-1f3fe-200d-2640-fe0f.png"
         }
     },
     {
@@ -998,9 +1129,10 @@
             ]
         },
         "tags": [
+            "formal",
             "tuxedo",
-            "woman",
-            "woman in tuxedo"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F935",
@@ -1014,9 +1146,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-in-tuxedo-dark-skin-tone_1f935-1f3ff-200d-2640-fe0f.png"
         }
     },
     {
@@ -1038,8 +1170,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1051,9 +1183,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil_1f470-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil_1f470-200d-2642-fe0f.png"
         }
     },
     {
@@ -1073,8 +1205,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1088,9 +1220,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil-light-skin-tone_1f470-1f3fb-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil-light-skin-tone_1f470-1f3fb-200d-2642-fe0f.png"
         }
     },
     {
@@ -1110,8 +1242,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1125,9 +1257,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2642-fe0f.png"
         }
     },
     {
@@ -1147,8 +1279,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1162,9 +1294,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil-medium-skin-tone_1f470-1f3fd-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil-medium-skin-tone_1f470-1f3fd-200d-2642-fe0f.png"
         }
     },
     {
@@ -1184,8 +1316,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1199,9 +1331,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2642-fe0f.png"
         }
     },
     {
@@ -1221,8 +1353,8 @@
         },
         "tags": [
             "man",
-            "man with veil",
-            "veil"
+            "veil",
+            "wedding"
         ],
         "codepoints": [
             "U+1F470",
@@ -1236,9 +1368,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-with-veil-dark-skin-tone_1f470-1f3ff-200d-2642-fe0f.png"
+            "source": "source/apple/419/man-with-veil-dark-skin-tone_1f470-1f3ff-200d-2642-fe0f.png"
         }
     },
     {
@@ -1260,9 +1392,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1274,9 +1407,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil_1f470-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil_1f470-200d-2640-fe0f.png"
         }
     },
     {
@@ -1295,9 +1428,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1311,9 +1445,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil-light-skin-tone_1f470-1f3fb-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil-light-skin-tone_1f470-1f3fb-200d-2640-fe0f.png"
         }
     },
     {
@@ -1332,9 +1466,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1348,9 +1483,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil-medium-light-skin-tone_1f470-1f3fc-200d-2640-fe0f.png"
         }
     },
     {
@@ -1369,9 +1504,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1385,9 +1521,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil-medium-skin-tone_1f470-1f3fd-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil-medium-skin-tone_1f470-1f3fd-200d-2640-fe0f.png"
         }
     },
     {
@@ -1406,9 +1542,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1422,9 +1559,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil-medium-dark-skin-tone_1f470-1f3fe-200d-2640-fe0f.png"
         }
     },
     {
@@ -1443,9 +1580,10 @@
             ]
         },
         "tags": [
+            "bride",
             "veil",
-            "woman",
-            "woman with veil"
+            "wedding",
+            "woman"
         ],
         "codepoints": [
             "U+1F470",
@@ -1459,9 +1597,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-with-veil-dark-skin-tone_1f470-1f3ff-200d-2640-fe0f.png"
+            "source": "source/apple/419/woman-with-veil-dark-skin-tone_1f470-1f3ff-200d-2640-fe0f.png"
         }
     },
     {
@@ -1483,7 +1621,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1496,9 +1639,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby_1f469-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby_1f469-200d-1f37c.png"
         }
     },
     {
@@ -1518,7 +1661,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1533,9 +1681,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby-light-skin-tone_1f469-1f3fb-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby-light-skin-tone_1f469-1f3fb-200d-1f37c.png"
         }
     },
     {
@@ -1555,7 +1703,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1570,9 +1723,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby-medium-light-skin-tone_1f469-1f3fc-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby-medium-light-skin-tone_1f469-1f3fc-200d-1f37c.png"
         }
     },
     {
@@ -1592,7 +1745,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1607,9 +1765,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby-medium-skin-tone_1f469-1f3fd-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby-medium-skin-tone_1f469-1f3fd-200d-1f37c.png"
         }
     },
     {
@@ -1629,7 +1787,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1644,9 +1807,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby-medium-dark-skin-tone_1f469-1f3fe-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby-medium-dark-skin-tone_1f469-1f3fe-200d-1f37c.png"
         }
     },
     {
@@ -1666,7 +1829,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "mom",
+            "mother",
+            "nanny",
+            "newborn",
             "nursing",
             "woman"
         ],
@@ -1681,9 +1849,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/woman-feeding-baby-dark-skin-tone_1f469-1f3ff-200d-1f37c.png"
+            "source": "source/apple/419/woman-feeding-baby-dark-skin-tone_1f469-1f3ff-200d-1f37c.png"
         }
     },
     {
@@ -1705,8 +1873,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1718,9 +1891,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby_1f468-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby_1f468-200d-1f37c.png"
         }
     },
     {
@@ -1740,8 +1913,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1755,9 +1933,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby-light-skin-tone_1f468-1f3fb-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby-light-skin-tone_1f468-1f3fb-200d-1f37c.png"
         }
     },
     {
@@ -1777,8 +1955,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1792,9 +1975,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby-medium-light-skin-tone_1f468-1f3fc-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby-medium-light-skin-tone_1f468-1f3fc-200d-1f37c.png"
         }
     },
     {
@@ -1814,8 +1997,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1829,9 +2017,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby-medium-skin-tone_1f468-1f3fd-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby-medium-skin-tone_1f468-1f3fd-200d-1f37c.png"
         }
     },
     {
@@ -1851,8 +2039,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1866,9 +2059,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby-medium-dark-skin-tone_1f468-1f3fe-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby-medium-dark-skin-tone_1f468-1f3fe-200d-1f37c.png"
         }
     },
     {
@@ -1888,8 +2081,13 @@
         },
         "tags": [
             "baby",
+            "dad",
+            "father",
+            "feed",
             "feeding",
             "man",
+            "nanny",
+            "newborn",
             "nursing"
         ],
         "codepoints": [
@@ -1903,9 +2101,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/man-feeding-baby-dark-skin-tone_1f468-1f3ff-200d-1f37c.png"
+            "source": "source/apple/419/man-feeding-baby-dark-skin-tone_1f468-1f3ff-200d-1f37c.png"
         }
     },
     {
@@ -1927,9 +2125,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -1940,9 +2141,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby_1f9d1-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby_1f9d1-200d-1f37c.png"
         }
     },
     {
@@ -1962,9 +2163,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -1977,9 +2181,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby-light-skin-tone_1f9d1-1f3fb-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby-light-skin-tone_1f9d1-1f3fb-200d-1f37c.png"
         }
     },
     {
@@ -1999,9 +2203,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2014,9 +2221,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby-medium-light-skin-tone_1f9d1-1f3fc-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby-medium-light-skin-tone_1f9d1-1f3fc-200d-1f37c.png"
         }
     },
     {
@@ -2036,9 +2243,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2051,9 +2261,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby-medium-skin-tone_1f9d1-1f3fd-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby-medium-skin-tone_1f9d1-1f3fd-200d-1f37c.png"
         }
     },
     {
@@ -2073,9 +2283,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2088,9 +2301,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f37c.png"
         }
     },
     {
@@ -2110,9 +2323,12 @@
         },
         "tags": [
             "baby",
+            "feed",
             "feeding",
+            "nanny",
+            "newborn",
             "nursing",
-            "person"
+            "parent"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2125,9 +2341,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/person-feeding-baby-dark-skin-tone_1f9d1-1f3ff-200d-1f37c.png"
+            "source": "source/apple/419/person-feeding-baby-dark-skin-tone_1f9d1-1f3ff-200d-1f37c.png"
         }
     },
     {
@@ -2148,9 +2364,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2161,9 +2385,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus_1f9d1-200d-1f384.png"
+            "source": "source/apple/419/mx-claus_1f9d1-200d-1f384.png"
         }
     },
     {
@@ -2182,9 +2406,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2197,9 +2429,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus-light-skin-tone_1f9d1-1f3fb-200d-1f384.png"
+            "source": "source/apple/419/mx-claus-light-skin-tone_1f9d1-1f3fb-200d-1f384.png"
         }
     },
     {
@@ -2218,9 +2450,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2233,9 +2473,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus-medium-light-skin-tone_1f9d1-1f3fc-200d-1f384.png"
+            "source": "source/apple/419/mx-claus-medium-light-skin-tone_1f9d1-1f3fc-200d-1f384.png"
         }
     },
     {
@@ -2254,9 +2494,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2269,9 +2517,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus-medium-skin-tone_1f9d1-1f3fd-200d-1f384.png"
+            "source": "source/apple/419/mx-claus-medium-skin-tone_1f9d1-1f3fd-200d-1f384.png"
         }
     },
     {
@@ -2290,9 +2538,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2305,9 +2561,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f384.png"
+            "source": "source/apple/419/mx-claus-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f384.png"
         }
     },
     {
@@ -2326,9 +2582,17 @@
             ]
         },
         "tags": [
-            "christmas",
+            "celebration",
+            "Christmas",
             "claus",
-            "mx claus"
+            "fairy",
+            "fantasy",
+            "holiday",
+            "merry",
+            "Mx",
+            "santa",
+            "tale",
+            "xmas"
         ],
         "codepoints": [
             "U+1F9D1",
@@ -2341,9 +2605,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mx-claus-dark-skin-tone_1f9d1-1f3ff-200d-1f384.png"
+            "source": "source/apple/419/mx-claus-dark-skin-tone_1f9d1-1f3ff-200d-1f384.png"
         }
     },
     {
@@ -2364,10 +2628,16 @@
             ]
         },
         "tags": [
+            "comfort",
+            "embrace",
+            "farewell",
+            "friendship",
             "goodbye",
             "hello",
             "hug",
-            "people hugging",
+            "hugging",
+            "love",
+            "people",
             "thanks"
         ],
         "codepoints": [
@@ -2377,9 +2647,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/people-hugging_1fac2.png"
+            "source": "source/apple/419/people-hugging_1fac2.png"
         }
     },
     {
@@ -2400,8 +2670,12 @@
             ]
         },
         "tags": [
+            "animal",
             "black",
             "cat",
+            "feline",
+            "halloween",
+            "meow",
             "unlucky"
         ],
         "codepoints": [
@@ -2413,9 +2687,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/black-cat_1f408-200d-2b1b.png"
+            "source": "source/apple/419/black-cat_1f408-200d-2b1b.png"
         }
     },
     {
@@ -2437,6 +2711,7 @@
             ]
         },
         "tags": [
+            "animal",
             "bison",
             "buffalo",
             "herd",
@@ -2449,9 +2724,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bison_1f9ac.png"
+            "source": "source/apple/419/bison_1f9ac.png"
         }
     },
     {
@@ -2472,11 +2747,12 @@
             ]
         },
         "tags": [
+            "animal",
             "extinction",
             "large",
             "mammoth",
             "tusk",
-            "woolly"
+            "wooly"
         ],
         "codepoints": [
             "U+1F9A3"
@@ -2485,9 +2761,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mammoth_1f9a3.png"
+            "source": "source/apple/419/mammoth_1f9a3.png"
         }
     },
     {
@@ -2508,8 +2784,10 @@
             ]
         },
         "tags": [
+            "animal",
             "beaver",
-            "dam"
+            "dam",
+            "teeth"
         ],
         "codepoints": [
             "U+1F9AB"
@@ -2518,9 +2796,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/beaver_1f9ab.png"
+            "source": "source/apple/419/beaver_1f9ab.png"
         }
     },
     {
@@ -2541,9 +2819,10 @@
             ]
         },
         "tags": [
+            "animal",
             "arctic",
             "bear",
-            "polar bear",
+            "polar",
             "white"
         ],
         "codepoints": [
@@ -2556,9 +2835,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/polar-bear_1f43b-200d-2744-fe0f.png"
+            "source": "source/apple/419/polar-bear_1f43b-200d-2744-fe0f.png"
         }
     },
     {
@@ -2579,10 +2858,12 @@
             ]
         },
         "tags": [
+            "animal",
+            "bird",
             "dodo",
             "extinction",
             "large",
-            "Mauritius"
+            "ornithology"
         ],
         "codepoints": [
             "U+1F9A4"
@@ -2591,9 +2872,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/dodo_1f9a4.png"
+            "source": "source/apple/419/dodo_1f9a4.png"
         }
     },
     {
@@ -2627,9 +2908,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/feather_1fab6.png"
+            "source": "source/apple/419/feather_1fab6.png"
         }
     },
     {
@@ -2650,7 +2931,10 @@
             ]
         },
         "tags": [
-            "sea lion",
+            "animal",
+            "lion",
+            "ocean",
+            "sea",
             "seal"
         ],
         "codepoints": [
@@ -2660,9 +2944,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/seal_1f9ad.png"
+            "source": "source/apple/419/seal_1f9ad.png"
         }
     },
     {
@@ -2683,6 +2967,7 @@
             ]
         },
         "tags": [
+            "animal",
             "beetle",
             "bug",
             "insect"
@@ -2694,9 +2979,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/beetle_1fab2.png"
+            "source": "source/apple/419/beetle_1fab2.png"
         }
     },
     {
@@ -2717,6 +3002,7 @@
             ]
         },
         "tags": [
+            "animal",
             "cockroach",
             "insect",
             "pest",
@@ -2729,9 +3015,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/cockroach_1fab3.png"
+            "source": "source/apple/419/cockroach_1fab3.png"
         }
     },
     {
@@ -2752,8 +3038,10 @@
             ]
         },
         "tags": [
+            "animal",
             "disease",
             "fly",
+            "insect",
             "maggot",
             "pest",
             "rotting"
@@ -2765,9 +3053,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/fly_1fab0.png"
+            "source": "source/apple/419/fly_1fab0.png"
         }
     },
     {
@@ -2788,6 +3076,7 @@
             ]
         },
         "tags": [
+            "animal",
             "annelid",
             "earthworm",
             "parasite",
@@ -2800,9 +3089,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/worm_1fab1.png"
+            "source": "source/apple/419/worm_1fab1.png"
         }
     },
     {
@@ -2824,13 +3113,13 @@
             ]
         },
         "tags": [
-            "boring",
+            "decor",
             "grow",
             "house",
             "nurturing",
             "plant",
-            "potted plant",
-            "useless"
+            "pot",
+            "potted"
         ],
         "codepoints": [
             "U+1FAB4"
@@ -2839,9 +3128,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/potted-plant_1fab4.png"
+            "source": "source/apple/419/potted-plant_1fab4.png"
         }
     },
     {
@@ -2862,11 +3151,14 @@
             ]
         },
         "tags": [
+            "berries",
             "berry",
             "bilberry",
             "blue",
             "blueberries",
-            "blueberry"
+            "blueberry",
+            "food",
+            "fruit"
         ],
         "codepoints": [
             "U+1FAD0"
@@ -2875,9 +3167,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/blueberries_1fad0.png"
+            "source": "source/apple/419/blueberries_1fad0.png"
         }
     },
     {
@@ -2908,9 +3200,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/olive_1fad2.png"
+            "source": "source/apple/419/olive_1fad2.png"
         }
     },
     {
@@ -2931,8 +3223,9 @@
             ]
         },
         "tags": [
-            "bell pepper",
+            "bell",
             "capsicum",
+            "food",
             "pepper",
             "vegetable"
         ],
@@ -2943,9 +3236,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bell-pepper_1fad1.png"
+            "source": "source/apple/419/bell-pepper_1fad1.png"
         }
     },
     {
@@ -2968,7 +3261,10 @@
         },
         "tags": [
             "arepa",
+            "bread",
             "flatbread",
+            "food",
+            "gordita",
             "lavash",
             "naan",
             "pita"
@@ -2980,9 +3276,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flatbread_1fad3.png"
+            "source": "source/apple/419/flatbread_1fad3.png"
         }
     },
     {
@@ -3004,7 +3300,9 @@
             ]
         },
         "tags": [
+            "food",
             "mexican",
+            "pamonha",
             "tamale",
             "wrapped"
         ],
@@ -3015,9 +3313,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/tamale_1fad4.png"
+            "source": "source/apple/419/tamale_1fad4.png"
         }
     },
     {
@@ -3041,9 +3339,10 @@
             "cheese",
             "chocolate",
             "fondue",
+            "food",
             "melted",
             "pot",
-            "Swiss"
+            "ski"
         ],
         "codepoints": [
             "U+1FAD5"
@@ -3052,9 +3351,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/fondue_1fad5.png"
+            "source": "source/apple/419/fondue_1fad5.png"
         }
     },
     {
@@ -3075,7 +3374,9 @@
             ]
         },
         "tags": [
+            "brew",
             "drink",
+            "food",
             "pot",
             "tea",
             "teapot"
@@ -3087,9 +3388,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/teapot_1fad6.png"
+            "source": "source/apple/419/teapot_1fad6.png"
         }
     },
     {
@@ -3111,7 +3412,9 @@
             ]
         },
         "tags": [
+            "boba",
             "bubble",
+            "food",
             "milk",
             "pearl",
             "tea"
@@ -3123,9 +3426,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bubble-tea_1f9cb.png"
+            "source": "source/apple/419/bubble-tea_1f9cb.png"
         }
     },
     {
@@ -3150,7 +3453,8 @@
             "heavy",
             "rock",
             "solid",
-            "stone"
+            "stone",
+            "tough"
         ],
         "codepoints": [
             "U+1FAA8"
@@ -3159,9 +3463,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rock_1faa8.png"
+            "source": "source/apple/419/rock_1faa8.png"
         }
     },
     {
@@ -3194,9 +3498,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wood_1fab5.png"
+            "source": "source/apple/419/wood_1fab5.png"
         }
     },
     {
@@ -3217,9 +3521,11 @@
             ]
         },
         "tags": [
+            "home",
             "house",
             "hut",
             "roundhouse",
+            "shelter",
             "yurt"
         ],
         "codepoints": [
@@ -3229,9 +3535,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hut_1f6d6.png"
+            "source": "source/apple/419/hut_1f6d6.png"
         }
     },
     {
@@ -3252,8 +3558,12 @@
             ]
         },
         "tags": [
+            "automobile",
+            "car",
+            "flatbed",
             "pick-up",
             "pickup",
+            "transportation",
             "truck"
         ],
         "codepoints": [
@@ -3263,9 +3573,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pickup-truck_1f6fb.png"
+            "source": "source/apple/419/pickup-truck_1f6fb.png"
         }
     },
     {
@@ -3285,8 +3595,11 @@
             ]
         },
         "tags": [
+            "blades",
             "roller",
-            "skate"
+            "skate",
+            "skates",
+            "sport"
         ],
         "codepoints": [
             "U+1F6FC"
@@ -3295,9 +3608,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/roller-skate_1f6fc.png"
+            "source": "source/apple/419/roller-skate_1f6fc.png"
         }
     },
     {
@@ -3319,7 +3632,8 @@
         },
         "tags": [
             "magic",
-            "magic wand",
+            "magician",
+            "wand",
             "witch",
             "wizard"
         ],
@@ -3330,9 +3644,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/magic-wand_1fa84.png"
+            "source": "source/apple/419/magic-wand_1fa84.png"
         }
     },
     {
@@ -3354,8 +3668,16 @@
             ]
         },
         "tags": [
+            "candy",
+            "celebrate",
             "celebration",
+            "cinco",
+            "de",
+            "festive",
+            "mayo",
             "party",
+            "pinada",
+            "pinata",
             "piñata"
         ],
         "codepoints": [
@@ -3365,9 +3687,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pinata_1fa85.png"
+            "source": "source/apple/419/pinata_1fa85.png"
         }
     },
     {
@@ -3390,9 +3712,13 @@
             ]
         },
         "tags": [
+            "babooshka",
+            "baboushka",
+            "babushka",
             "doll",
+            "dolls",
+            "matryoshka",
             "nesting",
-            "nesting dolls",
             "russia"
         ],
         "codepoints": [
@@ -3402,9 +3728,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/nesting-dolls_1fa86.png"
+            "source": "source/apple/419/nesting-dolls_1fa86.png"
         }
     },
     {
@@ -3427,10 +3753,12 @@
         "tags": [
             "embroidery",
             "needle",
+            "sew",
             "sewing",
             "stitches",
             "sutures",
-            "tailoring"
+            "tailoring",
+            "thread"
         ],
         "codepoints": [
             "U+1FAA1"
@@ -3439,9 +3767,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/sewing-needle_1faa1.png"
+            "source": "source/apple/419/sewing-needle_1faa1.png"
         }
     },
     {
@@ -3462,6 +3790,7 @@
             ]
         },
         "tags": [
+            "cord",
             "knot",
             "rope",
             "tangled",
@@ -3476,9 +3805,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/knot_1faa2.png"
+            "source": "source/apple/419/knot_1faa2.png"
         }
     },
     {
@@ -3502,10 +3831,13 @@
             ]
         },
         "tags": [
-            "beach sandals",
+            "beach",
+            "flip",
+            "flop",
+            "sandal",
             "sandals",
-            "thong sandal",
-            "thong sandals",
+            "shoe",
+            "thong",
             "thongs",
             "zōri"
         ],
@@ -3516,9 +3848,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/thong-sandal_1fa74.png"
+            "source": "source/apple/419/thong-sandal_1fa74.png"
         }
     },
     {
@@ -3543,6 +3875,7 @@
             "helmet",
             "military",
             "soldier",
+            "war",
             "warrior"
         ],
         "codepoints": [
@@ -3552,9 +3885,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/military-helmet_1fa96.png"
+            "source": "source/apple/419/military-helmet_1fa96.png"
         }
     },
     {
@@ -3576,8 +3909,12 @@
         },
         "tags": [
             "accordion",
+            "box",
             "concertina",
-            "squeeze box"
+            "instrument",
+            "music",
+            "squeeze",
+            "squeezebox"
         ],
         "codepoints": [
             "U+1FA97"
@@ -3586,9 +3923,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/accordion_1fa97.png"
+            "source": "source/apple/419/accordion_1fa97.png"
         }
     },
     {
@@ -3612,7 +3949,8 @@
             "beat",
             "conga",
             "drum",
-            "long drum",
+            "instrument",
+            "long",
             "rhythm"
         ],
         "codepoints": [
@@ -3622,9 +3960,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/long-drum_1fa98.png"
+            "source": "source/apple/419/long-drum_1fa98.png"
         }
     },
     {
@@ -3646,9 +3984,12 @@
         },
         "tags": [
             "coin",
+            "dollar",
+            "euro",
             "gold",
             "metal",
             "money",
+            "rich",
             "silver",
             "treasure"
         ],
@@ -3659,9 +4000,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/coin_1fa99.png"
+            "source": "source/apple/419/coin_1fa99.png"
         }
     },
     {
@@ -3684,7 +4025,8 @@
         "tags": [
             "boomerang",
             "rebound",
-            "repercussion"
+            "repercussion",
+            "weapon"
         ],
         "codepoints": [
             "U+1FA83"
@@ -3693,9 +4035,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/boomerang_1fa83.png"
+            "source": "source/apple/419/boomerang_1fa83.png"
         }
     },
     {
@@ -3717,10 +4059,12 @@
         },
         "tags": [
             "carpenter",
-            "carpentry saw",
+            "carpentry",
+            "cut",
             "lumber",
             "saw",
-            "tool"
+            "tool",
+            "trim"
         ],
         "codepoints": [
             "U+1FA9A"
@@ -3729,9 +4073,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/carpentry-saw_1fa9a.png"
+            "source": "source/apple/419/carpentry-saw_1fa9a.png"
         }
     },
     {
@@ -3752,6 +4096,8 @@
             ]
         },
         "tags": [
+            "flathead",
+            "handy",
             "screw",
             "screwdriver",
             "tool"
@@ -3763,9 +4109,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/screwdriver_1fa9b.png"
+            "source": "source/apple/419/screwdriver_1fa9b.png"
         }
     },
     {
@@ -3791,7 +4137,8 @@
             "curve",
             "ensnare",
             "hook",
-            "selling point"
+            "point",
+            "selling"
         ],
         "codepoints": [
             "U+1FA9D"
@@ -3800,9 +4147,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hook_1fa9d.png"
+            "source": "source/apple/419/hook_1fa9d.png"
         }
     },
     {
@@ -3835,9 +4182,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ladder_1fa9c.png"
+            "source": "source/apple/419/ladder_1fa9c.png"
         }
     },
     {
@@ -3870,9 +4217,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/elevator_1f6d7.png"
+            "source": "source/apple/419/elevator_1f6d7.png"
         }
     },
     {
@@ -3893,6 +4240,7 @@
             ]
         },
         "tags": [
+            "makeup",
             "mirror",
             "reflection",
             "reflector",
@@ -3905,9 +4253,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mirror_1fa9e.png"
+            "source": "source/apple/419/mirror_1fa9e.png"
         }
     },
     {
@@ -3928,8 +4276,9 @@
             ]
         },
         "tags": [
+            "air",
             "frame",
-            "fresh air",
+            "fresh",
             "opening",
             "transparent",
             "view",
@@ -3942,9 +4291,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/window_1fa9f.png"
+            "source": "source/apple/419/window_1fa9f.png"
         }
     },
     {
@@ -3965,9 +4314,11 @@
             ]
         },
         "tags": [
-            "force cup",
+            "cup",
+            "force",
             "plumber",
             "plunger",
+            "poop",
             "suction",
             "toilet"
         ],
@@ -3978,9 +4329,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/plunger_1faa0.png"
+            "source": "source/apple/419/plunger_1faa0.png"
         }
     },
     {
@@ -4002,7 +4353,9 @@
         },
         "tags": [
             "bait",
-            "mouse trap",
+            "cheese",
+            "lure",
+            "mouse",
             "mousetrap",
             "snare",
             "trap"
@@ -4014,9 +4367,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/mouse-trap_1faa4.png"
+            "source": "source/apple/419/mouse-trap_1faa4.png"
         }
     },
     {
@@ -4049,9 +4402,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/bucket_1faa3.png"
+            "source": "source/apple/419/bucket_1faa3.png"
         }
     },
     {
@@ -4078,6 +4431,7 @@
             "dental",
             "hygiene",
             "teeth",
+            "toiletry",
             "toothbrush"
         ],
         "codepoints": [
@@ -4087,9 +4441,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/toothbrush_1faa5.png"
+            "source": "source/apple/419/toothbrush_1faa5.png"
         }
     },
     {
@@ -4111,9 +4465,13 @@
         },
         "tags": [
             "cemetery",
+            "dead",
             "grave",
             "graveyard",
             "headstone",
+            "memorial",
+            "rip",
+            "tomb",
             "tombstone"
         ],
         "codepoints": [
@@ -4123,9 +4481,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/headstone_1faa6.png"
+            "source": "source/apple/419/headstone_1faa6.png"
         }
     },
     {
@@ -4149,9 +4507,12 @@
             ]
         },
         "tags": [
+            "card",
             "demonstration",
+            "notice",
             "picket",
             "placard",
+            "plaque",
             "protest",
             "sign"
         ],
@@ -4162,9 +4523,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/placard_1faa7.png"
+            "source": "source/apple/419/placard_1faa7.png"
         }
     },
     {
@@ -4186,8 +4547,8 @@
             ]
         },
         "tags": [
-            "transgender",
-            "transgender symbol"
+            "symbol",
+            "transgender"
         ],
         "codepoints": [
             "U+26A7",
@@ -4197,9 +4558,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/transgender-symbol_26a7-fe0f.png"
+            "source": "source/apple/419/transgender-symbol_26a7-fe0f.png"
         }
     },
     {
@@ -4222,8 +4583,9 @@
             ]
         },
         "tags": [
+            "blue",
             "flag",
-            "light blue",
+            "light",
             "pink",
             "transgender",
             "white"
@@ -4239,9 +4601,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
+            "source": "source/apple/419/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png"
         }
     }
 ]

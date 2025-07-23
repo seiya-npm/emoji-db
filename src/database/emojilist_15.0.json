@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "category": "Emoji & People",
         "sub_category": "Face Neutral-Skeptical",
@@ -6,11 +6,18 @@
         "emoji": "🫨",
         "title": "Shaking Face",
         "tags": [
+            "crazy",
+            "daze",
             "earthquake",
             "face",
+            "omg",
+            "panic",
             "shaking",
             "shock",
-            "vibrate"
+            "surprise",
+            "vibrate",
+            "whoa",
+            "wow"
         ],
         "codepoints": [
             "U+1FAE8"
@@ -19,9 +26,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/shaking-face_1fae8.png"
+            "source": "source/apple/419/shaking-face_1fae8.png"
         }
     },
     {
@@ -31,11 +38,17 @@
         "emoji": "🩷",
         "title": "Pink Heart",
         "tags": [
+            "143",
+            "adorable",
             "cute",
+            "emotion",
             "heart",
+            "ily",
             "like",
             "love",
-            "pink"
+            "pink",
+            "special",
+            "sweet"
         ],
         "codepoints": [
             "U+1FA77"
@@ -44,9 +57,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pink-heart_1fa77.png"
+            "source": "source/apple/419/pink-heart_1fa77.png"
         }
     },
     {
@@ -56,10 +69,18 @@
         "emoji": "🩵",
         "title": "Light Blue Heart",
         "tags": [
+            "143",
+            "blue",
+            "cute",
             "cyan",
+            "emotion",
             "heart",
-            "light blue",
-            "light blue heart",
+            "ily",
+            "light",
+            "like",
+            "love",
+            "sky",
+            "special",
             "teal"
         ],
         "codepoints": [
@@ -69,9 +90,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/light-blue-heart_1fa75.png"
+            "source": "source/apple/419/light-blue-heart_1fa75.png"
         }
     },
     {
@@ -81,11 +102,16 @@
         "emoji": "🩶",
         "title": "Grey Heart",
         "tags": [
+            "143",
+            "emotion",
             "gray",
-            "grey heart",
+            "grey",
             "heart",
+            "ily",
+            "love",
             "silver",
-            "slate"
+            "slate",
+            "special"
         ],
         "codepoints": [
             "U+1FA76"
@@ -94,9 +120,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/grey-heart_1fa76.png"
+            "source": "source/apple/419/grey-heart_1fa76.png"
         }
     },
     {
@@ -106,11 +132,19 @@
         "emoji": "🫷",
         "title": "Leftwards Pushing Hand",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -121,9 +155,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_1faf7.png"
+            "source": "source/apple/419/leftwards-pushing-hand_1faf7.png"
         }
     },
     {
@@ -133,11 +167,19 @@
         "emoji": "🫷🏻",
         "title": "Leftwards Pushing Hand: Light Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -150,9 +192,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_light-skin-tone_1faf7-1f3fb_1f3fb.png"
+            "source": "source/apple/419/leftwards-pushing-hand_light-skin-tone_1faf7-1f3fb_1f3fb.png"
         }
     },
     {
@@ -162,11 +204,19 @@
         "emoji": "🫷🏼",
         "title": "Leftwards Pushing Hand: Medium-Light Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -179,9 +229,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_medium-light-skin-tone_1faf7-1f3fc_1f3fc.png"
+            "source": "source/apple/419/leftwards-pushing-hand_medium-light-skin-tone_1faf7-1f3fc_1f3fc.png"
         }
     },
     {
@@ -191,11 +241,19 @@
         "emoji": "🫷🏽",
         "title": "Leftwards Pushing Hand: Medium Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -208,9 +266,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_medium-skin-tone_1faf7-1f3fd_1f3fd.png"
+            "source": "source/apple/419/leftwards-pushing-hand_medium-skin-tone_1faf7-1f3fd_1f3fd.png"
         }
     },
     {
@@ -220,11 +278,19 @@
         "emoji": "🫷🏾",
         "title": "Leftwards Pushing Hand: Medium-Dark Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -237,9 +303,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_medium-dark-skin-tone_1faf7-1f3fe_1f3fe.png"
+            "source": "source/apple/419/leftwards-pushing-hand_medium-dark-skin-tone_1faf7-1f3fe_1f3fe.png"
         }
     },
     {
@@ -249,11 +315,19 @@
         "emoji": "🫷🏿",
         "title": "Leftwards Pushing Hand: Dark Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
             "leftward",
-            "leftwards pushing hand",
+            "leftwards",
+            "pause",
             "push",
+            "pushing",
             "refuse",
+            "slap",
             "stop",
             "wait"
         ],
@@ -266,9 +340,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/leftwards-pushing-hand_dark-skin-tone_1faf7-1f3ff_1f3ff.png"
+            "source": "source/apple/419/leftwards-pushing-hand_dark-skin-tone_1faf7-1f3ff_1f3ff.png"
         }
     },
     {
@@ -278,11 +352,19 @@
         "emoji": "🫸",
         "title": "Rightwards Pushing Hand",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -293,9 +375,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_1faf8.png"
+            "source": "source/apple/419/rightwards-pushing-hand_1faf8.png"
         }
     },
     {
@@ -305,11 +387,19 @@
         "emoji": "🫸🏻",
         "title": "Rightwards Pushing Hand: Light Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -322,9 +412,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_light-skin-tone_1faf8-1f3fb_1f3fb.png"
+            "source": "source/apple/419/rightwards-pushing-hand_light-skin-tone_1faf8-1f3fb_1f3fb.png"
         }
     },
     {
@@ -334,11 +424,19 @@
         "emoji": "🫸🏼",
         "title": "Rightwards Pushing Hand: Medium-Light Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -351,9 +449,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_medium-light-skin-tone_1faf8-1f3fc_1f3fc.png"
+            "source": "source/apple/419/rightwards-pushing-hand_medium-light-skin-tone_1faf8-1f3fc_1f3fc.png"
         }
     },
     {
@@ -363,11 +461,19 @@
         "emoji": "🫸🏽",
         "title": "Rightwards Pushing Hand: Medium Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -380,9 +486,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_medium-skin-tone_1faf8-1f3fd_1f3fd.png"
+            "source": "source/apple/419/rightwards-pushing-hand_medium-skin-tone_1faf8-1f3fd_1f3fd.png"
         }
     },
     {
@@ -392,11 +498,19 @@
         "emoji": "🫸🏾",
         "title": "Rightwards Pushing Hand: Medium-Dark Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -409,9 +523,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_medium-dark-skin-tone_1faf8-1f3fe_1f3fe.png"
+            "source": "source/apple/419/rightwards-pushing-hand_medium-dark-skin-tone_1faf8-1f3fe_1f3fe.png"
         }
     },
     {
@@ -421,11 +535,19 @@
         "emoji": "🫸🏿",
         "title": "Rightwards Pushing Hand: Dark Skin Tone",
         "tags": [
-            "high five",
+            "block",
+            "five",
+            "halt",
+            "hand",
+            "high",
+            "hold",
+            "pause",
             "push",
+            "pushing",
             "refuse",
             "rightward",
-            "rightwards pushing hand",
+            "rightwards",
+            "slap",
             "stop",
             "wait"
         ],
@@ -438,9 +560,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/rightwards-pushing-hand_dark-skin-tone_1faf8-1f3ff_1f3ff.png"
+            "source": "source/apple/419/rightwards-pushing-hand_dark-skin-tone_1faf8-1f3ff_1f3ff.png"
         }
     },
     {
@@ -450,6 +572,7 @@
         "emoji": "🫎",
         "title": "Moose",
         "tags": [
+            "alces",
             "animal",
             "antlers",
             "elk",
@@ -463,9 +586,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/moose_1face.png"
+            "source": "source/apple/419/moose_1face.png"
         }
     },
     {
@@ -479,6 +602,7 @@
             "ass",
             "burro",
             "donkey",
+            "hinny",
             "mammal",
             "mule",
             "stubborn"
@@ -490,9 +614,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/donkey_1facf.png"
+            "source": "source/apple/419/donkey_1facf.png"
         }
     },
     {
@@ -503,10 +627,14 @@
         "title": "Wing",
         "tags": [
             "angelic",
+            "ascend",
             "aviation",
             "bird",
+            "fly",
             "flying",
+            "heavenly",
             "mythology",
+            "soar",
             "wing"
         ],
         "codepoints": [
@@ -516,9 +644,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wing_1fabd.png"
+            "source": "source/apple/419/wing_1fabd.png"
         }
     },
     {
@@ -528,9 +656,14 @@
         "emoji": "🐦‍⬛",
         "title": "Black Bird",
         "tags": [
+            "animal",
+            "beak",
             "bird",
             "black",
+            "caw",
+            "corvid",
             "crow",
+            "ornithology",
             "raven",
             "rook"
         ],
@@ -543,9 +676,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/black-bird_1f426-200d-2b1b.png"
+            "source": "source/apple/419/black-bird_1f426-200d-2b1b.png"
         }
     },
     {
@@ -555,10 +688,17 @@
         "emoji": "🪿",
         "title": "Goose",
         "tags": [
+            "animal",
             "bird",
+            "duck",
+            "flock",
             "fowl",
+            "gaggle",
+            "gander",
+            "geese",
             "goose",
             "honk",
+            "ornithology",
             "silly"
         ],
         "codepoints": [
@@ -568,9 +708,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/goose_1fabf.png"
+            "source": "source/apple/419/goose_1fabf.png"
         }
     },
     {
@@ -580,13 +720,21 @@
         "emoji": "🪼",
         "title": "Jellyfish",
         "tags": [
+            "animal",
+            "aquarium",
             "burn",
             "invertebrate",
             "jelly",
             "jellyfish",
+            "life",
             "marine",
+            "ocean",
             "ouch",
-            "stinger"
+            "plankton",
+            "sea",
+            "sting",
+            "stinger",
+            "tentacles"
         ],
         "codepoints": [
             "U+1FABC"
@@ -595,9 +743,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/jellyfish_1fabc.png"
+            "source": "source/apple/419/jellyfish_1fabc.png"
         }
     },
     {
@@ -607,12 +755,20 @@
         "emoji": "🪻",
         "title": "Hyacinth",
         "tags": [
+            "bloom",
             "bluebonnet",
             "flower",
             "hyacinth",
+            "indigo",
             "lavender",
+            "lilac",
             "lupine",
-            "snapdragon"
+            "plant",
+            "purple",
+            "shrub",
+            "snapdragon",
+            "spring",
+            "violet"
         ],
         "codepoints": [
             "U+1FABB"
@@ -621,9 +777,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hyacinth_1fabb.png"
+            "source": "source/apple/419/hyacinth_1fabb.png"
         }
     },
     {
@@ -631,10 +787,13 @@
         "sub_category": "Food Vegetable",
         "code": "1fada",
         "emoji": "🫚",
-        "title": "Ginger",
+        "title": "Ginger Root",
         "tags": [
             "beer",
-            "ginger root",
+            "ginger",
+            "health",
+            "herb",
+            "natural",
             "root",
             "spice"
         ],
@@ -645,9 +804,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/ginger_1fada.png"
+            "source": "source/apple/419/ginger_1fada.png"
         }
     },
     {
@@ -658,11 +817,14 @@
         "title": "Pea Pod",
         "tags": [
             "beans",
+            "beanstalk",
             "edamame",
             "legume",
             "pea",
             "pod",
-            "vegetable"
+            "soybean",
+            "vegetable",
+            "veggie"
         ],
         "codepoints": [
             "U+1FADB"
@@ -671,9 +833,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/pea-pod_1fadb.png"
+            "source": "source/apple/419/pea-pod_1fadb.png"
         }
     },
     {
@@ -683,11 +845,16 @@
         "emoji": "🪭",
         "title": "Folding Hand Fan",
         "tags": [
+            "clack",
+            "clap",
+            "cool",
             "cooling",
             "dance",
             "fan",
+            "flirt",
             "flutter",
-            "folding hand fan",
+            "folding",
+            "hand",
             "hot",
             "shy"
         ],
@@ -698,9 +865,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/folding-hand-fan_1faad.png"
+            "source": "source/apple/419/folding-hand-fan_1faad.png"
         }
     },
     {
@@ -712,6 +879,7 @@
         "tags": [
             "Afro",
             "comb",
+            "groom",
             "hair",
             "pick"
         ],
@@ -722,9 +890,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/hair-pick_1faae.png"
+            "source": "source/apple/419/hair-pick_1faae.png"
         }
     },
     {
@@ -734,12 +902,16 @@
         "emoji": "🪇",
         "title": "Maracas",
         "tags": [
+            "cha",
+            "dance",
             "instrument",
             "maracas",
             "music",
+            "party",
             "percussion",
             "rattle",
-            "shake"
+            "shake",
+            "shaker"
         ],
         "codepoints": [
             "U+1FA87"
@@ -748,9 +920,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/maracas_1fa87.png"
+            "source": "source/apple/419/maracas_1fa87.png"
         }
     },
     {
@@ -760,9 +932,15 @@
         "emoji": "🪈",
         "title": "Flute",
         "tags": [
+            "band",
             "fife",
+            "flautist",
             "flute",
+            "instrument",
+            "marching",
             "music",
+            "orchestra",
+            "piccolo",
             "pipe",
             "recorder",
             "woodwind"
@@ -774,9 +952,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/flute_1fa88.png"
+            "source": "source/apple/419/flute_1fa88.png"
         }
     },
     {
@@ -786,9 +964,14 @@
         "emoji": "🪯",
         "title": "Khanda",
         "tags": [
-            "khanda",
+            "Deg",
+            "Fateh",
+            "Khalsa",
+            "Khanda",
             "religion",
-            "Sikh"
+            "Sikh",
+            "Sikhism",
+            "Tegh"
         ],
         "codepoints": [
             "U+1FAAF"
@@ -797,9 +980,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/khanda_1faaf.png"
+            "source": "source/apple/419/khanda_1faaf.png"
         }
     },
     {
@@ -809,12 +992,18 @@
         "emoji": "🛜",
         "title": "Wireless",
         "tags": [
+            "broadband",
             "computer",
+            "connectivity",
+            "hotspot",
             "internet",
             "network",
+            "router",
+            "smartphone",
             "wi-fi",
             "wifi",
-            "wireless"
+            "wireless",
+            "wlan"
         ],
         "codepoints": [
             "U+1F6DC"
@@ -823,9 +1012,9 @@
             "brand": "apple",
             "platform": [
                 "Apple",
-                "iOS 17.4"
+                "iOS 18.4"
             ],
-            "source": "source/apple/391/wireless_1f6dc.png"
+            "source": "source/apple/419/wireless_1f6dc.png"
         }
     }
 ]

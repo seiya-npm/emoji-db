@@ -1,0 +1,227 @@
+[
+    {
+        "category": "Emoji & People",
+        "sub_category": "Face Sleepy",
+        "code": "1fae9",
+        "emoji": "🫩",
+        "title": "Face with Bags Under Eyes",
+        "tags": [
+            "bags",
+            "bored",
+            "exhausted",
+            "eyes",
+            "face",
+            "fatigued",
+            "late",
+            "sleepy",
+            "tired",
+            "weary"
+        ],
+        "codepoints": [
+            "U+1FAE9"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/face-with-bags-under-eyes_1fae9.png"
+        }
+    },
+    {
+        "category": "Emoji & People",
+        "sub_category": "Person Symbol",
+        "code": "1fac6",
+        "emoji": "🫆",
+        "title": "Fingerprint",
+        "tags": [
+            "clue",
+            "crime",
+            "detective",
+            "fingerprint",
+            "forensics",
+            "identity",
+            "mystery",
+            "print",
+            "safety",
+            "trace"
+        ],
+        "codepoints": [
+            "U+1FAC6"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/fingerprint_1fac6.png"
+        }
+    },
+    {
+        "category": "Animals & Nature",
+        "sub_category": "Plant Other",
+        "code": "1fabe",
+        "emoji": "🪾",
+        "title": "Leafless Tree",
+        "tags": [
+            "bare",
+            "barren",
+            "branches",
+            "dead",
+            "drought",
+            "leafless",
+            "tree",
+            "trunk",
+            "winter",
+            "wood"
+        ],
+        "codepoints": [
+            "U+1FABE"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/leafless-tree_1fabe.png"
+        }
+    },
+    {
+        "category": "Food & Drink",
+        "sub_category": "Food Vegetable",
+        "code": "1fadc",
+        "emoji": "🫜",
+        "title": "Root Vegetable",
+        "tags": [
+            "beet",
+            "food",
+            "garden",
+            "radish",
+            "root",
+            "salad",
+            "turnip",
+            "vegetable",
+            "vegetarian"
+        ],
+        "codepoints": [
+            "U+1FADC"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/root-vegetable_1fadc.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Musical Instrument",
+        "code": "1fa89",
+        "emoji": "🪉",
+        "title": "Harp",
+        "tags": [
+            "cupid",
+            "harp",
+            "instrument",
+            "love",
+            "music",
+            "orchestra"
+        ],
+        "codepoints": [
+            "U+1FA89"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/harp_1fa89.png"
+        }
+    },
+    {
+        "category": "Objects",
+        "sub_category": "Tool",
+        "code": "1fa8f",
+        "emoji": "🪏",
+        "title": "Shovel",
+        "tags": [
+            "bury",
+            "dig",
+            "garden",
+            "hole",
+            "plant",
+            "scoop",
+            "shovel",
+            "snow",
+            "spade"
+        ],
+        "codepoints": [
+            "U+1FA8F"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/shovel_1fa8f.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Other Symbol",
+        "code": "1fadf",
+        "emoji": "🫟",
+        "title": "Splatter",
+        "tags": [
+            "drip",
+            "holi",
+            "ink",
+            "liquid",
+            "mess",
+            "paint",
+            "spill",
+            "splatter",
+            "stain"
+        ],
+        "codepoints": [
+            "U+1FADF"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/splatter_1fadf.png"
+        }
+    },
+    {
+        "category": "Symbols & Flags",
+        "sub_category": "Country Flag",
+        "code": "1f1e8-1f1f6",
+        "emoji": "🇨🇶",
+        "title": "Flag: Sark",
+        "tags": [
+            "flag"
+        ],
+        "codepoints": [
+            "U+1F1E8",
+            "U+1F1F6"
+        ],
+        "image": {
+            "brand": "apple",
+            "platform": [
+                "Apple",
+                "iOS 18.4"
+            ],
+            "source": "source/apple/419/flag-sark_1f1e8-1f1f6.png"
+        }
+    }
+]
