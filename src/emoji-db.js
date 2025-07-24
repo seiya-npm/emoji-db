@@ -1,7 +1,7 @@
 const fs = require('fs');
 const EmojiSearcher = require('./emoji-searcher');
 
-function initDb({ dbDir, ignoreUnqualified }){
+function initDb({ dbDir, ignoreUnqualified, logInit }){
     // default db filenames
     const filePrefx = 'emojilist_';
     const fileSuffx = '.json';
@@ -27,7 +27,7 @@ function initDb({ dbDir, ignoreUnqualified }){
         return a - b;
     });
     // log
-    console.log('[LOG] Emoji versions:', dbFiles.join(', '));
+    if (logInit) console.log('[LOG] Emoji versions:', dbFiles.join(', '));
     // load dbs
     let emojiDbData = {};
     if(!/[\/\\]$/.test(dbDir)){
@@ -52,7 +52,7 @@ function initDb({ dbDir, ignoreUnqualified }){
         }
     }
     // return db
-    console.log('[LOG] EmojiDB loaded %s entries.', Object.keys(emojiDbData).length);
+    if (logInit) console.log('[LOG] EmojiDB loaded %s entries.', Object.keys(emojiDbData).length);
     return emojiDbData;
 }
 
@@ -66,16 +66,17 @@ class EmojiDb {
         const useDefaultDb      = opts.useDefaultDb || undefined;
         const dbDir             = opts.dbDir || undefined;
         const ignoreUnqualified = opts.ignoreUnqualified || undefined;
+        const logInit           = opts.logInit || undefined;
         // set defaults
         this.codePointSeparator = '-';
         this.dbData = {};
         // empty db
         if(useDefaultDb && !dbDir){
             const dbDefDir = __dirname + '/database/';
-            this.dbData = initDb({ dbDir: dbDefDir, ignoreUnqualified });
+            this.dbData = initDb({ dbDir: dbDefDir, ignoreUnqualified, logInit });
         }
         else if(!useDefaultDb && dbDir){
-            this.dbData = initDb({ dbDir, ignoreUnqualified });
+            this.dbData = initDb({ dbDir, ignoreUnqualified, logInit });
         }
     }
     searchFromText({ input, fixCodePoints, showData }){
